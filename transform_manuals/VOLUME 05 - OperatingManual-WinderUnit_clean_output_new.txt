@@ -1,0 +1,1189 @@
+
+VOLUME 05 - OperatingManual-WinderUnit - Pag 1 
+Operating manualWinder unit (WIN)BOPET PMM 10m1800P.1932 SHB
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 2 
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 3 
+ImprintThis operating manual is part of the equipment supplied by Brückner MaschinenbauGmbH & Co. KG - hereinafter called Brückner - and describes the necessary pro-cedures for the proper use of the film production line and the associated machines.CopyrightNo part of this operating manual may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical or by recording orotherwise without the prior permission by Brückner. The copying, distribution andutilisation of this operating manual in printed or electronic form as well as the com-munication of its contents to others without expressed authorisation is prohibited.Offenders will be held liable for the payment of damages possibly arising from unau-thorised use.All product names used in this operating manual are trademarks of the respectivecompanies.DisclaimerBrückner declines any liability or responsibility for consequential, collateral or indi-rect damage that results from non-compliance with this operating manual.Patent protectionAll rights reserved in the event of the grant of a patent, utility model, or ornamentaldesign registration. Brand and product names are trademarks or registered trade-marks of their respective companies or organisations.LanguageThe original operating manual was produced in German. All translations are basedon the language of the original operating manual.ChangeThe contents of this operating manual are subject to change by Brückner withoutnotice.We reserve the right to make technical changes.We welcome your suggestions concerning the improvement of our products and ofthis operating manual.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 4 
+PublisherStreet addressBrückner Maschinenbau GmbH & Co. KGKönigsberger Str. 5-783313 Siegsdorf/GermanyPostal addressBrückner Maschinenbau GmbH & Co. KGPO Box 11 6183309 Siegsdorf/GermanyContactInternethttp://www.brueckner.comServicePhone: +49 8662 63-9379Fax: +49 8662 63-9370E-Mail: servtec@brueckner.comSales departmentPhone: +49 8662 63-9510Fax: +49 8662 63-9101E-Mail: sales@brueckner.comDocumentationPhone: +49 8662 63-0Fax: +49 8662 4965-71-9220E-Mail: doku@brueckner.com
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 5 
+Table of contents1 Function ...................................................................................................................................................... 71.1Intended use....................................................................................................................................... 71.2Winder unit ......................................................................................................................................... 71.3Safeguards......................................................................................................................................... 91.4Process control system ...................................................................................................................... 91.5External documents.......................................................................................................................... 102 Operation .................................................................................................................................................. 112.1Duties of the operating personnel .................................................................................................... 112.2Operating modes of the pull roll unit and the winder unit .................................................................  112.3Signal lights on the two-station turret winder.................................................................................... 132.4Unlocking and locking the safety gate behind the two-station turret winder.....................................  142.5Pressure sensitive mat under the two-station turret winder .............................................................  152.6Discharging the mill roll with a discharging rod ................................................................................  162.7Commissioning................................................................................................................................. 172.7.1Preparing the commissioning............................................................................................  172.7.2Starting up the winder unit.................................................................................................  182.8Shutting down the winder unit .......................................................................................................... 183 Fault elimination....................................................................................................................................... 193.1Recommendations ........................................................................................................................... 193.2Malfunction overview of the winder unit ........................................................................................... 194 Maintenance.............................................................................................................................................. 234.1General instructions ......................................................................................................................... 234.2Duties of the maintenance personnel............................................................................................... 254.3Safety ............................................................................................................................................... 254.3.1Handling of hydraulic oil ....................................................................................................  294.4Inspection and service intervals ....................................................................................................... 314.5Preparing for maintenance............................................................................................................... 324.5.1Securing and releasing the cutting and lay-on arm...........................................................  324.6Inspection......................................................................................................................................... 344.6.1Carrying out visual inspections for wear............................................................................  344.7Pneumatic system............................................................................................................................ 364.7.1Checking and setting the pneumatic system.....................................................................  364.8Spreading device.............................................................................................................................. 374.8.1Adjusting the working width of the spreading device with push buttons............................  374.8.2Adjusting the angle of inclination of the spreading rollers by motor ..................................  384.8.3Setting the non driven spreading rollers for minimum wear ..............................................  384.8.4Replacing the spreading rollers.........................................................................................  404.8.5Replacing the rotary cylinder of the spreading rollers .......................................................  424.8.6Replacing the damper of the spreading rollers..................................................................  434.8.7Replacing the drive of the adjusting device.......................................................................  444.8.8Replacing the rotary actuator of the spreading device......................................................  464.8.9Replacing the spreading device ........................................................................................  48
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 6 
+4.9Cutting and lay-on arm..................................................................................................................... 504.9.1Replacing the hydraulic cylinder........................................................................................  504.9.2Replacing the charger rod.................................................................................................  534.10 Discharge device.............................................................................................................................. 544.10.1Cleaning or replacing the ionising rod in the contact roll stand.........................................  554.10.2Cleaning or replacing the ionising rod of the bale discharge.............................................  574.11 Charge device edge area................................................................................................................. 594.11.1Replacing the brush strip...................................................................................................  594.11.2Replacing the charger rod.................................................................................................  614.11.3Replacing the rotary cylinders of the charge device..........................................................  634.11.4Adjusting the working width of the charge device .............................................................  654.12 Cross cutting device......................................................................................................................... 654.12.1Turning or replacing the blade of the cross cutting device................................................  654.13 Turning unit ...................................................................................................................................... 674.13.1Replacement of the bearing of the reversing wheel drive .................................................  674.13.2Replacing the gasket of the hydraulic cylinder..................................................................  724.13.3Replacing the bearings of the reversing wheel detent ......................................................  734.13.4Replacing the felt gasket of the drive bearing ...................................................................  764.13.5Replacing the felt gasket of the support roller...................................................................  774.14 Winding core chuck.......................................................................................................................... 794.14.1Replacing the slide plate of the winding core bearing.......................................................  794.14.2Replacing the gasket of the hydraulic cylinder..................................................................  804.14.3Replacing the safety clamping device...............................................................................  814.14.4Replacing the bearing and ring of the clamping mechanism.............................................  824.14.5Replacing the bearing of the grinding ring device .............................................................  844.15 Core ejector...................................................................................................................................... 854.15.1Replacing the gasket of the hydraulic cylinder..................................................................  854.15.2Replacing the core take ups on the reversing wheel.........................................................  864.16 Rolls and drives................................................................................................................................ 874.16.1Lubricating roll bearings, gear, linear guides and spindles ...............................................  875 Taking a winder unit finally out of operation......................................................................................... 895.1Carrying out technical disconnection................................................................................................ 895.2Emptying and disposing of the equipment ....................................................................................... 895.3Disassembling and disposing of machine parts ...............................................................................  906 Technical data .......................................................................................................................................... 91
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 7 
+1 FunctionIntroductionThis chapter contains information on the intended use and the description of the ba-sic functions of the components. Here, above all, those functions that are necessaryfor operation and maintenance have been taken into account.In addition, this chapter contains a description of the active and passive safeguards.1.1 Intended useIntended useThe winder unit is the last machine in the stretching line.The winder unit takes up the film from the previous line component and wraps thefilm into a roll.The machine is contractually specified by parameters and must only be operatedwithin them.Winding coresOnly winding cores suitable for the line component may be used. The winding coresmust fulfil the specifications of Brückner.DisclaimerAny use that goes beyond the designated use is forbidden. Brückner accepts no li-ability for any consequential damage. Improper use can present danger to life andlimb, the machine and connected equipment, and to the efficient operation of themachine.
+
+Risk assessment andwork instructions
+
+The operating company has to carry out a risk assessment and create operating in-structions for the handling of the machine.Inputs listed in this operating manual for personal protective equipment are basedon the risk assessment taking into consideration the experience with film productionand film stretching lines. The actually occurring hazards can deviate in individualcases. In this case, the measures of the hazard assessment of the operating com-pany must be taken into consideration and applied.
+
+1.2 Winder unitOverviewINFOThe following figure shows a schematic diagram. The figure is not necessarilyidentical to your line.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 8 
+1 Cutting and lay-on arm2 Reversing wheel drive3 Reversing wheel4 Winding core5 Mill roll6 Operator panel7 Contact roll8 Tension measuring roll9 Discharge device10 Spreading device and edge chargedevice
+
+11 Charge device on the cuttingarm
+
+12 Cross cutting device
+
+The winder unit takes up the film from the previous machine, wraps it into rolls andmakes it available for further processing.OscillationThe winder unit oscillates parallel to the oscillating edge trim device in the pull rollunit. Thus, the film borders of the mill roll do not lie on top of one another and thefilm is uniformly coiled onto the mill roll.
+
+Tension measuringroll
+
+The tension measuring roll measures the film tension in front of the contact roll. Thevalues are displayed on the monitor of the operator panel.
+
+Spreading deviceThe spreading device tightens the film path in the transverse direction to reduce thewrinkle formation and to ensure a more even film path.The film edges are guided between two spreading rollers which are pressed againsteach other.Discharge deviceThe film is discharged over the entire film width to reduce electrostatic charging ofthe components to be further processed.Edge charge deviceThe edge charge device electrostatically charges the film in the edge area on theoperating side and the drive side.The charging of the film edge prevents telescoping of the film.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 9 
+Cutting and lay-onarm
+
+After the mill roll is turned into the loading/unloading position, the cutting and lay-onarm is swivelled from the park position into the working position. After replacementof the winding core, the film is cut off across the entire width. While cutting off thefilm, the film is laid around the new winding core.The cutting and lay-on arm supports the cross cutting device and the charge device.The cross cutting device guides the film holding device during the cutting.The charge device electrostatically charges the area of the film margin on the oper-ating side. The charging of the film supports the placing of the film cutting edge onthe winding core during the cutting process.
+
+Contact rollThe contact roll presses the film against the winding core to reduce air pocketsbetween the layers of film.Turning unitThe turning device changes the winding cores. As soon as a film roll is full, thewinding position and the loading/unloading position of the winding cores are ex-changed by the turning process and the film is coiled onto the empty winding core.Winding core driveIn order to wind up the film, each winding station is driven by one winding coredrive. The drive adapts the speed of the winding core automatically to the film pathspeed. At the same time, the speed decreases with increasing mill roll diameter.Winding core chuckThe winding core chuck clamps the winding cores between the cones of the operat-ing side and the drive side on the winding stations.The crowning of the winding core changes with increasing mill roll diameter. Due toa self-aligning bearing, the flexible cones compensate the curve of the winding core.An interlocking system prevents opening during the wrapping.Core ejectorThe core ejector ejects the winding core out of the winding core chuck. The mill rollcan hence be removed and replaced by an empty winding core.
+
+Hydraulic, electricaland pneumatic sys-tem
+
+All movements for closing and opening devices are started up hydraulically, elec-tromechanically or pneumatically. To do this, the winder unit is connected to the rel-evant system of the line.
+
+1.3 SafeguardsSafeguardsAn overview of the safeguards can be found in the "Line overview" operatingmanual.Information on the safeguards can be found in the "Safety manual".1.4 Process control system
+
+Process control sys-tem
+
+The winder unit is controlled and visualised by the Process Control System. Theprocess control system from Brückner is called IPC (Integrated Process Control).WinCC OA is the visualisation of the process control system. The visualisation en-ables easy and user-friendly communication with the winder unit via the controlknobs.The following control knobs are available:• Operator panels• Individual control knobs• Computer in the control room or the control roomsInformation on the control knobs can be found in the "Line overview" operatingmanual.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 10 
+1.5 External documentsExternal equipmentApart from the self-manufactured components, the machine also contains externallysourced or already existing components, hereinafter referred to as external equip-ment.External documentsThis external equipment is supplied with instruction leaflets, manufacturer’s informa-tion, operating, installation, adjustment and service instructions and/or other user in-formation, hereinafter referred to as external documents.
+
+Replacement, main-tenance, operation
+
+External documents must also be read and observed, particularly in case of replace-ment or maintenance.When replacing external equipment, the enclosed instruction leaflets must be ob-served.The operation of the external equipment is not described in these instructions. Therespective external document is only referred to.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 11 
+2 OperationThis chapter describes the operation of the machine.The machine is usually used in a film production line. For this case, the operation ofthe line is described in the "Line operation" operating manual.SafeguardsOnly start up and operate the component if all safeguards, such as removableguards, the emergency stop switch, light barriers, spacers and ventilation systems,are in place and operational.2.1 Duties of the operating personnel
+
+Duties of the operat-ing personnel
+
+• The operating personnel must be trained in the operation of the machine andmust have read and understood the operating manual.• Personal protective equipment must be worn according to the activities to becarried out. The personal protective equipment used must be able to fulfil itsfunction.• Do not bypass safeguards.• The control room and the machine must be manned with qualified operating per-sonnel during operation.• Make sure that no persons are exposed to danger.• In the event of irregularities, the responsible person must be informed.• The machine must be clean.• Only approved auxiliary materials must be used.
+
+2.2 Operating modes of the pull roll unit and the winderunitThe following machines have a common danger zone with common operatingmodes:• Pull roll unit• Winder unitExplanationThere are 3 operating modes. The operating modes ensure that it is safe to work onthe machines. The selected operating mode is enabled in all machines in thedanger zone. Each operating mode makes different functions available.• Production ModeThe line components can be put into operation in Production Mode.• Service ModeService Mode is used for cleaning and inspection.• Maintenance modeMaintenance Mode is used for mechanical maintenance work. For all othermaintenance work or modifications, further protective measures must be taken.Voltage may be present on the drives.
+
+Operating modesFunctionsProductionMode
+
+The components can be moved.YesNoNoOperation is possible.YesNoNo
+
+ServiceMode
+
+Mainten-ance mode
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 12 
+FunctionsProductionMode
+
+In the pull roll unit "Jogging Mode" isavailable.Operation of the heating and/or coolingunits is possible.The safety gates and the service hatcheson the safety fence before the two-sta-tion turret winder can be opened.
+
+YesYesNoYesYesNoNoYesYes
+
+The accesses in the safety fence behind the two-station turret winder have separ-ate locks. They are independent of the operating modes of the line components.
+
+When entered, the pressure sensitivemat under the two-station turret windertriggers Emergency Stop Machine.If there are mechanical brakes, theirpneumatic system is supplied with com-pressed air.The pneumatic system of the other pneu-matically operating components is sup-plied with compressed air.
+
+YesNoNoYesYesNoYesNoNo
+
+When the Production Mode is left, the following actions are triggered:• If there is an edge trim device, the blades or the circular knife are moved intothe park position.• The pneumatically movable components are moved into the park position orposition of centre of gravity (half open).• If there are mechanical brakes, their pneumatic system is not vented.• The pneumatic system of the other pneumatically operating components is ven-ted.• The contact roll is moved into the park position.• If the thickness gauge has a radioactive source, this is moved into the radiationprotection housing.• If there is a LINIP nip roll, the movement with the nip roll is moved into the parkposition.• All other components remain in the current position.• The components are switched off.• The components are locked.• The safety gates and service hatches on the safety fence before the two-stationturret winder are unlocked.• The pressure sensitive mat under the two-station turret winder is deactivated.• Further actions can be triggered on the film production line.When changing to Maintenance Mode, there is an emergency stop machine. TheProcess Control System triggers actions.When changing to Production Mode, open safety gates lead to emergency stopmachine. The Process Control System triggers actions.If there is a film inspection system, this is independent of the operating modes.
+
+ServiceMode
+
+Mainten-ance mode
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 13 
+Safety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.►Change the operating mode. Turn the key switch on the operator panel to therequired operating mode.►When entering the danger zone, take along the key.►Ensure that no one is located in the danger zone.►The safety gates close.►Change to Production Mode. On the operator panel, turn the key switch to[ production ].ü The [ pneumatic reset ] push button flashes on the operator panel.►Reset the pneumatic system to the defined default status. Press [ pneu-matic reset ] on the operator panel.If emergency stop machine was triggered by the change of operating modes, pro-ceed as follows:ü The [ fault reset ] push button flashes on the operator panel.►Set the start release. On the operator panel, press [ fault reset ].ð The locking devices that became active by leaving Production Mode are elimin-ated.
+
+Switching to "ServiceMode" or "Mainten-ance Mode"Changing to "Produc-tion Mode"
+
+2.3 Signal lights on the two-station turret winder
+
+Signal lights on thetwo-station turretwinder
+
+The signal light is mounted on the frame of the two-station turret winder. It consistsof several sections with lights in different colours. The lights light depending on thesituation on the two-station turret winder.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 14 
+Pos.ColourMeaning1whiteThe winding core on the rear winding shaft can be replaced.• The front winding shaft is in winding position.The rear winding shaft is in the loading/unloading position.• The winding core chuck of the rear winding shaft is open.2-The area has no function.3redIf there is a crane, it is not authorised to be in the danger zone ofthe winder unit.• The "Crane in Winder Area" alarm at the signal light sounds.• The two-station turret winder cannot be turned. If the maximummill roll diameter is reached, the two-station turret winderstops.• The winding core chuck of the rear winding shaft of the two-station turret winder cannot be opened and closed.• The cutting arm of the winder unit cannot be moved.• The cross cutting device of the winder unit cannot be moved.3-If there is no crane, the area has no function.4yellowThe two-station turret winder turns automatically or semi-automat-ically.5greenOn the rear winding shaft, safe preparation of the winding core ispossible.• The front winding shaft is in winding position.The rear winding shaft is in the loading/unloading position.• The drive of the rear winding shaft turns at a maximumof 15 m/min.• The safety gate downstream from the two-station turret winderis open.2.4 Unlocking and locking the safety gate behind the two-station turret winderThe safety gate (option: several safety gates) at the safety fence after the winderunit has an interlock with knob switch. The safety gate can be opened and closedunder certain conditions.
+
+Safety gate safe-guard
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 15 
+RequirementsIf the following requirements for opening the safety gate are fulfilled, the lamp at thesafety gate lights:• The cutting arm of the winder unit is in the park position.• The cross cutting device of the winder unit is in the park position.• The loading and unloading device is in the park position (optional).• If the front winding shaft is not in the winding position, the drives of the two wind-ing shafts may turn at a maximum speed of 200 m/min.Required personnelThis activity may only be performed by trained skilled persons.Safety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+Unlocking the safetygateLocking the safetygate
+
+►Unlock the safety gate behind the two-station turret winder. On the operatorpanel BW1, turn the switch [ safety gate ] to [ release ].ð The two-station turret winder cannot be turned. If the maximum mill roll dia-meter is reached, the two-station turret winder stops.ð The winding core chuck of the rear winding shaft of the two-station turretwinder cannot be opened and closed.ð The cutting arm of the winder unit is moved into park position. When the cut-ting arm is in the park position, it cannot be moved.ð The cross cutting device of the winder unit cannot be moved.ð The loading and unloading device and their components cannot be moved(optional).ð The Safety Tension and Slow Speed settings are active. All winding coresthat are not in the winding position can only turn with reduced torque and re-duced speed.If the function locks are active, the safety gate can be opened.►Open the safety gate and leave it open.►Ensure that no one is located in the danger zone behind the two-station turretwinder.►Close the safety gate.►Lock the safety gate. On the operator panel BW1, turn the switch[ safety gate ] to [ lock ].ð The function locks are reset.
+
+2.5 Pressure sensitive mat under the two-station turretwinderThe pressure sensitive mat under the two-station turret winder is used to secure thehazardous points on the two-station turret winder.
+
+Pressure sensitivemat under the two-station turret winder
+
+The pressure sensitive mat is active in "Production Mode". The entry of the activepressure sensitive mat leads to an emergency stop of the line components in thedanger zone. It is possible that the drives of the winding shaft and the reversingdrive continue to turn for up to 20 seconds until they come to a stop.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 16 
+2.6 Discharging the mill roll with a discharging rodDescriptionThe discharging rod is located in the in the tray at the safety gate behind the two-station turret winder. The long cable of the discharging rod is earthed.Before presence in the vicinity of an electrically charged mill roll, the mill roll has tobe fully discharged by means of a discharging rod.The mill roll has to be fully discharged before any of these activities is carried out:• If work is being carried out in the winder unit.• Someone wants to enter the pull roll unit through the winder unit.• The mill roll is to be lifted out of the two-station turret winder by a crane.• The mill roll is to be lifted out of the loading and unloading device (optional) orthe storage stand (optional) by a crane.Requirement• If the mill roll in the two-station turret winder is to be discharged, the drive of thiswinding shaft has to be switched off. The winding shaft with the mill roll must notrotate.• If the mill roll in the two-station turret winder is to be discharged and there is asecond pressure sensitive mat (variant-dependent) downstream from the two-station turret winder, the requirements for entering the pressure sensitive mathave to be fulfilled.• The safety gate downstream from the two-station turret winder is opened.Required personnelThis activity may only be performed by specialists and operating personnel.Safety WARNINGUncontrolled electrostatic discharge due to charged mill roll.This can lead to serious injury from electric shock.►Persons with active medical accessories (e.g. pacemakers, insulin pumps, hear-ing aids) are forbidden from remaining at and dealing with film or rolls.►Discharge the mill roll in a controlled way before beginning work.
+
+The presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.►Hold the discharging rod in the rear area (1).
+
+Discharging the millroll with a dischar-ging rod
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 17 
+►Put the discharging rod to the mill roll and pull along the mill roll.2.7 CommissioningPreset parametersFor commissioning, settings are made according to the polymer used. Changes tothe settings are only possible within the limits specified by the control system.2.7.1 Preparing the commissioningRequired personnelThis activity may only be performed by the process engineer and specialists author-ised by him.Resetting safeguardsBefore commissioning, all safeguards must be mounted correctly. This applies es-pecially after maintenance work.►Check for functionality of all safeguards.►Reset all safeguards.►Press the [Reset] pushbutton on the operator panel to reset all malfunctions.
+
+Carrying out checkson the winder unitCarrying out checkson the hydraulic ag-gregate
+
+►Check the compressed air maintenance units for pressure and movement.►Check the gearbox oil level and replenish if necessary.ð For replenishing the gear oil, observe the manufacturer documentation►Make sure that the oil change has been carried out.►Make sure that the position of the winding cores is ready for the next intendedprocess.►Check the park position of the cutting and lay-on arm.►Check the status of the cutting knife and turn or replace the blade if necessary.►Check the function of the core ejector.►Check the status of the winding core, winding core chucks and driving key:• The cones on the winder unit and on the winding core must be clean and slightlylubricated.• The surface of the core must be clean and free of score marks.►Check the linear guidance for ease of movement.►Check the status of the contact roll and the guide rolls for clean surfaces andsmoothly running bearings.►Check the oil level and replenish if necessary.ð For replacing the hydraulic oil, observe the manufacturer documentation.►Vent the system.ð For bleeding the hydraulic system, observe the manufacturer documenta-tion.►Check the filter and replace it if necessary.ð For replacing the filter, observe the manufacturer documentation.►Check the piping for watertightness.►Check the set pressure.ð The pressure must be approx. 120 bar.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 18 
+2.7.2 Starting up the winder unitThe winder unit is started up with the system control.Requirements• The winder unit is ready for operation and can be started up with the line. Seethe line operating manual.• All safeguards are mounted and functioning.Required personnelThis activity may only be performed by the process engineer and specialists author-ised by him.2.8 Shutting down the winder unitThe winder unit is shut down with the line.See the line operating manual.Required personnelThis activity may only be performed by the process engineer and specialists author-ised by him.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 19 
+3 Fault eliminationIntroductionATTENTIONImproper decommissioning and start-up causes damage to the downstreammachines.►Only authorised personnel may switch off and start the components.If faults that are not described in this document occur, please contact the manufac-turer.Faults may only be eliminated by qualified personnel.3.1 RecommendationsMeasures►Immediately alert the service personnel if malfunctions occur.►Have the components checked by specialists.►Only operate the components after eliminating the malfunction.TrainingIf the operator wishes to have company personnel remedy malfunctions, the manu-facturer's customer service offers special training courses.3.2 Malfunction overview of the winder unitIntroductionThis table provides information about miscellaneous operating faults.The table contains the following information:ProblemDescription or type of faultCauseList of possible causesMeasuresInformation for eliminating the malfunction
+
+If faults that are not described in this document occur, please contact Brückner cus-tomer service.Troubleshooting WARNINGImproperly executed troubleshooting measures can lead to serious injuries ormachine damages.►Read the general safety handbook and the chapter on safety before attemptingcleaning or troubleshooting procedures.►Work on electrical systems and equipment may only be performed by qualifiedpersonnel.►Keep hands clear of the area around moving machine parts.►Wait until the machine comes to a standstill.►Prior to starting, make sure that there are no persons in the danger area.
+
+Further informationon safety
+
+Additional safety information can be found directly where the activities are describedand in the safety manual.
+
+Malfunction overviewof the winder unitProblemCauseMeasuresLoud noise in the roll bearingRoll bearing defective►Replace the bearing.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 20 
+ProblemCauseMeasuresRoll lurchesMotor incorrectly connected►Check the power supply ofthe motor, reconnect if ne-cessary.Roll not runningRoll drive defective►Replace the drive.Surface of the roll irregularly wornRoll not coaxially aligned►Realign the roll.
+
+Film telescopedFilm is not electrostaticallycharged or cannot be charged
+
+►Check the function of thecharger device, clean and setthe charger device.
+
+Film cutting edge raggedTransverse cutting knife blunt►Replace the blade of thecross cutting device.Film warping on the rollsSpreading device incorrectly set►Check the inclination of thespreading roller and adjust.Spreading roller defective►Replace the spreadingrollers.The film is wound up irregularlyWinding core drive defective►Replace the drive.
+
+Bearing of the winding coredrive defective
+
+►Replace the bearing.
+
+Film throws wavesSpreading roller defective►Adjust or replace the spread-ing rollers.
+
+Preliminary machines incorrectlysetReversing wheel continues to turnLocking rocker or toothed bear-ing incorrectly setReversing wheel drive incor-rectly set
+
+►Align the line components.►Adjust the settings of thelocking unit.►Check the settings in thesoftware and adjust.
+
+Reversing wheel makes noisesReversing wheel drive defective►Replace the drive or bearing.
+
+Cutting and lay-on arm does not swivelIf present: Hydraulics, hydrauliccylinder or hydraulic unit defect-iveIf present: Electric cylinders ormotor of the electric cylinder de-fective
+
+►Check the hydraulic lines, hy-draulic cylinder and hydraulicaggregate and replace if ne-cessary.►Replace the electric cylinder.►Replacing the motor
+
+Spindle defective►Replace the spindle.The motor is faulty►Replace the motor.Spreading rollers do not swivelPneumatics defective►Check the seals and cylin-ders of the pneumatic systemand replace if necessary.
+
+Spreading rollers do not turnPneumatically: Pneumatic linecongested
+
+►Renew the pneumatic line
+
+Motorised: Motor defective►Replace the motor.
+
+Bearing of the spreading rolleris defectiveNoise in the bearing of the cardan shafts Bearing grease escapes fromleaking bellows
+
+►Replace the bearing.►Replace the bellows and lub-ricate the cardan shaft bear-ing.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 21 
+ProblemCauseMeasuresMotor area overheatsCooling water filter clogged►Clean the filter or replace it.Marks on the filmDischarge device is dirty►Clean the discharge device.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 22 
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 23 
+4 MaintenanceIntroductionThis chapter describes the maintenance works of the winder unit (WIN).4.1 General instructionsMaintenanceMaintenance ensures a long service life and high performance of the machine orline.Maintenance includes:• inspection• repair• serviceAll maintenance work carried out and all faults found must be recorded in a main-tenance record.InspectionInspection includes:• Periodic, continuous checking and recording of the current status.• Determining the causes of wear.• Derivation of the necessary consequences for future use.RepairDuring repair work, damaged parts must be replaced to avoid injury to persons andmaterial damage and to restore the required condition of the machine or line.Repair includes the following activities:• repair of damaged components• replacement of components
+
+Damaged parts can cause material damage and injury to persons.ü Only mount undamaged parts. This is also valid for parts with which the spareparts are attached.►Before installation, check the spare parts for function, quality, fit, stability andsurface quality.►It is recommended to only use original spare parts which can be clearly as-signed based on their identification number. This is especially valid with highlystressed machine parts such as parts that are under pressure and subject tohigh temperature and other safety relevant parts.
+
+Only allow repair work to be performed by authorised, qualified specialists.corrosion protectionATTENTIONFor prolonged periods of machine standstill, it is possible for components tocorrode.The strength of the components is no longer guaranteed.►For machine standstills or storage, put sufficient corrosion protection on all com-ponents.
+
+ATTENTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 24 
+Service WARNINGCleaning with unsuitable media can lead to explosions.Explosion hazard due to hot surfaces.►Only use prescribed cleaning agents.►Wear safety goggles.Service includes periodic activities to ensure an appropriate operating status of themachine or line.Servicing includes the following activities:• cleaning• conservation• lubrication• settingRecommendations►Disassemble the individual parts of a module only as far as necessary.►Mark down how the disassembled parts fit together for reassembly.►During repairs, damaged components must be replaced to avoid danger to per-sons and/or material damage and to put the unit back into its optimum opera-tional state.►For replacing the parts of the line, use the corresponding drawings and partslists.ð See the spare parts catalogue.►Only use high-quality tools and auxiliary materials. Use the special tools andauxiliary materials supplied.►Only use original parts or approved parts.ð Non approved parts will lead to loss of the warranty.►Keep a service record.ð This protocol helps in noting necessary repairs that cannot be carried outduring production. These repairs can be carried out later during routine ser-vice.►Carry out all checks to ensure operational readiness. Ensure that nothing hasbeen forgotten in the machine/line.►Following maintenance work, check the impermeability and tightness of thescrew connections.►Perform a test run.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 25 
+Ordering spare partsFor spare parts of delivered units, the data noted on the nameplate/manufacturer’splate of the respective unit has to be specified.• order• material number• year of delivery• machine type
+
+For localisation and identification of the part numbers, see the spare parts cata-logue.
+
+The guarantee and warranty for the respective plant components are only valid foruse with authorised spare parts, equipment and consumables.
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+StandstillFor prolonged periods of machine standstill, special measures and media are re-quired for conservation.►Contact Brückner for further information.4.2 Duties of the maintenance personnel
+
+Duties of the main-tenance personnel
+
+• The maintenance personnel must be trained for their activity or have appropriateprofessional experience.• The maintenance personnel must have read and understood the operatingmanual and further information.• Personal protective equipment must be worn according to the activities to becarried out. The personal protective equipment used must be able to fulfil itsfunction.• Make sure that no persons are exposed to danger.• Only approved auxiliary materials must be used.
+
+4.3 SafetySafety instructionsAlways pay attention to the following safety instructions:►Pay attention to the safety regulations referred to here as well as the safety reg-ulations referred to in the safety manual at all times.►Inform the operating personnel in advance of any maintenance work to be car-ried out on the plant/machine.►Appoint a supervisor.►Before carrying out heavy lifting work, make sure that you have suitable liftingequipment and transport equipment which is in proper working order.►Properly dispose of oil, cleaning agents and other substances that are harmfulto health in accordance with regulations.Additional information on safety can be found in the manufacturer‘s instructions.
+
+INFO
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 26 
+Further informationon safety
+
+Additional safety information can be found directly where the activities are describedand in the safety manual.
+
+Troubleshooting WARNINGImproperly executed troubleshooting measures can lead to serious injuries ormachine damages.►Read the general safety handbook and the chapter on safety before attemptingcleaning or troubleshooting procedures.►Work on electrical systems and equipment may only be performed by qualifiedpersonnel.►Keep hands clear of the area around moving machine parts.►Wait until the machine comes to a standstill.►Prior to starting, make sure that there are no persons in the danger area.Safeguards DANGERFaulty or ineffective safeguards.The protective function is lost.Life-threatening situations or very serious injuries may occur.►Put the safeguards back in place after the maintenance work is complete.►Check that the safeguards are operating correctly and effectively.►Do not bypass safeguards.►Do not render safeguards ineffective.►Do not change the arrangement of the safeguards.
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 27 
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.
+
+Electrostatic dis-charge
+
+Electrostatic discharge due to charged film/film residues at and on rolls/rollers causes life-threatening injuries from electric shock.►Access is forbidden for people with a heart pacemaker.►Discharge film with a discharging rod in a controlled way during a standstill.►Use the discharging rod as shown in the manufacturer documentation.►Ensure that it is fully discharged.
+
+Electric system DANGERLive electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Working on laddersor working platforms
+
+For working above head height, use the provided or other ladders or working plat-forms. Do not climb onto machine parts. Always use appropriate safety equipmentdue to the danger of falling when working at great height. Keep handles, steps, rail-ings, working platforms and ladders clean. The maximum load capacity must beheeded.
+
+ WARNING
+
+ATTENTION
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 28 
+There is a danger of falling when working on elevated parts of the line.This can cause life-threatening injury.►Wear a safety harness.►Use suitable ascent supports.Hot surfaces WARNINGHot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.Contaminated floor WARNINGFilm on the floor presents a danger of sliding and tripping.This will lead to serious head and body injuries.►Do not step on film residues.►Immediately remove film residues.►Keep the workplace and corridors clean.
+
+Danger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+Danger of slipping on wet floors.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove leaked fluid immediately.►Keep the workplace and corridors clean.Pneumatic system WARNINGUnexpected movements caused by defects in the pneumatic system cancause serious injury.►Prior to service work, switch the pneumatic system so it is depressurised.►Wait until the standstill position is reached.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.
+
+ DANGER
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 29 
+Roll surfaceATTENTIONSharp-edged, hard objects or heavy objects and persons can damage the rollsor cause permanent dents in the roll surface.►Do not touch the roll surface with sharp-edged or hard objects.►Do not place loads onto or step on the roll surface.►Do not place tools and auxiliary material onto the rolls.►Do not lean ascent supports against the rolls.Auxiliary materialsATTENTIONNon-approved spare parts, equipment, and consumables may cause machinedamage and system downtimes.►Only use spare parts, equipment, and consumables that have been approved bymanufacturer.►Spare parts must only be installed at the designated location.
+
+Tools and equipment left lying on or in the machine can cause machine dam-age and line downtimes.►After terminating the respective work, remove tools and equipment from the ma-chine.
+
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.4.3.1 Handling of hydraulic oilGuidelinesFor transport, storage, disposal and handling of hydraulic oil observe the applicableguidelines and the safety data sheets of the manufacturer.
+
+Personal protectiveequipment
+
+When handling hydraulic oil, especially if there is the risk of spraying, wear suitableprotective clothing:• Breathing mask• Oil-resistant protective gloves• Non-slip safety shoes• Safety goggles or hard hat with face protection• Chemicals-resistant apron, if necessary
+
+Preventive measuresThe following precautions must be taken to prevent damages:►Check the hydraulic system in regular intervals for wear and leaks.►Ensure that emerged hydraulic oil cannot seep through the floor of the hall.
+
+ATTENTION
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 30 
+Hazards to health WARNINGHydraulic oils irritate the skin and cause toxic vapours.Irritation of skin, eyes and airways.Changes in mental state from solvent vapours.►Only carry out this work if the area is well ventilated.►Do not breathe in the vapours.►Wear suitable protective clothing.►Immediately change oil-contaminated clothing.►Do not carry oil-contaminated cleaning cloths within your clothing.►Avoid contact with skin and eyes.►If hydraulic oil penetrates under the skin under high pressure immediately con-sult a doctor (danger of tissue damages).►Keep away from food and beverages.►Pay attention to the safety data sheets of the manufacturer.
+
+Unexpected movements can be caused by faults or service work in the pneu-matic system or hydraulic system.This can lead to serious injury.►Prior to service work, switch the pneumatic system so it is depressurised.►Disconnect the hydraulic system prior to service work.►Wait until the standstill position is reached.►Only switch pneumatic valves manually when no one is located in the dangerzone.
+
+Danger of slipping on soiled floors.This can lead to head injuries and serious bodily injury.►Wear non-slip shoes.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 31 
+Danger of fire WARNINGHydraulic oils are combustible.Danger of fire!►Regularly check the structural fire protection devices.►Regularly check the hydraulic system for leaks.►Immediately fix any leaks.►Remove and properly dispose of leaked oils immediately. Use oil absorbent ifnecessary.►Stow oil-contaminated cleaning cloths in non-combustible, closed containers.►Keep hydraulic oil away from sources of ignition.►Pay attention to the safety data sheets of the manufacturer.
+
+Environmental haz-ards
+
+Emerging hydraulic oils result in environmental hazards, if they contaminatethe soil or the groundwater.►Prior to usage always pay attention to the safety data sheets of the manufac-turer.►Use oils safely.►Keep the working areas clean.►Remove and properly dispose of leaked oils immediately. Use oil absorbent ifnecessary.►For the collection, storage and transport of used hydraulic oil, use suitable con-tainers.►Properly dispose of empty containers with remains of oil and used hydraulic oil.►Avoid oil from penetrating the soil, the canalisation or water bodies.►In case of escape into the environment, inform the authority in charge.
+
+4.4 Inspection and service intervalsConditionsAll the described measures and intervals are based on normal continuous operationof the line. Under aggravated conditions (e.g. maximum operating speed, unfavour-able environmental conditions, special film types), shorter maintenance intervals orhigher quantities of lubricants may become necessary.Service intervalsFor information on the service intervals, see separate "Intervals" manual and the re-spective manufacturer documentation.
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 32 
+4.5 Preparing for maintenance
+
+Preparing for main-tenance
+
+The following requirements have to be fulfilled prior to the start of settings and main-tenance work:• The maintenance area is marked off and secured against unauthorised entry.• The cutting and lay-on arm is in park position and secured.• The drives cannot be operated.• The components must not move.• The components must be de-energised.• The pneumatic system must be depressurised.• The hydraulic system must be depressurised.
+
+4.5.1 Securing and releasing the cutting and lay-on armBefore maintenance work, the cutting and lay-on arm must be moved into park posi-tion and secured with safety bolts.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Safety WARNINGElectrostatic discharge can cause serious injury from electric shock.►Access is forbidden for people with a heart pacemaker.►Discharge with a discharging rod before beginning work.►Ensure that it is fully discharged.
+
+Moving machine parts can crush body parts.This can lead to injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+Clothes can be caught or pulled in by rotating machine parts.This will lead to serious injury.►Wear close-fitting clothing.►Do not reach into the vicinity of rotating machine parts.►Wait for the machine to come to a standstill.
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 33 
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.
+
+ DANGER
+
+ WARNING
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 34 
+Securing the cuttingand lay-on armReleasing the cuttingand lay-on arm
+
+1Lock pin2Safety boltsü The safety bolt is in the storage position in the brackets on the cutting and lay-on arm.►Swivel the cutting and lay-on arm into the park position in Production Mode.►Switch into the Maintenance Mode.►Pull the lock pin (1) out of the end of the safety bolt (2).►Insert the safety bolt through the bracket of the cutting and lay-on arm into theopening in the contact roll stand.►Insert the lock pin into the bore between the brackets in the safety bolt up to thestop.After completion of the maintenance work, the safety bolt must be reset to the stor-age position.►Pull the lock pin out of the safety bolt.►Pull the safety bolt out of the opening in the contact roll stand.►Insert the lock pin into the outer bore of the safety bolt up to the stop.ð The cutting and lay-on arm may now be moved into the work position.
+
+4.6 Inspection4.6.1 Carrying out visual inspections for wearRequired personnelThis activity may only be performed by specialists.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 35 
+SafetyDanger due to mag-netic fieldsCarrying out visualinspections
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.
+
+Stationary knives cause cuts.►Do not touch the knives.►Wear cut-resistant protective gloves.
+
+Excessive nip pressure and extreme angular positioning of rubber coatedrolls or spreading rollers will damage the rubber surface.►Regularly check the nip pressure and the positioning.►Replace rolls or rollers as soon as the rubber surface has become worn.
+
+ DANGER
+
+ WARNING
+
+ATTENTION
+
+ CAUTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 36 
+If the rubber surface of the rubber coated roll or roller becomes worn, the rollsor rollers are no longer parallel with respect to each other.►Regularly check the surface of rolls and rollers.►During each stop, check all rolls and roll surfaces for integrity.►Carry out monthly checks on the wear of stop and rest buffers (bearings, guiderail ends) and of couplings.4.7 Pneumatic system4.7.1 Checking and setting the pneumatic systemDescriptionThe pneumatic system is checked and adjusted in the operating mode ServiceMode while being supplied with compressed air.Requirements• The line component is in the operating mode Production Mode.• The drives are switched off.• The temperature of the component and of its environment must be below 35 °C.Required personnel• 2 instructed specialists are required.Auxiliary materials• The pneumatic plan is located in the pneumatic cabinet.• The key for the key switch [ maintenance air ] is required. This key mustalways be with the person responsible for maintenance.Safety WARNINGThe presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.
+
+Moving machine parts can crush body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+Lockable pneumaticcabinet
+
+Unexpected movements caused by defects in the pneumatic system cancause serious injury.►Do not remain in the swivelling range of the pneumatically moved component.►Wait until the standstill position is reached.If the pneumatic cabinet is lockable, it has to be opened before the activity andlocked again after the activity has been completed.
+
+ATTENTION
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 37 
+Preparing the pneu-matic systemChecking the pneu-matic systemSetting the pneu-matic pressureManufacturer docu-mentationVentilating the pneu-matic system
+
+►Turn the key switch on the pneumatic cabinet to [ maintenance air ][ on ].ð The emergency stop machine fault is triggered.►Turn the key switch on the operator panel to operating mode Service Mode.ð When exiting the Production Mode, the pneumatic system remains suppliedwith compressed air.►Specialist 1 actuates the valves in the pneumatic cabinet.- simultaneously -►Specialist 2 checks the pneumatically operated components on the machine.- After completing the work -►Make sure that the components are in the home position.The pneumatic pressure is set via the pressure reducing valve in the pneumaticcabinet or in WinCC OA (option).The pneumatic pressure should be as low as possible.►Begin with low pneumatic pressure. Slowly increase the pneumatic pressure un-til the correct pneumatic pressure is reached.
+
+Further information on the component can be found in the manufacturer documenta-tion.►Turn the key switch on the pneumatic cabinet [ maintenance air ] to[ off ] and pull out.ð The pneumatic system is ventilated.►When the line component is in Production Mode, reset the Emergency stop ma-chine fault.
+
+4.8 Spreading device4.8.1 Adjusting the working width of the spreading device withpush buttons
+
+Any new adjustment is required only when changing the production program.DescriptionThe working width of the spreading device is adjusted during the threading of thefilm into the line component.Requirement• The line component is in the operating mode Production Mode.Required personnelThis activity may only be performed by specialists and operating personnel.
+
+Adjusting the work-ing width of thespreading device
+
+The following activities must be carried out the operating and the drive side.►Open the swivelling spreading roller with the control.►Setting the working width with the push buttons from outside of the safety fence.►Thread the film into the line component.►If necessary, correct the working width. The non-swivelling spreadig rollershould be located approx. 10 mm within the film edge.►Close the swivelling spreading roller with the control.
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 38 
+4.8.2 Adjusting the angle of inclination of the spreading rollers bymotor
+
+Any new adjustment is required only when changing the production program.DescriptionThe angle of inclination is set on both sides by means of push buttons from outsidethe safety fence.Requirement• The line component is in the operating mode Production Mode.Required personnelThis activity may only be performed by specialists.
+
+Setting the angle ofinclination
+
+The angle of inclination of the spreading roller to the film path is set by motor onboth sides. The setting is carried out by means of a push button on the operatingside and on the working side.The angle of incidence is independent of the type or thickness of the film and theline speed.
+
+Incorrectly adjusted rolls increase the tread wear of the rubber coating.►Set the rollers within the recommended range of angles.►Set an identical angle on both sides.1 Spreading roller2 Film borderZ Angle of incidenceThe following activities must be carried out the operating and the drive side:►Set the desired angle of incidence (Z) between 0° and 4° with the push buttons.4.8.3 Setting the non driven spreading rollers for minimum wearRequirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Wrench set
+
+Close the swivellingspreading roller
+
+►If necessary, close the swivelling spreading roller manually.
+
+INFO
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 39 
+Adjust the spreadingrollers
+
+1 Upper cheese head screw2 Lower cheese head screw►Loosen the cheese head screws (1) and (2).►Screw in or unscrew the cheese head screws until the running surface of the up-per spreading roller is set parallel to the running surface of the lower spreadingroller.►Tighten the cheese head screws (1) and (2).
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 40 
+4.8.4 Replacing the spreading rollersIf the rubber coated surface is worn or damaged, the roller with bearings must be re-placed.
+
+Extreme nip pressure and angular positioning will reduce the service life of the rub-ber layer.Requirement• The machine is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Lubricants• Wrench set• Climbing aid
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+INFO
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 41 
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.1Lubrication nipple2Shafts3Bearings4Hexagon head screws5Washers6Spreading rollers►Release the screws (4) and remove with the washers (5).►Remove the spreading rollers and the shaft of the swivel arm.►Pull the shaft out of the spreading roller of the swivel arm.►Remove the retaining rings.►Pull out the bearing (3) and distance rings.►Insert the cleaned and greased bearings or new bearings with distance rings inthe spreading rollers.►Insert the retaining rings.►Push the shaft into the spreading roller of the swivel arm.►Mount the spreading roller and shaft on the swivel arm and secure with a screwand washer.►Push the spreading roller onto the support and secure with a screw and washer.►Tighten the screws.
+
+Removing thespreading rollersInstalling the spread-ing rollers
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 42 
+►Lubricate the bearing of the rolls through the lubrication nipples (1) until greaseescapes.►Remove excess grease.►Adjust the spreading device.4.8.5 Replacing the rotary cylinder of the spreading rollersRequirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Allen wrench set• LubricantsRemoving the rotary cylinder1 Cheese head screws2 rotary cylinder3 Swivel arm►Release the compressed air supply of the rotary cylinder.►Loosen the screws (1) and remove.►Remove the rotary cylinder (2) with swivel arm (3) and spreading roller.►Loosen the screw of the swivel arm and remove with the washer.►Pull the swivel arm with spreading roller off the rotary cylinder.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 43 
+Installing the rotary cylinder►Lightly lubricate the axle of the rotary cylinder.►Slide the swivel arm with spreading roller onto the new rotary cylinder.ð Ensure that the groove in the opening of the swivel arm slides over thespring of the rotary cylinder axis.►Fix the swivel arm with washer and screw onto the axis.►Screw the rotary cylinder with swivel arm on the support of the spreadingdevice.►Connect the compressed air supply of the rotary cylinder.4.8.6 Replacing the damper of the spreading rollersThe damper serves as a stop for the swivel arm of the lower spreading roller.Requirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Wrench setRemoving the damper1 Stop2 Damper►Swivel out the swivel arm.►Unscrew the damper (2) on the wrench flat.Installing the damper►Screw the damper into the support.►Set the stop (1) by turning the damper tip to the swivel arm side.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 44 
+Replacing thedamper
+
+Removing the damper1 Stop2 Damper►Unscrew the damper (2) on the wrench flat.Installing the damper►Screw the damper into the support.►Set the stop (1) by turning the damper tip to the swivel arm side.4.8.7 Replacing the drive of the adjusting deviceIf the motorised drive of the adjusting device is defective, it must be replaced.
+
+Requirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Wrench set
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 45 
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.Replacing the driveRemoving the drive1 Spindle axis2 Adapter3 Motor►Pull the power supply of the drive out of the motor (3).►Unscrew the motor from the adapter (2) and remove.
+
+ WARNING
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 46 
+Installing the drive►Put the new motor on the spindle axis (1).►Screw the motor tight onto the adapter.►Connect the power supply of the motor.4.8.8 Replacing the rotary actuator of the spreading deviceIf the motorised drive of the swivel device of the spreading device is defective, itmust be replaced.Requirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Allen wrench set
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 47 
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.Removing the drive1 Motor2 Adapter3 Hexagon socket head screw►Pull the power supply of the drive out of the motor (1).►Release the screws (3).►Remove the motor.Installing the drive►Screw the new motor tight onto the adapter (2).►Connect the power supply of the motor.
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 48 
+4.8.9 Replacing the spreading deviceRequirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Wrench set
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.
+
+ DANGER
+
+ WARNING
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 49 
+Replacing thespreading device
+
+Removing the spreading device1 Hexagon head screws►Release the compressed air supply of the rotary cylinder.►Loosen the spreading device at the screws (1).►Remove the spreading device.Installing the spreading device►Set the spreading device into the support and secure with screws and washers.►Tighten the screws (1) by hand.►Connect the compressed air supply of the rotary cylinder.►Adjust the spreading device.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 50 
+4.9 Cutting and lay-on arm4.9.1 Replacing the hydraulic cylinderA defective hydraulic cylinder of the cutting and lay-on arm must be replaced imme-diately.Requirement• The machine is ready for maintenance.• The cutting arm is secured.See Securing and releasing the cutting and lay-on arm [} 32].• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Lifting accessories• Lifting gear• Lubricants• Wrench set• NipperSafety WARNINGDanger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 51 
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.
+
+ DANGER
+
+ WARNING
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 52 
+Replacing the hy-draulic cylinder
+
+Removing the hydraulic cylinder1 Hydraulic cylinder2 Bearing bushing3 Pillow block bearing4 Hexagon head screw5 Hexagon head screw6 Bolt7 Lock pin►Remove the hydraulic lines on the hydraulic cylinder (1) and properly seal.►If necessary, immediately remove and properly dispose of escaped hydraulic oil.►Suspend the hydraulic cylinder in the lifting gear.►Pull out the lock pin (7).►Pull out the bolt (6).►Unscrew the pillow block bearings (3).►Take the hydraulic cylinder with the pillow block bearings off the contact rollstand and store.►Pull out the pillow block bearings from the hydraulic cylinder.Installing the hydraulic cylinder►Slide the pillow block bearings onto a new hydraulic cylinder.►Insert the lubricated bearing bushings (2).►Lift the hydraulic cylinder with the pillow block bearings into the contact rollstands.►Screw on the pillow block bearings by hand.►Fix the hydraulic cylinder with bolt (6) on the cutting arm.►Secure the bolt with lock pin (7).►Securely tighten the hexagon head screws (4) of the pillow block bearings.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 53 
+►If necessary, align the hydraulic cylinder with pillow block bearings with thehexagon head screws (5).►Remove the lifting accessories.►Connect the hydraulic cylinder to the hydraulic system.4.9.2 Replacing the charger rodRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.Auxiliary materials• Voltage-insulated tool• Discharging rodSafety WARNINGElectrostatic discharge can cause serious injury from electric shock.►Access is forbidden for people with a heart pacemaker.►Discharge with a discharging rod before beginning work.►Ensure that it is fully discharged.
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 54 
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.Removing the charger rod1 Cutting and lay-on arm2 Supercharger rod3 Composite nuts►Discharge the charge device.►Disconnect the supercharger rod (2) from the power supply.►Loosen the composite nuts (3) and remove with the washers.►Remove the charger rod (2).Installing the charger rod►Insert the new supercharger rod and fix in place with washers and compositenuts.►Connect the charger rod to the power supply.
+
+Replacing the char-ger rod
+
+4.10 Discharge deviceThe discharge device is located in the contact roll stand between the tension meas-uring roll and the discharge device, viewed in the film direction.
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 55 
+The discharge device extends over the entire working width above and below thefilm and contains several ionising rods. The ionising rods can be exchanged if ne-cessary.4.10.1 Cleaning or replacing the ionising rod in the contact rollstandRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Cleaning brush• Voltage-insulated toolSafety WARNINGElectrostatic discharge can cause serious injury from electric shock.►Access is forbidden for people with a heart pacemaker.►Discharge with a discharging rod before beginning work.►Ensure that it is fully discharged.
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 56 
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.1 Nuts and washers2 Ionising rod, top3 Ionising rod, bottom4 Nuts and washers
+
+OverviewCleaning the ionisingrodReplacing the ion-ising rod
+
+Emission tips of the discharging bars can cause stabbing injuries and cuttinginjuries.►Wear cut-resistant protective gloves.►Carefully clean the surface of the ionising rod (1), (3) with a soft brush.Removing the ionising rod►Secure the ionising rod (2) of the upper beam against falling out.►Loosen and remove the nuts (1), (4) and washers along the beam.►Carefully remove the ionising rod (2) from the upper beam downwards.►Carefully lift off the ionising rod (3) upwards from the lower beam.
+
+ATTENTION
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 57 
+Installing the ionising rod►Place the new or cleaned ionising rod onto the lower beam.►Lightly lubricate the thread and screw the ionising rod together with washers andnuts from below.►Place the new or cleaned ionising rod into the upper beam and hold firmly.►Lightly lubricate the thread and screw the ionising rod together with washers andnuts from above.4.10.2 Cleaning or replacing the ionising rod of the bale dischargeRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Cleaning brush• Voltage-insulated toolSafety WARNINGElectrostatic discharge can cause serious injury from electric shock.►Access is forbidden for people with a heart pacemaker.►Discharge with a discharging rod before beginning work.►Ensure that it is fully discharged.
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 58 
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.1 Ionising rod2 Nuts and washers
+
+Overview
+
+Emission tips of the discharging bars can cause stabbing injuries and cuttinginjuries.►Wear cut-resistant protective gloves.
+
+ WARNING
+
+ATTENTION
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 59 
+Cleaning the ionisingrodReplacing the ion-ising rod
+
+►Carefully clean the surface of the ionising rod (1) with a soft brush.Removing the ionising rod►Secure the ionising rod (1) against falling out.►Loosen and remove the nuts (2) and washers (2) of the holders along the beam.►Carefully remove the ionising rod (1) downwards.Installing the ionising rod►Place the new or cleaned ionising rod and hold firmly.►Lightly lubricate the thread and screw firmly the ionising rod to the holders withwashers and nuts.
+
+4.11 Charge device edge area4.11.1 Replacing the brush stripWorn brush strips must be replaced immediately.Requirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.Auxiliary materials• Voltage-insulated tool• Discharging rodSafety WARNINGElectrostatic discharge can cause serious injury from electric shock.►Access is forbidden for people with a heart pacemaker.►Discharge with a discharging rod before beginning work.►Ensure that it is fully discharged.
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 60 
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.Removing the brush strip1 Brush strip2 Hexagon nut3 Hexagon head screw►Discharge the charge device.►Loosen the nuts (2) and screws (3) and remove the brush strip (1).
+
+Replacing the brushstrip
+
+ WARNING
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 61 
+Installing the brush strip►Insert the new brush strip and fix in place with screws and nuts.4.11.2 Replacing the charger rodRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.Auxiliary materials• Voltage-insulated tool• Discharging rodSafety WARNINGElectrostatic discharge can cause serious injury from electric shock.►Access is forbidden for people with a heart pacemaker.►Discharge with a discharging rod before beginning work.►Ensure that it is fully discharged.
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 62 
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.Removing the charger rod1 Supercharger rod2 Hexagon nut3 Nylon screw4 Support►Discharge the charge device.►Disconnect the charger rod from the power supply.►Release the nuts (2) and remove with the washers.►Take the supercharger rod (1) out of the support (4).Installing the charger rod►Insert the new charger rod and fix with distance washers and nuts.►Connect the charger rod to the power supply.
+
+Replacing the char-ger rod
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 63 
+4.11.3 Replacing the rotary cylinders of the charge deviceDefective rotary cylinders must be replaced immediately.Requirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.Auxiliary materials• Voltage-insulated tool• Discharging rod• Allen wrench setSafety WARNINGElectrostatic discharge can cause serious injury from electric shock.►Access is forbidden for people with a heart pacemaker.►Discharge with a discharging rod before beginning work.►Ensure that it is fully discharged.
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 64 
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.Removing the rotary cylinder1 Cheese head screw2 Washer3 Swivel arm4 Rotary cylinder5 Cheese head screws►Disconnect the power supply on the rotary cylinder (4).►Loosen the screw (1) and remove with distance washer (2) from the axle of therotary cylinder.►Pull out the swivel arm (3) with the brush support from the axle.►Release the screws (5) and remove with rotary cylinder.Installing the rotary cylinder►Screw the rotary cylinder to the support with the fixing screws.►Lightly lubricate the axle of the rotary cylinder.►Slide the swivel arm with brush support onto the new rotary cylinder.ð Ensure that the groove in the opening of the swivel arm slides over thespring of the rotary cylinder axis.►Fix the swivel arm with washer and screw onto the axis.
+
+Replacing the rotarycylinder
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 65 
+►Connect the rotary cylinder to the power supply.4.11.4 Adjusting the working width of the charge deviceDescriptionThe working width of the charge device occurs via the working width adjustment ofthe spreading device.4.12 Cross cutting device4.12.1 Turning or replacing the blade of the cross cutting deviceBlunt blades must be replaced immediately. Two-sided ground blades can be turnedonce.Requirement• The winder unit is in Production Mode.• The winding core is taken out.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Cut-resistant protective gloves
+
+Auxiliary materials• Allen wrench set• Climbing aidSafety CAUTIONStationary knives cause cuts.►Do not touch the knives.►Wear cut-resistant protective gloves.Preparation►Swivel the swivel arm into the working position.►Switch the winder unit into Maintenance Mode.
+
+Danger due to mag-netic fields
+
+Powerful magnetic fields occur at the following points:• Drive for the contact roll positioning system (LIWIND®) of the winder unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 66 
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.1 Blade2 Parallel pin3 Clamping element4 Cheese head screwsRemoving the blade►Release the screws (4).►Remove the clamping element (3).►Turn the blade (1) or take out.
+
+Replacing the blade
+
+ WARNING
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 67 
+Installing the blade►Set the new blade on the pins (2).►Replace the clamping element.►Insert and tighten the screws.4.13 Turning unit4.13.1 Replacement of the bearing of the reversing wheel driveRequirement• The machine is ready for maintenance.• The winder unit is in Service Mode.• The winding cores are taken out.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Protective gloves
+
+Auxiliary materials• Standard tool from Brückner• Mounting plate• Torque wrench• Lifting gear and lifting accessories• Lubricants• Wrench set• Allen wrench setSafety DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 68 
+Fixing the reversingwheel on the operat-ing sideFixing the reversingwheel on the drivesideFixing the reversingwheel on the driveside with an adjust-ing device
+
+1 Cover2 Rocker arm►Remove the cover (1) on the inner surface of the operating side.►Lift the rocker (2) with a suitable device.►Push the wedge under the rocker and fix the rocker position in place.ð The reversing wheel is fixed in place.3 Cover4 Rocker arm►Remove the cover (3) on the inner surface of the drive side.►Lift the rocker (4) with a suitable device.►Push the wedge under the rocker and fix the rocker position in place.ð The reversing wheel is fixed in place.Alternatively, the reversing wheel can be fixed in place with an adjusting device.The adjusting device has to be ordered or crafted separately. It is not included in thedelivery scope of the winder unit.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 69 
+1 Set screw2 Adjusting device►Remove the cover on the inner surface of the drive side.►Turn the set screw (1) upwards until the lowest tooth of the reversing wheel isfixed in the groove.1 Metal sheet►Place the metal sheets (1) on the cover.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 70 
+►Turn the adjusting screw downwards until the reversing wheel are supported bythe metal sheets.
+
+Removing the bear-ing support
+
+The removal and installation of the bearing support is implemented in the same wayfor the operating side and the drive side.
+
+1 Pillow block bearing, operatingside3 Bearing cover
+
+2 Plate
+
+►Switch into the Maintenance Mode.►Remove the cover panels on the side of the bearing.►Disconnect the motor from the power supply.►Mark the position of the pillow block bearing (1).►Remove the plate (2).►Suspend the pillow block bearing in the lifting gear.►Release the pillow block bearing and lift off.►Remove the bearing cover (3).
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 71 
+Replacing the bear-ingsInstalling the bearingsupport
+
+Removing the bearing8 Gearbox9 Flange10 Cheese head screws11 Bearing support12 Bearing►Suspend the motor and gearbox (8) in lifting gear.►Release the screws on the flange (9) and take off the motor with gearbox.►Suspend the bearing shaft in lifting gear.►Release the screws (10) and remove with the bearing support (11).►Pull the bearing (12) out of the bearing shaft.Installing the bearing►Mount the new bearing onto the bearing shaft.►Insert the bearing with bearing shaft and spur wheel in the bearing support.►Position the bearing support and screws, and tighten.►Screw the motor and gearbox on the flange of the bearing shaft.►Lubricate the bearings.►Remove excess grease.►Set the bearing support with lifting gear onto the turning unit.ð Observe the markings.►Tighten the screws of the bearing support by hand.►Remove the lifting accessories.►Screw on the plate and align the bearing support with the adjusting screws ofthe plate.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 72 
+►Tighten the screws of the bearing support.►Lower the reversing wheel on the drive side with the lifting device in use.►Lower the reversing wheel on the operating side with the lifting device in use.►Connect the motor to the power supply.►Mount the cover panels.4.13.2 Replacing the gasket of the hydraulic cylinderRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Protective gloves
+
+Auxiliary materials• Wrench setSafety WARNINGDanger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+The replacement of the seals is carried out in the same way for the operating sideand the drive side.Replacing the gasketRemoving the gasket1 Hydraulic cylinder►Remove the covers.►Remove the hydraulic lines on the hydraulic cylinder (1) and check for damage.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 73 
+Installing the gasket►Replace the gasket.ð See the specifications of the manufacturer of the hydraulic cylinder.►Connect the hydraulic lines.ð If necessary, use new lines.►Mount the covers.4.13.3 Replacing the bearings of the reversing wheel detent
+
+It is recommended to always replace both bearing bushings of a bearing support.Requirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Lifting accessories• Lifting gear• Allen wrench set• Lubricants• Wrench setSafety DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+The removal and installation of the bearing of the reversing wheel detent is carriedout in the same way for the operating side and the drive side.
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 74 
+Removing the bear-ing
+
+1 Hexagon head screws2 Reversing wheel detent3 Bearing4 Hexagon head screws►Remove the cover panels.►Secure the toothed wheel against movement with the wedge.►Turning device with hydraulic system: Remove the hydraulic lines and seal.►Turning device with electrical system: Disconnect the electric lines.►Loosen the hexagon head screws (1) and (4).►Pull out the reversing wheel detent (2).4 Bolt5 Retaining ring6 Rocker arm►Suspend the first rocker (6) in lifting gear.►Remove the retaining ring (5).►Pull out the bolt (4).►Take off the rocker.►Repeat the process with the second rocker.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 75 
+7 Bearing bushing8 Shim ring►Remove the shim rings (8) from the bearing support.►Pull out the bearing bushing (7).Installing the bearing►Insert the new bearing bushings in the bearing support.►Position the shim ring.►Lower the rocker above the bearing support and push in lubricated bolts.►Fix the bolts in place with locking plate.►Remove the lifting accessories.►Push the reversing wheel detent under the reversing wheel and screw together.►Turning device with hydraulic system: Connect the hydraulic lines.►Turning device with electrical system: Connect the electric lines.►Mount the cover panels.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 76 
+4.13.4 Replacing the felt gasket of the drive bearingRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat• Safety shoes
+
+Auxiliary materials• Lifting accessories• Lifting gear• Wrench setSafety DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+The replacement of the felt gasket is carried out in the same way for the operatingside and the drive side.Removing the felt gasket1 Felt gasket2 Gearbox
+
+Replacing the feltgasket
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 77 
+►Secure the reversing wheel against movement with the reversing wheel detent.►Suspend the gearbox (2) with motor in lifting gear.►Unscrew the gear flange from the bearing support.►Carefully pull the gearbox with bearing off the shaft.ð Ensure that the form-locking connection of the shaft is not damaged.►Remove the felt gasket (1).Installing the felt gasket►Push a new felt gasket onto the shaft.►Lightly lubricate the shaft.►Push the gearbox with motor onto the shaft and screw together.►Remove the lifting accessories.4.13.5 Replacing the felt gasket of the support rollerRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat• Safety shoes
+
+Auxiliary materials• Lifting accessories• Lifting gear• Wrench setSafety DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 78 
+Replacing the feltgasket
+
+Removing the felt gasket1 Support roll2 Clamping strip3 Pillow block bearing4 Bearing cover5 Felt gasket►Support the reversing wheel centrally.►Remove the cover of the support roll (1) on the turning device.►Suspend the transport eye bolts of the pillow block bearing (3) in the lifting gear.►Unscrew the pillow block (3) bearing and lift off.►Unscrew the terminal strips (2).►Suspend the support roll (1) in the lifting gear and take off.►Unscrew the bearing cover (4).►Remove the felt gaskets (5) on both sides of the bearing.Installing the felt gasket►Push new felt gaskets onto the bearing shaft.►Screw on the bearing cover.►Set the support roll with lifting gear in the pillow block bearing.►Screw on the clamping strip.►Set the pillow block bearing in the turning device and screw on.►Remove the lifting accessories.►Mount the blade cover.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 79 
+4.14 Winding core chuck4.14.1 Replacing the slide plate of the winding core bearingRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Heat-resistant protective gloves• Hard hat
+
+Auxiliary materials• Distance sheets• Allen wrench setSafety WARNINGHot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+Replacing the slideplate
+
+Removing the slide plate1 Cheese head screw2 Slide plate3 Distance sheets►Turn the winding core drive until the slide plate is no longer under pressure.►Loosen the screw (1) and take out.►Pull out the slide plate (2).►Remove the distance shims (3).Installing the slide plate►Insert distance shims.►Push in a new slide plate.►Screw on the slide plate and distance shims.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 80 
+4.14.2 Replacing the gasket of the hydraulic cylinderRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Wrench setSafety WARNINGDanger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.Replacing the gasketRemoving the gasket1 Hydraulic cylinder►Remove the hydraulic lines on the hydraulic cylinder (1) and check for damage.►Replace the hydraulic lines if necessary.Installing the gasket►Replace the gasket.ð See the specifications of the manufacturer of the hydraulic cylinder.►Connect the hydraulic lines.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 81 
+4.14.3 Replacing the safety clamping deviceRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat• Safety shoes
+
+Auxiliary materials• Lifting accessories• Lifting gear• Allen wrench setSafety WARNINGDanger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.Removing the clamping device
+
+Replacing the clamp-ing device
+
+The following figure shows an example. The component can be designed differently.See the manufacturer documentation.1 Safety clamping device2 Cheese head screws
+
+ DANGER
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 82 
+►Briefly pressurise the unlocking connection hydraulically with a minimal unlock-ing pressure, until the locking piece fits in the fixing screws and until the clamp-ing device is unlocked.►Remove the pressure.►Loosen the hydraulic lines of the clamping device (1) and seal.►Suspend the hydraulic cylinder in the lifting gear.►Retract the pistons of the hydraulic cylinder.►Release the cheese head screws (2) and remove the clamping device.►Empty the oil present in the clamping device.Installing the clamping device►Screw a new clamping device, according to manufacturer specifications, on theflange of the hydraulic cylinder.►Extend the piston of the hydraulic cylinder until it sits in the piston guide on theopposite side.►Remove the lifting accessories.►Connect the hydraulic lines of the clamping device.4.14.4 Replacing the bearing and ring of the clamping mechanism
+
+The replacement of the bearing and rings is carried out in the same way for the op-erating side and the drive side.Requirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.• The winding cores are taken out.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Lubricants• Wrench set
+
+Danger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+INFO
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 83 
+Replacing the bear-ings
+
+Removing the bearing1 Cover2 Cone3 Ring4 Bearing5 Ring►Unscrew the cover (1) and remove.►Unscrew the cone (2) on the ring (5) and pull out.►Release the ring (3) and remove.►Pull out the bearing (4).►Pull out the ring (5).Installing the bearing►Push the new ring (5) onto the winding core chuck.►Lightly lubricate the bearing seat.►Push a new bearing onto the support.►Screw on the ring (3).►Push on the cone and screw on the ring (5).►Position the cover and screw on.►Lubricate the bearing through the lubrication nipple on the cone.►Remove excess grease.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 84 
+4.14.5 Replacing the bearing of the grinding ring deviceRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat• Safety shoes
+
+Auxiliary materials• Lifting accessories• Lifting gear• Lubricants• Wrench setSafety DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Replacing the bear-ings
+
+Removing the bearing1 Bearing2 Bearing cover3 Spur gear with torque support4 Clamping plate5 Grinding ring device►Support the turret winder arm.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 85 
+►Suspend the grinding ring device (5) in the lifting gear.►Disconnect the grinding ring device from the power supply and the connectionsof the winding core drives.►Carefully pull the grinding ring device out of the bearing (1).►Unscrew the spur gear with torque support (3) and remove.►Unscrew the clamping plate (4) and bearing cover (2) with toothed lock washerand remove.►Pull out the bearing.Installing the bearing►Lightly lubricate the bearing seat and insert a new bearing.►Position the bearing cover with toothed lock washer and screw on.►Mount the clamping plate.►Position the torque support and screw down.►Insert the grinding ring device and connect.►Connect the power supply.4.15 Core ejector4.15.1 Replacing the gasket of the hydraulic cylinderRequirement• The machine is ready for maintenance.• The winder unit is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Protective gloves
+
+Auxiliary materials• Wrench setSafety WARNINGDanger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 86 
+Replacing the gasketRemoving the gasket1 Hydraulic cylinder2 Cover►Remove the cover (2).►Remove the hydraulic lines on the hydraulic cylinder (1) and check for damage.Installing the gasket►Replace the gasket.ð See the specifications of the manufacturer of the hydraulic cylinder.►Connect the hydraulic lines.ð If necessary, use new lines.►Mount the cover.4.15.2 Replacing the core take ups on the reversing wheelRequirement• The machine is ready for maintenance.• The winder unit is in "Maintenance Mode".Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Protective gloves
+
+Auxiliary materials• Wrench setSafety WARNINGDanger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+Replacing the coretake ups
+
+For the replacement of the core take ups, some distance sheets in various thick-nesses are attached on the reversing wheel.
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 87 
+Removing the core take up1 Core take up2 Distance sheets►Loosen and remove the cheese head screws of the core take up (1).►Remove the core take up.Installing the core take up►Underlay a suitable distance sheet (2).►Attach a new core take up and fix in place with cheese head screws.4.16 Rolls and drives4.16.1 Lubricating roll bearings, gear, linear guides and spindles
+
+Pay attention to the specifications in the service and lubrication table in the "Inter-vals" operating manual.Requirement• The component is in the Maintenance Mode.• All rolls, linear guides and spindles have come to a stop.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Heat-resistant protective gloves• Protective clothing
+
+Auxiliary materials• Bearing grease and spindle oilFor the necessary bearing grease and spindle oil, see the lubricant tableSafety WARNINGHot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 88 
+Lubricating the bear-ing housingLubricating the rollbearingsCleaning and oilingspindles
+
+Danger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.►Fill to at least 20 % when the lubrication nipple is positioned centrally over the oilgroove.►Fill with lubricant to at least 40 % when the lubrication nipple is positioned ex-ternally on the bearing housing.The bearings must be relubricated at the lubrication nipples.►Fill the new bearings completely with grease to avoid damage.►Remove excess grease.►Clean the spindles regularly and oil with spindle oil.►Remove excess oil.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 89 
+5 Taking a winder unit finally out of operationDescriptionThe decommissioning includes the following areas:• Carrying out technical disconnection• Emptying and disposing of the equipment• Disassembling and disposing of machine parts5.1 Carrying out technical disconnectionDescriptionTechnical disconnection includes the deactivation of the power supply, the IPC con-trol and other control devices.Required personnelThis activity may only be performed by specialists.
+
+Energy that ispresent
+
+These kinds of energy are present in an active or ready-to-use winder unit:• Heat energy• Electrical and electrostatic energy• Pneumatic energy• Potential energy (rolls, belts, frame parts, etc.)• Kinetic energy (rolls, swivel devices, etc.)
+
+Electrical energy may lead to ventricular fibrillation, cardiac arrest, respiratoryarrest and severe burns.►Only skilled personnel is allowed to un-install electrical equipment.►All applicable instructions for preventing accidents must be observed.
+
+Residual energy such as compressed air in pneumatic cylinders can lead tosevere injury or death.►Thoroughly dissipate residual energy.►Switch off the power sources permanently and disconnect them from the ma-chine.►Lock out all disconnected interfaces permanently.►Use the safety locks as described in the safety manual.5.2 Emptying and disposing of the equipmentRequired personnelThis activity may only be performed by specialists.LubricantsGearboxes and other movable components can contain lubricants. The lubricantsused and recommended by Brückner and its lubricant manufacturers fulfil all thelegal conditions.►Pay attention to the disposal regulations of the original lubricant container.►Use suitable containers for collecting, storing and transporting used lubricants.Hydraulic oilHydraulic oil is contained in the hydraulics aggregate.
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 90 
+Hydraulic oils irritate the skin and cause toxic vapours.Irritation of skin, eyes and airways.Changes in mental state from solvent vapours.►Only carry out this work if the area is well ventilated.►Do not breathe in the vapours.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.
+
+Environmentally harmful substances.In the case of hydraulic oil, additional measures must be taken for disposal in orderto avoid environmental damage.►When using and disposing of hydraulic oil, be sure to follow manufacturer's in-structions.►Observe the safety data sheet of the manufacturer.►For the collection, storage and transport of used hydraulic oil, use suitable con-tainers.►Collect hydraulic oils separately according to categories.►Follow the disposal instructions of the hydraulic oil original container.
+
+Follow the instructions from the manufacturer of the hydraulic oil for the appropriatedisposal procedure.5.3 Disassembling and disposing of machine partsLocal regulationsDepending on the disposal regulations, it may be necessary to disassemble thewinder unit and separately dispose of the individual materials.All disposal work has to be carried out in accordance with the local regulations anddirectives.
+
+Brückner recommends leaving the disposal to a local disposal company authorisedto provide the necessary supporting documents verifying proper disposal.
+
+ WARNING
+
+ CAUTION
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 05 - OperatingManual-WinderUnit - Pag 91 
+6 Technical dataLine componentWinder unitTypeBOPET PMM 10m1800ResinPET
+
+Identification of theline component
+
+General dataComponentsDataMaximum working width10400 mmOperating sideRight
+
+Hydraulic cylinder of the cutting and lay-onarm
+
+32.6 kg
+
+Maximum noise emission85 dB(A)Winding coressee specifications of BrücknerDrivessee manufacturer documentationRollsType of rollSurfaceTension measuring rollVarnishContact rollRubberNameplateThe nameplate is used for the unique identification of the machine. It is mounted onthe machine in such a way that it is clearly visible.The nameplate always contains the following fields:The fields have the following meanings:FieldDescriptionKom.Nr.:Commission numberMaschine:Brief description of the machineStruktur:Structure number of the machineBaujahr:Year of construction of the machine
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,981 @@
+
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 1 
+Operating manualInline coating deviceP.1932 SHB
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 2 
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 3 
+ImprintThis operating manual is part of the equipment supplied by Brückner MaschinenbauGmbH & Co. KG - hereinafter called Brückner - and describes the necessary pro-cedures for the proper use of the film production line and the associated machines.CopyrightNo part of this operating manual may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical or by recording orotherwise without the prior permission by Brückner. The copying, distribution andutilisation of this operating manual in printed or electronic form as well as the com-munication of its contents to others without expressed authorisation is prohibited.Offenders will be held liable for the payment of damages possibly arising from unau-thorised use.All product names used in this operating manual are trademarks of the respectivecompanies.DisclaimerBrückner declines any liability or responsibility for consequential, collateral or indi-rect damage that results from non-compliance with this operating manual.Patent protectionAll rights reserved in the event of the grant of a patent, utility model, or ornamentaldesign registration. Brand and product names are trademarks or registered trade-marks of their respective companies or organisations.LanguageThe original operating manual was produced in German. All translations are basedon the language of the original operating manual.ChangeThe contents of this operating manual are subject to change by Brückner withoutnotice.We reserve the right to make technical changes.We welcome your suggestions concerning the improvement of our products and ofthis operating manual.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 4 
+PublisherStreet addressBrückner Maschinenbau GmbH & Co. KGKönigsberger Str. 5-783313 Siegsdorf/GermanyPostal addressBrückner Maschinenbau GmbH & Co. KGPO Box 11 6183309 Siegsdorf/GermanyContactInternethttp://www.brueckner.comServicePhone: +49 8662 63-9379Fax: +49 8662 63-9370E-Mail: servtec@brueckner.comSales departmentPhone: +49 8662 63-9510Fax: +49 8662 63-9101E-Mail: sales@brueckner.comDocumentationPhone: +49 8662 63-0Fax: +49 8662 4965-71-9220E-Mail: doku@brueckner.com
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 5 
+Table of contents1 Scope of the operating manual................................................................................................................. 72 Function ...................................................................................................................................................... 92.1Intended use....................................................................................................................................... 92.2Complete overview............................................................................................................................. 92.3Corona treatment station.................................................................................................................. 142.4Rolls and rollers................................................................................................................................ 162.5Safeguards....................................................................................................................................... 182.6Process control system .................................................................................................................... 182.7External documents.......................................................................................................................... 193 Operation .................................................................................................................................................. 213.1Duties of the operating personnel .................................................................................................... 213.2Safety ............................................................................................................................................... 213.2.1General danger spots of the complete line........................................................................  213.2.2Corona treatment station and ozone exhaust system.......................................................  243.2.3Coating station ..................................................................................................................  253.3Operating modes of the inline coating device ..................................................................................  263.4Activities to be carried out prior to starting up the line......................................................................  274 Fault elimination....................................................................................................................................... 294.1Recommendations ........................................................................................................................... 294.2Malfunction overview inline coating device ...................................................................................... 295 Maintenance.............................................................................................................................................. 315.1General instructions ......................................................................................................................... 315.2Duties of the maintenance personnel............................................................................................... 335.3Safety instructions............................................................................................................................ 335.3.1General danger spots of the complete line........................................................................  345.3.2Corona treatment station and ozone exhaust system.......................................................  385.3.3Coating station ..................................................................................................................  385.3.4Rolls ..................................................................................................................................  395.4Inspection and service intervals ....................................................................................................... 395.5Preparing for maintenance............................................................................................................... 395.6Spreading device.............................................................................................................................. 395.6.1Adjusting the spreading device .........................................................................................  395.6.2Setting the driven spreading device ..................................................................................  425.7Spreading roll ................................................................................................................................... 455.7.1Adjusting the spreading roll...............................................................................................  455.8Corona treatment station.................................................................................................................. 465.8.1Setting the corona treatment unit ......................................................................................  465.9Cartridge........................................................................................................................................... 475.9.1Removing the cartridge .....................................................................................................  475.9.2Installing the cartridge .......................................................................................................  505.10 Gravure roll....................................................................................................................................... 53
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 6 
+5.10.2Installing the motor of the gravure roll...............................................................................  565.10.3Removing the gravure roll .................................................................................................  595.10.4Installing the gravure roll ...................................................................................................  625.11 Pneumatic system............................................................................................................................ 665.11.1Checking and setting the pneumatic system.....................................................................  665.12 Cleaning ........................................................................................................................................... 675.13 Checking the filter in the coating medium circuit and replacing if necessary ...................................  676 Taking the inline coating device finally out of operation ..................................................................... 696.1Carrying out technical disconnection................................................................................................ 696.2Emptying and disposing of the equipment ....................................................................................... 696.3Disassembling and disposing of machine parts ...............................................................................  707 Technical data .......................................................................................................................................... 71
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 7 
+1 Scope of the operating manual
+
+Scope of the operat-ing manualManufacturer docu-mentation and manu-facturer list
+
+This operating manual provides an overview of the components of the inline coatingunit. Many components originate from suppliers and are described in the respectivemanufacturer documentation.Further information on the components can be found in the manufacturer's docu-mentation (see "Manufacturer list").
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 8 
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 9 
+2 FunctionIntroductionThis chapter contains information on the intended use and the description of the ba-sic functions of the components. Here, above all, those functions that are necessaryfor operation and maintenance have been taken into account.In addition, this chapter contains a description of the active and passive safeguards.2.1 Intended useIntended useThe inline coating device is a component of the film production line.Functions of the inline coating device• Both sided or, optionally, one-sided (top or bottom) coating of the film with thecoating machines• Transporting the film with the driven rolls• Guiding the film with the rolls• Preparatory treatment of the surface of the film by means of corona treatmentstation. The corona treatment station must only be used with certain film materi-als. For more details, see the manufacturer documentation. The corona treat-ment station must not be used for metallised material webs.Any use other than the one described above is considered to be in violation of theintended use.The manufacturer cannot be held liable for personal injury and damage to propertythat arise from use of the machine other than for its intended use.DisclaimerAny use that goes beyond the designated use is forbidden. Brückner accepts no li-ability for any consequential damage. Improper use can present danger to life andlimb, the machine and connected equipment, and to the efficient operation of themachine.
+
+Risk assessment andwork instructions
+
+The operating company has to carry out a risk assessment and create operating in-structions for the handling of the machine.Inputs listed in this operating manual for personal protective equipment are basedon the risk assessment taking into consideration the experience with film productionand film stretching lines. The actually occurring hazards can deviate in individualcases. In this case, the measures of the hazard assessment of the operating com-pany must be taken into consideration and applied.
+
+2.2 Complete overviewThe inline coating unit consists of only one component. This component includesthe components for corona treatment and coating of the film.In this documentation, therefore, the terms "inline coating unit" and "coating station"are used as synonyms.Usually, in the "Coating station" application, components for coating the film are de-scribed.In the "Corona treatment station" application, the components for corona treatmentof the film are described.
+
+Overview of the inlinecoating device
+
+The following figure shows a complete overview of the inline coating device.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 10 
+1 Film path2 Corona treatment station 2
+
+3 Adjusting device for kiss-coatroll5 Gravure roll 2 with inline coatingdevice 2
+
+4 Gravure roll 1 with inline coatingdevice 16 Coating medium supply
+
+7 Platform8 Corona treatment station 19 Film threading aidCoating modesThe inline coating device can be operated in the following coating modes.• Coating on both sides– The film is coated on both sides. Each gravure roll coats one film side.• One-sided coating from above– The top of the film is coated by gravure roll 1.• One-sided coating from below– The bottom of the film is coated by gravure roll 2.• Bypass– The film is not generally coated.
+
+Forward and reversecoatingTemperature settingcircuits
+
+The gravure roll can move in the film direction or against the film direction:• Forward coatingThe gravure roll moves in the film direction.• Reverse coatingThe gravure roll moves against the film direction.The gravure roll and the coating medium supply are heated by temperature settingcircuits. The heat transfer medium is water.The temperature of the heat transfer medium is measured with temperature sensorsand monitored with the system control.
+
+Coating chamberThe coating chamber can be manually started up or shut down and stopped.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 11 
+The following positions of the coating chamber can be distinguished:• Working position• Park positionFor further information, see "Line operation manual".The edge-free rolls or edge-free strips are mounted on one side behind the coatingstation. They prevent the coating of the film borders and the contamination of partsin contact with the film. Otherwise, the film could slip out of the clips in the trans-verse direction orienter.To slide out the cartridge, remove it and turn the edge-free rolls by at least 160°.The film web is tightened in the transverse direction by the spreading device in or-der to smooth the wrinkles in the area of the coating machine resulting from the lon-gitudinal stretching process (machine direction orienter) and to ensure a more uni-form film path.The film edges are guided between two rollers that are pressed against each other.The lower spreading roller is rubber coated, the upper spreading roller is made ofaluminium.The film edges are always pulled outwards by the slight angular position of the rollerpair. This keeps the film taut.The spreading device can be moved by a handwheel or automatically on a shifterspindle in the transverse direction in order to adapt the spreading device to theworking width of the material web.The dividable operating platform is located between the frames. The operating plat-form has two removable segments. The segments can be opened for threading thepreliminary strip into the inline coating device. The stairs at the sides are movableand can be locked to the platform.The roll change device is used for removing and installing the gravure roll. The grav-ure roll sits on the cartridge and can be moved out laterally on frames during opera-tion.1 Cartridge with gravure roll2 Roll carriage
+
+Edge-free rolls andedge-free stripsFilm spreadingdeviceDividable operatingplatformRoll change devicecartridge
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 12 
+Carriage for gravurerollDischarge deviceswith discharging bars
+
+The gravure roll with coating chamber can be moved laterally out of the frame of thecoating station with a carriage.Moving out the gravure roll with the carriage is applied in the following cases:• Cleaning of the gravure roll and coating chamber.• Replacement of the gravure roll.• For general maintenance purposes, e.g. cleaning of the scraper blade.Discharge devices with discharging bars are installed at several points of the inlinecoating device.The discharging bars fulfil the following functions:• Avoidance of electrostatic discharges between the film and operator.• Increased safety of the entire line.The electrostatically charged film is actively discharged with the discharging bars.The discharging bars are operated with high voltage.Discharging is carried out via a series of emission tips which are affixed to the dis-charging bar.
+
+The following figure shows an example. The figure is not necessarily identical toyour line.1 Discharging bar2 Emission tipPneumatic cabinetThe pneumatic cabinet in the inline coating unit contains all valves and pneumaticperipherals for the corona treatment station and the coating station.A pressure sensor within the service unit monitors the pressure in the pneumaticsystem. The pressure sensor issues an alarm if the pressure falls below a specificminimum value or exceeds a certain value (pressure peaks).
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 13 
+Edge lifting rollsConical edge lifting rolls are mounted on one side of the coating station. They pre-vent the coating of the film borders and the contamination of parts in contact withthe film. Otherwise, the film could slip out of the clips in the transverse direction ori-enter.Film threading aidThe film threading aid is used for threading the film. For further information, see"Line operation manual".1 Film threading aid2 Roller chain3 Chain wheel
+
+Coating medium sup-ply
+
+The coating medium is pumped from the supply tanks (9) of the coating mediumsupply using a lobe pump (3) through the filter (1) into the coating chamber. Theflow sensor (2) regulates the mass flow. The fill level sensor (8) monitors the fillingheight of the tank.In coating mode, the gravure roll receives the coating medium from the coatingchamber and transfers it onto the surface of the film.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 14 
+Excess coating medium flows back into the foam settling tank and here mixes withthe fresh mass again.1 Filter2 Flow sensor3 Rotating piston pump4 Valve unit5 Carriage6 Foam settling tank7 Heating and cooling8 Leveller sensor9 Supply tank2.3 Corona treatment stationPurposeThe corona treatment prepares the surface of the film for subsequent coating.The film surface is subjected to an electrical corona discharge. Due to the coronadischarge, the polarity of the surface and the surface tension is increased which en-ables better adhesion of the coating material.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 15 
+ComponentsThe corona treatment station consists of the following components:• Frame for the support of:– guide rolls– Corona discharge system• Corona discharge system– Corona discharge station– Corona generator• Ozone exhaust system
+
+Schematic diagramof corona dischargestation
+
+The following image shows a schematic diagram of the corona discharge station.1 Film2 Corona treatment roll
+
+3 Corona electrode, shown with15 fins (small tube)
+
+4 Support with swivelling mechanism
+
+5 Ozone exhaust system6 Cover/HoodFunctionA driven corona treatment roll and a corona electrode are components of the coronadischarge station.With an inline coating device for PET film, the corona treatment station can becooled optionally.With an inline coating device for PP film, the corona treatment station is cooled.The corona electrode including cover panel can be lifted and lowered with pneu-matic cylinders on the drive side and the operator side linearly.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 16 
+The following positions of the corona electrode must be distinguished:• Working position:Corona treatment and ozone exhaust system.• Park position:– Threading the film into the corona treatment station and the coating unit.– Cleaning and service work.A corona generator supplies the electrical energy for the corona treatment. The en-ergy of the corona generator, and with it the effectiveness of the corona treatment(treatment intensity), can be adjusted via the visualisation.Corona dischargeDuring the corona treatment, the film is subjected to a corona discharge. Thecorona discharge is a high-voltage electrical discharge which takes place betweenthe earthed corona treatment roll (2) and the corona electrode (3). The high voltageis generated by the corona generator.Several corona fins are mounted on a support (4) inside the cover panel (6) andform the corona electrode.The corona fins are made of stainless steel pipe and are solid. Due to the pipe ver-sion of the corona fins, the cooling is better and, thus, the wear less. In the support,the bedding of the electrode is executed in such a way that unhindered thermal ex-pansion is possible.
+
+Ozone exhaust sys-tem
+
+Ozone (O3) is released during the corona treatment. Because ozone is harmful tohealth, the ozone must be extracted by ozone exhaust system (5).
+
+Overview of therollers and rolls
+
+2.4 Rolls and rollersThe following figure shows an overview of the rollers and rolls of the inline coatingdevice.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 17 
+Rolls and rollers
+
+Pos. Roll/ RollerRoll surfaceDrive for turningthe rolls
+
+1 Spreading rollers1x aluminium, 1xrubber
+
+NoNo
+
+2 Idler roll 1AluminiumNoNo-3 Corona treatment roll 2CeramicYesNo-4 Gravure roll 1CeramicYesYesChilled water5 Kiss-coat rollAluminiumYesNo-6 Gravure roll 2CeramicYesYesChilled water7 Idler roll 3AluminiumNoNo-8 Idler roll 4AluminiumNoNo-9 Spreading rollRubber/HypalonNoNo-
+
+10 Spreading rollers1x aluminium, 1xrubber
+
+OptionalNo
+
+11 Idler roll 2AluminiumNoNo-12 Corona treatment roll 1CeramicYesNo-Corona treatment rollFor information for corona treatment roll, see Corona treatment station [} 14].Spreading rollThe film is guided over the spreading roll. The film edges are always pulled outwardby the bowed shape of the spreading roll. This keeps the film tight.Guide rollThe guide roll is used for changing the direction of the film or for guiding the film tothe next roll or machine.Kiss-coat rollThe kiss-coat roll is used for setting the angle of contact or the meniscus betweenthe gravure roll and film.
+
+Heating andcooling
+
+Type of heatingand cooling
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 18 
+Angle of contact andmeniscus
+
+The section of the film which has contact with the roll is designated as the menis-cus. The meniscus therefore specifies the length of the circular arc (in mm).The angle of contact indicates the contact area (in angular degrees) between theroll and film.α Angle of contactM Meniscus
+
+Gravure rollThe gravure roll receives the coating medium from the coating chamber and trans-fers it onto the film.
+
+Temperature checkof the gravure roll
+
+The gravure roll must be cooled for the following reasons:• To prevent drying of the coating medium.The drying is favoured by the warm film surface and the friction heat betweenthe gravure roll and the film (relative movement of roll/film). The gravure rollturns with a relative speed to the film of up to 230% (reverse mode (= 200%) +30% overspeed).• To enable the formation of condensate on the roll surface. The condensate pre-vents drying of the coating medium in the coating station and favours the clean-ing process of the gravure roll.
+
+2.5 SafeguardsSafeguardsAn overview of the safeguards can be found in the "Line overview" operatingmanual.Information on the safeguards can be found in the "Safety manual".2.6 Process control system
+
+Process control sys-tem
+
+The control and the visualisation of the inline coating device take place with the pro-cess control system. The process control system from Brückner is called IPC (Integ-rated Process Control).WinCC OA is the visualisation of the process control system. The visualisation en-ables easy and user-friendly communication with the inline coating device via thecontrol knobs.The following control knobs are available:• Operator panels• Individual control knobs• Computer in the control room or the control roomsInformation on the control knobs can be found in the "Line overview" operatingmanual.For information on WinCC OA, see the online help.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 19 
+2.7 External documentsExternal equipmentApart from the self-manufactured components, the machine also contains externallysourced or already existing components, hereinafter referred to as external equip-ment.External documentsThis external equipment is supplied with instruction leaflets, manufacturer’s informa-tion, operating, installation, adjustment and service instructions and/or other user in-formation, hereinafter referred to as external documents.
+
+Replacement, main-tenance, operation
+
+External documents must also be read and observed, particularly in case of replace-ment or maintenance.When replacing external equipment, the enclosed instruction leaflets must be ob-served.The operation of the external equipment is not described in these instructions. Therespective external document is only referred to.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 20 
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 21 
+3 OperationThis chapter describes the operation of the machine.The machine is usually used in a film production line. For this case, the operation ofthe line is described in the "Line operation" operating manual.
+
+Line operationmanual and manufac-turer documentation
+
+The operation of the inline coating unit is described in the line operation manual andin the manufacturer documentation.
+
+3.1 Duties of the operating personnel
+
+Duties of the operat-ing personnel
+
+• The operating personnel must be trained in the operation of the machine andmust have read and understood the operating manual.• Personal protective equipment must be worn according to the activities to becarried out. The personal protective equipment used must be able to fulfil itsfunction.• Do not bypass safeguards.• The control room and the machine must be manned with qualified operating per-sonnel during operation.• Make sure that no persons are exposed to danger.• In the event of irregularities, the responsible person must be informed.• The machine must be clean.• Only approved auxiliary materials must be used.
+
+3.2 SafetyIntroductionIn addition to the following safety regulations, the generally valid legal directives andother binding regulations regarding accident prevention and environmental caremust be observed.
+
+Personal protectiveequipmentObserving the manu-facturer documenta-tion
+
+Always wear protective clothing and safety shoes when remaining at the line. Addi-tional protective equipment is required for certain activities.Please strictly observe the safety instructions in the manufacturer documentation.
+
+Further informationAdditional safety information can be found directly where the activities are describedand in the safety manual.3.2.1 General danger spots of the complete line
+
+General safety in-structions
+
+The presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 22 
+Surfaces (e.g. of motors, rolls, film spreading devices, heated components)can be hot.This can lead to severe burns.►Do not touch hot surfaces.►Do not touch the hot film.►Wear protective gloves.►Wear protective clothing.
+
+Moving machine parts can crush, entangle, draw in and crash into body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Keep away from the area of movement.►Wait for the machine to come to a standstill.►Before actuating the machine parts, ensure that no one is located in the dangerzone.
+
+Rotating machine parts can draw in clothing and body parts.This can lead to serious head and body injuries.►Wear close-fitting clothing.►Wear a hairnet if necessary.►Do not reach into the vicinity of rotating machine parts.►Do not go through under a running film track.►Wait for the machine to come to a standstill.►Before starting, ensure that no one is located in the danger zone.In case of a power failure, driven rolls can no longer be braked.
+
+Raw materials emit vapours and gases, which cause irritation of skin, eyesand airways.►Ensure that the exhaust system is running effectively.►Follow the safety data sheets of the raw material manufacturer.
+
+In case of darkness or shadow, there is a danger of accident.This can lead to head injuries and serious bodily injury.►Ensure there is sufficient lighting.
+
+During the movement of the kiss-coat roll, there is a danger of crushing.Finger injuries can occur.►Ensure that no-one is located in the danger zone.
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 23 
+Uncontrolled electro-static discharge dueto charged film orrollsWorking at greatheightsDanger due to unex-pected movementsand emissionsDanger of cutting andimpact injuries
+
+Uncontrolled electrostatic discharge due to charged film or rolls.This can lead to serious injury from electric shock.►Persons with active medical accessories (e.g. pacemakers, insulin pumps, hear-ing aids) are forbidden from remaining at and dealing with film or rolls.►Before working in the vicinity of electrostatically charged film or rolls, dischargethese parts.
+
+There is a danger of falling when working on elevated parts of the line.This can lead to serious injury.►Wear a safety harness.►Use suitable ascent supports.
+
+Ascents and descents present a danger of slipping and tripping.This will lead to serious injury.►Ascend and descend with care.►Wear a hard hat.
+
+Unexpected movements can be caused by faults or service work in the pneu-matic system or hydraulic system.This can lead to serious injury.►Prior to service work, switch the pneumatic system so it is depressurised.►Disconnect the hydraulic system prior to service work.►Wait until the standstill position is reached.►Only switch pneumatic valves manually when no one is located in the dangerzone.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.
+
+A fast running film edge can cause serious cutting injuries.►It is forbidden to remain in or at the film path.►Keep your distance.
+
+Sharp film edges, knives or paper shears can cause cutting injuries.►Wear cut-resistant protective gloves.
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 24 
+Sharp edges or protruding parts can cause cutting and impact injuries.►Wear cut-resistant protective gloves.►Wear long, close-fitting clothing.►Wear a hard hat.►Eliminate sharp corners and edges.
+
+Danger of slippingand danger of trip-ping
+
+Danger of slipping on wet floors.This can lead to head injuries and serious bodily injury.►Wear non-slip shoes.►Do not step on soiled areas.►Close off access to soiled areas.►Remove leaked fluid immediately.►Keep the workplace and corridors clean.
+
+There is a danger of slipping and danger of tripping due to film on the floor.This can lead to head injuries and serious bodily injury.►Do not step on film residues.►Immediately remove film residues.►Keep the workplace and corridors clean.
+
+There is a danger of slipping and danger of tripping on uneven floors.This can lead to head injuries and serious bodily injury.►Do not step on uneven areas.►Remove any uneven areas and danger of tripping.3.2.2 Corona treatment station and ozone exhaust systemRequirementsIn addition to the following safety instructions, the documentation of the manufac-turer must be heeded.Electrical hazards DANGERHigh voltage in the electrodes area in operating state.Touch of high voltage may lead to death and long term damages to the health.►Do not touch the electrode area.►Do not remain in the vicinity of the electrode area. This can result in spark dis-charges.
+
+ CAUTION
+
+ CAUTION
+
+ CAUTION
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 25 
+Irritation of the eyesand airways
+
+Ozone emission at the corona treatment station causes extreme irritation ofthe eyes and airways.►Check that the exhaust system is functioning properly before starting production.►Ensure a permanent ozone exhaust system when the corona treatment stationis in operation.►If there is a smell of ozone in the hall, check the ozone exhaust system forleaks.
+
+Hazard from noiseOperation of the ozone exhaust system can cause noise.
+
+Constant noise > 85 dB causes permanent damage to the hearing.►Wear ear protection.
+
+Hazard from ultravi-olet radiation
+
+During the corona treatment, ultraviolet radiation is generated.Ultraviolet radiation can damage the eyes.►Wear safety goggles.
+
+Mechanical hazards CAUTIONEmission tips of the discharging bars can cause stabbing injuries and cuttinginjuries.►Wear cut-resistant protective gloves.Further informationFor more information, see "Corona treatment station and rolls" in the "Rolls androllers" operating manual.3.2.3 Coating stationRequirementsIn addition to the following safety instructions, the documentation of the manufac-turer must be heeded.
+
+Inhalation of evapora-tion products
+
+The coating medium can contain solvent.
+
+Solvents cause noxious vapours.These can lead to irritation of the skin, eyes and airways as well as to changes inmental status from solvent vapours.►Only carry out this work if the area is well ventilated.►Do not breathe in the vapours.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.
+
+ DANGER
+
+ WARNING
+
+ CAUTION
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 26 
+3.3 Operating modes of the inline coating deviceExplanationThere are 3 operating modes. They ensure that it is safe to work on the line com-ponent. Each operating mode makes different functions available.• Production ModeThe line component can be put into operation in Production Mode.• Service ModeService Mode is used for cleaning and inspection.• Maintenance modeMaintenance Mode is used for mechanical maintenance work. For all othermaintenance work or modifications, further protective measures must be taken.Voltage may be present on the drives.Operating modes ofthe inline coatingdevice
+
+Functions"Produc-tion Mode"
+
+Operation of the corona treatment station is possible.YesNoNo
+
+Operation of the driven rolls is possible.• Corona treatment roll• Gravure roll
+
+YesNoNo
+
+Operation of the corona treatment roll is possible.YesNoNoOperation of the gravure roll(s) is possible.YesNoNoOperation of the driven spreading rollers is possible.YesNoNoOperation of the electrodes of the discharge device is possible.YesNoNoMovement of the kiss-coat roll is possible.YesNoNo
+
+The pneumatic system is supplied with compressed air.The pneumatic movements of the following components are possible:• Spreading rollers of the spreading devices• Corona treatment stationThe operation of the pumps for the coating material supply is pos-sible.
+
+YesNoNoYesYesNo
+
+Operation of the threading chain is possible.YesNoNoWhen leaving Production operating mode, the following actions are triggered in the pneumatic system:• The rollers of the spreading devices remain stationary in the current position.• The corona treatment station is moved into the park position.• The pneumatic system is ventilated.When changing to Maintenance operating mode, an emergency stop machine is carried out. The ProcessControl System triggers actionsSafety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+"ServiceMode"
+
+"Mainten-anceMode"
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 27 
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.►Change the operating mode. Turn the key switch on the operator panel to therequired operating mode.►When entering the danger zone, take along the key.►Ensure that no one is located in the danger zone.►Change to Production Mode. On the operator panel, turn the key switch to[ production ].ð The locking devices that became active by leaving Production Mode areeliminated.ü The [ pneumatic reset ] push button flashes on the operator panel.►Reset the pneumatic system to the defined default status. Press [ pneu-matic reset ] on the operator panel.If emergency stop machine was triggered by the change of operating modes, pro-ceed as follows:ü The [ fault reset ] push button flashes on the operator panel.►Set the start release. On the operator panel, press [ fault reset ].
+
+Switching to "ServiceMode" or "Mainten-ance Mode"Changing to "Produc-tion Mode"
+
+3.4 Activities to be carried out prior to starting up the line
+
+Line operationmanual and manufac-turer documentation
+
+In addition to the following information, the line operation manual and the respectivemanufacturer documentation must be heeded.
+
+General activitiesPrior to starting up the line, the following general activities must be carried out:►Carry out a visual inspection of the complete line.►Ensure that all displayed malfunctions have been eliminated.►Ensure that all safeguards are mounted and functioning.►Ensure that no one is located in the danger zone.►Take measures to ensure the safety of the persons.►Inform all persons on the film production line that the line is being started up.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 28 
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 29 
+4 Fault eliminationIntroductionATTENTIONImproper decommissioning and start-up causes damage to the downstreammachines.►Only authorised personnel may switch off and start the components.If faults that are not described in this document occur, please contact the manufac-turer.Faults may only be eliminated by qualified personnel.4.1 RecommendationsMeasures►Immediately alert the service personnel if malfunctions occur.►Have the components checked by specialists.►Only operate the components after eliminating the malfunction.TrainingIf the operator wishes to have company personnel remedy malfunctions, the manu-facturer's customer service offers special training courses.4.2 Malfunction overview inline coating deviceIntroductionThis table provides information about miscellaneous operating faults.The table contains the following information:ProblemDescription or type of faultCauseList of possible causesMeasuresInformation for eliminating the malfunction
+
+If faults that are not described in this document occur, please contact Brückner cus-tomer service.Troubleshooting WARNINGImproperly executed troubleshooting measures can lead to serious injuries ormachine damages.►Read the general safety handbook and the chapter on safety before attemptingcleaning or troubleshooting procedures.►Work on electrical systems and equipment may only be performed by qualifiedpersonnel.►Keep hands clear of the area around moving machine parts.►Wait until the machine comes to a standstill.►Prior to starting, make sure that there are no persons in the danger area.
+
+Further informationon safety
+
+Additional safety information can be found directly where the activities are describedand in the safety manual.
+
+Malfunction overviewinline coating deviceProblemCauseMeasuresLoud noise in the roll bearingLack of bearing grease►Lubricate the bearings.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 30 
+ProblemCauseMeasuresRoll not runningRoll drive defective►Replace the drive.
+
+Motor overheatsThe strainer in the water cooling iscloggedFilm warpingPreliminary line components in-correctly set
+
+►Clean the strainer or replace it.►Set the line components correctly.
+
+Spreading roll incorrectly set►Check and set the spreading roll.See the manufacturer documenta-tion.Spreading device incorrectly set►Check the inclination of thespreading roller and adjust.Spreading roller defective►Replace the spreading rollers.
+
+Bearings of the spreading rollersdefective
+
+►Lubricate or replace the bearingsif necessary.
+
+Spreading rollers do not close►Check the pneumatics of therotary cylinder.►Lubricate or replace the bearingsif necessary.
+
+Marks on the filmSurface of a corona treatment rollworn
+
+►Replace the corona treatment roll.
+
+Surface of the roll irregularly worn►Check the roll and replace if ne-cessary.Smell of ozoneOzone exhaust system congested►Check air supply and clean if ne-cessary.
+
+Fan of the ozone exhaust systemdefective
+
+►Replace the fan. See the manu-facturer documentation.
+
+The pump of the coating materialsupply is not conveying
+
+Wrong rotation direction►Check the rotation direction.
+
+No run-on of coating mediumFeed valve faulty►Check feed valve.
+
+Coating medium supply feedfaulty
+
+►Check feed and repair is neces-sary.
+
+Supply tank empty►Top up supply tank.Compressed air not connected►Connect to compressed air.Filter clogged►Change the filter insert.
+
+Volume flow rate does not stopafter filter
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 31 
+5 Maintenance
+
+Line operationmanual and manufac-turer documentation
+
+In addition to the following information, the line operation manual and the respectivemanufacturer documentation must be heeded.
+
+5.1 General instructionsMaintenanceMaintenance ensures a long service life and high performance of the machine orline.Maintenance includes:• inspection• repair• serviceAll maintenance work carried out and all faults found must be recorded in a main-tenance record.InspectionInspection includes:• Periodic, continuous checking and recording of the current status.• Determining the causes of wear.• Derivation of the necessary consequences for future use.RepairDuring repair work, damaged parts must be replaced to avoid injury to persons andmaterial damage and to restore the required condition of the machine or line.Repair includes the following activities:• repair of damaged components• replacement of components
+
+Damaged parts can cause material damage and injury to persons.ü Only mount undamaged parts. This is also valid for parts with which the spareparts are attached.►Before installation, check the spare parts for function, quality, fit, stability andsurface quality.►It is recommended to only use original spare parts which can be clearly as-signed based on their identification number. This is especially valid with highlystressed machine parts such as parts that are under pressure and subject tohigh temperature and other safety relevant parts.
+
+Only allow repair work to be performed by authorised, qualified specialists.corrosion protectionATTENTIONFor prolonged periods of machine standstill, it is possible for components tocorrode.The strength of the components is no longer guaranteed.►For machine standstills or storage, put sufficient corrosion protection on all com-ponents.
+
+ATTENTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 32 
+Service WARNINGCleaning with unsuitable media can lead to explosions.Explosion hazard due to hot surfaces.►Only use prescribed cleaning agents.►Wear safety goggles.Service includes periodic activities to ensure an appropriate operating status of themachine or line.Servicing includes the following activities:• cleaning• conservation• lubrication• settingRecommendations►Disassemble the individual parts of a module only as far as necessary.►Mark down how the disassembled parts fit together for reassembly.►During repairs, damaged components must be replaced to avoid danger to per-sons and/or material damage and to put the unit back into its optimum opera-tional state.►For replacing the parts of the line, use the corresponding drawings and partslists.ð See the spare parts catalogue.►Only use high-quality tools and auxiliary materials. Use the special tools andauxiliary materials supplied.►Only use original parts or approved parts.ð Non approved parts will lead to loss of the warranty.►Keep a service record.ð This protocol helps in noting necessary repairs that cannot be carried outduring production. These repairs can be carried out later during routine ser-vice.►Carry out all checks to ensure operational readiness. Ensure that nothing hasbeen forgotten in the machine/line.►Following maintenance work, check the impermeability and tightness of thescrew connections.►Perform a test run.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 33 
+Ordering spare partsFor spare parts of delivered units, the data noted on the nameplate/manufacturer’splate of the respective unit has to be specified.• order• material number• year of delivery• machine type
+
+For localisation and identification of the part numbers, see the spare parts cata-logue.
+
+The guarantee and warranty for the respective plant components are only valid foruse with authorised spare parts, equipment and consumables.
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+StandstillFor prolonged periods of machine standstill, special measures and media are re-quired for conservation.►Contact Brückner for further information.5.2 Duties of the maintenance personnel
+
+Duties of the main-tenance personnel
+
+• The maintenance personnel must be trained for their activity or have appropriateprofessional experience.• The maintenance personnel must have read and understood the operatingmanual and further information.• Personal protective equipment must be worn according to the activities to becarried out. The personal protective equipment used must be able to fulfil itsfunction.• Make sure that no persons are exposed to danger.• Only approved auxiliary materials must be used.
+
+5.3 Safety instructionsIntroductionIn addition to the following safety regulations, the generally valid legal directives andother binding regulations regarding accident prevention and environmental caremust be observed.Safety instructionsAlways pay attention to the following safety instructions:►Pay attention to the safety regulations referred to here as well as the safety reg-ulations referred to in the safety manual at all times.►Inform the operating personnel in advance of any maintenance work to be car-ried out on the plant/machine.►Appoint a supervisor.►Before carrying out heavy lifting work, make sure that you have suitable liftingequipment and transport equipment which is in proper working order.►Properly dispose of oil, cleaning agents and other substances that are harmful
+
+INFO
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 34 
+Personal protectiveequipment
+
+Additional information on safety can be found in the manufacturer‘s instructions.Always wear protective clothing and safety shoes when remaining at the line. Addi-tional protective equipment is required for certain activities.
+
+5.3.1 General danger spots of the complete line
+
+General safety in-structions
+
+The presence of persons in the danger zone of the line can lead to life-threat-ening injury.►Persons must not stand in the danger zone.►Do not perform service and cleaning work under production conditions.
+
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Faulty or ineffective safeguards.The protective function is lost.Life-threatening situations or very serious injuries may occur.►Put the safeguards back in place after the maintenance work is complete.►Check that the safeguards are operating correctly and effectively.►Do not bypass safeguards.►Do not render safeguards ineffective.►Do not change the arrangement of the safeguards.
+
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+ DANGER
+
+ DANGER
+
+ DANGER
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 35 
+Rotating machine parts can draw in clothing and body parts.This can cause life-threatening injury.►Wear close-fitting clothing.►Wear a hairnet if necessary.►Do not reach into the vicinity of rotating machine parts.►Wait for the machine to come to a standstill.►Before starting, ensure that no one is located in the danger zone.►Before safeguards are removed or opened, switch off all fans, pumps and drivesand secure against being switched on again.
+
+Surfaces (e.g. of motors, rolls, film spreading devices, heated components)can be hot.This can lead to severe burns.►Do not touch hot surfaces.►Do not touch the hot film.►Wear protective gloves.►Wear protective clothing.►Only perform maintenance work on cool machine parts.
+
+Moving machine parts can crush, entangle, draw in and crash into body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.►Before actuating the machine parts, ensure that no one is located in the dangerzone.►Only carry out work on electrical globe valves when the power supply has beendisconnected.
+
+In case of darkness or shadow, there is a danger of accident.This can lead to head injuries and serious bodily injury.►Ensure there is sufficient lighting.
+
+Uncontrolled electro-static discharge dueto charged film orrolls
+
+Uncontrolled electrostatic discharge due to charged film or rolls.This can lead to serious injury from electric shock.►Persons with active medical accessories (e.g. pacemakers, insulin pumps, hear-ing aids) are forbidden from remaining at and dealing with film or rolls.►Before working in the vicinity of electrostatically charged film or rolls, dischargethese parts.
+
+ DANGER
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 36 
+Working at greatheightsDanger due to unex-pected movementsand emissionsDanger of cutting andimpact injuries
+
+There is a danger of falling when working on elevated parts of the line.This can lead to serious injury.►Wear a safety harness.►Use suitable ascent supports.
+
+Ascents and descents present a danger of slipping and tripping.This will lead to serious injury.►Ascend and descend with care.►Wear a hard hat.
+
+Unexpected movements can be caused by faults or service work in the pneu-matic system or hydraulic system.This can lead to serious injury.►Prior to service work, switch the pneumatic system so it is depressurised.►Disconnect the hydraulic system prior to service work.►Wait until the standstill position is reached.►Only switch pneumatic valves manually when no one is located in the dangerzone.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.
+
+Sharp film edges, knives or paper shears can cause cutting injuries.►Wear cut-resistant protective gloves.
+
+Sharp edges or protruding parts can cause cutting and impact injuries.►Wear cut-resistant protective gloves.►Wear long, close-fitting clothing.►Wear a hard hat.►Eliminate sharp corners and edges.
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+ CAUTION
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 37 
+Danger of slippingand danger of trip-ping
+
+Danger of slipping on wet floors.This can lead to head injuries and serious bodily injury.►Wear non-slip shoes.►Do not step on soiled areas.►Close off access to soiled areas.►Remove leaked fluid immediately.►Keep the workplace and corridors clean.
+
+There is a danger of slipping and danger of tripping due to film on the floor.This can lead to head injuries and serious bodily injury.►Do not step on film residues.►Immediately remove film residues.►Keep the workplace and corridors clean.
+
+There is a danger of slipping and danger of tripping on uneven floors.This can lead to head injuries and serious bodily injury.►Do not step on uneven areas.►Remove any uneven areas and danger of tripping.Material damageATTENTIONHard, sharp-edged objects or heavy objects and persons can damage the rollsor cause permanent dents in the roll surface.►Do not scour, scratch or scrape the roll surface.►Do not step on the roll surface or subject it to load.►Do not deposit tools and devices on the rolls.►No watches, belts, necklaces, bracelets and rings wear.►Do not lean ladders against the rolls.
+
+Tools and equipment left lying on the machine can cause machine damageand line downtimes.►After terminating the respective work, remove tools and equipment from the ma-chine.
+
+Non-approved spare parts, equipment, and consumables may cause machinedamage and system downtimes.►Only use spare parts, equipment, and consumables that have been approved bymanufacturer.►Spare parts must only be installed at the designated location.
+
+ CAUTION
+
+ CAUTION
+
+ CAUTION
+
+ATTENTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 38 
+5.3.2 Corona treatment station and ozone exhaust systemRequirementsIn addition to the following safety instructions, the documentation of the manufac-turer must be heeded.Electrical hazards DANGERHigh voltage in the electrodes area in operating state.Touch of high voltage may lead to death and long term damages to the health.►Do not touch the electrode area.►Do not remain in the vicinity of the electrode area. This can result in spark dis-charges.
+
+Irritation of the eyesand airways
+
+Ozone emission at the corona treatment station causes extreme irritation ofthe eyes and airways.►Check that the exhaust system is functioning properly before starting production.►Ensure a permanent ozone exhaust system when the corona treatment stationis in operation.►If there is a smell of ozone in the hall, check the ozone exhaust system forleaks.
+
+Hazard from noiseOperation of the ozone exhaust system can cause noise.
+
+Constant noise > 85 dB causes permanent damage to the hearing.►Wear ear protection.
+
+Hazard from ultravi-olet radiation
+
+During the corona treatment, ultraviolet radiation is generated.Ultraviolet radiation can damage the eyes.►Wear safety goggles.
+
+Mechanical hazards CAUTIONEmission tips of the discharging bars can cause stabbing injuries and cuttinginjuries.►Wear cut-resistant protective gloves.Further informationFor more information, see "Corona treatment station and rolls" in the "Rolls androllers" operating manual.5.3.3 Coating stationRequirementsIn addition to the following safety instructions, the documentation of the manufac-turer must be heeded.
+
+Inhalation of evapora-tion products
+
+The coating medium can contain solvent.
+
+ DANGER
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 39 
+Solvents cause noxious vapours.These can lead to irritation of the skin, eyes and airways as well as to changes inmental status from solvent vapours.►Only carry out this work if the area is well ventilated.►Do not breathe in the vapours.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.5.3.4 Rolls
+
+Danger of falling anddanger of crushing
+
+Stepping on or leaning against still-standing rolls can cause the rolls to startrotating.Risk of falling and crushing.►Do not step on rolls.
+
+Further informationFor more information, see the "Rolls and rollers" operating manual.5.4 Inspection and service intervalsService intervalsFor information on the service intervals, see separate "Intervals" manual and the re-spective manufacturer documentation.5.5 Preparing for maintenance
+
+Preparing for main-tenance
+
+The following requirements have to be fulfilled prior to the start of settings and main-tenance work:• The maintenance area is marked off and secured against unauthorised entry.• The drives cannot be operated.• The components must not move.• The components must be de-energised.• The pneumatic system must be depressurised.
+
+5.6 Spreading device5.6.1 Adjusting the spreading device
+
+Any new adjustment is required only when changing the production program.
+
+ WARNING
+
+ WARNING
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 40 
+5.6.1.1 Setting the angle of inclination of the spreading rollers bymeans of screwsRequirement• The machine is ready for maintenance.• The machine is in "Maintenance Mode".• Thread the film into the line component.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Wrench set
+
+Setting the angle ofincidence of thespreading rollers bymeans of screws
+
+The setting is carried out on both sides by means of screws.The angle of incidence is independent of the type or thickness of the film and theline speed.
+
+Incorrectly adjusted rolls increase the tread wear of the rubber coating.►Set the rollers within the recommended range of angles.►Set an identical angle on both sides.1 Spreading roller2 Film borderZ Angle of incidence
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 41 
+Angle of attack in thecoating station
+
+3 Hexagon head screws►Release the hexagon head screws (3).►Set the desired angle of incidence (Z) between 0° and 4°.►Retighten the hexagon head screws (3).During the commissioning of the coating station, the angle of attack is usually set toapprox. 1°.
+
+5.6.1.2 Adjusting the working width of the spreading device withhandwheel
+
+Any new adjustment is required only when changing the production program.DescriptionThe working width of the spreading device is adjusted during the threading of thefilm into the line component.Requirement• The line component is in the operating mode Production Mode.Required personnelThis activity may only be performed by specialists and operating personnel.
+
+Adjusting the work-ing width of thespreading device
+
+The following activities must be carried out the operating and the drive side.►Open the swivelling spreading roller with the control or, if present, the push but-ton on the operator panel.►Adjust the working width at the spreading device with the handwheel.►Thread the film into the line component.►If necessary, correct the working width. The non-swivelling spreadig rollershould be located approx. 10 mm within the film edge.►Close the swivelling spreading roller with the control or, if present, the push but-ton on the operator panel.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 42 
+5.6.1.3 Setting the non driven spreading rollers for minimum wearRequirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Wrench set
+
+Close the swivellingspreading rollerAdjust the spreadingrollers
+
+►If necessary, close the swivelling spreading roller manually.1 Upper cheese head screw2 Lower cheese head screw►Loosen the cheese head screws (1) and (2).►Screw in or unscrew the cheese head screws until the running surface of the up-per spreading roller is set parallel to the running surface of the lower spreadingroller.►Tighten the cheese head screws (1) and (2).
+
+5.6.2 Setting the driven spreading device
+
+Any new adjustment is required only when changing the production program.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 43 
+5.6.2.1 Setting the angle of incidenceRequirement• The machine is in "Maintenance Mode".• The voltage supply to the motor is switched off.The motors are secured against voltage being supplied again.• The components have cooled.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Protective gloves• Hard hat• Protective clothing
+
+Auxiliary materials• Open-end wrench/Ring spannerPreparing the setting►If required, manually close the spreading roller that is not driven.Angle of incidence3
+
+1 Left spreading roller2 Right spreading roller3 Film borderZ Angle of incidenceDuring the commissioning of the coating station, the angle of attack is usually set toapprox. +1° for the left spreading roller and approx. -1° for the right spreading roller.The angle of inclination can be set in the range of -5° to +5°.The angle of inclination of the spreading rollers to the film path has to be set. Thesetting of the angle of inclination is carried out on both sides by means of a rotatablehexagonal sleeve (1).On the flange plate (9) the spreading rollers (12) are mounted. By turning theflange-mounted shaft (3) with the haxagonal sleeve (1) the flange plate (9) is turnedagainst the base plate (8). The center screw (locating screw (11)) is the pivot point.The left and the right screw (hexagon head screw (4)) can be moved in the slot (7).All screws are held under tension by a disc spring (5).The angle of incidence is mostly independent of the type or thickness of the film andthe line speed.
+
+Angle of inclinationof the driven spread-ing deviceAdjusting the angleof inclination of thespreading rollers
+
++Z
+
+0¡˘0¡˘0¡˘0
+
+-Z
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 44 
+Incorrectly adjusted rolls increase the tread wear of the rubber coating.►Set the rollers within the recommended range of angles.►Set an identical angle on both sides.For a better overview, the drive in the right figure of the following drawing is notshown.14
+
+11131210345z62178 9
+
+1 Flange-mounted hexagonsleeve with inner square
+
+2 Slide bushing
+
+3 Shaft4 Hexagon head screw5 Disc spring6 Washer7 Slot8 Base plate9 Flange plate10 Hexagon nut11 Locating screw12 Spreading roller13 Drive14 Pneumatic cylinderZ Angle of incidence►Turn the hexagonal sleeve (1) in the required direction until the desired angle ofinclination is reached.
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 45 
+5.6.2.2 Setting the working width and pressure forceRequirement• The machine is in Production Mode.• The film is threaded in (see line operation manual)Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipmentSetting the workingwidthSetting the pressureforceManufacturer docu-mentation
+
+• Protective gloves• Hard hat• Protective clothingThe working width is set on the adjusting device by means of the handwheel.►With the handwheel, position the spreading rollers on both sides within the filmedge so that the film borders are grasped.►Move the non-driven spreading rollers into the closed position using the pneu-matic cylinder.ð The final setting is carried out at a constant production flow.The spreading rollers are pneumatically pressed against each other.To achieve an optimum distribution of the pressure force the pneumatic pressuremust be set accordingly.The pneumatic pressure is adjusted via the pressure control valve in the pneumaticcabinet.The pneumatic pressure should be as low as possible, 6 bar at maximum.►Begin with low pneumatic pressure. Slowly increase the pneumatic pressure un-til the correct pneumatic pressure is reached.
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+5.7 Spreading roll5.7.1 Adjusting the spreading roll
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+Required personnelThis activity may only be performed by specialists.
+
+Adjusting the archrise and arch posi-tion
+
+Carry out the following settings according to the manufacturer documentation:►Set the arch rise (c) of the spreading roll (2) using a ratchet.►Set the arch position (d) of the spreading roll (2) by means of handwheel or withratchet.
+
+The following figure shows a schematic diagram. The figure is not necessarilyidentical to your line.
+
+INFO
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 46 
+1 Film2 Spreading rollc Arch rised Arch position5.8 Corona treatment station5.8.1 Setting the corona treatment unit
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+RequirementThe machine is in "Maintenance Mode".
+
+Setting the film dis-tanceSetting the generatoroutput
+
+►Set the film distance between the corona electrode and the film according to themanufacturer documentation.►Set the treatment intensity (output of the generators) on the operator panel.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 47 
+5.9 Cartridge5.9.1 Removing the cartridgeDescriptionCartridge 1 is located at the bottom of the coating station. After removal, it is movedout of the operator aisle.• The kiss-coat roll of each coating station is in bypass position.• The drive of the gravure roll is switched off.The following list provides an overview of the work to be performed only. For the de-tailed steps and additional safety instructions, see the manufacturer documentation.►Open the lever on the frame.►Actuate the main switch (1).►Disconnect the power and control cables (2) from the motor.►Unplug the motor cooling (3).
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 48 
+►Disconnect the sensor of the coating chamber (4).►Unplug the temperature sensor (5) and the roller cooling (6).►Turn the edge-free rolls (7) into the park position.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 49 
+►Decouple the forward and return flow of the coating medium supply (8). Closethe stopcocks beforehand.►Open the flaps (9). The coating chamber remains closed.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 50 
+►Move out the cartridge and lock the carriage. The carriage must be connectedwith the frame.5.9.2 Installing the cartridgeDescriptionFor installation, the cartridge is moved into the operator aisle.The following list provides an overview of the work to be performed only. For the de-tailed steps and additional safety instructions, see the manufacturer documentation.►Release the carriage lock and move the cartridge in.►Close the flaps (9). The coating chamber remains closed.►Connect the forward and return flow of the coating medium supply (8). Thenopen the stopcocks on the coating chamber.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 51 
+►Turn the edge-free rolls (7) into the working position.►Plug in the roller cooling (6) and the temperature sensor (5).►Connect the sensor of the coating chamber (4).
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 52 
+►Plug in the motor cooling (3).►Connect the power and control cables (2) to the motor.►Activate the main switch (1).
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 53 
+►Close the lever on the frame.5.10 Gravure roll5.10.1 Removing the motor of the gravure roll
+
+In addition to the following instructions, the manufacturer documentation of the ten-sion unit has to be observed!DescriptionThe motor of the gravure roll can be removed while the coating station is switchedoff.Requirement• The pump of the coating material supply is switched off.• The kiss-coat roll is in the park position.• The drive of the gravure roll is switched off.• The power supply to the motor has been switched off.• The motor is attached to the lifting gear by means of lifting accessories.Safety DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 54 
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Hot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.►Only perform service work on cool machine parts.
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 55 
+OverviewSecuring the motorfor service work
+
+1 Cover panel2 Cheese head screw with washer
+
+3 Water cooling connection (watercooling is optional)
+
+4 Motor
+
+5 Connection for power supply6 Connection for encoder7 Clamping screw8 Cone clamping element9 Centering bushing10 Cheese head screw11 Shrink disc12 Hexagon head screw13 Hexagon head screw14 Torque support15 Roller shaft16 Cover panel17 Cheese head screw with washerand nutThe tension unit consists of the positions 7 to 12. It is used to connect the motor (4)to the roller shaft (15).►Switch off the power supply of the motor. To do so, turn the switch on the frame.ð The power supply to the motor is switched off.ð The motor can be removed. For removing the motor, see chapter "Removing theMotor".The following list provides an overview of the work to be performed only. For the de-tailed steps and additional safety instructions, see the manufacturer documentation.►Release the power supply of the motor.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 56 
+►Remove the encoder cable from the motor.►Remove the cheese head srcew (17), the washers and the nut at the cover pan-els (1, 16) and set them aside.►Remove the cover panels. To do so, remove the cheese head screws (2) withthe washers and set them aside with the cover panels.►Only if water cooling (optional) is used: Release the motor cooling supply andmotor cooling drain from the water cooling connections (3) and bleed.►Release the hexagon head screws (13) of the torque support (14).►Release the cheese head screws (10) of the centring bushing (9) and pull off themotor (4) from the roller shaft (15). Set the motor and the screws aside.►Release the hexagon head screws (12) and the clamping screws (7) as spe-cified in the manufacturer documentation. Pull the tension unit off the shaft. Setthe tension unit and the screws aside.5.10.2 Installing the motor of the gravure rollDescriptionThe motor of the gravure roll can be installed while the coating station is switchedoff.
+
+In addition to the following instructions, the manufacturer documentation of the ten-sion unit has to be observed!Requirement• The pump of the coating material supply is switched off.• The kiss-coat roll is in the park position.• The drive of the gravure roll is switched off.• The power supply to the motor has been switched off.• The motor is attached to the lifting gear by means of lifting accessories.
+
+Specific tighteningtorques and rules
+
+The tightening torques for the screws differ from the tightening torques mentioned inthe „Tightening torques for screws“ operating manual. Apply the specific tighteningtorques mentioned in the following table and in the manufacturer documentation, re-spectively:
+
+PartSpecific tighteningtorque
+
+TorquesupportTensionunit
+
+Hexagon headscrew (13)Hexagon headscrew (12)Cheese headscrew (10)Clampingscrew (7)
+
+25 NmTighten screws untilblock. It is not ne-cessary to use atorque spanner.123 Nm36 Nm
+
+For the specific tighten-ing rules, see the manu-facturer‘s documenta-tion.
+
+INFO
+
+Compon-ent
+
+Specific tighteningrules
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 57 
+Safety DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Hot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.►Only perform service work on cool machine parts.
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 58 
+Overview
+
+1 Cover panel2 Cheese head screw with washer
+
+3 Water cooling connection (watercooling is optional)
+
+4 Motor
+
+5 Connection for power supply6 Connection for encoder7 Clamping screw8 Cone clamping element9 Centering bushing10 Cheese head screw11 Shrink disc12 Hexagon head screw13 Hexagon head screw14 Torque support15 Roller shaft16 Cover panel17 Cheese head screw with washerand nutThe tension unit consists of the positions 7 to 12. It is used to connect the motor (4)to the roller shaft (15).Installing the motorThe following list provides an overview of the work to be performed only. For the de-tailed steps and additional safety instructions, see the manufacturer documentation.►Mount the tension unit on the roll journal as specified in the manufacturer docu-mentation. Observe the rules for tightening the hexagon head screws (12) of theshrink disc (11) and the clamping screws (7) of the cone clamping element (8).►Mount the motor (4) on the torque support (14) by tightening the hexagon headscrews (13) with the specified tightening torque (see table below).
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 59 
+►Mount the motor (4) on the tension unit by tightening the socket headscrews (10) of the centering bushing (9). Observe the tightening rules of themanufacturer documentation.►Only if water cooling (optional) is used: Mount the motor cooling supply and mo-tor cooling drain onto the water cooling connections (3).►Mount the cover panels (1, 16) with the cheese head screws (2) and the wash-ers to the motor.►Screw together the cover panels (1, 16) with the cheese head screw (17), thewashers and the nut.►Attach the encoder cable to the motor.►Mount the motor power supply.ü The motor is installed.►Establish the power supply to the motor. To do so, turn the switch on the frame.ð The encoder is reset.
+
+Loosen the fuse ofthe motor
+
+5.10.3 Removing the gravure rollDescriptionGravure roll 1 is located at the bottom of the coating station. After removal, it ismoved out of the operator aisle together with roll change device 1.• The cartridge is removed, see Removing the cartridge [} 47].• Remove the guard sheet of the gravure roll.• Pull the bearing units out of the roll, see description below.• Pull the rotating units out of the roll, see description below.
+
+Pulling out the bear-ing units
+
+The following figures show examples. The figures are not necessarily identical toyour machine.
+
+Overview
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 60 
+1 Hexagon head screw2 Upper bearing housing3 Gravure roll4 Immersion tube5 Retaining ring6 Ring7 Set screw8 Outer shaft seal
+
+9 Bearing (with locking rings ondrive side)11 Adapter sleeve
+
+10 Inner shaft seal
+
+►On the operating side, pull the immersion tube (4) out of the gravure roll (3).The components must be removed on the operating side and drive side.►Loosen the hexagon head screws (1) and remove the upper bearing hous-ings (2).►Lift the gravure roll out of the inline coating device with the lifting gear and placeit on the holding equipment.►Pull out the retaining ring (5) with the snap ring pliers.►Release the set screw (7) and pull out the ring (6) together with the outer shaftseal (8).►On the operating side, pull out the bearing.►On the drive side, pull out the bearing (9) together with the locking rings.►Pull out the inner shaft seal (10).►Pull out the adapter sleeve (11).Lateral insulation is screwed onto both sides of the gravure rolls.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 61 
+Removing the rotaryjointDescription
+
+The rotary joint can be removed in two ways.• Variant: Removing the rotary joint with additional partsThis variant is used if the gravure roll or the bearing of the gravure roll is to beremoved.• Variant: Removing the rotary jointThis variant is used if the rotary joint is to be removed.
+
+Requirement• The inline coating device is in "Maintenance Mode".• The pump of the heating and/or cooling unit must be switched off and securedagainst being switched on again.• The supply of the heat transfer medium in the pipes for heat transfer mediummust be closed.• The heat transfer medium must be drained from the pipe for heat transfer me-dium.Some heating and/or cooling units have an outlet for the heat transfer medium.Otherwise, the heat transfer medium will be drained when removing the rotaryjoint.Required personnelThis activity may only be performed by specialists.Auxiliary materials• Auxiliary materials as specified in the Mechanical Fitter tool list• Container for collecting the heat transfer mediumThe following figures show examples. The figures are not necessarily identical toyour machine.Overview1 Gravure roll2 Torque stay rod3 Resistance thermometer4 Flexible hose5 Flange6 O-ring7 Hexagon head screw8 Rotary joint9 Hexagon head screw10 O-ring11 Hexagon head screw12 Spacer ring13 Inner ring14 Cone flange
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 62 
+Variant: Remove therotary joint with addi-tional partsVariant: Removingthe rotary jointRemoving the resist-ance thermometer
+
+►If a torque stay rod (2) is mounted, remove it.►Put a container for collecting the heat transfer media under the rotary joint.►Loosen the four hexagon head screws (9).►Pull the rotary joint (8) with the additional parts off the gravure roll (1).►Pull the inner ring (13) off the gravure roll.►Pull the cone flange (14) off the gravure roll.►If a torque stay rod (2) is mounted, remove it.►Put a container for collecting the heat transfer media under the rotary joint.►Remove both flexible hoses (4). Loosen the four hexagon head screws (7) eachand set aside the flexible hose, the flange (5) and the O-ring (6).►Loosen the five hexagon head screws (11) and pull off the rotary joint.If one or more resistance thermometers are mounted on the rotary joint, all resist-ance thermometers should be removed.►Loosen the resistance thermometer at the bayonet lock.See also2 Removing the cartridge [} 47]
+
+5.10.4 Installing the gravure rollDescriptionFor installation, the gravure roll with the roll change device is moved into the oper-ator aisle.ü To install the gravure roll, the cartridge must be removed.►Insert the gravure roll with bearing units into the cartridge.►Attach the rotary joint and motor unit, see description below.►Mount the guard sheet of the gravure roll.►Push in and install the cartridge with the gravure roll, see Installing the cartridge[} 50]
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 63 
+Installing the rotaryjointDescription
+
+The rotary joint can be installed in two ways.• Variant: Installing the rotary joint with additional partsThis variant is used if the gravure roll or the bearing of the gravure roll is to beinstalled.• Variant: Installing the rotary jointThis variant is used if the rotary joint is to be installed.
+
+Requirement• The inline coating device is in "Maintenance Mode".• The pump of the heating and/or cooling unit must be switched off and securedagainst being switched on again.• The supply of the heat transfer medium in the pipes for heat transfer mediummust be closed.• The heat transfer medium must be drained from the pipe for heat transfer me-dium.Required personnelThis activity may only be performed by specialists.Auxiliary materials• Auxiliary materials as specified in the Mechanical Fitter tool list• Container for collecting the heat transfer mediumThe following figures show examples. The figures are not necessarily identical toyour machine.Overview1 Gravure roll2 Torque stay rod3 Resistance thermometer4 Flexible hose5 Flange6 O-ring7 Hexagon head screw8 Rotary joint9 Hexagon head screw10 O-ring11 Hexagon head screw12 Spacer ring13 Inner ring14 Cone flange
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 64 
+Variant: Install therotary joint with addi-tional partsVariant: Install therotary jointInstalling the resist-ance thermometerPerforming the finalinspectionDe-aeration of theheat carrier circuit
+
+See also the operating manual for the rotary joint.ü The immersion tube is located in the gravure roll.ü The hose connections (4) are mounted on the rotary joint.ü The spacer ring (12) is mounted on the rotary joint.►Pull the cone flange (14) onto the gravure roll.►Pull the inner ring (13) onto the gravure roll.►Pull the rotary joint with the additional parts onto the gravure roll.►Screw the rotary joint to the cone flange (14) with the four hexagon headscrews (2). Tighten the hexagon head screws with 87 Nm in a crisscross pat-tern.►If a torque stay rod (4) has been removed, attach it.►Install all removed resistance thermometers. For description, see below.►Perform the final inspection. For description, see below.►De-aerate the heat transfer circuit. For description, see below.See also the operating manual for the rotary joint.ü The immersion tube is located in the gravure roll.ü The spacer ring (12) is mounted on the gravure roll.►Screw the rotary joint to the spacer ring with the five hexagon head screws (11).Tighten the hexagon head screws with 25 Nm in a crisscross pattern.►Attach both flexible hoses. Insert the respective O-ring (6) and screw the flexiblehose and the flange (5) to the rotary joint with the four hexagon head screws (7).Ensure that the flexible hoses are installed at the correct position, that they arenot turned and that no tensile stress is present.►If a torque stay rod (4) has been removed, attach it.►Install all removed resistance thermometers. For description, see below.►Perform the final inspection. For description, see below.►De-aerate the heat transfer circuit. For description, see below.All removed resistance thermometers have to be installed again.►Insert the resistance thermometer and close the bayonet lock.►Check the connections for leaks.►Fix leaks if necessary.►Clean soiled components.►Replace soiled insulation.►Remove the container for collecting the heat transfer medium.As heat transfer medium was drained from the heat carrier circuit, the heating and/or cooling unit or the heating unit has to be de-aerated when starting it up for thefirst time.See also the operating manual for the heating and/or cooling unit or the heating unit.ü The inlet of the heat transfer medium into the heat transfer circuit has to beopen.►Fill the heating and/or cooling unit or the heating unit with heat transfer medium.►Switch on the pump of the heating and/or cooling unit or the heating unit.►De-aerate the heat transfer circuit.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 65 
+Inserting the bearingunitsOverview
+
+The following figures show examples. The figures are not necessarily identical toyour machine.1 Hexagon head screw2 Upper bearing housing3 Gravure roll4 Immersion tube5 Retaining ring6 Ring7 Set screw8 Outer shaft seal
+
+9 Bearing (with locking rings ondrive side)11 Adapter sleeve
+
+10 Inner shaft seal
+
+Lateral insulation is screwed onto both sides of the heating and gravure rolls. Thecomponents must be inserted on the operating side and the drive side.►Insert the adapter sleeve (11) and tighten with a hook wrench.►Pull the inner shaft seal (10) onto the roll.►On the drive side, pull the bearing (9) together with the locking rings onto theroll.►On the operating side, insert the bearing.►Insert the ring (6) together with the outer shaft seal (8). Tighten the setscrew (7).►Mount the retaining ring (5) with the retaining ring pliers.►Insert the gravure roll with the lifting gear into the inline coating device.►Mount the upper bearing housing (2) and tighten the hexagon head screws (1).►On the operating side, insert the immersion tube (4) in the gravure roll (3).►Start the coating medium supply.►Start the roll on the control panel.►Move the kiss-coat roll to the coating position.
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 66 
+5.11 Pneumatic system5.11.1 Checking and setting the pneumatic systemDescriptionThe pneumatic system is checked and adjusted in the operating mode ServiceMode while being supplied with compressed air.Requirements• The line component is in the operating mode Production Mode.• The drives are switched off.• The temperature of the component and of its environment must be below 35 °C.Required personnel• 2 instructed specialists are required.Auxiliary materials• The pneumatic plan is located in the pneumatic cabinet.• The key for the key switch [ maintenance air ] is required. This key mustalways be with the person responsible for maintenance.Safety WARNINGThe presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.
+
+Moving machine parts can crush body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+Unexpected movements caused by defects in the pneumatic system cancause serious injury.►Do not remain in the swivelling range of the pneumatically moved component.►Wait until the standstill position is reached.If the pneumatic cabinet is lockable, it has to be opened before the activity andlocked again after the activity has been completed.►Turn the key switch [ maintenance air ] on the pneumatic cabinet to[ on ].ð The emergency stop machine fault is triggered.►Turn the key switch on the operator panel to operating mode Service.ð When exiting the Production Mode, the pneumatic system remains suppliedwith compressed air.►Specialist 1 actuates the valves in the pneumatic cabinet.- simultaneously -►Specialist 2 checks the pneumatically operated components on the machine.
+
+Lockable pneumaticcabinetPreparing the pneu-matic systemChecking the pneu-matic system
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 67 
+- After completing the work -►Make sure that the components are in the home position.The pneumatic pressure is set via the pressure reducing valve in the pneumaticcabinet or in WinCC OA (option).The pneumatic pressure should be as low as possible.►Begin with low pneumatic pressure. Slowly increase the pneumatic pressure un-til the correct pneumatic pressure is reached.
+
+Setting the pneu-matic pressureManufacturer docu-mentationVentilating the pneu-matic system
+
+Further information on the component can be found in the manufacturer documenta-tion.►Turn the key switch on the pneumatic cabinet [ maintenance air ] to[ off ] and pull out.ð The pneumatic system is ventilated.►When the line component is in Production Mode, reset the Emergency stop ma-chine fault.
+
+5.12 CleaningFor information on cleaning, see the line operation manual and manufacturer docu-mentation.5.13 Checking the filter in the coating medium circuit andreplacing if necessary
+
+Manufacturer docu-mentation
+
+The cartridge filter of the coating medium circuit must be checked regularly and re-placed if necessary. For more details, see the manufacturer documentation.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 68 
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 69 
+6 Taking the inline coating device finally out ofoperationDescriptionThe decommissioning includes the following areas:• Carrying out technical disconnection• Emptying and disposing of the equipment• Disassembling and disposing of machine parts6.1 Carrying out technical disconnectionDescriptionTechnical disconnection includes the deactivation of the power supply, the IPC con-trol and other control devices.Required personnelThis activity may only be performed by specialists.
+
+Energy that ispresent
+
+These kinds of energy are present in an active or ready-to-use inline coating device:• Heat energy• Electrical and electrostatic energy• Pneumatic energy• Potential energy (rolls, frame parts, etc.)• Kinetic energy (rolls, swivel devices, etc.)
+
+Electrical energy may lead to ventricular fibrillation, cardiac arrest, respiratoryarrest and severe burns.►Only skilled personnel is allowed to un-install electrical equipment.►All applicable instructions for preventing accidents must be observed.
+
+Residual energy such as compressed air in pneumatic cylinders can lead tosevere injury or death.►Thoroughly dissipate residual energy.►Switch off the power sources permanently and disconnect them from the ma-chine.►Lock out all disconnected interfaces permanently.►Use the safety locks as described in the safety manual.6.2 Emptying and disposing of the equipmentRequired personnelThis activity may only be performed by specialists.
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 70 
+The following equipment can be included in an active or operational inline coatingdevice:• Coating medium in the coating medium circuit (coating medium supply system,intake lines, coating chamber).Please pay attention to the waste disposal regulations of the coating mediummanufacturer.• Heated media in rolls and heating/cooling jackets:– Heated rolls (optional), heating/cooling jackets (optional) and the intake anddrain lines contain heated water.– Cooling rolls (optional) and cooling jackets (optional) as well as all associ-ated intake lines and drain lines contain cooling water.• Media in hydraulic systems (optional). Please pay attention to the waste dis-posal regulations of the manufacturer.• Media in the heat exchangers of the heating units (optional). Depending on theheating units integrated in your inline coating device, the individual types andamounts of heating and heat transfer media must be disposed of accordingly.• Filters and catalysts (optional)
+
+Manufacturer docu-mentation
+
+Follow the instructions from the manufacturer of the heat carrier substances for theappropriate disposal procedure.
+
+Environmentally harmful substances.If corrosion preventives and biocides were added to the heating medium, additionalmeasures need to be taken when disposing of these materials in order to preventenvironmental damage.►When using and disposing of these additives, be sure to follow the manufacturerinstructions.►Follow the safety data sheets of the substances in use.►Only use the recommended corrosion preventive (follow the supplier operationmanual).LubricantsGearboxes and other movable components can contain lubricants. The lubricantsused and recommended by Brückner and its lubricant manufacturers fulfil all thelegal conditions.►Pay attention to the disposal regulations of the original lubricant container.►Use suitable containers for collecting, storing and transporting used lubricants.6.3 Disassembling and disposing of machine partsLocal regulationsDepending on the disposal regulations, it may be necessary to disassemble the in-line coating device and separately dispose of the individual materials.All disposal work has to be carried out in accordance with the local regulations anddirectives.
+
+Brückner recommends leaving the disposal to a local disposal company authorisedto provide the necessary supporting documents verifying proper disposal.
+
+INFO
+
+ CAUTION
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 07 - OperatingManual-InlineCoatingDevice - Pag 71 
+7 Technical dataIntroductionThis chapter provides information and data on your machine.
+
+Identification of theline component
+
+Line componentInline coating device
+
+Rolls and rollersInformation on the rollers and rolls can be found in the function.WeightsINFOThe specified weights provide information on the necessary lifting gear and liftingaccessories. The specified weights can increase due to additional parts on the com-ponent and due to equipment (e.g. lubricant, cooling agent, heat transfer oil).ComponentMaterialWeight in kgDrive of the gravure rollMotor DST2 13558147274Tension unit53505622Torque support30280014Gravure rollGravure rollSee the manufacturer operatingmanualSpreading devicesSpreading devices at the inlet and outlet40533649Spreading device on the platform42796050NameplateThe nameplate is used for the unique identification of the machine. It is mounted onthe machine in such a way that it is clearly visible.The nameplate always contains the following fields:The fields have the following meanings:FieldDescriptionKom.Nr.:Commission numberMaschine:Brief description of the machineStruktur:Structure number of the machineBaujahr:Year of construction of the machine
+
+--------------------------------------------------------------------------------

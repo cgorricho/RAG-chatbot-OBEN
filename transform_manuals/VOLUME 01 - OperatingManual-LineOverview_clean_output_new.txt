@@ -1,0 +1,1289 @@
+
+VOLUME 01 - OperatingManual-LineOverview - Pag 1 
+Operating manualLine overviewBOPETP.1932 SHB
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 2 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 3 
+ImprintThis operating manual is part of the equipment supplied by Brückner MaschinenbauGmbH & Co. KG - hereinafter called Brückner - and describes the necessary pro-cedures for the proper use of the film production line and the associated machines.CopyrightNo part of this operating manual may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical or by recording orotherwise without the prior permission by Brückner. The copying, distribution andutilisation of this operating manual in printed or electronic form as well as the com-munication of its contents to others without expressed authorisation is prohibited.Offenders will be held liable for the payment of damages possibly arising from unau-thorised use.All product names used in this operating manual are trademarks of the respectivecompanies.DisclaimerBrückner declines any liability or responsibility for consequential, collateral or indi-rect damage that results from non-compliance with this operating manual.Patent protectionAll rights reserved in the event of the grant of a patent, utility model, or ornamentaldesign registration. Brand and product names are trademarks or registered trade-marks of their respective companies or organisations.LanguageThe original operating manual was produced in German. All translations are basedon the language of the original operating manual.ChangeThe contents of this operating manual are subject to change by Brückner withoutnotice.We reserve the right to make technical changes.We welcome your suggestions concerning the improvement of our products and ofthis operating manual.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 4 
+PublisherStreet addressBrückner Maschinenbau GmbH & Co. KGKönigsberger Str. 5-783313 Siegsdorf/GermanyPostal addressBrückner Maschinenbau GmbH & Co. KGPO Box 11 6183309 Siegsdorf/GermanyContactInternethttp://www.brueckner.comServicePhone: +49 8662 63-9379Fax: +49 8662 63-9370E-Mail: servtec@brueckner.comSales departmentPhone: +49 8662 63-9510Fax: +49 8662 63-9101E-Mail: sales@brueckner.comDocumentationPhone: +49 8662 63-0Fax: +49 8662 4965-71-9220E-Mail: doku@brueckner.com
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 5 
+Table of contents1 About this operating manual..................................................................................................................... 72 Overview of the complete line................................................................................................................... 93 Control room............................................................................................................................................. 134 Safeguards................................................................................................................................................ 154.1Film production line .......................................................................................................................... 164.1.1SafetyOperationEquipment_Line_M1932_1870_001_00 .................................................  174.2Extruder feeding............................................................................................................................... 194.2.1SafetyOperationEquipment_filter_M410425_001_00 .......................................................  204.3Edge trim recycling........................................................................................................................... 224.3.1SafetyOperationEquipment_EdgeTrimRecycling_M300574_001_01...............................  234.4Exhaust air filter................................................................................................................................ 254.4.1SafetyOperationEquipment_Filter_M410425_001_00 ......................................................  264.5Waste film grinder ............................................................................................................................ 284.5.1SafetyOperationEquipment_WasteFilmGrinder_M434748_001_00 .................................  294.6Flake silo .......................................................................................................................................... 314.6.1SafetyOperationEquipment_FluffSilo_M333750_001_01 .................................................  324.7Extrusion system.............................................................................................................................. 344.7.1SafetyOperationEquipment_Extrusion_M448404_001_00 ...............................................  354.8Melt die unit - Maintenance equipment ............................................................................................ 374.8.1SafetyOperationEquipment_MeltDieUnit_M398093_001_00............................................  384.8.2SafetyOperationEquipment_MeltDieUnit_M399838_001_00............................................  404.9Film casting unit ............................................................................................................................... 424.9.1SafetyOperationEquipment_FilmCastingUnit_M365147_001_03.....................................  434.9.2SafetyOperationEquipment_FilmCastingUnit_M365147_002_03.....................................  454.10 Film casting stand ............................................................................................................................ 474.10.1SafetyOperationEquipment_FilmCastingStand_M426110_001_00..................................  484.11 Auxiliary winder ................................................................................................................................ 504.11.1SafetyOperationEquipment_AuxiliaryWinder_M357651_002_04 .....................................  514.12 Machine direction orienter................................................................................................................ 534.12.1SafetyOperationEquipment_MachineDirectionOrienter_M408250_001_02 .....................  544.12.2SafetyOperationEquipment_MachineDirectionOrienter_M408250_002_02 .....................  564.12.3SafetyOperationEquipment_MachineDirectionOrienter_M408250_003_01 .....................  584.13 Transverse direction orienter............................................................................................................ 604.13.1SafetyOperationEquipment_TransverseDirectionOrienter_M453839_001_00.................  614.13.2SafetyOperationEquipment_TransverseDirectionOrienter_M453839_002_00.................  634.14 Pull roll unit....................................................................................................................................... 654.14.1SafetyOperationEquipment_PullRollUnit_M329419_001_02............................................  674.14.2SafetyOperationEquipment_PullRollUnit_M329419_002_05............................................  694.14.3SafetyOperationEquipment_PullRollUnit_M329419_003_04............................................  714.14.4SafetyOperationEquipment_PullRollUnit_M329419_004_03............................................  734.14.5SafetyOperationEquipment_PullRollUnit_M329419_005_01............................................  754.14.6SafetyOperationEquipment_PullRollUnit_M432654_001_03............................................  774.14.7SafetyOperationEquipment_PullRollUnit_M432654_002_02............................................  794.15 Winder unit ....................................................................................................................................... 81
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 6 
+4.15.2SafetyOperationEquipment_WinderUnit_M331996_002_04 ............................................  854.15.3SafetyOperationEquipment_WinderUnit_M331996_003_08 ............................................  874.15.4SafetyOperationEquipment_WinderUnit_M331996_004_06 ............................................  894.15.5SafetyOperationEquipment_WinderUnit_M331996_005_09 ............................................  914.15.6SafetyOperationEquipment_WinderUnit_M435648_001_01 ............................................  934.16 Inline coating device......................................................................................................................... 954.16.1SafetyOperationEquipment_InlineCoatingDevice_M429749_001_01 ..............................  964.16.2SafetyOperationEquipment_InlineCoatingDevice_M429749_002_02 ..............................  985 Emergency stop facilities ...................................................................................................................... 1015.1Emergency stop line....................................................................................................................... 1025.2Emergency stop recycling .............................................................................................................. 1035.3Emergency stop grinder ................................................................................................................. 1045.4Emergency stop threading device of the grinder............................................................................  1065.5Emergency stop extrusion.............................................................................................................. 1075.6Emergency stop film casting unit.................................................................................................... 1085.7Emergency stop auxiliary winder.................................................................................................... 1105.8Emergency Stop machine direction orienter .................................................................................. 1115.9Inline coating device emergency stop ............................................................................................ 1135.10 Emergency stop, transverse direction orienter...............................................................................  1155.11 Emergency stop pull roll unit and winder unit................................................................................. 1175.12 Emergency stop heating and cooling unit ...................................................................................... 1206 Operator panels...................................................................................................................................... 1216.1Operator panel CO1/CO2............................................................................................................... 1236.2Operator panel BY3........................................................................................................................ 1246.3Operator panel BY__1.................................................................................................................... 1266.4Operator panel BY__2.................................................................................................................... 1276.5Operator panel BEC....................................................................................................................... 1286.6Operator panel BC2 ....................................................................................................................... 1306.7Operator panel BC3 ....................................................................................................................... 1316.8Operator panel BM1....................................................................................................................... 1326.9Operator panel BM3....................................................................................................................... 1346.10 Operator panel BT1........................................................................................................................ 1366.11 Operator panel BT2........................................................................................................................ 1386.12 Operator panel BP1........................................................................................................................ 1396.13 Operator panel BW1....................................................................................................................... 1416.14 Operator panel BK1........................................................................................................................ 1437 Individual control knobs........................................................................................................................ 1458 Active warning devices.......................................................................................................................... 1518.1Pressure exceeded in the extrusion system................................................................................... 1528.2Temperature in the vacuum pump unit exceeded..........................................................................  156
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 7 
+1 About this operating manualIntroductionInformation on all components of the film production line can be found in the lineoverview.After an overview of the complete line, you can find information on the safeguards ofthe complete line as well as of the individual line components.In addition, details can be found on the emergency stop facilities.The controls on the operator panels and the individual controls are described.An overview of the active warning facilities is shown.
+
+In addition to the control knobs described in this operating manual, there can be fur-ther operator panels and control knobs as well as safeguards that are not explicitlymentioned.Safety symbolsExtensive information on safety and on the safety symbols can be found in thesafety manual.IllustrationsSome of the illustrations of the complete line as well as the illustrations of views ofindividual components only show examples. They are not always identical with yourline.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 8 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 9 
+2 Overview of the complete lineIntroductionThis chapter provides an overview of the complete line.
+
+The following figure shows a schematic diagram. The figure is not necessarilyidentical to your line.
+
+Schematic diagram
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 10 
+1From the raw material to the cast film2Stretching3Finishing and windingControl room 1Control room 2General symbolsSymbolDesignationDescriptionfilm path, material flowSpecifies the direction that the film runs.operating side, operatorSpecifies the operating side.Specifies the position of the operator.drive side, motorSpecifies the drive side.Other manufacturersINFOSome components are provided by manufacturers other than Brückner.
+
+Multi-digit structurenumbers
+
+For the unique identification of components of a line, multi-digit structure numbersare used.Your line may contain more or less components than listed below.211Raw material reception and raw material storage213Raw material supply for main extruder214Main extruder feeding214-1Feed for crystalliser214-2Raw material reception for main extruder214-3Feed for main extruder214-4Exhaust air filter for dosing the main extrusion215Raw material supply and feeding for coextrusion215-1Raw material supply for coextrusion215-2Raw material feeding for coextrusion241Edge trim recycling251Film recycling251-1Fluff silo251-2Exhaust air filter for fluff silo271Main extrusion274Heating and/or cooling units for main extrusion28Coextrusion281-4Heating/cooling units for coextrusion291Melt die unit321Film casting unit324Heating and/or cooling units for film casting unit325Film casting stand
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 11 
+326Auxiliary winder for film casting unit331Machine direction orienter334Heating and/or cooling units for MDO340Transverse direction orienter348Heating and/or cooling units for TDO371Pull roll unit374Heating and/or cooling units for pull roll unit391Winder unit565Inline coating device713Cooling unit for water supply
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 12 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 13 
+3 Control roomIntroductionThere are two control rooms at the film production line (see previous figure).Every control room contains one or more computes and one operator panel. Thevisualisation enables easy and user-friendly communication with the film productionline via the control knobs.One control room, preferably control room 1, has to be manned by qualified operat-ing personnel during operation. The personnel has to be able to react to all opera-tional states and processes which are not covered by the Process Control System.
+
+A detailed description of the control knobs on the operator panels can be found inthe chapter "Operator panels".NameplateThe nameplate is used for the unique identification of the film production line (FPA).It is attached in the control room 1 so it is clearly visible.The nameplate always contains the following fields:The fields have the following meanings:FieldDescriptionKom.Nr.:Commission numberMaschine:Line abbreviationStruktur:Structure number of the complete lineBaujahr:Year of construction of the line
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 14 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 15 
+4 SafeguardsThe overviews show the safeguards installed at each machine.
+
+Overviews of safe-guards
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 16 
+4.1 Film production line
+
+Overview of the safe-guards
+
+The safeguards are shown on the separate technical drawing.
+
+The technical drawing does not include all items of the safeguards as they are listedin the table below.Legend for technical drawingNo.Element122Safety poster, basic safety instructions211Safety poster, resin supply system213Safety poster, resin supply system214Safety poster, resin supply system215Safety poster, resin supply system241Safety poster, grinder271Safety poster, extrusion area274Safety poster, heating and/or cooling unit (oil)281Safety poster, extrusion area284Safety poster, heating and/or cooling unit (oil)291Safety poster, extrusion area321Safety poster, film casting unit324Safety poster, heating and/or cooling unit (water)326Safety poster, auxiliary winder331Safety poster, machine direction orienter334Safety poster, heating and/or cooling unit (water)340Safety poster, transverse direction orienter371Safety poster, pull roll unit374Safety poster, heating and/or cooling unit (water)391Safety poster, winder565Safety poster, coating device713Safety poster, heating and/or cooling unit (water)DrawingSafetyOperationEquipment_Line_M1932_1870_001_00 [} 17]
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 17 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 18 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 19 
+4.2 Extruder feeding
+
+Overviews of safe-guards
+
+The safeguards are shown on the separate technical drawing.DrawingSafetyOperationEquipment_filter_M410425_001_00 [} 20]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 20 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 21 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 22 
+4.3 Edge trim recycling
+
+Overview of the safe-guards
+
+The safeguards are shown on the separate technical drawing.Legend for technical drawingNo.ElementMeaningSymbol1Operator panel BY1 with grinder emergency stop button2Safety poster, grinder3Safety switch with interlock4Warning signsWarning of hand injuries.5Mandatory signsWear protective gloves.DrawingSafetyOperationEquipment_EdgeTrimRecycling_M300574_001_01 [} 23]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 23 
+ p
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 24 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 25 
+4.4 Exhaust air filterThe safeguards are shown on the separate technical drawing.Legend for technical drawingNo.Element1Rupture channel2Exhaust air duct3Flap valve, explosion decoupling4Maintenance switch5Rupture discDrawingSafetyOperationEquipment Filter M410425 001 00 [} 26]
+
+Overview of safe-guards
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 26 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 27 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 28 
+4.5 Waste film grinder
+
+Overview of the safe-guards
+
+The safeguards are shown on the separate technical drawing.Legend for technical drawingNo.ElementMeaningSymbol1BGx operator panel2Safety poster3Safety switch5Safety switch6Warning signsWarning of draw-in hazard.7Mandatory signsWear ear protection.8Safety pressure sensitive edge9Safety pressure sensitive mat10BGx operator panel11Warning signsWarning of hand injuries.12Warning signsWarning of danger from cut-ting.DrawingSafetyOperationEquipment_WasteFilmGrinder_M434748_001_00 [} 29]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 29 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 30 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 31 
+4.6 Flake siloThe safeguards are shown on the separate technical drawing.Legend for technical drawingNo.ElementMeaningSymbol1Safety switch2Service switch3Emergency stop button for fluff silo4Mandatory signsWear face protection.DrawingSafetyOperationEquipment_FluffSilo_M333750_001_01 [} 32]
+
+Overview of safe-guards
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 32 
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 33 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 34 
+4.7 Extrusion systemThe safeguards are shown on the separate technical drawing.Legend for technical drawingNo.ElementMeaningSymbol1Warning signsWarning of a hot surface.2Mandatory signsWear protective gloves.3Mandatory signsWear face protection.4Warning signsWarning of hazardous materi-als.5Warning signsWarning of hand injuries.6Warning signsWear a breathing mask.7Emergency stop button for the partial componentDrawingSafetyOperationEquipment_Extrusion_M448404_001_00 [} 35]
+
+Overview of safe-guards
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 35 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 36 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 37 
+4.8 Melt die unit - Maintenance equipment
+
+Overview of the safe-guards
+
+The safeguards are shown on the separate technical drawing.Legend for technical drawingNo.ElementMeaningSymbol1Warning signsWarning of hand injuries.2Warning signsWarning of a hot surface.DrawingsSafetyOperationEquipment_MeltDieUnit_M398093_001_00 [} 38]SafetyOperationEquipment_MeltDieUnit_M399838_001_00 [} 40]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 38 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 39 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 40 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 41 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 42 
+4.9 Film casting unit
+
+Overviews of safe-guards
+
+The safeguards are shown on the separate technical drawing.Legend for technical drawingNo.ElementMeaningSymbol51Mandatory signsWear face protection.52Mandatory signsWear protective gloves.53Mandatory signsWear ear protection.54, 55 Warning signsWarning of a hot surface.
+
+56,57, 60
+
+Warning signsWarning of dangerous elec-trical voltage.
+
+58Warning signsWarning of hand injuries.61Warning signsWarning of danger of falling.62Warning signsWarning of dangerous electro-static discharge.DrawingSafetyOperationEquipment_FilmCastingUnit_M365147_001_03 [} 43]SafetyOperationEquipment FilmCastingUnit M365147 002 03 [} 45]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 43 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 44 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 45 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 46 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 47 
+4.10 Film casting stand
+
+Overview of the safe-guards
+
+The safeguards are shown on the separate technical drawing.Legend for technical drawingNo.ElementMeaningSymbol1Warning signsWarning of dangerous electro-static discharge.2Warning signsWarning of draw-in hazard.3Warning signsWarning of hand injuries.4Warning signsWarning of danger of falling.5Warning signsWarning of danger from cut-ting.DrawingSafetyOperationEquipment_FilmCastingStand_M426110_001_00 [} 48]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 48 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 49 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 50 
+4.11 Auxiliary winder
+
+Overview of safe-guards
+
+The safeguards are shown on the separate technical drawing.DrawingsSafetyOperationEquipment_AuxiliaryWinder_M357651_002_04 [} 51]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 51 
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 52 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 53 
+4.12 Machine direction orienter
+
+Overviews of safe-guards
+
+The safeguards are shown on the separate technical drawing.Legend for technical drawingNo.ElementMeaningSymbol
+
+1, 8,122, 9,123, 6,124, 10,125711,12
+
+Warning signsWarning of a hot surface.Warning signsWarning of draw-in hazard.Mandatory signsWear protective gloves.Warning signsWarning of hand injuries.Warning signsDanger of dangerous electro-static discharge.Mandatory signsUse a hard hat.Prohibitive signsNo entry for unauthorised per-sonnel.
+
+12Metal sheet with safety symbols13Guard profile
+
+14,16,17
+
+Support for emergency-stop
+
+15Alarm deviceDrawingsSafetyOperationEquipment_MachineDirectionOrienter_M408250_001_02 [} 54]SafetyOperationEquipment_MachineDirectionOrienter_M408250_002_02 [} 56]SafetyOperationEquipment_MachineDirectionOrienter_M408250_003_01 [} 58]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 54 
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 55 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 56 
+
+
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 57 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 58 
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 59 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 60 
+4.13 Transverse direction orienter
+
+Overview of safe-guards
+
+The safeguards are shown on the separate technical drawing.Legend for technical drawingNo.ElementMeaningSymbol1Operator panel BT1 with emergency stop for film production line2Operator panel BT2 with emergency stop for film production line3Pressure sensitive edge, inlet4Pressure sensitive edge, outlet5Lock post
+
+6, 7,8, 15
+
+Warning signsWarning of a hot surface.
+
+6, 7Mandatory signsWear ear protection.
+
+6, 7,196, 7,206, 7,8, 14,178, 16,18
+
+Warning signsWarning of magnetic field.Prohibitive signsPersons with pacemakers for-bidden.Warning signsWarning of hand injuries (op-tional) and danger of crushing.Prohibitive signsNo entry for unauthorised per-sonnel.Emergency stop for film production line
+
+10Plug for foot switch in the operator panel11Warning lamp12Stair with back protection (optional)13Safety posterDrawingsSafetyOperationEquipment_TransverseDirectionOrienter_M453839_001_00 [} 61]SafetyOperationEquipment_TransverseDirectionOrienter_M453839_002_00 [} 63]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 61 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 62 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 63 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 64 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 65 
+4.14 Pull roll unit
+
+Overview of safe-guards
+
+The safeguards are shown on the separate technical drawing.Legend for technical drawing (M329419)No.ElementMeaningSymbol1Warning signsWarning of draw-in hazard.2Warning signsWarning of a hot surface.3Warning signsWarning of obstacles.4Prohibitive signsNo entry for unauthorised per-sonnel.5Warning signsWarning of dangerous electro-static discharge.6Mandatory signsWear a hard hat.7Warning signsWarning of ionising radiation.8Warning signsWarning of danger from cut-ting.9Emergency stop button for line10Horn11Operator panel BP1 with emergency stop button12Warning lamp13Pressure sensitive edge14Safety poster15Two-hand control device16Safety switch, safety grid17Foot switch18Warning signsWarning of hand injuries.19Emergency stop button for the pull roll unit20Warning signsWarning of a hot surface.21Guard profile
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 66 
+Legend for technical drawing (M432654)No.ElementMeaningSymbol1, 2Warning signsWarning of a hot surface.Drawings (M329419)SafetyOperationEquipment_PullRollUnit_M329419_001_02 [} 67]SafetyOperationEquipment_PullRollUnit_M329419_002_05 [} 69]SafetyOperationEquipment_PullRollUnit_M329419_003_04 [} 71]SafetyOperationEquipment_PullRollUnit_M329419_004_03 [} 73]SafetyOperationEquipment_PullRollUnit_M329419_005_01 [} 75]Drawings (M432654)SafetyOperationEquipment_PullRollUnit_M432654_001_03 [} 77]SafetyOperationEquipment_PullRollUnit_M432654_002_02 [} 79]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 67 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 68 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 69 
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 70 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 71 
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 72 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 73 
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 74 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 75 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 76 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 77 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 78 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 79 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 80 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 81 
+4.15 Winder unit
+
+Overviews of safe-guards
+
+The safeguards are shown on the separate technical drawing.Legend for technical drawing (M331996)No.ElementMeaningSymbol1Warning signsWarning of draw-in hazard.3Warning signsWarning of dangerous electro-static discharge.5Warning signsWarning of a hot surface.8Warning signsWarning of danger of falling.9Warning signsWarning of obstacles.10Warning signsWarning of dangerous elec-trical voltage.11Warning signsWarning of danger from cut-ting.12Prohibitive signsNo entry for unauthorised per-sonnel.13Prohibitive signsAccess forbidden for peoplewith a heart pacemaker.14Warning signsWarning of magnetic field.16Danger stripe17Mandatory signsWear a hard hat.34Earthing sign35, 36Arrow direction of movement50Discharge device51 - 53MountLegend for technical drawing (M435648)No.ElementMeaningSymbol1Fixing parts2Screw
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 82 
+No.ElementMeaningSymbol10, 11Pressure sensitive mat20Z-profile30End panelDrawings (M331996)SafetyOperationEquipment_WinderUnit_M331996_001_03 [} 83]SafetyOperationEquipment_WinderUnit_M331996_002_04 [} 85]SafetyOperationEquipment_WinderUnit_M331996_003_08 [} 87]SafetyOperationEquipment_WinderUnit_M331996_004_06 [} 89]SafetyOperationEquipment_WinderUnit_M331996_005_09 [} 91]Drawing (M435648)SafetyOperationEquipment_WinderUnit_M435648_001_01 [} 93]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 83 
+
+
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 84 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 85 
+
+
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 86 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 87 
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 88 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 89 
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 90 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 91 
+PP
+
+ PP
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 92 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 93 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 94 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 95 
+4.16 Inline coating device
+
+Overview of the safe-guards
+
+The safeguards are shown on the separate technical drawing.Legend for technical drawing (M429749)No.ElementMeaningSymbol1Rope switch with emergency stop machine2Warning signsWarning of dangerous electro-static discharge.3Warning signsWarning of dangerous elec-trical voltage.4Warning signsWarning of hand injuries.5Warning signsWarning of draw-in hazard.6Warning signsWarning of a hot surface.7Build-up push button chain stop8Emergency push button9Operator panel10Flashing light11Signal lamp12Cover13ScrewDrawingsSafetyOperationEquipment_InlineCoatingDevice_M429749_001_01 [} 96]SafetyOperationEquipment InlineCoatingDevice M429749 002 02 [} 98]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 96 
+
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 97 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 98 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 99 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 100 
+5 Emergency stop facilitiesDescriptionAn emergency stop is carried out by manual actuation of a trigger or by the controlof the film production line. To reduce the danger, actions such as switching off thecomponents are triggered. Operation of the components is prevented by emergencystop locks. The emergency stop locks are reset by setting the start release.If further triggers are actuated during an active emergency stop, the start releasemust also be set for them.
+
+Emergency stop lineversus emergencystop machineChecking the safe-guardsAdditional Informa-tion
+
+• emergency stop line is triggered on several line components or on distant linecomponents if there is any hazard.• emergency stop machine or emergency stop line is triggered if there is any haz-ard to a line component.The function of the safeguards must be regularly checked. See the manufactureroperating manual.An extensive description of the safety equipment can be found in the safety manual.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 101 
+5.1 Emergency stop lineTriggerAn emergency stop is carried out by each of the following actions:• Actuation of an emergency stop button line• emergency stop line of the controlEmergency stop lineThe emergency stop line triggers the following actions:• The Fault Appeared acoustic alarm is output.• Emergency stops are carried out on all line components. The line componentsstop according to the respective stop category.Set start releaseRequirements for the start release:• The cause for emergency stop line is eliminated.• The requirements for the start release must be fulfilled on all line components.The emergency stop locks of all line components are reset by setting the startrelease.To set the release, proceed as follows:The emergency stop was triggered by an emergency stop button.►Confirm that the emergency stop cause is eliminated. Unscrew the button headof the emergency stop button.►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 102 
+5.2 Emergency stop recyclingDanger zoneThe emergency stop recycling applies to the following components.• Conveying piping to the fluff silos• All fluff silos• All exhaust air filtersFor every grinder, there is a separate emergency stop grinder.TriggerAn emergency stop is carried out by each of the following actions:• Actuation of a recycling emergency stop button• emergency stop line
+
+Emergency stop re-cycling
+
+The emergency stop recycling triggers the following actions:• The Fault Appeared acoustic alarm is output.• The components of the fluff silo are switched off.The components of the exhaust air filter are switched off.The components of the conveying piping are switched off.The fans continue to turn for a certain period of time.Further components remain in the current position.The components can no longer be put into operation during the active emer-gency stop.• The pneumatic system is not ventilated.• If the film recycling is concerned, the film grinder in front of it is switched off.• If the edge trim recycling is concerned, both edge trim grinders in front of it areswitched off.Further line components can stop.
+
+Set start releaseRequirements for the start release:• The cause for emergency stop recycling is eliminated.To set the release, proceed as follows:The emergency stop was triggered by an emergency stop button.►Confirm that the emergency stop cause is eliminated. Unscrew the button headof the emergency stop button.►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 103 
+5.3 Emergency stop grinderTriggerAn emergency stop is carried out by each of the following actions:• Actuation of an emergency stop button grinder• emergency stop grinder of the Process Control System• emergency stop line• Activating the Service Mode or Maintenance Mode• Opening the safety monitored service hatches
+
+Emergency stopgrinder
+
+The emergency stop grinder triggers the following actions:• The Fault Appeared acoustic alarm is output.• If there is a threading device, the pneumatically operated components of thethreading device remain in the current position.The components can no longer be moved during an active emergency stop.The pneumatic system is not ventilated.• The drive of the grinder is switched off. The rotor blades continue to turn for acertain period of time.The fan of the conveying piping is switched off.If there is a threading device, the drives are switched off. The threading deviceis stopped by brakes.The components can no longer be put into operation during the active emer-gency stop.• The safety monitored service hatches can be operated if the following conditionsare fulfilled:– Service Mode is active.– No emergency stop triggered by an emergency stop button is active.– The rotor blades of the grinder are not moving.If there is a hydraulic pump and these conditions are not fulfilled any more, thehydraulic pump is switched off. The service hatch remains in the current posi-tion.In addition, the emergency stop grinder triggers the following actions at the edgetrim grinder:• If there is a pneumatically operated flap at the conveying fan for the edge trimtransport, it is moved into the park position.The flap at the conveying fan can no longer be moved during an active emer-gency stop.The pneumatic system is not ventilated.• If there is a movement of the edge trim grinders, the grinders remain in the cur-rent position.The movement of the edge trim grinders can no longer be put into operation dur-ing the active emergency stop.• If the "Line Threading Mode" is higher than Pull Roll Thread Mode, the film pro-duction line goes into Pull Roll Thread Mode.This causes the drives of the pull roll unit and the winder unit to switch off.If there is an oscillation of the winder unit, it is switched off.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 104 
+Set start releaseRequirements for the start release:• The cause for the emergency stop grinder is eliminated.• The service hatches are closed.• The line component is in Production Mode.To set the release, proceed as follows:The emergency stop was triggered by "Service Mode" or by opening safetymonitored screw fittings at the service hatches.The start release automatically takes place after changing into Production Mode andclosing the safety monitored screw fittings on the service hatches.The emergency stop was triggered by an emergency stop button.►Confirm that the emergency stop cause is eliminated. Unscrew the button headof the emergency stop button.►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 105 
+5.4 Emergency stop threading device of the grinderTriggerAn emergency stop is carried out by each of the following actions:• Actuation of the pressure sensitive edge at the threading device of the grinder• Actuation of the pressure sensitive mat at the threading device of the grinder• If there is an emergency stop button on the threading device of the grinder,press an emergency stop button on the threading device of the grinder• emergency stop line
+
+Emergency stopthreading device ofthe grinder
+
+The emergency stop triggers the following actions:• The Fault Appeared acoustic alarm is output.• The pneumatically operated components of the threading device remain in thecurrent position.The components can no longer be moved during an active emergency stop.The pneumatic system is not ventilated.• The drives of the threading device are switched off.The threading device is stopped by brakes.The components can no longer be put into operation during the active emer-gency stop.
+
+Set start releaseRequirements for the start release:• The cause for the emergency stop threading device of the grinder is eliminated.• The requirements for the start release of the grinder must be fulfilled.To set the release, proceed as follows:The emergency stop was triggered by a light barrier, a pressure sensitive mat,a pressure sensitive edge or a laser scanner.►Confirm that the emergency stop cause is eliminated. On the operator panel,press [ fault reset ].►Set the start release. On the operator panel, press [ fault reset ] again.- or -►Confirm that the emergency stop cause is eliminated and set the start release.On the operator panel, press [ fault reset ] for longer.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 106 
+5.5 Emergency stop extrusionDanger zoneThe emergency stop extrusion applies to the main extrusion and, if present, to allcoextrusions.TriggerAn emergency stop is carried out by each of the following actions:• Actuation of an emergency stop button extrusion• If there is an emergency stop button plasticiser, actuation of the emergency stopbutton plasticiser• emergency stop line
+
+Emergency stop ex-trusion
+
+The emergency stop extrusion triggers the following actions:• The Fault Appeared acoustic alarm is output.• If there is a drain valve, it remains in the current position and can no longer bemoved during the active emergency stop.• The drives of the extrusion are switched off and can no longer be put into opera-tion during an active emergency stop.The heating and cooling units are not switched off.The fan of the cooling device for lip adjustment bolt is not switched off.• The film production line goes into the "Line Threading Mode" Off.• The resin supply system receives a process-related stop signal.
+
+Set start releaseRequirements for the start release:• The cause for emergency stop extrusion is eliminated.To set the release, proceed as follows:The emergency stop was triggered by an emergency stop button.►Confirm that the emergency stop cause is eliminated. Unscrew the button headof the emergency stop button.►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 107 
+5.6 Emergency stop film casting unitTriggerAn emergency stop is carried out by each of the following actions:• Actuation of an emergency stop button film casting unit• emergency stop line• Activation of Maintenance Mode
+
+Emergency stop filmcasting unit
+
+emergency stop film casting unit triggers the following actions:• The Fault Appeared acoustic alarm is output.• The take-off roll is swivelled into the park position or remains stationary in thecurrent position.- or -If there is a roll unit with take-off roll, this roll unit remains in the current position.• If there is a cross cutting device, the blade is moved into the housing.• If there is a thickness gauge with a radioactive source, the radioactive source ismoved into the radiation protection housing.• If there is a nip roll at the outlet of the film casting unit or at the film castingstand, this is swivelled into the park position.• The other components remain in the current position.The components can no longer be moved during an active emergency stop.• The components are switched off.The heating and/or cooling units are switched off.The components can no longer be put into operation during the active emer-gency stop.• The pneumatic system is ventilated.• If there is an auxiliary winder downstream of the film casting unit, the emergencystop auxiliary winder is triggered.• The film production line goes into the "Line Threading Mode" Off.• If the drive of the extruder is in the automatic or manual operation, the extrusionsystem receives a process-related stop signal.If the drive of the extruder is in service operation, the extrusion system does notreceive a process-related stop signal.• If the speed of the film casting unit is coupled with the following line compon-ents, they receive a process-related stop signal.
+
+Set start releaseRequirements for the start release:• The cause for emergency stop film casting unit is eliminated.• The line component is in Production Mode.• If there is an auxiliary winder downstream of the film casting unit, the require-ments for the start release of the auxiliary winder must be fulfilled.By setting the start release, the emergency stop locks of the film casting unitand the auxiliary winder are reset.To set the start release, proceed as follows:ü The [ pneumatic reset ] push button flashes on the operator panel.►Reset the pneumatic system to the defined default status. Press [ pneu-matic reset ] on the operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 108 
+The emergency stop was triggered by an emergency stop button.►Confirm that the emergency stop cause is eliminated. Unscrew the button headof the emergency stop button.►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 109 
+5.7 Emergency stop auxiliary winderTriggerAn emergency stop is carried out by each of the following actions:• Passing through a light barrier when the red signal light is lighting• Operating the rope switch• If the auxiliary winder has a carriage, starting of the auxiliary winder when thecarriage is not connected to the drive• Emergency stop of the previous line component• emergency stop line
+
+Emergency stop aux-iliary winder
+
+emergency stop auxiliary winder triggers the following actions:• The Fault Appeared acoustic alarm is output.• The drive of the auxiliary winder is switched off and can no longer be put intooperation during an active emergency stop.
+
+Set start releaseRequirements for the start release:• The cause for emergency stop auxiliary winder is eliminated.• The rope switch is currently not actuated.• No-one is standing in any light barrier.• If an emergency stop is active on the previous line component, the requirementsfor the start release must be fulfilled.The emergency stop locks of the previous line component and the auxiliarywinder are reset by setting the start release.To set the start release, proceed as follows:The emergency stop was triggered by a light barrier, a pressure sensitive mat,a pressure sensitive edge or a laser scanner.►Confirm that the emergency stop cause is eliminated. On the operator panel,press [ fault reset ].►Set the start release. On the operator panel, press [ fault reset ] again.- or -►Confirm that the emergency stop cause is eliminated and set the start release.On the operator panel, press [ fault reset ] for longer.The emergency stop was triggered by a rope switch.►Confirm that the emergency stop cause is eliminated. Loosen the interlock at theend of the rope.►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 110 
+5.8 Emergency Stop machine direction orienterTriggerAn emergency stop is carried out by each of the following actions:• Actuation of an emergency stop button machine direction orienter• emergency stop line• Activation of Maintenance Mode• Activation of Production Mode while a safety gate or service hatch is open• Release of a safety switch on a service hatch• Fixing of the compressed air on the pneumatic systemTurn the key switch to [ maint. air ] to [ on ].
+
+Emergency Stop ma-chine direction ori-enter
+
+emergency stop machine direction orienter triggers the following actions:• The Fault Appeared acoustic alarm is output.• The pneumatically movable components are moved into the park position.The blade of the cross cutting device is moved into the housing.The other components remain in the current position.The components can no longer be moved during an active emergency stop.• The components are switched off.The heating and/or cooling units are switched off.The components can no longer be put into operation during the active emer-gency stop.• The pneumatic system is not ventilated. The pneumatic system can be ventil-ated by other actions (e.g. leaving Production Mode).• If there is an auxiliary winder downstream of the machine direction orienter,emergency stop auxiliary winder is triggered.• If the line threading mode is higher than MDO Thread Mode, the film productionline goes into MDO Thread Mode.• If the speed of the machine direction orienter is coupled with the following linecomponents, they receive a process-related stop signal.
+
+Set start releaseRequirements for the start release:• The cause for emergency stop machine direction orienter is eliminated.• The safety gates and service hatches are closed.• The line component is in Production Mode.• The key switch [ maint. air ] of the pneumatic system is set to [ off  ].The pneumatic system is ventilated.• If there is an auxiliary winder downstream of the machine direction orienter, therequirements for the start release of the auxiliary winder must be fulfilled.The emergency stop locks of the machine direction orienter and the auxiliarywinder are reset by setting the start release.To set the start release, proceed as follows:ü The [ pneumatic reset ] push button flashes on the operator panel.►Reset the pneumatic system to the defined default status. Press [ pneu-matic reset ] on the operator panel.The emergency stop was triggered by an emergency stop button.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 111 
+►Confirm that the emergency stop cause is eliminated. Unscrew the button headof the emergency stop button.►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 112 
+5.9 Inline coating device emergency stopTriggerAn emergency stop is carried out by each of the following actions:• Confirmation of a rope switch• Confirmation of an inline coating device emergency stop button• emergency stop line• Activation of Maintenance Mode• Fixing of the compressed air on the pneumatic systemTurn the key switch to [ maint. air ] to [ on ].
+
+Inline coating deviceemergency stop
+
+The inline coating device emergency stop triggers the following actions:• The Fault Appeared acoustic alarm is output.• The corona treatment station is switched off.• The drive of the corona treatment roll is switched off.• The drive of the gravure roll is switched off.• The drive of the kiss-coat roll is switched off.• The movement of the kiss-coat roll stands still in the current position.• The cartridge remains in the current position.• The spreading devices are moved into the position of the centre of gravity.The corona discharging stations are moved into park position or position ofcentre of gravity.The pneumatic system is ventilated.• The pump of the coating material supply is switched off.The pumps of the coating medium supply are switched off.• The components can no longer be put into operation during the active emer-gency stop.• If the line threading mode is higher than MDO Thread Mode, the film productionline goes into MDO Thread Mode.• If the speed of the inline coating device is coupled with the following line com-ponents, they receive a process-related stop signal.
+
+Set start releaseRequirements for the start release:• The cause for the inline coating device emergency stop is remedied.• The rope switch is currently not actuated.• The line component is in Production Mode.• The key switch [ maint. air ] of the pneumatic system is at [ off ].To set the start release, proceed as follows:ü The [ pneumatic reset ] push button flashes on the operator panel.►Reset the pneumatic system to the defined default status. Press [ pneu-matic reset ] on the operator panel.The emergency stop was triggered by an emergency stop button.►Confirm that the emergency stop cause is eliminated. Unscrew the button headof the emergency stop button.►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by a rope switch.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 113 
+►Confirm that the emergency stop cause is eliminated. Loosen the interlock at theend of the rope.►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 114 
+5.10 Emergency stop, transverse direction orienterTriggerAn emergency stop is carried out by each of the following actions:• Actuation of the pressure sensitive edge at the inlet• If there are pressure sensitive edges at the outlet, actuation of a pressure sens-itive edge• If there is an emergency stop button transverse direction orienter, actuation ofan emergency stop button transverse direction orienter• emergency stop line• Activation of Maintenance Mode
+
+Emergency stop,transverse directionorienter
+
+emergency stop transverse direction orienter triggers the following actions:• The Fault Appeared acoustic alarm is output.• If there is a centre cutting device, the blade is moved into the housing.The other components remain in the current position.The components can no longer be moved during an active emergency stop.• The components are switched off.The components can no longer be put into operation during the active emer-gency stop.Exception: The heating and/or cooling units are not switched off.Exception: If there is an edge cooling, it is not switched off.Exception with FOK 8.8:– The water-cooled chain cooling continues in case of a sliding rail temperat-ure of at least 80 °C during an emergency stop of the transverse directionorienter. This serves to prevent a pressure increase in the cooling circuit.– The water-cooled chain cooling stops in case of a sliding rail temperature ofless than 80 °C during an emergency stop of the transverse direction ori-enter.• The pneumatic system is not ventilated. The pneumatic system can be ventil-ated by other actions (e.g. leaving Production Mode).• The hydraulic system is not actively ventilated.• If the line threading mode is higher than TDO Thread Mode, the film productionline goes into TDO Thread Mode.• If the speed of the transverse direction orienter with the following line compon-ents is coupled, these receive a process-related stop signal.
+
+Set start releaseRequirements for the start release:• The cause for emergency stop transverse direction orienter is eliminated.• The pressure sensitive edges are not actutated at the moment.• The line component is in Production Mode.To set the start release, proceed as follows:ü The [ pneumatic reset ] push button flashes on the operator panel.►Reset the pneumatic system to the defined default status. Press [ pneu-matic reset ] on the operator panel.The emergency stop was triggered by an emergency stop button.►Confirm that the emergency stop cause is eliminated. Unscrew the button head
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 115 
+►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by a light barrier, a pressure sensitive mat,a pressure sensitive edge or a laser scanner.►Confirm that the emergency stop cause is eliminated. On the operator panel,press [ fault reset ].►Set the start release. On the operator panel, press [ fault reset ] again.- or -►Confirm that the emergency stop cause is eliminated and set the start release.On the operator panel, press [ fault reset ] for longer.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 116 
+5.11 Emergency stop pull roll unit and winder unit
+
+Common dangerzone
+
+The following line components have a common danger zone with common emer-gency stop.• Pull roll unit• Winder unitAn emergency stop of one of these line components also leads to an emergencystop of the other line components.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 117 
+TriggerAn emergency stop is carried out by each of the following actions:• Actuation of an emergency stop button machine• emergency stop machine of the control• Actuation of the pressure sensitive edge at the inlet of the pull roll unit• Entering the pressure sensitive mat under the two-station turret winder while theline components are in Production Mode• If there is a pressure sensitive mat downstream from the two-station turretwinder, entering the pressure sensitive mat under certain conditions• emergency stop line• Activation of Maintenance Mode• Activation of Production Mode while a safety gate before the two-station turretwinder is open• Fixing of the compressed air on the pneumatic systemTurn the key switch to [ maint. air ] to [ on ].
+
+Emergency stop ma-chine
+
+The emergency stop triggers the following actions:• The "Fault Appeared" acoustic alarm is output.• If there are mechanical brakes, they are moved into the working position.The further pneumatically movable components are moved into the park positionor position of centre of gravity (half open).If there is an edge trim device, the blades or the circular knife are moved into thepark position.The movement of the thickness gauge is immediately stopped. If the thicknessgauge has a radioactive source, the guard cover at the radiator itself is immedi-ately closed as well.The contact roll remains in the current position if there is a contact roll adjust-ment unit with contact roll positioning system (LIWIND®).If there is a contact roll adjustment unit with spindle drive, the contact roll ismoved into the park position.The other components remain in the current position.The components can no longer be moved during an active emergency stop.• The components are switched off.The heating and cooling units are switched off.The hydraulic aggregate is switched off. The hydraulic aggregate is no longerpressurised. There may still be pressure in the hydraulic system.The components can no longer be put into operation during the active emer-gency stop.Exception: If there is a film inspection system, this is not switched off.• The pneumatic systems are ventilated.• If the line threading mode is higher than "Pull Roll Thread Mode", the film pro-duction line goes into "Pull Roll Thread Mode".
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 118 
+Set start releaseRequirements for the start release:• The cause for the emergency stop machine is eliminated.• The pressure sensitive edge at the inlet of the pull roll unit is not currently actu-ated.• No-one is standing on the pressure sensitive mats at the two-station turretwinder.• The safety gates are closed.• The line components are in "Production Mode".• The key switch of the pneumatic system is at [ maint. air off ].To set the release, proceed as follows:ü The [ pneumatic reset ] push button on the operating panel flashes.►Reset the pneumatic system to the defined default status. On the operatorpanel, press [ pneumatic reset ].The emergency stop was triggered by an emergency stop button.►Confirm that the emergency stop cause is eliminated. Unscrew the button headof the emergency stop button.►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by a light barrier, a pressure sensitive mat,a pressure sensitive edge or a laser scanner.►Confirm that the emergency stop cause is eliminated. On the operator panel,press [ fault reset ].►Set the start release. On the operator panel, press [ fault reset ] again.- or -►Confirm that the emergency stop cause is eliminated and set the start release.On the operator panel, press [ fault reset ] for longer.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 119 
+5.12 Emergency stop heating and cooling unitDanger zoneThe emergency stop heating and cooling unit applies to all heating units and coolingunits assigned to the emergency stop rotary switch heating and/or cooling unit.TriggerAn emergency stop is carried out by each of the following actions:• Actuation of an emergency stop rotary switch heating and/or cooling unit• emergency stop line
+
+Emergency stopheating and coolingunit
+
+emergency stop heating and/or cooling unit triggers the following actions:• The Fault Appeared acoustic alarm is output.• The components are switched off.The components can no longer be put into operation during the active emer-gency stop.• The connected line component is no longer heated with heating and coolingunits.
+
+Set start releaseRequirements for the start release:• The cause for emergency stop heating and/or cooling unit is eliminated.To set the start release, proceed as follows:The emergency stop was triggered by an emergency stop rotary switch.►Confirm that the emergency stop cause is eliminated. Turn the emergency stoprotary switch to [ 1 ].►Set the start release. Press [ fault reset ] on any operator panel.The emergency stop was triggered by another shutter release.►Set the start release. Press [ fault reset ] on any operator panel.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 120 
+6 Operator panelsIntroductionThis chapter describes the individual control knobs on the operator panels.Individual operator panels are usually clearly assigned to a machine. In Individualcases, however, control knobs for different machines are on one operator panel.For each operator panel, information is given on the location in the line and on themachines that can be operated via this operator panel.SymbolsThe symbols used in the following in the overview drawings of the operator panelshave the following meaning:SymbolDescriptionEmergency stop button for lineMachine emergency stop buttonRotary switchMachine emergency stop buttonPush buttonIndicator light
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 121 
+SymbolDescriptionIlluminated push buttonKey switchSelector switch 0-1Selector switch 0-1 with indicator lightTouch screenAnalog displayDigital indicator
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 122 
+6.1 Operator panel CO1/CO2LocationControl room
+
+Components of thelineOverview CO1/CO2Control knobs onCO1/CO2
+
+• Complete lineNo.CaptionFunction
+
+[ emergency stopline CO1/CO2 ]
+
+The emergency stop of the line is activated.
+
+[ panic switch ] All consumers are de-energised (e.g. in case of cata-strophe)/the power supply for all consumers is estab-lished again.[ fault reset ]The fault is reset.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 123 
+6.2 Operator panel BY3LocationGrinderMachines• Edge trim recyclingOverview of BY1
+
+Control knobs onBY1
+
+No.LabellingFunction
+
+The emergency stop of the grinder is activated.
+
+[ emerg. stopgrinder ]
+
+[ feed roll open ]The feeding rolls are opened.[ feed roll close ]The feeding rolls are closed.[ feed roll on ]The feeding rolls are switched on.[ feed roll off ]The feeding rolls are switched off.
+
+The feeding rolls are released.The feeding rolls turn backwards.
+
+[ feed roll re-lease ][ feed roll back-ward ]
+
+[ film detect ]The display indicates whether the sensor de-tects film under the feeding rolls.
+
+[ feed roll set-point ]
+
+The speed of the feeding rolls is adjusted.
+
+10[ LED display ]The current speed of the feeding roll is dis-played.
+
+11[ reset safetydev. ]
+
+The fault is reset.
+
+14[ grinder start ]The grinder is switched on.15[ grinder stop ]The grinder is switched off.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 124 
+No.LabellingFunction
+
+16[ flakes siloready ]
+
+The fluff silo is ready for operation.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 125 
+6.3 Operator panel BY__1LocationGrinder
+
+Components of thelineOverview of BY__1Control knobs onBY__1
+
+• Edge trim recyclingNo.CaptionFunctionA[ fault reset ]The fault is reset.
+
+The fact that service work is allowed is dis-played.The operating mode is selected:"Production Mode"/"Service Mode"/"Mainten-ance Mode"The emergency stop of the grinder is activated.
+
+[ hydraulic re-lease ][ service maint.prod. ][ emerg. stopgrinder ]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 126 
+6.4 Operator panel BY__2LocationGrinder
+
+Components of thelineOverview of BY__2Control knobs onBY__2
+
+• Edge trim recyclingNo.CaptionFunctionA[ fault reset ]The fault is reset.
+
+The fact that service work is allowed is dis-played.The operating mode is selected:"Production Mode"/"Service Mode"/"Mainten-ance Mode"The emergency stop of the grinder is activated.
+
+[ hydraulic re-lease ][ service maint.prod. ][ emerg. stopgrinder ]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 127 
+6.5 Operator panel BECLocationFilm casting unitMachines• Main extrusion• Coextrusion• Film casting unit• Film pinning deviceOverview BECControl knob BECNo.CaptionFunction
+
+The emergency stop of the line is activated.The "Chill Roll Thread Mode" is activated.The operating mode is selected:"Production Mode"/"Service Mode"/"Mainten-ance Mode"
+
+1[ emergency stopline BEC ]10[ chill roll threadmode ]13[ service maint.prod. ]
+
+14[ fault reset ]The fault is reset.15[ pneumatic reset ]The pneumatic system is reset.[ extrusion ]Main extrusion and coextrusion2[ main extr. run ]The drive of the main extrusion is switched on.3[ main extr. stop ]The drive of the main extrusion is switched off.4[ coextr. 1 run ]The drives of coextrusion 1 are switched on.5[ coextr. 1 stop ]The drives of coextrusion 1 are switched off.[ casting unit ]Film casting unit6[ chill roll run ]The drive of the film casting unit is switched on.7[ chill roll stop ]The drive of the film casting unit is switched off.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 128 
+No.CaptionFunction
+
+The chill roll is moved into the working position.The chill roll is moved into the park position.
+
+[ chill roll workpos. ][ chill roll parkpos. ]
+
+[ pinning ]Film pinning device
+
+11[ pinning parkpos. ]12[ pinning workpos. ]
+
+The electrostatic film pinning device is moved inthe direction of the park position.The electrostatic film pinning device is moved inthe direction of the working position.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 129 
+6.6 Operator panel BC2LocationFilm casting unit
+
+Components of thelineOverview of BC2Control knobs onBC2
+
+• Film pinning deviceNo.CaptionFunction
+
+[ emergency stopline BC2 ][ pinning workpos. ][ pinning parkpos. ]–[ pinning service/prod. ]
+
+The emergency stop of the line is activated.The film pinning device is moved in the directionof the working position.The film pinning device is moved in the directionof the park position.One part of the process visualisation and controlsystem is displayed and can be operated on thetouch screen.The operating mode of the film pinning device isselected: "Service Mode"/"Production Mode"
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 130 
+6.7 Operator panel BC3LocationFilm casting unit
+
+Components of thelineOverview of BC3Control knobs onBC3
+
+• Film pinning deviceNo.CaptionFunction
+
+[ emergency stopline BC3 ][ pinning workpos. ][ pinning parkpos. ]–[ pinning service/prod. ]
+
+The emergency stop of the line is activated.The film pinning device is moved in the directionof the working position.The film pinning device is moved in the directionof the park position.One part of the process visualisation and controlsystem is displayed and can be operated on thetouch screen.The operating mode of the film pinning device isselected: "Service Mode"/"Production Mode"
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 131 
+6.8 Operator panel BM1LocationMachine direction orienterLine components• Machine direction orienter• Cross cutting device of the film casting unit• Film casting unit• Auxiliary winder of the film casting unitOverview of BM1
+
+Control knobs onBM1
+
+No.LabelFunction
+
+[ emergency stopline BM1 ]
+
+The emergency stop of the film production lineis activated.
+
+17[ fault reset ]The fault is reset.18[ pneumatic reset ]The pneumatic system is reset.7[ MDO thread mode ]"MDO Thread Mode" is activated.[ MDO ]Machine direction orienter2[ MDO run ]The drives of the machine direction orienter areswitched on.3[ MDO stop ]The drives of the machine direction orienter areswitched off.
+
+[ threading chainrun ][ threading chainstop ]
+
+The threading chain is switched on.The threading chain is switched off.
+
+[ MDO overspeed ]The lead of the machine direction orienter is act-ive as long as the push button is pressed.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 132 
+No.LabelFunction[ cross cutter ]Cross cutting device of the film casting unit8[ knife in film ]The blade of the cross cutting device is movedinto the working position.
+
+[ knife out offilm ]
+
+The blade of the cross cutting device is movedinto the park position.
+
+10[ cross cutter <-- ] The cutter head of the cross cutting device ismoved to the left-hand side.11[ cross cutter --> ] The cutter head of the cross cutting device ismoved to the right-hand side.[ pull roll ]Film casting unit
+
+12[ nip roll P.R. workpos. ]13[ nip roll P.R. parkpos. ]
+
+As long as the push button is pressed, the niproll moves on the film casting stand into theworking position. If the pushbutton is releasedbefore the nip roll is in the working position, itwill automatically move back into the park posi-tion. When the nip roll is in the working position,the drive for turning the rolls is started.The nip roll on the film casting stand is movedinto park position.
+
+[ aux.winder ]Auxiliary winder of the film casting unit14[ aux.winder run ]The drive of the auxiliary winder is switched on.15[ aux.winder stop ]The drive of the auxiliary winder is switched off.
+
+16[ aux.windertorque ]
+
+The torque is set on the auxiliary winder.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 133 
+6.9 Operator panel BM3LocationMachine direction orienter
+
+Components of thelineOverview of BM3Control knobs onBM3
+
+• Machine direction orienter• Cross cutting device of the machine direction orienterNo.LabelFunction
+
+[ emergency stopline BM3 ]
+
+The emergency stop of the film production lineis activated.
+
+29-One part of the process visualisation and controlsystem is displayed and can be operated on thetouch screen.
+
+19[ service maint.prod. ]
+
+The operating mode is selected:"Production Mode"/"Service Mode"/"Mainten-ance Mode"
+
+18[ lighting MDO ]The light of the machine direction orienter isswitched off.17[ pneumatic reset ]The pneumatic system is reset.16[ fault reset ]The fault is reset.2[ MDO run ]The drives of the machine direction orienter areswitched on.3[ MDO stop ]The drives of the machine direction orienter areswitched off.
+
+The threading chain is switched off.
+
+[ threading chainstop ]
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 134 
+No.LabelFunction13[ MDO thread mode ]"MDO Thread Mode" is activated.14[ TDO thread mode ]"TDO Thread Mode" is activated.15[ cutback mode ]"Cut Back Mode" is activated.
+
+30[ nip roll out workpos. ]31[ nip roll out parkpos. ]9[ IR-heater workpos. ]10[ IR-heater parkpos. ]11[ nip rolls workpos. ]12[ nip rolls parkpos. ]
+
+The nip roll at the outlet is moved into the work-ing position.The nip roll at the outlet is moved into the parkposition.The infrared radiators selected in the[ Threading Mode Selection ] windowin the WinCC OA are swivelled into the workingposition.The infrared radiators selected in the[ Threading Mode Selection ] windowin the WinCC OA are swivelled into the park po-sition.The nip rolls selected in the [ ThreadingMode Selection ] window in the WinCC OAare swivelled into the working position.The nip rolls selected in the [ ThreadingMode Selection ] window in the WinCC OAare swivelled into the park position.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 135 
+6.10 Operator panel BT1LocationInlet of the transverse direction orienterMachines• Transverse direction orienter• Machine direction orienter• Cross cutting device of the machine direction orienter• Width adjustmentOverview BT1Control knob BT1No.CaptionFunction
+
+The emergency stop of the line is activated.
+
+[ emergency stopline BT1 ]
+
+[ fault reset ]The fault is reset.[ TDO run ]The drives of the transverse direction orienterare switched on.[ TDO stop ]The drives of the transverse direction orienterare switched off.[ TDO thread mode ]"TDO Thread Mode" is activated.[ TDO overspeed ]The lead of the transverse direction orienter isactive as long as the push button is pressed.[ TDO speedup mode ] The "TDO Speed Up Mode" is activated.
+
+12[ TD-adjustmentstart ]13[ TD-adjustmentstop ]
+
+The width adjustment is switched on.The width adjustment is switched off.
+
+[ cross cutter MDO ] Cross cutting device of the machine direc-tion orienter14[ cross cutter <-- ] The cutter head of the cross cutting device ismoved to the left side.15[ cross cutter --> ] The cutter head of the cross cutting device is
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 136 
+No.CaptionFunction
+
+16[ knife out offilm ]
+
+The blade of the cross cutting device is movedinto the park position.
+
+17[ knife in film ]The blade of the cross cutting device is movedinto the working position.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 137 
+6.11 Operator panel BT2LocationOutlet of the transverse direction orienter
+
+Components of thelineOverview of BT2Control knobs onBT2
+
+• Transverse direction orienterNo.CaptionFunction
+
+The emergency stop of the line is activated.The operating mode is selected:"Production Mode"/"Service Mode"/"Mainten-ance Mode"
+
+[ emergency stopline BT2 ][ service maint.prod. ]
+
+9[ fault reset ]The fault is reset.10[ pneumatic reset ]The pneumatic system is reset.2[ TDO run release ]This push button is used as an enabling switch.The enabling button and the push button[ TDO run ] on operator panel BT1 must bepressed simultaneously and held down until thetransverse direction orienter is switched on.3[ TDO stop ]The transverse direction orienter is switched off.4[ TDO speedup mode ] The "TDO Speed Up Mode" is activated.5[ clip clean. off ]The clip cleaning is stopped.
+
+11[ TD-adjustmentstart ]12[ TD-adjustmentstop ]
+
+The width adjustment is switched on.The width adjustment is switched off.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 138 
+6.12 Operator panel BP1LocationInlet of the pull roll unitMachines• Pull roll unitOverview BP1Control knob BP1No.CaptionFunction
+
+The emergency stop of the line is activated.
+
+[ emergency stopline BP1 ]
+
+12[ fault reset ]The fault is reset.13[ pneumatic reset  ] The pneumatic system is reset.
+
+14[ service maint.prod. ]
+
+The operating mode is selected:"Production Mode"/"Service Mode"/"Mainten-ance Mode"
+
+15–One part of the WinCC OA is displayed and canbe operated on the touch screen.2[ pull roll run ]The drives of the pull roll unit are switched on.3[ pull roll stop ]The drives of the pull roll unit are switched off.
+
+The lead of the pull roll unit is active as long asthe push button is pressed.The "Pull Roll Thread Mode" is activated.The "Pull Roll Speed Up Mode" is activated.
+
+[ pull roll over-speed ][ pull roll threadmode ][ pull roll speedupmode ]
+
+[ production mode ]The "Production Mode" is activated
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 139 
+No.CaptionFunction
+
+8[ thread. aid workpos. ]9[ thread. aid parkpos. ]10[ edge knives infilm ]11[ edge knives out offilm ]
+
+The film threading aid is moved into the workingposition.The film threading aid is moved into the park po-sition.The blades of the edge trim device are movedinto the working position.The blades of the edge trim device are movedinto the park position.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 140 
+6.13 Operator panel BW1LocationOutlet of the winder unit
+
+Components of thelineOverview of BW1Control knobs onBW1
+
+• Pull roll unit• Winder unitNo.CaptionFunction
+
+The emergency stop of the line is activated.
+
+[ emergency stopline BW1 ]
+
+18[ open to thread ]The components of the pull roll unit and thewinder unit are prepared for threading the film.19[ auto cut ]Automatic turning of the winding shaft is started.
+
+20[ safety gate lock/release ]
+
+The safety gate is locked/unlocked.
+
+21[ fault reset ]The fault is reset.22[ reset horn ]The horn is reset.[ winder ]Winder unit2[ winder 1 run ]The drives of the winder unit and the windingshaft 1 are switched on.3[ winder 1 stop ]The drives of the winder unit and the windingshaft 1 are switched off.4[ winder 2 run ]The drives of the winder unit and the windingshaft 2 are switched on.5[ winder 2 stop ]The drives of the winder unit and the winding
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 141 
+No.CaptionFunction6[ chuck close ]The winding core chuck is closed.7[ chuck open ]The winding core chuck is opened.[ oscillation ]Oscillation8[ oscillation run ]The oscillation is started.9[ oscillation stop ] The oscillation is stopped.
+
+10[ oscillation cen-ter ]
+
+The oscillation is moved to the centre and isswitched off.
+
+[ manual selection ] Manual operation11[ turning ]The turning device is selected for operation.12[ contact roll ]The contact roll is selected for operation.13[ cutting arm ]The cutting and lay-on arm is selected for oper-ation.14[ cross cutting ]The cross cutting device is selected for opera-tion.15[ backward ]The selected device is moved opposite to thedirection of production.16[ stop ]The selected device is stopped.17[ forward ]The selected device is moved in the direction ofproduction.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 142 
+6.14 Operator panel BK1LocationInline coating device
+
+Components of thelineOverview of BK1Control knobs onBK1
+
+• Inline coating deviceNo.LabelFunction
+
+20[ service maint.prod. ]
+
+The operating mode is selected:"Production Mode"/"Service Mode"/"Mainten-ance Mode"
+
+2[ fault reset ]The fault is reset.21[ pneumatic reset ]The pneumatic system is reset.3–One part of the process visualisation and controlsystem is displayed and can be operated on thetouch screen.
+
+22[ corona bottom parkpos. ]24[ corona top parkpos. ]23[ corona bottom workpos. ]25[ corona top workpos. ]
+
+The lower corona treatment station is movedinto the park position.The upper corona treatment station is movedinto the park position.The lower corona treatment station is movedinto the working position.The upper corona treatment station is movedinto the working position.
+
+[ coater 1 select ]The coating machine 1 is selected.[ coater 2 select ]The coating machine 2 is selected.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 143 
+No.LabelFunction6[ coater run ]The drives of all rolls of the inline coatingdevice, except of the drive of the gravure roll,are switched on.7[ coater stop ]The drives of all rolls of the inline coatingdevice, except of the drive of the gravure roll,are switched off.
+
+18[ spreader roll workpos. ]19[ spreader roll parkpos. ]26[ gravure 1 enlace-ment + ]27[ gravure 1 enlace-ment - ]28[ gravure 2 enlace-ment + ]29[ gravure 2 enlace-ment - ]
+
+The spreading rollers are moved into the work-ing position.The spreading rollers are moved into the parkposition.Gravure roll 1 increase angle of contact.Gravure roll 1 reduce angle of contact.Gravure roll 2 increase angle of contact.Gravure roll 2 reduce angle of contact.
+
+12[ pump run ]The pump for the coating material supply is star-ted.13[ pump stop ]The pump for the coating material supply isswitched off.
+
+14[ kiss coat rollpark pos. ]15[ kiss coat rollwork pos. ]
+
+The kiss-coat roll is moved into the park posi-tion.The kiss-coat roll is moved into the working pos-ition.
+
+16[ gravure roll run ] The drive of the gravure roll is switched on.
+
+17[ gravure rollstop ]1[ emergency stopline BK1 ]
+
+The drive of the gravure roll is switched off.The emergency stop of the film production lineis activated.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 144 
+7 Individual control knobsIntroductionIndividual control knobs that are mounted singly or arranged severally in a commonhousing are described in this chapter.
+
+Individual controlknobs on the raw ma-terial reception andraw material storageIndividual controlknobs on the mainextruder feeding
+
+Location• Raw material reception
+
+CaptionFunction
+
+Illuminatedpush button
+
+[ big bagfeeding on ]
+
+Push button[ big bagfeedingoff ]Indicator light [ big baglevel min. ]
+
+Feeding into the silos is switched on.Feeding into the silos is switched off.The display shows that the minimum filling level inthe silo has been reached.
+
+Location• Main extruder feeding
+
+CaptionFunction
+
+Key switch[ serviceswitchmixer ]
+
+The worms of the mixer are switched on/off.
+
+Location• Main extruder feeding
+
+CaptionFunction
+
+Key switch[ serviceswitch fil-ter ]
+
+The filter is de-energised/the power supply for thefilter is established again.
+
+Location• Drive side of the main extruder feeding
+
+CaptionFunction
+
+Key switch[ serviceswitch dos-ing screw ]
+
+The worms of the dosing are switched on/off.
+
+Location• Main extruder feeding
+
+CaptionFunction
+
+Illuminatedpush button
+
+[ dischargeflake hop-per ]
+
+Emptying fluff hopper
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 145 
+Individual controlknobs on the film re-cyclingIndividual controlknobs on the extru-sion systemIndividual controlknobs on the filmcasting unit
+
+Location• Film recycling
+
+CaptionFunction
+
+Key switch[ serviceswitch flakesilo 1 ]
+
+Fluff silo 1 is de-energised/the power supply forFluff silo 1 is established again.
+
+CaptionFunction
+
+Key switch[ serviceswitch fil-ter ]
+
+The filter is de-energised/the power supply for thefilter is established again.
+
+Location• Main extrusion
+
+LabelFunction
+
+Key switch[ serviceswitch HCU ]
+
+The heating and/or cooling units of the main extru-sion are switched on/off.
+
+Location• Coextrusion
+
+LabelFunction
+
+Key switch[ serviceswitch HCU ]
+
+The heating and/or cooling units of the coextrusionare switched on/off.
+
+Location• Left side at the outlet of the film casting unit
+
+LabelFunction
+
+Selectorswitch 0 - 1with indicatorlight
+
+The safety gates at the platform above the take-offroll are locked/unlocked.
+
+[ safetygate lock/release ]
+
+Location• Operating side at the outlet of the film casting unit
+
+LabelFunction
+
+Illuminatedpush buttonIlluminatedpush button
+
+The take-off roll is moved into the park position.The take-off roll is moved into the working position.
+
+[ take offr. parkpos. ][ take offr. workpos. ]
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 146 
+Individual controlknobs on the auxili-ary winderIndividual controlknobs on the ma-chine direction ori-enterIndividual controlknobs on the trans-verse direction ori-enter
+
+Location• Drive side at the inlet of the film casting unit• Operating side at the inlet of the film casting unit
+
+LabelFunction
+
+Push button[ lightbarr. re-set ]
+
+The protective function light barrier is reset.
+
+Location• Pneumatic cabinet of the machine direction orienter
+
+LabelFunction
+
+Key switch[ maint. airoff / on ]
+
+[ maint. air on ]When exiting the "Production Mode", the com-pressed air remains in the pneumatic system.[ maint. air off ]When exiting the "Production Mode", the pneu-matic system is vented.
+
+Location• Left-hand side at the outlet of the machine direction orienter
+
+LabelFunction
+
+Push button[ threadingchain stop ]
+
+The threading chain is switched off.
+
+Location• Drive side at the inlet of the transverse direction orienter• Drive side at the outlet of the transverse direction orienter
+
+LabelFunction
+
+Push button[ bolt lubetest  ]
+
+The function of the sprocket tooth lubrication istested.
+
+Location• Transverse direction orienter
+
+LabelFunction
+
+Key switch[ mainten-anceswitch ]
+
+All shut-off valves in the thermal oil main line arede-energised for service work.1The power supply of the shut-off valves in thethermal oil main line is switched on again.
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 147 
+Individual controlknobs on the pull rollunit
+
+Location• Drive side of the pull roll unit• Operating side of the pull roll unit
+
+LabelFunction
+
+Push button[ spreaderroll 1 anglemore ]Push button[ spreaderroll 1 angleless ]
+
+The angle of spreading roller 1 to the film border isextended.The angle of spreading roller 1 to the film border isreduced.
+
+Location• Drive side of the pull roll unit• Operating side of the pull roll unit
+
+LabelFunction
+
+Push button[ spreaderroll 2 anglemore ]Push button[ spreaderroll 2 angleless ]
+
+The angle of spreading roller 2 to the film border isextended.The angle of spreading roller 2 to the film border isreduced.
+
+Location• Drive side of the pull roll unit• Operating side of the pull roll unit
+
+LabelFunction
+
+Push button[ spreaderroll 3 anglemore ]Push button[ spreaderroll 3 angleless ]
+
+The angle of spreading roller 3 to the film border isextended.The angle of spreading roller 3 to the film border isreduced.
+
+Location• Drive side of the pull roll unit• Operating side of the pull roll unit
+
+LabelFunction
+
+Push button[ spreaderroll 4 anglemore ]Push button[ spreaderroll 4 angleless ]
+
+The angle of spreading roller 4 to the film border isextended.The angle of spreading roller 4 to the film border isreduced.
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 148 
+Location• Pneumatic cabinet of the pull roll unit
+
+LabelFunction
+
+Key switch[ maint. airoff / on ]
+
+[ maint. air on ]When exiting the "Production Mode", the com-pressed air remains in the pneumatic system.[ maint. air off ]When exiting the "Production Mode", the pneu-matic system is vented.
+
+Location• Operating side in the inlet of the pull roll unit
+
+LabelFunction
+
+Push button(2 pieces)
+
+[ edge trimchop 1 ][ edge trimchop 2 ]
+
+Both push buttons on the edge trim choppingdevice must be operated simultaneously (two-handcontrol device) until the edge trim has beensevered and discharged via the suction funnels.
+
+Individual controlknobs on the winderunitIndividual controlknobs on the inlinecoating device
+
+Location• Drive side of the winder unit• Operating side of the winder unit
+
+CaptionFunction
+
+Push button[ spreaderout ]Push button[ spreaderin ]Push button[ spreaderangle less ]Push button[ spreaderangle more ]
+
+The spreading rollers are moved in the direction ofthe film border.The spreading rollers are moved in the direction ofthe film centre.The angle of the spreading device to the film bor-der is reduced.The angle of the spreading device to the film bor-der is extended.
+
+Location• Pneumatic cabinet of the inline coating device
+
+LabelFunction
+
+Key switch[ maint. airoff / on ]
+
+[ maint. air on ]When exiting the "Production Mode", the com-pressed air remains in the pneumatic system.[ maint. air off ]When exiting the "Production Mode", the pneu-matic system is vented.
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+Controlknob
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 149 
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 150 
+8 Active warning devicesIntroductionThis chapter describes the active warning facilities in the film production line. Fur-ther information on the active warning facilities can be found in the Safety manual.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 151 
+8.1 Pressure exceeded in the extrusion systemDescriptionIn the parts of the extruding process that are melt-guiding, the pressure of the meltis continuously measured with pressure transducers and monitored by the processcontrol system. If the maximum permissible pressure is exceeded, the alarm for theaffected pressure transducer is displayed on the visualisation and protective func-tions are carried out. The protective functions should prevent any damage or explo-sion in the melt-guiding parts.Protective functionsThe following protective functions are carried out:• The drives of the extrusion system are switched off and locked.• The heating in the affected extrusion line, except for the adapter block and themelt die, is switched off and locked.• The "Overpressure/Overtemperature" acoustic signal sounds on the horn at thevacuum system or at the front area of the melt die unit.• The flash lamp on the vacuum system or the front area of the melt die unitflashes.• The "Overpressure/Overtemperature" acoustic signal and the flash lamp are de-activated when the measured pressure no longer exceeds the maximum per-missible pressure. This can take several hours.
+
+Temperature in thevacuum pump unitexceeded
+
+The "Overpressure/Overtemperature" acoustic signal also sounds and the flashlamp flashes at the vacuum system or at the front area of the melt die unit in case ofan exceedance of temperature at the exhaust air collecting line of the vacuum pumpunit.
+
+Protection measure►If the "Overpressure/Overtemperature" acoustic signal sounds and theflash lamp flashes, immediately leave the extrusion system danger zone.Eliminating the causeThe search for the cause may only be carried out by an instructed specialist. Thesearch for the cause is carried out outside the extrusion system danger zone. Onlywhen safe access is ensured, the extrusion system danger zone may be entered.Searching for the causeCauseMeasure
+
+• By switching off the drives andthe heating, the pressure in theparts that carry melt dropsslowly.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are deactivatedwhen the measured pressureno longer exceeds the max-imum permissible pressure.This can take several hours.• The alarm from a temperaturesensor is displayed on the partsthat carry melt.• Often the extrusion line is beingheated.
+
+• There is a problem on the tem-perature sensor. See sub-sequent section "Eliminating amalfunction on the component".• Overheated heating zoneDue to incorrect heating andcooling during heating, part ofthe plastic was heated upstrongly and evaporated. Sincethe remaining plastic is stillsolid, the overpressure wasgenerated.
+
+ü The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are not active.►Remove and clean all parts thatcarry melt. Determine and re-move the cause of the block-age. The cause can be a for-eign body or plastic that has notmelted.►Eliminate the malfunction onthe temperature sensor.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 152 
+Searching for the causeCauseMeasure
+
+• By switching off the drives andthe heating, the pressure in theparts that carry melt dropsslowly.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are deactivatedwhen the measured pressureno longer exceeds the max-imum permissible pressure.This can take several hours.• Often the extrusion line is beingheated.• By switching off the drives andthe heating, the pressure in theparts that carry melt drops.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are deactivated.• The temperature of a heatingzone is too high or too low.• Often the extrusion line isalready heated and in opera-tion.• There is external heating on theparts that carry melt.• The pressure in the parts thatcarry melt does not drop.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp remain active.
+
+• The thermostat is defective.• Overheated heating zoneDue to incorrect heating andcooling during heating, part ofthe plastic was heated upstrongly and evaporated. Sincethe remaining plastic is stillsolid, the overpressure wasgenerated.• There is a problem on theheater. See subsequent section"Eliminating a malfunction onthe component".• BlockageIncorrect heating and coolingled to a blockage in the partsthat carry melt.
+
+►Do not enter the extrusion sys-tem danger zone.►Let the extrusion system cool.The cooling can take severalhours.ü The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are not active.►Remove and clean all parts thatcarry melt. Determine and re-move the cause of the block-age. The cause can be a for-eign body or plastic that has notmelted.►Eliminate the malfunction onthe thermostat.ü The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are not active.►Remove and clean all parts thatcarry melt. Determine and re-move the cause of the block-age. The cause can be a for-eign body or plastic that has notmelted.►Eliminate the malfunction onthe heater.
+
+• External  heating►Do not enter the extrusion sys-tem danger zone.►If possible, remove the externalheating with regard  to yourown safety.►Let the extrusion system cool.The cooling can take severalhours.ü The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are not active.►Replace damaged parts.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 153 
+Searching for the causeCauseMeasure
+
+• The temperature in the partsthat carry melt drops.• The pressure in the parts thatcarry melt does not drop.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp remain active.• The other causes have beenexcluded.
+
+• There is a problem on the pres-sure transducer. See sub-sequent section "Eliminating amalfunction on the component".
+
+►Eliminate the malfunction onthe pressure transducer.
+
+Eliminating a mal-function on a com-ponentProblemCauseMeasures
+
+The alarm of the temperaturesensor is displayed.The temperature of the heater orthe heating zone is too high or toolow.The pressure of a pressure trans-ducer is too high.
+
+The temperature sensor is defect-ive.The cable on the temperaturesensor is not correctly connected.If the temperature of the heater istoo low, the heater is defective.If the temperature is too high, thereis a problem in a neighbouringheating zone.There is a problem on the temper-ature sensor.The alarm of the temperaturesensor is displayed.The associated heating zone isswitched off.The cable on the pressure trans-ducer is not correctly connected.The pressure transducer is defect-ive.
+
+►Replace the temperaturesensor.►Check the cabling of the tem-perature sensor.►Connect temperature sensorscorrectly.►Replace the heater.►Check the heater and replace ifdefective.►Check the thermostat and re-place if defective.►See fault elimination of the tem-perature sensor.►Check the cabling of the pres-sure transducer.►Connect the pressure trans-ducer correctly.►Replace the pressure trans-ducer.
+
+Resetting the faultFaults output by the process control system must be reset after the fault is elimin-ated.ü The fault is remedied.►Reset the fault. On the operator panel, press [ fault reset ].ð All remedied faults on the line are reset.ð Triggered safeguards visible on the operator panel are reset. This does notapply on the operator panel in the control room.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 154 
+Commissioning aftermalfunction
+
+After all faults and triggered safeguards have been reset, the line components canbe started again.The initial commissioning after a malfunction must be carried out under the constantobservation of an instructed specialist.
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 155 
+8.2 Temperature in the vacuum pump unit exceededDescriptionIn the exhaust air collecting line of the vacuum pump unit, the temperature of thegases is continually measured with a temperature controller and monitored by theprocess control system. If the maximum permissible temperature is exceeded formore than 5 seconds, the alarm for the temperature controller is displayed on thevisualisation and protective functions are carried out. The reason for the temperat-ure exceedance could be a fire in the exhaust air collecting line.Protective functionsThe following protective functions are carried out:• The drives in the vacuum pump unit are switched off and locked.• The slow-action air blower in the vacuum pump unit switches off with a delay of5 minutes.• The "Overpressure/Overtemperature" acoustic signal sounds on the horn at thevacuum system or at the front area of the melt die unit.• The flash lamp on the vacuum system or the front area of the melt die unitflashes.• The "Overpressure/Overtemperature" acoustic signal and the flash lamp are de-activated when the measured temperature in the connection sleeve of the ex-haust collecting line no longer exceeds the maximum permissible temperature.This can take several hours.
+
+Pressure exceeded inthe extrusion system
+
+If the pressure in the melt carrying parts of the extrusion is exceeded, the "Over-pressure/Overtemperature" acoustic signal sounds and the flash lamp flashes at thewarning facilities at the melt die unit.
+
+Protection measure►If the "Overpressure/Overtemperature" acoustic signal sounds and theflash lamp flashes, immediately leave the extrusion system danger zone.Eliminating the causeThe search for the cause may only be carried out by an instructed specialist. Thesearch for the cause is carried out outside the extrusion system danger zone. Onlywhen safe access is ensured, the extrusion system danger zone may be entered.Searching for the causeCauseMeasure
+
+• By switching off the drives inthe vacuum pump unit, the tem-perature in the exhaust air col-lecting line decreases.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are deactivated.
+
+The vacuum pump unit is contam-inated.
+
+►If there are signs of a fire, thefault eliminations in case of firehave to be carried out in the ex-haust air collecting line.ü The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are not active.►Clean the components of thevacuum pump unit.• Exhaust air collecting line• Vacuum pumps• Separator• Lines• Exhaust air duct
+
+--------------------------------------------------------------------------------
+VOLUME 01 - OperatingManual-LineOverview - Pag 156 
+Searching for the causeCauseMeasure
+
+• The temperature in the exhaustair collecting line does not de-crease.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp remain active.• The temperature sensors onthe vacuum pumps show thatthe admissible temperature isexceeded.• At the exhaust air collectingline, signs of severe overheat-ing can be present, e.g. smokeor glowing surface.• The temperature in the exhaustair collecting line does not de-crease.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp remain active.• The other causes have beenexcluded.
+
+There is a fire in the exhaust aircollecting line.The cable on the temperature con-troller is not correctly connected.The temperature controller is de-fective.
+
+►Take appropriate measures forextinguishing the fire with re-gard to your own safety.Do not open the burning ex-haust air collecting line.ü The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are not active.►Clean the components of thevacuum pump unit.• Exhaust air collecting line• Vacuum pumps• Separator• Lines• Exhaust air duct►Replace the seals.►Check the slow-action airblower and refurbish if neces-sary.►Make sure that the exhaust aircollecting line complies withBrückner's technical specifica-tions.►Check the cabling of the tem-perature sensor.►Connect the temperaturesensors correctly.►Replace the temperature con-troller. See the manufactureroperating manual.
+
+Resetting the faultFaults output by the process control system must be reset after the fault is elimin-ated.ü The fault is remedied.►Reset the fault. On the operator panel, press [ fault reset ].ð All remedied faults on the line are reset.ð Triggered safeguards visible on the operator panel are reset. This does notapply on the operator panel in the control room.After all faults and triggered safeguards have been reset, the line components canbe started again.
+
+Commissioning aftermalfunction
+
+The initial commissioning after a malfunction must be carried out under the constantobservation of an instructed specialist.
+
+--------------------------------------------------------------------------------

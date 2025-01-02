@@ -1,0 +1,143 @@
+
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 1 
+Operating manualDie preheating stationBOPETP.1932 SHB
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 2 
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 3 
+ImprintThis operating manual is part of the equipment supplied by Brückner MaschinenbauGmbH & Co. KG - hereinafter called Brückner - and describes the necessary pro-cedures for the proper use of the film production line and the associated machines.CopyrightNo part of this operating manual may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical or by recording orotherwise without the prior permission by Brückner. The copying, distribution andutilisation of this operating manual in printed or electronic form as well as the com-munication of its contents to others without expressed authorisation is prohibited.Offenders will be held liable for the payment of damages possibly arising from unau-thorised use.All product names used in this operating manual are trademarks of the respectivecompanies.DisclaimerBrückner declines any liability or responsibility for consequential, collateral or indi-rect damage that results from non-compliance with this operating manual.Patent protectionAll rights reserved in the event of the grant of a patent, utility model, or ornamentaldesign registration. Brand and product names are trademarks or registered trade-marks of their respective companies or organisations.LanguageThe original operating manual was produced in German. All translations are basedon the language of the original operating manual.ChangeThe contents of this operating manual are subject to change by Brückner withoutnotice.We reserve the right to make technical changes.We welcome your suggestions concerning the improvement of our products and ofthis operating manual.PublisherStreet addressBrückner Maschinenbau GmbH & Co. KGKönigsberger Str. 5-783313 Siegsdorf/GermanyPostal addressBrückner Maschinenbau GmbH & Co. KGPO Box 11 6183309 Siegsdorf/GermanyContactInternethttp://www.brueckner.comServicePhone: +49 8662 63-9379Fax: +49 8662 63-9370E-mail: servtec@brueckner.comSales departmentPhone: +49 8662 63-9510
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 4 
+Fax: +49 8662 63-9101E-mail: sales@brueckner.comDocumentationPhone: +49 8662 63-0Fax: +49 8662 4965-71-9220E-mail: doku@brueckner.com
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 5 
+Table of contents1 Function ...................................................................................................................................................... 71.1Intended use....................................................................................................................................... 71.2Operating principle ............................................................................................................................. 81.3Safeguards....................................................................................................................................... 101.4External documents.......................................................................................................................... 102 Installation ................................................................................................................................................ 113 Operation .................................................................................................................................................. 133.1Fault elimination ............................................................................................................................... 134 Maintenance.............................................................................................................................................. 154.1Inspection......................................................................................................................................... 154.1.1Inspection intervals............................................................................................................  154.2Repair............................................................................................................................................... 164.2.1Measures...........................................................................................................................  165 Technical data .......................................................................................................................................... 17
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 6 
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 7 
+1 FunctionIntroductionThis chapter contains information on the intended use and the description of the ba-sic functions of the components. Here, above all, those functions that are necessaryfor operation and maintenance have been taken into account.In addition, this chapter contains a description of the active and passive safeguards.1.1 Intended useIntended useThe die preheating station is intended exclusively for servicing and preheating themelt die when not installed and may only be operated for this purpose.DisclaimerAny use that goes beyond the designated use is forbidden. Brückner accepts no li-ability for any consequential damage. Improper use can present danger to life andlimb, the machine and connected equipment, and to the efficient operation of themachine.
+
+Risk assessment andwork instructions
+
+The operating company has to carry out a risk assessment and create operating in-structions for the handling of the machine.Inputs listed in this operating manual for personal protective equipment are basedon the risk assessment taking into consideration the experience with film productionand film stretching lines. The actually occurring hazards can deviate in individualcases. In this case, the measures of the hazard assessment of the operating com-pany must be taken into consideration and applied.
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 8 
+1.2 Operating principleThe melt die must be preheated in the following application areas when not in-stalled:Areas of use• When replacing the melt die: Before reassembling the new melt die, it must bepreheated to the operating temperature of the already heated film productionline.• When cleaning the melt die: In order to remove plastic remnants completely, themelt die must be heated.• Before initial commissioning: During short-term storage, the melt die must bepreheated to a constant 50 °C to prevent corrosion.The melt die is unplugged from the die preheating station after preheating andmoved in hot condition to the position where it will be installed.
+
+The following overview may differ from the model actually in use. Therefore, the il-lustrations merely shows the basic installation principle of the die preheating station.1 push button2 illuminated push button3 switch cabinet4 operating and display unit5 cable6 melt die7 transport deviceThe melt die (6) is properly attached to the transport device (7). The operating anddisplay unit (4) is connected to the melt die via the cables (5).The operating and display unit is switched on by pressing the illuminated push but-ton (2).The desired preheating temperature for the melt die is set on the operating and dis-play unit.
+
+Overview
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 9 
+The melt die is heated, as also in the installed state, via electrical heating cartridgesthat are installed in the die body. These in turn transfer the heat to the steel of themelt die by heat conduction.Depending on the width and number of layers of the respective melt die, it has a dif-ferent number of control areas.The operating and display unit is switched off by pressing the push button (1).
+
+For information on the display of the control areas on the operating and display unit,refer to the manufacturer documentation.See "Manufacturer list".
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 10 
+1.3 SafeguardsObserve the safety symbols on the die preheating station, especially at the desig-nated locations, to avoid endangering your health.More information on the safety symbols can be found in the line overview.1.4 External documentsExternal equipmentApart from the self-manufactured components, the machine also contains externallysourced or already existing components, hereinafter referred to as external equip-ment.External documentsThis external equipment is supplied with instruction leaflets, manufacturer’s informa-tion, operating, installation, adjustment and service instructions and/or other user in-formation, hereinafter referred to as external documents.
+
+Replacement, main-tenance, operation
+
+External documents must also be read and observed, particularly in case of replace-ment or maintenance.When replacing external equipment, the enclosed instruction leaflets must be ob-served.The operation of the external equipment is not described in these instructions. Therespective external document is only referred to.
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 11 
+2 InstallationRequirements• The operating and display unit is switched off, see chapter Operating principle[} 8].• The melt die is properly attached to the transport device, see section "Transport-ing the melt die with the transport device" in the "Melt die unit" operatingmanual.Required personnelThis activity may only be performed by specialists.Safety DANGERLive electrical systems and equipment can cause life-threatening injury due toelectric shock.►Work on electrical systems and equipment may only be performed by qualifiedpersonnel.►Note the information provided in the circuit diagram.
+
+For information on the electrical connections of the operating and display unit, referto the manufacturer documentation.See "Manufacturer list".
+
+Hot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+INFO
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 12 
+The following overview may differ from the model actually in use. Therefore, the il-lustrations merely shows the basic installation principle of the die preheating station.1 switch cabinet2 operating and display unit3 cable4 melt die5 cable connections►Connect the cables (3) of the operating and display unit (2) synchronously withthe labelling and coding of the cable connections (5) of the melt die (4).
+
+Overview
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 13 
+3 OperationRequirements• The operating and display unit has been installed, see chapter Installation[} 11].• The operating and display unit has been switched on, see chapter Operatingprinciple [} 8].
+
+For information on the operation of the operating and display unit, refer to the manu-facturer documentation.See "Manufacturer list".Safety WARNINGFire hazard due to escaping melt during preheating.Combustible materials in the area of the die preheating station can ignite when themelt escapes.►Keep the area clean.►Avoid sources of ignition.►Follow the safety data sheets of the raw material manufacturer.3.1 Fault eliminationSee chapter Repair [} 16].
+
+For information on the error analysis of the operating and display unit, refer to themanufacturer documentation.See "Manufacturer list".
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 14 
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 15 
+4 Maintenance4.1 Inspection
+
+General informationon intervals
+
+All inspections must be performed regularly and thoroughly and at the specified in-tervals.
+
+Requirements• The operating and display unit is switched off, see chapter Operating principle[} 8].Required personnelThis activity may only be performed by specialists.Safety DANGERLive electrical systems and equipment can cause life-threatening injury due toelectric shock.►Work on electrical systems and equipment may only be performed by qualifiedpersonnel.►Note the information provided in the circuit diagram.
+
+For information on the electrical connections of the operating and display unit, referto the manufacturer documentation.See "Manufacturer list".
+
+Hot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.4.1.1 Inspection intervalsRegular inspections at specified intervals decrease the risk of unexpected down-times. The results of the inspections should be archived by the operating companyof the film production line and analysed.►Record the inspection results in a protocol.ComponentInterval
+
+Insulation of the cables of the operatingand display unit.Cable connections on the cables of theoperating and display unit.
+
+monthly visual controlmonthly visual control
+
+Cable connections on the melt die.monthly visual control
+
+INFO
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 16 
+4.2 RepairRequirements• The operating and display unit is switched off, see chapter Operating principle[} 8].Safety DANGERLive electrical systems and equipment can cause life-threatening injury due toelectric shock.►Work on electrical systems and equipment may only be performed by qualifiedpersonnel.►Note the information provided in the circuit diagram.
+
+For information on the electrical connections of the operating and display unit, referto the manufacturer documentation.See "Manufacturer list".
+
+Hot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+In case of a damaged cable or cable connection, the display and control unitmust not be switched on again.►Contact the manufacturer of the operating and display unit.4.2.1 MeasuresCauseMeasure
+
+Insulation of the cables of the operatingand display unit is damaged.Cable connections on the cables of theoperating and display unit are dam-aged.Display or keys of the display and con-trol unit do not work.Cable connections on the melt die aredamaged.
+
+Contact the manufacturer of the operatingand display unit.Contact the manufacturer of the operatingand display unit.Contact the manufacturer of the operatingand display unit.Contact the manufacturer of the melt die.
+
+The melt die is not correctly heated.Contact the manufacturer of the operatingand display unit.
+
+INFO
+
+ WARNING
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 10 - OperatingManual-DiePreheatingStation - Pag 17 
+5 Technical data
+
+For information on the technical data of the operating and display unit, refer to themanufacturer documentation.See "Manufacturer list".
+
+INFO
+
+--------------------------------------------------------------------------------

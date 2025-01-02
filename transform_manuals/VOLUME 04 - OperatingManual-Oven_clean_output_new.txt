@@ -1,0 +1,785 @@
+
+VOLUME 04 - OperatingManual-Oven - Pag 1 
+Operating manualOvenBOPETP.1932 SHB
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 2 
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 3 
+ImprintThis operating manual is part of the equipment supplied by Brückner MaschinenbauGmbH & Co. KG - hereinafter called Brückner - and describes the necessary pro-cedures for the proper use of the film production line and the associated machines.CopyrightNo part of this operating manual may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical or by recording orotherwise without the prior permission by Brückner. The copying, distribution andutilisation of this operating manual in printed or electronic form as well as the com-munication of its contents to others without expressed authorisation is prohibited.Offenders will be held liable for the payment of damages possibly arising from unau-thorised use.All product names used in this operating manual are trademarks of the respectivecompanies.DisclaimerBrückner declines any liability or responsibility for consequential, collateral or indi-rect damage that results from non-compliance with this operating manual.Patent protectionAll rights reserved in the event of the grant of a patent, utility model, or ornamentaldesign registration. Brand and product names are trademarks or registered trade-marks of their respective companies or organisations.LanguageThe original operating manual was produced in German. All translations are basedon the language of the original operating manual.ChangeThe contents of this operating manual are subject to change by Brückner withoutnotice.We reserve the right to make technical changes.We welcome your suggestions concerning the improvement of our products and ofthis operating manual.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 4 
+PublisherStreet addressBrückner Maschinenbau GmbH & Co. KGKönigsberger Str. 5-783313 Siegsdorf/GermanyPostal addressBrückner Maschinenbau GmbH & Co. KGPO Box 11 6183309 Siegsdorf/GermanyContactInternethttp://www.brueckner.comServicePhone: +49 8662 63-9379Fax: +49 8662 63-9370E-Mail: servtec@brueckner.comSales departmentPhone: +49 8662 63-9510Fax: +49 8662 63-9101E-Mail: sales@brueckner.comDocumentationPhone: +49 8662 63-0Fax: +49 8662 4965-71-9220E-Mail: doku@brueckner.com
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 5 
+Table of contents1 Function ...................................................................................................................................................... 71.1Overview ............................................................................................................................................ 71.2Oven zones ........................................................................................................................................ 71.3Intended use....................................................................................................................................... 81.4External documents............................................................................................................................ 81.5Safeguards......................................................................................................................................... 91.6Oven frame......................................................................................................................................... 91.7Electrical insulation............................................................................................................................. 91.8Ventilation........................................................................................................................................... 91.8.1Shutters.............................................................................................................................  111.8.2Floating nozzle ..................................................................................................................  121.9Oil heating ........................................................................................................................................ 131.10 External airing system...................................................................................................................... 141.10.1Overview ...........................................................................................................................  141.10.2Exhaust air duct.................................................................................................................  151.10.3Fresh air duct ....................................................................................................................  161.10.4Air supply for clip cooling channel.....................................................................................  171.11 Film break detection......................................................................................................................... 171.12 Pressure control assembly............................................................................................................... 181.13 Radiation thermometer..................................................................................................................... 202 Operation .................................................................................................................................................. 212.1Safety ............................................................................................................................................... 212.2Operating modes of the transverse direction orienter ......................................................................  272.3Carrying out "Jogging Mode" on the transverse direction orienter ...................................................  292.4Preparation of central oil supply....................................................................................................... 303 Maintenance.............................................................................................................................................. 313.1Hazard warnings .............................................................................................................................. 313.1.1Electrical systems..............................................................................................................  323.1.2Pneumatic system.............................................................................................................  323.1.3Oven..................................................................................................................................  323.1.4Heating..............................................................................................................................  343.1.5Ventilation and external airing...........................................................................................  353.1.6Maintenance works ...........................................................................................................  373.2Pneumatic system............................................................................................................................ 383.2.1Checking and setting the pneumatic system.....................................................................  383.3Changing the filters of the ventilation modules.................................................................................  383.4Replacing the catalyser.................................................................................................................... 403.5Changing the filter of the external airing system ..............................................................................  413.6Cleaning the perforated sheets and sieves...................................................................................... 433.7Replacing the bearing console of a shutter...................................................................................... 443.8Maintaining the radiation thermometer............................................................................................. 463.9Removing film residues from the hot oven....................................................................................... 48
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 6 
+4 Taking an oven finally out of operation ................................................................................................. 534.1Carrying out technical disconnection................................................................................................ 534.2Emptying and disposing of the equipment ....................................................................................... 534.3Disassembling and disposing of machine parts ...............................................................................  545 Technical data .......................................................................................................................................... 55
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 7 
+1 FunctionIntroductionThe TDO consists of oven and track system.1.1 OverviewView from aboveThe following figures provide an overview of the oven.Side view1 Insulation2 Exhaust air duct3 Fresh air duct4 External airing system5 Cooling sections6 Neutral sections7 Film break detection8 Clip cooling9 Oil heating10 Radiation thermometer11 Shutter, inlet12 Shutter, inlet, neutral section13 Shutter, outlet, neutral section14 Shutters, intermediate section15 Shutter, inlet, neutral section16 Shutter, outlet, neutral section17 Shutter, inlet, neutral section18 Shutter, outlet, neutral section19 Shutter, outlet
+
+The width adjustment is specified in the "Track system" operating manual.1.2 Oven zonesIntroductionFor sufficient film stretching, the transverse direction orienter is divided into differentsections.
+
+The following figure shows a schematic diagram. The figure is not necessarilyidentical to your line.
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 8 
+Overview
+
+1 Inlet section2 Preheating section3 Stretching section4 Neutral section
+
+5 Heat setting section (annealingsection)7 Outlet section
+
+6 Cooling section
+
+The stretching width can be suitably adapted.1.3 Intended useIntroductionThe machine has been built according to state-of-the-art technology and the recog-nised safety-related regulations.Intended useThe machine serves solely for heating-up the film to stretching temperature, stretch-ing the film in transverse direction via transverse direction orienter and cooling downin the cooling zone.Intended use also includes the observance of the operating manual and the adher-ence to the inspection and maintenance conditions.►Only operate the machine if it is in perfect technical condition.►For repair purpose, the machine must only be operated without products.►Immediately eliminate any faults that may impair safety.►Repair work may only be performed by trained technical personnel.DisclaimerAny use that goes beyond the designated use is forbidden. Brückner accepts no li-ability for any consequential damage. Improper use can present danger to life andlimb, the machine and connected equipment, and to the efficient operation of themachine.
+
+Risk assessment andwork instructions
+
+The operating company has to carry out a risk assessment and create operating in-structions for the handling of the machine.Inputs listed in this operating manual for personal protective equipment are basedon the risk assessment taking into consideration the experience with film productionand film stretching lines. The actually occurring hazards can deviate in individualcases. In this case, the measures of the hazard assessment of the operating com-pany must be taken into consideration and applied.
+
+1.4 External documentsExternal equipmentApart from the self-manufactured components, the machine also contains externallysourced or already existing components, hereinafter referred to as external equip-ment.External documentsThis external equipment is supplied with instruction leaflets, manufacturer’s informa-tion, operating, installation, adjustment and service instructions and/or other user in-
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 9 
+Replacement, main-tenance, operation
+
+External documents must also be read and observed, particularly in case of replace-ment or maintenance.When replacing external equipment, the enclosed instruction leaflets must be ob-served.The operation of the external equipment is not described in these instructions. Therespective external document is only referred to.
+
+1.5 SafeguardsSafeguardsAn overview of the safeguards can be found in the "Line overview" operatingmanual.Information on the safeguards can be found in the "Safety manual".1.6 Oven frameIntroductionThe oven frame is a modular steel tube construction for all machine modules.1.7 Electrical insulationIntroductionThe insulation avoids the loss of warmth.Lateral insulationThe insulation on the sides consists of metal sheet cassettes that are filled with min-eral wool.Roof insulationThe roof insulation consists of cassette panels/trapezoidal sheets, insulating platesand cover plates.1.8 VentilationIntroductionThe nozzle boxes blow heated air onto the film (4) and heat up or cool down the filmor keep its temperature constant.The nozzle boxes are part of the ventilation modules. Examples of ventilation mod-ules are shown below.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 10 
+Preheating sectionStretching area, an-nealing section andcooling section
+
+1 Fan2 Transition piece3 Nozzle box4 Film5 Air heaterThe fans are arranged in alternation. Each ventilating module comprises• 2 fans• 2 air heater• 2 transition pieces• 8 nozzle boxesThe fan (1) suctions the air from above and below. The air is heated by an airheater (5). The fan presses the air into the nozzle box (3) above and below throughthe transition piece (2). The preheating section has four nozzle boxes per ventilatingmodule at the top and bottom.1 Fan2 Transition piece3 Nozzle box4 Film5 Air heaterThe ventilation modules of the stretching section, the annealing section and thecooling section contain two fans (1) and two nozzle boxes (3) each at the top andthe bottom respectively.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 11 
+Ventilation with backabsorption unit, filterand catalyst
+
+The ventilation includes filters, catalysts and back absorption units in some zones.Information on the locations can be found in the "Intervals" operating manual.
+
+The following figure shows an example. The figure is not necessarily identical toyour line.1 Film2 Nozzle box3 Back absorption unit4 Air heater
+
+5 Catalyst (only in the annealingsection)
+
+6 Filter (only in the annealing section)
+
+7 Transition piece8 FanEach ventilating module comprises• 2 fans• 2 air heater• 2 transition pieces• 4 nozzle boxes• 4 back absorption units• 6 catalysts• 16 filtersFans (8) suck the air from above and below the film (1) through back absorptionunits (3), air heaters (4) and catalysts (5).The air is heated by the air heaters. The fans force the air through the transitionpieces (7) and filters (6) into the nozzle boxes (2) at the top and at the bottom.The catalysts crack the oligomers, the filters absorb the oligomers and other dirt inorder to avoid the soiling of the oven and the track system.
+
+The use of sealants containing silicone takes the catalysers out of operation.►Do not use sealants containing silicone.1.8.1 ShuttersIntroductionTo minimise the heat exchange between the different areas of the transverse direc-tion orienter, covers (2) and flaps (3) are installed. They maintain precise temperat-ure and air conditions within the individual sections.
+
+INFO
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 12 
+OverviewA Inlet, TDOB Inlet, neutral sectionC Outlet, neutral sectionD Intermediate sectionE Outlet, TDO1 Guide2 Cover3 Flap4 Maintenance positionThe top and bottom side of the shutter at the inlet of the transverse direction ori-enter (A) is covered with a cover (2) mounted on rollers. The rollers can be movedin a guide (1).The bottom side of the shutter at the inlet of the neutral section (B), the shutter atthe outlet of the neutral section (C), the shutter in the intermediate section (D) andthe shutter at the outlet of the transverse direction orienter (E) are equipped with apneumatic cylinder for opening the shutter in case of a film break or a loading pro-cess.The top of the shutter at the outlet of the transverse direction orienter is equippedwith metal sheets on the sides.The shutters are operated via the IPC system.
+
+In the event of a film break, the lower part opens automatically (except at the inlet ofthe transverse direction orienter (A)). If thick points form, all pneumatically operatedshutters are opened independently of one another through the film track.FunctionIn the case of a film break or during the commissioning, all lower shutters (with theexception of the shutter at the line inlet) can be swivelled away pneumatically. Theupper shutters are hinged and yield automatically, if, due to a film break, a ball offilm is generated and pulled through the transverse direction orienter.1.8.2 Floating nozzleIntroductionThe floating nozzle minimises heat loss which occurs as a result of air beingdragged during the film path. This ensures that, at the outlet of the last annealingzone, the temperature remains constant.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 13 
+Overview
+
+1 Floating nozzle2 Slot nozzle3 Return suction nozzlesThe line is equipped with a floating nozzle (1) a slot nozzle (2) and return suctionnozzles (3) at the following position:• Outlet of the annealing sectionFunctionThe floating nozzle blows hot air which corresponds to the temperature of the re-spective zone against the direction of the film path. It ensures the flatness of thefilm.1.9 Oil heatingIntroductionThe oil heating controls the temperature of the circulating air.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 14 
+Overview
+
+1 Valve unit2 Resistance thermometer3 Fan4 Air heaterFunctionAn air heater (4) heats the air circulated by the fans (3). The resistance thermo-meter (2) measures the required temperature. The control regulates the oil flowthrough the air heater with the aid of the valve unit (1). This is executed by the con-trol system.1.10 External airing systemIntroductionThe task of the external airing system is to ensure air circulation in the oven. This isto reduce/minimize formation of oligomers in the oven.1.10.1 OverviewStructureThe external airing system comprises frequency-controlled exhaust fans, fresh airfans, heaters, coolers and fresh air filters.
+
+Further information on the external airing system can be found in the manufactureroperating manual.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 15 
+1 Exhaust air oven, preheating +stretching
+
+2 Fresh air oven, preheating + stretch-ing
+
+3 Fresh air, clip cooling4 Exhaust air, clip cooling5 Exhaust air oven, annealing6 Fresh air oven annealing7 Fresh air oven, cooling 18 Exhaust air oven, cooling 19 Fresh air oven, cooling 210 Exhaust air oven, cooling 211 Exhaust air oven, cooling 312 Fresh air oven, cooling 3Fresh air supplyThe fresh air fans suction the fresh air through the filters in the external airing sys-tem. They press the air through the heater/cooler into the fresh air system.The temperature probe and flow meter are used to determine the mass flow rate persystem.The heat exchanger is connected downstream of the fresh air fan. This heats thefresh air to the required temperature.The temperature probe controls the required air temperature through the controlvalve.The cooler is connected downstream the fresh air fan of clip cooling unit. This coolsthe fresh air to the required temperature for the clip cooling system.Exhaust systemThe volume of each fresh air system can be compared with the volume of the asso-ciated exhaust system.1.10.2 Exhaust air ductIntroductionThe exhaust air duct consists of different systems, each with its own external airingsystem.The exhaust air duct extracts hot air to prevent the formation of oligomers. Thisavoids the soiling of the oven and of the track system.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 16 
+OverviewUniform exhaust sys-tem
+
+1 Exhaust air duct, preheating(P1-P4) and steching (S1-S6)
+
+2 Exhaust air duct, annealing (A1-A9)
+
+3 Exhaust air duct, cooling4 Adjusting valveThe exhaust air duct is mounted on the top of the machine. Each is connected witheach zone via two exhaust connecting pieces. The exhaust nozzles are provided atthe end with an adjusting valve for controlling the air volume.The adjusting valves are adjusted during initial commissioning so as to ensure auniform exhaust system on the exhaust connecting piece of each section.
+
+1.10.3 Fresh air ductIntroductionThe fresh air duct consists of different systems, each with its own external airingsystem.Overview
+
+1 Fresh air duct, preheating (P1-P4) and streching (S1-S6)
+
+2 Fresh air duct, annealing (A1-A9)
+
+3 Fresh air duct, cooling4 Adjusting valveUniform supplyThe fresh air duct is mounted on the top of the machine. It is connected with eachsection via two connection pieces.Each supply nozzle in the ventilation system is fitted with an adjusting valve for con-trolling the volume of air. The adjusting valves are set during commissioning in orderto distribute the air volume in the system as uniformly as possible over all sections.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 17 
+1.10.4 Air supply for clip cooling channelIntroductionThe air supply for the clip cooling channel consists of two different systems, eachwith its own external airing system.Fresh air and exhaustair ducts1 Fresh air duct2 Exhaust air duct3 Adjusting valveThe fresh air (1) and exhaust air ducts (2) are mounted on the top of the machineand are connected with the clip cooling channel of the track system.The adjusting valves (3) are set during commissioning in order to distribute the airvolume in the clip cooling channel as uniformly as possible over all sections.1.11 Film break detectionIntroductionSensors (film break detection) are used to monitor the continuous film path in orderto detect cracks in the film (2).In the event of a film break, the sensors (1) trigger an alarm and the following tasksare performed. For this, see the troubleshooting section of the line operationmanual.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 18 
+The sensors are installed in the zones mentioned below.• Neutral section 1• Neutral section 21 Sensor2 Film1.12 Pressure control assembly
+
+Neutral section
+
+IntroductionTwo pressure controls are mounted in each ventilating module of the annealing sec-tion.Overview locationsThe following figure shows where the pressure controls are located at the ventilatingmodules.1 Pressure control assembly ofthe filter
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 19 
+Overview
+
+1 Pressure sensor, filter, top2 Pressure sensor, filter, bottom3 Measuring pipes, filter, top4 Measuring pipes, filter, bottomFunctionThere are measuring pipes (3, 4) that lead to pressure sensors (1, 2) in the air chan-nel between the filters and the heat exchanger. This is used to measure the differ-ential pressure and, thus, the degree of soiling of the filter package.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 20 
+1.13 Radiation thermometerIntroductionThe radiation thermometers measure the film temperature. They are located on theoven cover in the following sections of the oven:• in the inlet section• in the last preheating section• in the last neutral section• in the outlet sectionOverview1 Radiation thermometer2 Water cooling3 Fastening element4 Tapping screwsFunctionThe radiation thermometers (1) are fixed in place with fastening elements (3) andtapping screws (4) on the ceiling insulation of the oven and equipped with a watercooling (2). The radiation thermometers enable non contact temperature measure-ment of surfaces.The warm film emits infrared radiation. A detector within the radiation thermometerdetermines the film temperature based on the infrared radiation.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 21 
+2 OperationIntroductionThis chapter provides information on operating procedures.
+
+Line operationmanual and manufac-turer documentation
+
+The operation of the transverse direction orienter (track system and oven) is spe-cified in the line operation manual and the respective manufacturer documentationof the supplier components.For identification of the manufacturer, see "Manufacturer List" operating manual.
+
+2.1 Safety
+
+Additional stipula-tions and regulationsObserve oven operat-ing manual
+
+In addition to the following safety regulations, the generally valid legal directives andother binding regulations regarding accident prevention and environmental caremust be observed.As the track system and the oven form a spatial unit (transverse direction orienter),the relevant safety instructions for the oven have to be observed as well (see "Ovenoperating manual").
+
+Qualified personnel►Only allow operation to be carried out by qualified and authorised personnel.Safety instructionsAlways pay attention to the following safety instructions:►Pay attention to the safety regulations referred to here as well as the safety reg-ulations referred to in the safety manual at all times.►Inform the operating personnel in advance of any maintenance work to be car-ried out on the plant/machine.►Appoint a supervisor.►Before carrying out heavy lifting work, make sure that you have suitable liftingequipment and transport equipment which is in proper working order.►Use Brückner equipment and tools when carrying out special assembly and dis-assembly work. You can request a list of these auxiliary materials from Brück-ner.►Properly dispose of oil, cleaning agents and other substances that are harmfulto health in accordance with regulations.Additional information on safety can be found in the manufacturer‘s instructions.
+
+Danger when remain-ing in the dangerzone
+
+The presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+Safeguards DANGERFaulty or ineffective safeguards.The protective function is lost.Life-threatening situations or very serious injuries may occur.►Put the safeguards back in place after the maintenance work is complete.►Check that the safeguards are operating correctly and effectively.►Do not bypass safeguards.►Do not render safeguards ineffective.►Do not change the arrangement of the safeguards.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 22 
+Dangers by electricvoltage and electricshockDanger of cutting andimpact injuriesDanger due to mag-netic fields
+
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Moving cutting knives can cause serious cutting injuries or sever body parts.►It is prohibited to be within the area of movement of the cutting knives.►Keep your distance.
+
+A fast running film edge can cause serious cutting injuries.►It is forbidden to remain in or at the film path.►Keep your distance.
+
+Sharp film edges, knives or paper shears can cause cutting injuries.►Wear cut-resistant protective gloves.
+
+Sharp edges or protruding parts can cause cutting and impact injuries.►Wear cut-resistant protective gloves.►Wear long, close-fitting clothing.►Wear a hard hat.►Eliminate sharp corners and edges.Powerful magnetic and electromagnetic fields occur at the following points:• Optional: Linear motor of the edge control device (LIWEB) of the track system.Powerful magnetic fields occur at the following points:• Optional: Magnetic clip closers at the inlet of the track system.• Optional: Magnetic clip openers at the outlet of the track system.• Optional: Magnetic counterpiece on the clip opener or clip closer of the tracksystem.• Optional: In the stretching section, in track systems with magnetic relief.
+
+Powerful magnetic and electromagnetic fields disrupt the functioning of act-ive medical devices such as pacemakers, insulin pumps and hearing aids.►Personnel with such active medical equipment must maintain a safe distance ofat least 0.8 m at all times.
+
+ DANGER
+
+ DANGER
+
+ WARNING
+
+ CAUTION
+
+ CAUTION
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 23 
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic and electromagnetic fields exert extremely high powers ofattraction on magnetisable (ferromagnetic) materials.There is a danger of cuts and danger of crushing.►Even if the machine is switched off, powerful magnetic fields from permanentmagnets are present.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic and electromagnetic fields can damage electronic devices,measuring instruments, watches and data storage media.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.
+
+Powerful magnetic and electromagnetic fields attract ferromagnetic partssuch as tools or fixing parts made of steel.►Do not bring ferromagnetic parts, i.e. magnetisable parts, near the magnets.
+
+ DANGER
+
+ WARNING
+
+ATTENTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 24 
+Danger from heattransfer oils
+
+Heat transfer oils can be used with the following components:• Optional: chain cooling track system (not for FOK 8.8)• Optional: oil heating oven• Optional: primary side of the oven heat exchangers
+
+Leaking hot thermal oils can damage plastics, insulations of electrical linesand thermal insulations.Danger of short circuits and fire.►Regularly check the structural fire protection devices.►Regularly check that the piping is leak tight.►Eliminate identified leaks immediately.►Confine, absorb and properly dispose of escaped heat transfer oils with suitableabsorption material.►Replace damaged plastics, electrical lines and thermal insulations.►Pay attention to the safety data sheets of the manufacturer.
+
+Heat transfer oil may be harmful to health if swallowed and enters airways.Depending on the heat transfer oil, it may be fatal if swallowed and enters airways.►Observe the safety data sheet of the manufacturer.►Avoid inhalation, ingestion and contact with skin.►Wear appropriate personal protective equipment when working.
+
+Escaped heat transfer oil can ignite.Danger of fire.ü Heat transfer oil that escapes due to leaks can ignite when a certain mix with airand the ignition temperature are reached.ü Heat transfer oil that escapes due to leakage can ignite if the flash point is ex-ceeded.►Avoid naked flames and fire.►Avoid sources of ignition.►Shut down the line.►Eliminate the leak.►Do not breathe in the vapours.►Only carry out this work if the area is well ventilated.►Pay attention to the safety data sheets of the manufacturer.Danger of burnsHeated components, motors, gearboxes, rolls, aggregates, piping for heating andcooling systems, oil catch tanks, covers, etc. and the film can be hot.
+
+ DANGER
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 25 
+Hot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.►Only perform service work on cool machine parts.
+
+Hot liquids or vapours escaping under pressure can cause serious burns.►Wear heat-resistant protective gloves.►Do not reach into the outlet area.►Wear a hard hat with face protection.►Wear protective clothing.►Depressurise the system prior to service work.►Only perform service work on cool machine parts.
+
+Dangers from rawmaterialDangers due to unex-pected movementsand emissions
+
+Raw materials emit vapours and gases, which cause irritation of skin, eyesand airways.►Ensure that the exhaust system is running effectively.►Follow the safety data sheets of the raw material manufacturer.Only allow authorised and instructed personnel to carry out work on hydraulic sys-tems, pneumatic systems, cooling and heating systems, etc.After completion of maintenance and adjustment work, the switch cabinets must belocked.
+
+Unexpected movements can be caused by faults or service work in the pneu-matic system or hydraulic system.This can lead to serious injury.►Prior to service work, switch the pneumatic system so it is depressurised.►Disconnect the hydraulic system prior to service work.►Wait until the standstill position is reached.►Only switch pneumatic valves manually when no one is located in the dangerzone.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.Blow-off nozzles can be provided at the outlet of the track system to blow filmresidues out of the clips. The blow-off nozzles are loud during operation and the airflow can eject dust and film residues. Only authorised personnel are allowed in thenoisy area.
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 26 
+The air flow can cause dust and film residues to fly around.This can cause injury to the eyes.►Wear eye protection.
+
+Constant noise > 85 dB causes permanent damage to the hearing.►Wear ear protection.
+
+Dangers due to mov-ing machine partsUncontrolled electro-static discharge dueto charged film orrollsDanger of slipping,danger of trippingand danger of falling
+
+Moving machine parts can crush, entangle, draw in and crash into body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Keep away from the area of movement.►Wait for the machine to come to a standstill.►Before actuating the machine parts, ensure that no one is located in the dangerzone.
+
+Rotating machine parts can draw in clothing and body parts.This can lead to serious head and body injuries.►Wear close-fitting clothing.►Do not reach into the vicinity of rotating machine parts.►Keep away from the area of movement.►Do not go through under a running film track.►Wait for the machine to come to a standstill.►Before starting, ensure that no one is located in the danger zone.
+
+Uncontrolled electrostatic discharge due to charged film or rolls.This can lead to serious injury from electric shock.►Persons with active medical accessories (e.g. pacemakers, insulin pumps, hear-ing aids) are forbidden from remaining at and dealing with film or rolls.►Before working in the vicinity of electrostatically charged film or rolls, dischargethese parts.
+
+Danger of slipping on wet and soiled floors.This can lead to head injuries and serious bodily injury.►Wear non-slip shoes.►Do not step on soiled areas.►Close off access to soiled areas.►Remove leaked fluid (e.g. oil) and soiling (e.g. granulate) immediately.►Keep the workplace and corridors clean.
+
+ CAUTION
+
+ CAUTION
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 27 
+Film on the floor or material lying around present a danger of sliding and trip-ping.This can lead to head injuries and serious bodily injury.►Do not step on film residues.►Immediately remove film residues.►Immediately remove material lying around (e.g. tools).►Keep the workplace and corridors clean.
+
+There is a danger of slipping and danger of tripping on uneven floors.This can lead to head injuries and serious bodily injury.►Do not step on uneven areas.►Remove any uneven areas and danger of tripping.
+
+At floor openings, there is a danger of falling and danger of falling.This can lead to injury.►Close the floor covers.2.2 Operating modes of the transverse direction orienterExplanationThere are 3 operating modes. They ensure that it is safe to work on the line com-ponent. Each operating mode makes different functions available.• Production ModeThe line component can be put into operation in Production Mode.• Service ModeService Mode is used for cleaning and inspection.• Maintenance modeMaintenance Mode is used for mechanical maintenance work. For all othermaintenance work or modifications, further protective measures must be taken.Voltage may be present on the drives.Operating modes ofthe transverse direc-tion orienter
+
+FunctionsProductionModeTrack system
+
+Operation of the main drives of the track system is possible.YesNoNo
+
+Jogging mode is available.The chains can be moved slowly with the main drives of the track sys-tem.
+
+NoYesNo
+
+Operation of the edge control device is possible.YesNoNoIf there is a motorised width adjustment, operation is possible.YesNoNoOperation of the clip cleaning is possible.YesNoNo
+
+ CAUTION
+
+ CAUTION
+
+ CAUTION
+
+ServiceMode
+
+Mainten-ance mode
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 28 
+FunctionsProductionMode
+
+The main pneumatic system is supplied with compressed air.The pneumatic movement of the following components is possible:• Shutters• The centre cutting device (if present)
+
+YesNoNo
+
+Operation of the sliding track lubrication is possible.YesYesNoOperation of the bolt lubrication is possible.YesYesNoOperation of the chain tensioning system is possible.YesYesNo1)Operation of the water-cooled chain cooling is possible.YesYesYes.2)Operation of the edge cooling is possible, if present.YesYesYes
+
+If there is an oil extraction, the operation of the fans in the oil extrac-tion is possible.Oven
+
+YesNoNo
+
+If there is a gas heating, operation is possible.YesYesYes
+
+If there is an oil, electric, steam or water heating, operation is pos-sible.
+
+YesYesYes.2)
+
+Operation of the motors in the fans is possible.YesYesYesThe gates at the oven can be opened.YesYesYesWhen leaving Production Mode, the following actions are triggered in the main pneumatic system:• The pneumatically movable components are moved into the park position.• The main pneumatic system is ventilated.When changing to Maintenance Mode, there is an emergency stop machine. The Process Control Systemtriggers actions.2) water-cooled chain cooling• The water-cooled chain cooling continues in case of a sliding rail temperature of at least 80 °C during anemergency stop of the transverse direction orienter. This serves to prevent a pressure increase in thecooling circuit.• The water-cooled chain cooling stops in case of a sliding rail temperature of less than 80 °C during anemergency stop of the transverse direction orienter.1) When changing into Maintenance Mode, the hydraulic aggregate is switched off and locked. There may stillbe pressure in the hydraulic system.Safety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+ServiceMode
+
+Mainten-ance mode
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 29 
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.►Change the operating mode. Turn the key switch on the operator panel to therequired operating mode.►When entering the danger zone, take along the key.►Ensure that no one is located in the danger zone.►Change to Production Mode. On the operator panel, turn the key switch to[ production ].ð The locking devices that became active by leaving Production Mode areeliminated.ü The [ pneumatic reset ] push button flashes on the operator panel.►Reset the pneumatic system to the defined default status. Press [ pneu-matic reset ] on the operator panel.If emergency stop machine was triggered by the change of operating modes, pro-ceed as follows:ü The [ fault reset ] push button flashes on the operator panel.►Set the start release. On the operator panel, press [ fault reset ].
+
+Switching to "ServiceMode" or "Mainten-ance Mode"Changing to "Produc-tion Mode"
+
+2.3 Carrying out "Jogging Mode" on the transversedirection orienterDescriptionIn Service Mode, the chains of the transverse direction orienter can be moved for-wards with low speed per foot switch. This is used for inspection of the chain and forpositioning of the clips.Required personnelThis activity may only be performed by trained skilled persons.
+
+Carrying out "Jog-ging Mode" on thetransverse directionorienter
+
+ü The transverse direction orienter is in Service Mode.►Connect the foot switch on the transverse direction orienter.►Actuate the foot switch.ð The horn sounds for approx. 5 seconds.ð Then the drives start and the chains are moved with low speed through thetransverse direction orienter.ð During the entire "Jogging Mode", the signal lights on the transverse direc-tion orienter flash.
+
+The presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+ WARNING
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 30 
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.
+
+Machine parts moving in "Jogging Mode" can crush, entangle, draw in andcrash into body parts.This can lead to serious injury.►The foot switch must only be operated by instructed technical personnel.►Connect the foot switch for "Jogging Mode" only and disconnect again after-wards.►Always supervise the connected foot switch.►Do not reach into the vicinity of moving machine parts.►Wear close-fitting clothing.2.4 Preparation of central oil supplyIntroductionThis component is supplied by the customer or a manufacturer, respectively.
+
+External documenta-tion
+
+• If the component is supplied by a manufacturer, see manufacturer documenta-tion for information about the component and the preparation of the component(see "Manufacturer list").• If the component is supplied by the customer, refer to the appropriate document-ation of the customer or his supplier, respectively.
+
+Start-up stepsThe following start-up steps of the thermal system are to be performed:• Filling with oil• Venting• Functioning test• Thermal commissioning (boiling), i.e., heating-up in steps to the final operatingtemperature in order to evaporate air and water.For the required operating temperature of the central oil supply, see the Tech-nical Data below.
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 31 
+3 MaintenanceIntroductionThe availability of the oven and quality of processed film are mainly dependent onoperating and maintenance status of the oven. Small but regular maintenance effortwill be much more economic than unplanned plant stops caused by avoidablebreakdowns. Maintenance works comprise these actions:• Visual control• Functional control• Cleaning works• Lubrication with oils and greases• Control, refilling, exchange of consumed media• Replacement of worn out parts.
+
+Maintenance sched-uleSafety manual andmanufacturer docu-mentation
+
+The "Intervals" manual includes a maintenance schedule.Please consult additional maintenance and lubrication instructions included in• "Intervals" operating manual• Operating manuals of the manufacturer.For identification of the manufacturer, see "Manufacturer List" operating manual.
+
+Please consult additional maintenance and lubrication instructions included in thesafety manual and in the operating manuals of the manufacturer. It is advisable todesignate a certain person to be responsible for observing all maintenance and in-spection works and schedules.
+
+ConditionsAll the described measures and intervals are based on normal continuous operationof the line. Under aggravated conditions (i.e. maximum operating speed, unfavour-able environmental conditions, special film types), shorter maintenance intervals orhigher quantities of lubricants may be necessary.
+
+Standstill mainten-ance oven
+
+In case of long-term machine standstill, special measures and means for conserva-tion are necessary. Please consult Brückner ServTech GmbH for further informa-tion.
+
+Using parts and media not authorized will lead to loss of all warranty claimsfor the component they were used on.►Only apply spare parts and lubricants authorized and recommended by Brück-ner.3.1 Hazard warnings
+
+Additional stipula-tions and regulations
+
+In addition to the following safety regulations, the generally valid legal directives andother binding regulations regarding accident prevention and environmental caremust be observed.
+
+INFO
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 32 
+Safeguards DANGERFaulty or ineffective safeguards.The protective function is lost.Life-threatening situations or very serious injuries may occur.►Put the safeguards back in place after the maintenance work is complete.►Check that the safeguards are operating correctly and effectively.►Do not bypass safeguards.►Do not render safeguards ineffective.►Do not change the arrangement of the safeguards.3.1.1 Electrical systemsRequirementsThe works on the electrical equipment must be carried out by electric experts only.In particular, the applicable regulations on the prevention of accidents for works onelectrical equipment and the national laws have to be observed.electric current DANGERLive electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.3.1.2 Pneumatic systemRequirementsBefore beginning maintenance work, always ensure that compressed air supply isclosed, depressurised and locked.Compressed air WARNINGUnexpected movements caused by defects in the pneumatic system cancause serious injury.►Prior to service work, switch the pneumatic system so it is depressurised.►Wait until the standstill position is reached.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.3.1.3 OvenRequirementsThe works in the oven must be carried out by authorised maintenance personnelonly.
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 33 
+Thermal hazardsovenMechanical hazardsoven
+
+Very high temperatures inside the plant can cause life-threatening burns.►No entry for unauthorised personnel.►Only perform service work on cool machine parts.
+
+Hot surfaces can cause burns.►Do not touch surfaces.►Wear protective gloves.►Wear protective clothing.►Only perform service work on cool machine parts.
+
+Heavy nozzle boxes in the ventilating modules may fall down during dismant-lingThis can cause life-threatening injury.►Dismantle nozzle boxes only by using crane or forklift.
+
+Sharp plate edges inside the plant.This can cause life-threatening injury.►Wear close-fitting clothing.►Wear protective gloves.
+
+There is a danger of falling when working on elevated parts of the line.This can cause life-threatening injury.►Wear a safety harness.►Use suitable ascent supports.
+
+There is a risk of danger of crushing when releasing the mounts and fixing thetension springs.This can lead to injury.►Do not reach into the danger zone.►Wear protective gloves.
+
+Danger of crushing due to moving machine partsDanger of injuries when opening and closing the shutters.►Do not remain in the swivelling range of the shutters.The ascent is only for authorised maintenance personnel. There are no operatingelements at the top of the oven.
+
+ DANGER
+
+ CAUTION
+
+ DANGER
+
+ DANGER
+
+ DANGER
+
+ CAUTION
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 34 
+Hazard from pressureincrease
+
+Coolers overheat when both stop valves are closed and heat is supplied tothe external airing system.There may be an unexpected pressure increase in the system. Lines under pres-sure can cause injury.►Close the stop valves of the cooler.►Do not operate the film production line as long as both stop valves of the coolerare not closed.
+
+3.1.4 HeatingRequirementsBefore checking or cleaning heating equipment, the following safety instructionshave to be observed.
+
+Thermal hazardsheatingMechanical hazardsheating
+
+Hot drives and heat carrying media.Risk of burn injury.►Only perform replacing when the temperature of oil is cooled down to an ad-equate temperature (t < 50 °C).
+
+Hot liquids or vapours escaping under pressure can cause serious burns.►Wear heat-resistant protective gloves.►Do not reach into the outlet area.►Wear a hard hat with face protection.►Wear protective clothing.►Depressurise the system prior to service work.►Only perform service work on cool machine parts.
+
+Danger of slipping on wet floors.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove leaked fluid immediately.►Keep the workplace and corridors clean.
+
+Fire heatingIf thermal oils are used to heat machine components, the following safety instruc-tions have to be observed!If the fire protection devices at the plant are insufficient or damaged, leaking thermaloil can damage the insulation of the electrical lines.The resulting short circuit could ignite the oil and can cause a serious fire.
+
+ CAUTION
+
+ DANGER
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 35 
+Leaking hot thermal oils can damage plastics, insulations of electrical linesand thermal insulations.Danger of short circuits and fire.►Regularly check the structural fire protection devices.►Regularly check that the piping is leak tight.►Eliminate identified leaks immediately.►Confine, absorb and properly dispose of escaped heat transfer oils with suitableabsorption material.►Replace damaged plastics, electrical lines and thermal insulations.►Pay attention to the safety data sheets of the manufacturer.
+
+Escaped heat transfer oil can ignite.Danger of fire.ü Heat transfer oil that escapes due to leaks can ignite when a certain mix with airand the ignition temperature are reached.ü Heat transfer oil that escapes due to leakage can ignite if the flash point is ex-ceeded.►Avoid naked flames and fire.►Avoid sources of ignition.►Shut down the line.►Eliminate the leak.►Do not breathe in the vapours.►Only carry out this work if the area is well ventilated.►Pay attention to the safety data sheets of the manufacturer.If there is an unexpected increase of pressure in the heating circuit:►Change or clean all filters.►Check vent valve.►Check pressure control device.►Clean filters regularly►Control all pipe connections for leakage and cleanliness regularly.
+
+Manufacturer docu-mentation
+
+Please consult the manufacturer‘s instructions for appropriate proceedings.
+
+3.1.5 Ventilation and external airingRequirementsIn addition to the following safety instructions, the documentation of the manufac-turer must be heeded.Hazard from noiseFans generate noise.
+
+Constant noise > 80 dB causes permanent damage to the hearing.►Wear ear protection.
+
+ DANGER
+
+ WARNING
+
+INFO
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 36 
+Mechanical hazardsventilation and ex-ternal airingHazard by sub-stancesManufacturer docu-mentation
+
+Rotating machine parts can draw in clothing and body parts.This can cause life-threatening injury.►Wear close-fitting clothing.►Do not reach into the vicinity of rotating machine parts.►Wait for the machine to come to a standstill.
+
+Sharp plate edges inside the plant.This can cause life-threatening injury.►Wear close-fitting clothing.►Wear protective gloves.
+
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+There is a danger of getting trapped inside the chamber.Risk of injury.►For maintenance and repair works, the responsible staff has to arrest the door insnatches and must lock the doors in opened condition by a lock.►During mounting, startup and maintenance works, a warning sign has to be setup which indicates that persons may be working inside the plant.
+
+Loose screw connections, caused by reusing self-locking nuts and bolts.Loose parts can cause damage to the machine and cause plant downtimes.►Only implement new self-locking nuts and bolts.
+
+Filters comprise fibreglass. Insulation elements comprise fibres of mineralwool.Danger of inhaling hazardous fibres.►Wear a breathing mask.►Shut down all fans and secure against being turned on before removing oropening the safety equipment►When dismantling fans, air heaters or filters, secure against falling down.
+
+Please consult the manufacturer‘s instructions for appropriate proceedings.
+
+ DANGER
+
+ DANGER
+
+ DANGER
+
+ DANGER
+
+ATTENTION
+
+ WARNING
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 37 
+3.1.6 Maintenance worksRequirementsFor maintenance works the machine has to be stopped and a second person is re-quired.Maintenance worksAfter cooling down of the machine the doors can be opened and maintenance workcan be started.
+
+Faulty or ineffective safeguards.The protective function is lost.Life-threatening situations or very serious injuries may occur.►Put the safeguards back in place after the maintenance work is complete.►Check that the safeguards are operating correctly and effectively.►Do not bypass safeguards.►Do not render safeguards ineffective.►Do not change the arrangement of the safeguards.
+
+Live machine parts cause life-threatening injuries.►Don’t enter the oven during production.►Maintenance work are only permitted in Betriebsart "Wartung".►Perform maintenance work at chain and clips only in free areas (neutral zone).
+
+Movable driving units and high temperature inside the plant.Danger of severe damage to health.►Make sure that the doors are not closed as long as personnel stays within theoven.
+
+There is a danger of slipping and danger of tripping on uneven floors.This can lead to head injuries and serious bodily injury.►Do not step on uneven areas.►Remove any uneven areas and danger of tripping.
+
+Danger of slipping and danger of tripping due to material lying around.This can lead to head injuries and serious bodily injury.►Immediately remove material lying around (e.g. tools).►For information on the operating modes, refer to the line operation manual.
+
+ DANGER
+
+ DANGER
+
+ DANGER
+
+ CAUTION
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 38 
+3.2 Pneumatic system3.2.1 Checking and setting the pneumatic systemDescriptionThe pneumatic system is checked and set in "Production Mode".Requirements• The line component is in the operating mode Production Mode.• The drives are switched off.• The temperature of the component and of its environment must be below 35 °C.Required personnel• 2 instructed specialists are required.Auxiliary materials• The pneumatic plan is located in the pneumatic cabinet.Safety WARNINGMoving machine parts can crush body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+Unexpected movements caused by defects in the pneumatic system cancause serious injury.►Do not remain in the swivelling range of the pneumatically moved component.►Wait until the standstill position is reached.If the pneumatic cabinet is lockable, it has to be opened before the activity andlocked again after the activity has been completed.►Specialist 1 actuates the valves in the pneumatic cabinet.- simultaneously -►Specialist 2 checks the pneumatically operated components on the machine.- After completing the work -►Make sure that the components are in the home position.The pneumatic pressure is set via the pressure reducing valve in the pneumaticcabinet or in WinCC OA (option).The pneumatic pressure should be as low as possible.►Begin with low pneumatic pressure. Slowly increase the pneumatic pressure un-til the correct pneumatic pressure is reached.
+
+Lockable pneumaticcabinetChecking the pneu-matic systemSetting the pneu-matic pressureManufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+3.3 Changing the filters of the ventilation modulesIntroductionThe ventilation includes filters in some oven zones.Information on the locations can be found in the "Intervals" operating manual.
+
+ WARNING
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 39 
+The filters must be replaced in the following cases:• If this is indicated by the result of the regular visual inspection.• The differential pressure monitoring (pressure sensor) indicates a contaminationof the filter, i.e. the corresponding alarm message is displayed on the WinCCOA.Requirements• The machine is in "Maintenance Mode".• The hazard statements mentioned in the Hazard Statements chapter are ob-served.OverviewThe following figure shows where filter housings are installed within a ventilatingmodule.
+
+The following figure shows an example. The figure is not necessarily identical toyour line.1 Door of oven2 Cover plate of outer filter housing
+
+3 Outer filter housing, contains aninsertion with a filter set
+
+4 Tube for the measuring of pressure
+
+5 Star grip6 Nozzle box
+
+7 Pressure sensor for the differen-tial pressure monitoring
+
+8 Fan
+
+9 Filter10 Insertion (side view)FunctionThe air is filtered before it is blown into the nozzle box (6).
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 40 
+The pressure difference between the filter inlet and the filter outlet is measured witha pressure sensor (7). The pressure difference indicates the clogging (contamina-tion) of the filter.If the pressure difference exceeds a certain value, the pressure sensor triggers analarm, thus indicating that the filter needs to be replaced. An appropriate alarm mes-sage is displayed on the WinCC OA.Changing filters►Open the door (1) and step inside the oven.►Unscrew the star grips (5) and dismount the cover plate (2) of the outer filterhousing.►Pull the insertion (10) out of the outer filter housing (3).►Change the filter (9).►For assembly of the parts, perform the above-mentioned tasks in reverse order.3.4 Replacing the catalyserIntroductionThe catalyzer, which are mounted in the ventilation modules, must be changed, ifthe production of oligomer in the oven rises above the justifiable dimension.Requirements• The transverse direction orienter is in "Maintenance Mode".• The ventilators and heating must be switched off.• Only perform maintenance work on cool machine parts.• Use suitable ascent supports, if necessary.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Protective gloves• Protective clothing• Safety shoes
+
+Auxiliary materials• Allen keySafety CAUTIONSharp edges inside the line can cause injuries.►Wear protective gloves.►Wear close-fitting clothing.
+
+Falling loads cause life-threatening injury.►Wear protective footwear.
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 41 
+OverviewReplacing the cata-lyser
+
+1 Catalyser2 Hexagon head screw3 Valve cap►Unscrew all hexagon head screws (2) and remove the cover (3).►Remove sealing strip.►Pulling out the catalyser (1).►Replace catalyser against a new catalyser and insert the new catalyser.►Insert sealing strip.►Position the cover and fix with the hexagon head screws.
+
+3.5 Changing the filter of the external airing systemIntroductionThe ventilating modules and the external airing system include filters in some ovenzones.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 42 
+The filters must be replaced if this is indicated by the differential pressure switchesor the differential flow sensors.Requirement• The transverse direction orienter is in "Maintenance Mode".
+
+Personal protectiveequipment
+
+• Breathing mask• Safety goggles• Protective gloves• Hard hat• Protective clothing• Safety shoes
+
+Safety WARNINGThere is a danger of falling when working on elevated parts of the line.This can lead to serious injury.►Wear a safety harness.►Use suitable ascent supports.
+
+Hot surfaces can cause burns.►Do not touch surfaces.►Wear protective gloves.►Wear protective clothing.►Only perform service work on cool machine parts.
+
+Overview
+
+1 Filter, fresh air supply, stretchingsection
+
+2 Filter, fresh air supply, cooling sec-tion 3
+
+Changing filters►Remove the clogged filter (1, 2) and dispose of it according to the manufac-turer's disposal instructions.►Install a new filter.
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 43 
+3.6 Cleaning the perforated sheets and sievesIntroductionClogged perforated sheets and sieves in the air channels and in the heating sys-tems prevent enough oven air to be suctioned in. This can lead to uneven temperat-ure distribution in the air nozzles and to overtemperature in the heating systems.Therefore, the perforated sheets and sieves must be cleaned at regular intervals.Requirements• The transverse direction orienter is in "Maintenance Mode".• The ventilators and heating must be switched off.• Only perform maintenance work on cool machine parts.• Use suitable ascent supports, if necessary.
+
+Personal protectiveequipment
+
+• Breathing mask• Safety goggles• Protective gloves• Hard hat• Protective clothing• Safety shoes
+
+Safety WARNINGThere is a danger of falling when working on elevated parts of the line.This can lead to serious injury.►Wear a safety harness.►Use suitable ascent supports.
+
+Hot surfaces can cause burns.►Do not touch surfaces.►Wear protective gloves.►Wear protective clothing.►Only perform service work on cool machine parts.1 Perforated sheets2 Screens►Remove solid matter, e.g. dirt and film residue from the perforated sheets (1)and sieves (2) and dispose of it properly.
+
+Cleaning the perfor-ated sheets andsieves
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 44 
+►Clean the perforated sheets and sieves.3.7 Replacing the bearing console of a shutterIntroductionShutters that can be swivelled away pneumatically are equipped with bearing con-soles. If the bearing consoles are worn, they must be replaced.Requirements• The transverse direction orienter is in "Maintenance Mode".• The ventilators and heating must be switched off.• Only perform maintenance work on cool machine parts.• Use suitable ascent supports, if necessary.Required personnelThis activity may only be performed by specialists.Auxiliary materials• Allen wrenchSafety WARNINGThere is a danger of falling when working on elevated parts of the line.This can lead to serious injury.►Wear a safety harness.►Use suitable ascent supports.
+
+Hot surfaces can cause burns.►Do not touch surfaces.►Wear protective gloves.►Wear protective clothing.►Only perform service work on cool machine parts.
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 45 
+Replacing the bear-ing console
+
+1 Cheese head screws2 Bearing console►Unscrew the bearing console (2) from the shaft of the shutter at the cheesehead screws (1) and dispose of it according to the manufacturer's disposal in-structions.►Screw the new bearing console onto the shaft of the shutter with the cheesehead screws
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 46 
+3.8 Maintaining the radiation thermometerIntroductionAt the radiation thermometers and the service units of the radiation thermometersmaintenance work has to be performed regularly to avoid measuring errors.Requirements• The line component is in "Service Mode".• The drives are switched off.• Use suitable ascent supports, if necessary.Auxiliary materials• Objective brush• Lens cleaner• Allen keySafety WARNINGThere is a danger of falling when working on elevated parts of the line.This can lead to serious injury.►Wear a safety harness.►Use suitable ascent supports.
+
+Hot surfaces can cause burns.►Do not touch surfaces.►Wear protective gloves.►Wear protective clothing.►Only perform service work on cool machine parts.1 Radiation thermometer2 Hex. socket set screws3 Objective►Loosen the threaded pins°(2) laterally on the radiation thermometer°(1) and re-move the radiation thermometer.►Remove fine dust from the objective°(3) with objective brush.►Remove coarser soiling from the objective with lens cleaner.►Replace the radiation thermometer again and secure with threaded pins.
+
+Cleaning the radi-ation thermometer
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 47 
+Cleaning the strain-ers of the water cool-ingEmptying the con-densate tray at theservice units
+
+1 Water cooling2 Stop valves3 Strainer►Close the stop valves (2) of the water cooling (1).►Remove the strainer (3) from the cooling water intake.►Clean the strainer with water.►Check the strainer for damage and replace if necessary.►Install the strainer in the cooling water intake.►Open the stop valves of the water cooling.1 Condensate trap2 Service unit►Empty the condensate tray (1) at the two service units (2) of the radiation ther-mometers regularly.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 48 
+3.9 Removing film residues from the hot ovenDescriptionThe film residues in the hot oven have to be removed rapidly. Otherwise, the filmresidues could clog components.Ensure, that in particular the nozzle boxes and shutters remain clean.Requirement• The transverse direction orienter is in "Service Mode" or "Maintenance Mode".• No Jogging mode may be performed during this activity.Safety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.Danger due to magnetic fieldsPowerful magnetic and electromagnetic fields occur at the following points:• Optional: Linear motor of the edge control device (LIWEB) of the track system.Powerful magnetic fields occur at the following points:• Optional: Magnetic clip closers at the inlet of the track system.• Optional: Magnetic clip openers at the outlet of the track system.• Optional: Magnetic counterpiece on the clip opener or clip closer of the tracksystem.• Optional: In the stretching section, in track systems with magnetic relief.
+
+Powerful magnetic and electromagnetic fields disrupt the functioning of act-ive medical devices such as pacemakers, insulin pumps and hearing aids.►Personnel with such active medical equipment must maintain a safe distance ofat least 0.8 m at all times.
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+ DANGER
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 49 
+Powerful magnetic and electromagnetic fields exert extremely high powers ofattraction on magnetisable (ferromagnetic) materials.There is a danger of cuts and danger of crushing.►Even if the machine is switched off, powerful magnetic fields from permanentmagnets are present.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+Powerful magnetic and electromagnetic fields can damage electronic devices,measuring instruments, watches and data storage media.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.
+
+Powerful magnetic and electromagnetic fields attract ferromagnetic partssuch as tools or fixing parts made of steel.►Do not bring ferromagnetic parts, i.e. magnetisable parts, near the magnets.During operation, the following machine parts can be moved.
+
+Moving machine parts can crush body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.The surfaces inside and outside the transverse direction orienter are hot.
+
+Hot surfaces can cause burns.►Do not touch surfaces.►Wear protective gloves.►Wear protective clothing.The air in the oven is hot.
+
+ WARNING
+
+ATTENTION
+
+ATTENTION
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 50 
+Hot air in the oven causes serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing without synthetic fibre.►Wear a hard hat with face protection.►Wear protective footwear.The edges in the oven are sharp.
+
+Sharp edges inside the line can cause cutting injuries.►Wear protective gloves.►Wear long, close-fitting clothing.►Wear a hard hat.The fans in the oven are loud during operation.
+
+Constant noise > 80 dB causes permanent damage to the hearing.►Wear ear protection.Required personnelThis activity has to be performed by 2 trained skilled persons.Their physical aptitude must be ascertained.Specialist 1 removes the film with the help of auxiliary materials.Specialist 2 is responsible for the safety of specialist 1. If necessary, he must beable to save specialist 1 from the oven and provide First Aid.
+
+Personal protectiveequipment
+
+• Long, heat-resistant protective clothing without synthetic fibre• Heat-resistant protective gloves• Hard hat with face protection• Ear protection• Safety shoesNo metallic objects may be carried on the body.
+
+Auxiliary materialsLong film bar with hook for removing the film (not included in the scope of supply)The figure shows an example of a film bar.
+
+ WARNING
+
+ CAUTION
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 51 
+Letting the oven cooldownRemaining outsidethe oven with ovendoor openRemaining in theoven
+
+►Open one or several oven doors and wait until the heat flood has escaped.Stand behind the oven door when opening for protection against the escapingheat.►Let the oven briefly cool down.Remaining outside the oven with oven door open►Remove the film residues in the oven with the auxiliary materials.Remaining in the ovenü The stay has to be as short as possible. The maximum period of time of remain-ing in the oven must not be longer than one minute.ü The oven may only be entered up to the first obstacle (e.g. nozzle boxes, tracksystem, drives). It is forbidden to overcome obstacles. Supervision and rescueby specialist 2 have to be possible without any problem.►Remove the film residues in the oven with the auxiliary materials.After leaving the ovenThe following points apply to all persons who have entered the oven:• For the person concerned, plan sufficient time for cooling down.• If required, provide the person concerned with sufficient liquid.• Carry out repeated, brief successive entries of the oven, but not by the sameperson.
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 52 
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 53 
+4 Taking an oven finally out of operationDescriptionThe decommissioning includes the following areas:• Carrying out technical disconnection• Emptying and disposing of the equipment• Disassembling and disposing of machine parts4.1 Carrying out technical disconnectionDescriptionTechnical disconnection includes the deactivation of the power supply, the IPC con-trol and other control devices.Required personnelThis activity may only be performed by specialists.
+
+Energy that ispresent
+
+These kinds of energy are present in an active or ready-to-use oven:• Heating energy• Electrical and electrostatic energy• Pneumatic energy• Potential energy
+
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Electrical energy may lead to ventricular fibrillation, cardiac arrest, respiratoryarrest and severe burns.►Only skilled personnel is allowed to un-install electrical equipment.►All applicable instructions for preventing accidents must be observed.
+
+Residual energy such as compressed air in pneumatic cylinders can lead tosevere injury or death.►Thoroughly dissipate residual energy.►Switch off the power sources permanently and disconnect them from the ma-chine.►Lock out all disconnected interfaces permanently.►Use the safety locks as described in the safety manual.4.2 Emptying and disposing of the equipmentRequired personnelThis activity may only be performed by specialists.
+
+ DANGER
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 54 
+Available equipmentThese kinds of operating materials are present in an active or ready-to-use oven:• Lubricants• Filter
+
+Emptying and dis-posing of the equip-ment
+
+Follow the instructions from the manufacturer for the appropriate disposal proced-ure. Make sure to use suitable containers for collecting, storing and transportingused materials.
+
+LubricantsGearboxes and other movable components can contain lubricants. The lubricantsused and recommended by Brückner and its lubricant manufacturers fulfil all thelegal conditions.►Pay attention to the disposal regulations of the original lubricant container.►Use suitable containers for collecting, storing and transporting used lubricants.4.3 Disassembling and disposing of machine partsLocal regulationsDepending on the disposal regulations, it may be necessary to disassemble theoven and separately dispose of the individual materials.All disposal work has to be carried out in accordance with the local regulations anddirectives.Proper disposalINFOBrückner recommends leaving the disposal to a local disposal company authorisedto provide the necessary certificates verifying proper disposal.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 04 - OperatingManual-Oven - Pag 55 
+Identification of theComponent
+
+5 Technical dataComponentOvenLine typeBOPET
+
+General dataRaw materialPETProductPackaging filmStretchingBiaxial, sequentialOperating sideRightHeatingType of heatingOil heatingTemperatureOperating temperature, central oil supply 280 - 300 °C (536 - 572 °F), dependingon the requirementsNameplateThe nameplate is used for the unique identification of the machine. It is mounted onthe machine in such a way that it is clearly visible.The nameplate always contains the following fields:The fields have the following meanings:FieldDescriptionKom.Nr.:Commission numberMaschine:Brief description of the machineStruktur:Structure number of the machineBaujahr:Year of construction of the machine
+
+--------------------------------------------------------------------------------

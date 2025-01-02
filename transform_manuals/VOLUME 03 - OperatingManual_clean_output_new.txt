@@ -1,0 +1,1647 @@
+
+VOLUME 03 - OperatingManual - Pag 1 
+Operating manualProcess manualBOPETP.1932 SHB
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 2 
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 3 
+ImprintThis operating manual is part of the equipment supplied by Brückner MaschinenbauGmbH & Co. KG - hereinafter called Brückner - and describes the necessary pro-cedures for the proper use of the film production line and the associated machines.CopyrightNo part of this operating manual may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical or by recording orotherwise without the prior permission by Brückner. The copying, distribution andutilisation of this operating manual in printed or electronic form as well as the com-munication of its contents to others without expressed authorisation is prohibited.Offenders will be held liable for the payment of damages possibly arising from unau-thorised use.All product names used in this operating manual are trademarks of the respectivecompanies.DisclaimerBrückner declines any liability or responsibility for consequential, collateral or indi-rect damage that results from non-compliance with this operating manual.Patent protectionAll rights reserved in the event of the grant of a patent, utility model, or ornamentaldesign registration. Brand and product names are trademarks or registered trade-marks of their respective companies or organisations.LanguageThe original operating manual was produced in German. All translations are basedon the language of the original operating manual.ChangeThe contents of this operating manual are subject to change by Brückner withoutnotice.We reserve the right to make technical changes.We welcome your suggestions concerning the improvement of our products and ofthis operating manual.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 4 
+PublisherStreet addressBrückner Maschinenbau GmbH & Co. KGKönigsberger Str. 5-783313 Siegsdorf/GermanyPostal addressBrückner Maschinenbau GmbH & Co. KGPO Box 11 6183309 Siegsdorf/GermanyContactInternethttp://www.brueckner.comServicePhone: +49 8662 63-9379Fax: +49 8662 63-9370E-Mail: servtec@brueckner.comSales departmentPhone: +49 8662 63-9510Fax: +49 8662 63-9101E-Mail: sales@brueckner.comDocumentationPhone: +49 8662 63-0Fax: +49 8662 4965-71-9220E-Mail: doku@brueckner.com
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 5 
+Table of contents1 Line overview.............................................................................................................................................. 92 Schedule for the start-up period of the line........................................................................................... 133 Film production ........................................................................................................................................ 153.1Components of the film production line............................................................................................ 153.1.1From the raw material to the cast film ...............................................................................  153.1.2Stretching ..........................................................................................................................  163.1.3Finishing and winding........................................................................................................  173.2Film properties and applications....................................................................................................... 183.3Raw material .................................................................................................................................... 183.3.1Polyester production..........................................................................................................  183.3.2Resin properties ................................................................................................................  193.3.3Crystallinity of PET............................................................................................................  203.3.4Factors of influence...........................................................................................................  203.3.5Additives............................................................................................................................  223.4Film processing ................................................................................................................................ 233.4.1Resin supply to cast film....................................................................................................  233.4.2Stretching ..........................................................................................................................  263.4.3Finishing and winding........................................................................................................  304 Raw material ............................................................................................................................................. 334.1Handling Raw Materials ................................................................................................................... 334.1.1Safety instructions.............................................................................................................  334.1.2General Recommendations...............................................................................................  334.1.3Transport and storage.......................................................................................................  335 Manufacturers and properties of raw materials .................................................................................... 355.1Basics............................................................................................................................................... 355.2PET polymers................................................................................................................................... 365.3Additive masterbatches.................................................................................................................... 385.3.1Antiblock masterbatches ...................................................................................................  385.3.2Masterbatches for shrink films and sealable films.............................................................  395.3.3Masterbatches for black, white and motor insulation films................................................  395.3.4Masterbatches for matt films .............................................................................................  405.3.5Masterbatches for UV stabilized films ...............................................................................  406 Film Products ........................................................................................................................................... 416.1Standard formulations ...................................................................................................................... 416.2Handling jumbo rolls......................................................................................................................... 416.3Handling finished goods rolls (slit rolls)............................................................................................ 417 Examples of standard formulations ....................................................................................................... 437.1Introduction....................................................................................................................................... 437.2Notes and Recommendations.......................................................................................................... 437.3Mixing recommendations ................................................................................................................. 457.4Film for general packaging purposes ............................................................................................... 45
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 6 
+8 Troubleshooting list................................................................................................................................. 478.1Extruder to film casting unit.............................................................................................................. 478.1.1Extruder.............................................................................................................................  478.1.2Film casting unit ................................................................................................................  498.2Stretching ......................................................................................................................................... 518.2.1Machine direction orienter.................................................................................................  518.2.2Transverse direction orienter.............................................................................................  538.3Finishing and winding....................................................................................................................... 548.3.1Pull roll unit........................................................................................................................  548.3.2Edge trim recycling............................................................................................................  558.3.3Corona treatment ..............................................................................................................  568.3.4Winder unit ........................................................................................................................  578.3.5Final film............................................................................................................................  589 Organisation of a film plant..................................................................................................................... 599.1Departments..................................................................................................................................... 599.2Suggested manning levels ............................................................................................................... 619.3Plant management group................................................................................................................. 629.3.1Production Planning and Control Department...................................................................  629.3.2Production department......................................................................................................  639.3.3Engineering department....................................................................................................  6410 Quality assurance - QA............................................................................................................................ 6710.1 Quality assurance concepts ............................................................................................................. 6710.2 Technical / QA department organisation.......................................................................................... 6710.3 Quality assurance processes ........................................................................................................... 6810.3.1Job description of technical manager................................................................................  6910.3.2Job description of QA supervisor ......................................................................................  6910.3.3Quality assurance in manufacturing..................................................................................  7010.3.4Quality assurance in the finishing section .........................................................................  7110.4 Job description of the R&D supervisor............................................................................................. 7210.5 QA – paperwork system................................................................................................................... 7210.5.1Flow chart for paperwork...................................................................................................  7210.5.2Jumbo roll label .................................................................................................................  7210.5.3Jumbo QA report...............................................................................................................  7210.5.4Daily summary of results...................................................................................................  7310.5.5Raw material quality report................................................................................................  7310.6 Labeling of mill rolls.......................................................................................................................... 7310.6.1Timestamp system ............................................................................................................  7410.6.2Lot numbering system.......................................................................................................  7410.6.3Day numbering system......................................................................................................  7410.6.4Date numbering system ....................................................................................................  7510.7 Production control paper .................................................................................................................. 7610.7.1Quality assurance department organisation......................................................................  7610.7.2Flow chart for paperwork...................................................................................................  7710.7.3Jumbo roll label .................................................................................................................  7710.7.4Quality assurance - daily summary ...................................................................................  7910.7.5Raw material quality report................................................................................................  8110.8 Laboratory forms .............................................................................................................................. 8310.8.1Film test results .................................................................................................................  83
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 7 
+10.8.2Thermal shrinkage.............................................................................................................  8510.8.3Coefficient of friction..........................................................................................................  8710.8.4Optical properties ..............................................................................................................  8910.8.5Density and area weight....................................................................................................  9111 Raw material datasheets ......................................................................................................................... 9311.1 PET polymers................................................................................................................................... 9311.1.1Polymers for clear film.......................................................................................................  9311.2 Additive masterbatches.................................................................................................................. 11711.2.1Antiblock masterbatches .................................................................................................  11711.2.2Masterbatches for shrink films and sealable films...........................................................  12511.2.3Masterbatches for black, white and motor insulation films..............................................  13711.2.4Masterbatches for matt films ...........................................................................................  13911.2.5Masterbatches for UV stabilized films .............................................................................  14612 Procedural standards ............................................................................................................................ 14912.1 BMS standards............................................................................................................................... 14912.1.1BMS TT 1.1 - Thermal shrinkage ....................................................................................  14912.1.2BMS TT 11.3 - Testing of raw material............................................................................  15412.2 International standards................................................................................................................... 158
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 8 
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 9 
+1 Line overviewLine overviewFor an overview of your line, see the separate "Line overview" operating manual.
+
+The following figure shows a schematic diagram. The figure is not necessarilyidentical to your line.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 10 
+Schematic diagram
+
+From the raw material to the cast filmStretchingFinishing and windingControl room 1Control room 2
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 11 
+General symbolsSymbolDesignationDescriptionfilm path, material flowSpecifies the direction that the film runs.operating side, operatorSpecifies the operating side.Specifies the position of the operator.drive side, motorSpecifies the drive side.Other manufacturersINFOSome components are provided by manufacturers other than Brückner.
+
+Multi-digit structurenumbers
+
+For the unique identification of components of a line, multi-digit structure numbersare used.Your line may contain more or less components than listed below.211Raw material reception and raw material storage213Raw material supply for main extruder214Main extruder feeding214-1Feed for crystalliser214-2Raw material reception for main extruder214-3Feed for main extruder214-4Exhaust air filter for dosing the main extrusion215Raw material supply and feeding for coextrusion215-1Raw material supply for coextrusion215-2Raw material feeding for coextrusion241Edge trim recycling251Film recycling251-1Fluff silo251-2Exhaust air filter for fluff silo271Main extrusion274Heating and/or cooling units for main extrusion28Coextrusion281-4Heating/cooling units for coextrusion291Melt die unit321Film casting unit324Heating and/or cooling units for film casting unit325Film casting stand326Auxiliary winder for film casting unit331Machine direction orienter334Heating and/or cooling units for MDO340Transverse direction orienter348Heating and/or cooling units for TDO
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 12 
+371Pull roll unit374Heating and/or cooling units for pull roll unit391Winder unit565Inline coating device713Cooling unit for water supply
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 13 
+2 Schedule for the start-up period of the lineSuggested scheduleThe following table is a suggested schedule for the start-up period of the line.P.1932 SHB Schedule for start-up period [} 14]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 14 
+2.1 P.1932 SHB Schedule for start-up period
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 15 
+3 Film productionIntroductionThe purpose of your Brückner line is to produce biaxially oriented (abbreviated BO)flat film in a two-stage process.Biaxially oriented means that the film is stretched in two main directions at an angleof 90°.These two main directions are:• The longitudinal direction, called machine direction (abbreviated MD).• The transverse direction (abbreviated TD).The film is stretched in a two-stage process:• Firstly, in machine direction (MD).• Secondly, in transverse direction (TD).3.1 Components of the film production line3.1.1 From the raw material to the cast film3.1.1.1 Material storage and transportBig BagsThe raw material is delivered in big bags. These big bags are loaded in the raw ma-terial reception, i.e. the big bag reception.
+
+Single screw ex-truders
+
+If single screw extruders are used, the raw material is to be dried before it is fed intothe main extruder respectively a coextruder:• Main extruderThe raw material is transported from the raw material feeding hopper via themixing and dosing system to the crystalliser and dryer. From the main dryer thegranulate is transported to the main extruder.• CoextruderThe raw material transport to the coextruder(s) is effected via a separate mixingand dosing unit to the coextrusion dryer.
+
+Twin screw extruderIn case of twin screw extruders, no dryer is necessary. The material is degassed inthe twin screw extruder using vacuum systems.3.1.1.2 Extrusion systemMelt flowThe melt flow from the main extruder as well as from the coextruder(s) passesthrough the metering pumps, the filters, the adapter block to the melt die unit. Theindividual melt streams flow together either in the multilayer adapter block or in themultilayer melt nozzle.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 16 
+ComponentsThe extrusion system contains the following components:• Main extruder• Coextruder(s)• Filters for the melt flow• Melt pump (optional)• Melt die unitExtruderThe extruder is used to melt granules and pressurise melt. The extruder is designedfor processing only those materials that are described in the technical data sheetsand in the process manual and may only be operated with these materials.Melt die unitThe melt die unit is arranged between the extrusion system and film casting unit. Itmainly consists of the frame, die support, melt die and adapter block.The melt die unit guides the melt out of the extrusion system over the chill roll as afilm. In the multilayer adapter block or the melt nozzle, the individual melt streamsflow together and are distributed from above through the lip gap of the melt nozzleonto the chill roll.3.1.1.3 Film casting unitIntroductionIn the film casting unit, the melt film of the melt die is cooled by a chill roll and, ascast film, directed to the next components.ComponentsThe film casting unit includes:• Chill roll and take-off roll• Electrostatic lay-on device• Cast film thickness gauge (optional)• Auxiliary winder (optional)• Film casting stand
+
+Functional descrip-tion
+
+It is the purpose of the film casting unit to draw the melt from the melt die unit and tostabilise the melt by cooling it down. This is achieved by means of a big cooling roll,called a "chill roll".In order to apply the melt perfectly to the chill roll, the so-called "feeder system" isused. It consists of movable electrodes that are connected to high voltage to pressthe melt evenly and bubble-free onto the chill roll.At the end of the casting unit an auxiliary winder (optional) is installed.The now available cast film is conveyed from here to the following machine.For the cast film tolerances, the (optional) cast film thickness gauge is arrangedafter the chill roll.
+
+3.1.2 Stretching3.1.2.1 Machine direction orienterIntroductionThe machine direction orienter (MDO) serves to stretch the so far unstretched castfilm in longitudinal direction, i.e. to orient it in machine direction.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 17 
+ComponentsThe MDO consists of:• preheating rolls• infrared heaters• stretching rolls• cooling rolls• direct drives, i.e., no gearboxes are used between drives and rollsThe necessary heating and cooling units for the MDO are located in a separatearea.At the end of the MDO an auxiliary winder (optional) is installed.3.1.2.2 Inline coating device (optional)DescriptionThe inline coating device is designed to coat the film on one side or both sides, de-pending on the model.Optionally, a corona treatment station is included which activates the film surface inorder to improve the coating of the film.3.1.2.3 Transverse direction orienterIntroductionThe transverse direction orienter stretches the already longitudinal oriented film intransverse direction.Transport, heatingThereby, the film is transported through an oven, which heats the film, by the so-called "clips". At the end of this oven cooling fans are installed to cool down the hotfilm.On top of the transverse direction orienter an exhaust system is installed to removevapours from the oven, originating from additives or from the resin.3.1.3 Finishing and winding3.1.3.1 Pull roll unitIntroductionThe purpose of the pull roll unit is to pull off the film from the track system and for-ward it to the winder unit.ComponentsThe pull roll unit contains:• Edge trim device• End film thickness gauge• Corona treatment station• Flame treatment device (optional)The end film thickness gauge and the edge trim device are assembled with the pullroll unit.The end film thickness gauge continuously measures the thickness of the film andgives information about the thickness tolerance across the width.3.1.3.2 Winder unitIntroductionThe function of the winder - a two-station turret winder with an automatic cutting unit- is to wind up the final film into so-called "jumbo rolls".
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 18 
+ComponentsThe winder unit contains:• Winder unit• Automatic cutting unit• Loading and unloading device (optional)The loading and unloading device unloads full mill rolls (jumbo rolls) and loadsempty cores in automatic cycle.3.2 Film properties and applicationsDefinitionThe abbreviation "BOPET" stands for Biaxially Oriented PolyEthylene Terephthal-ate.Field of applicationBy stretching the film, i.e. by orienting the macro-molecules of the polyester its prop-erties are altered as followsType of propertyValuePropertyTensile strength++Strain at break–+F-5 value++Modulus of elasticity++Thermal shrinkage–+Film density++Explanation:+ increasing/improved– decreasing/impairedRange of thicknessThe spectrum of industrial applications comprises thicknesses from less than 1 μmup to 350 μm.The most usual thicknesses are:Thickness [μm]Application1 / 2 / 2.5 / 5Capacitors5.8 / 6 / 7.5 / 9Audio-video products, capacitors, technical use8/10 / 11.5 / 12 / 15Packaging, metallizing, hot stamping, audio-videoproducts, industrial-electric uses18 / 20 / 23 / 25Miscellaneous, packaging36 / 40 / 50 / 75Computer tape, floppy discs, graphic arts100 / 125 / 175 / 190Graphic arts, mold release, micro films, LCD-monitors200 / 259 / 350Electrical insulation, stiffeners, x-ray films, LCD-monitors3.3 Raw material3.3.1 Polyester productionPolyesterPolyester belongs to the broad class of organic high-molecular weight polymers.At the present time, films made of polyethylene terephtalat, an aromic polyester,dominate the field of industrial polyester films.Polyethyleneterephtalate films are strong, tough and flexible and have low water ab-
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 19 
+Industrial uses also capitalize on their excellent dielectric properties.ProductionToday PET is mostly produced from Purified Terephthalic Acid (PTA) and mono-ethylene glycol (MEG) via polycondensation process.3.3.2 Resin properties
+
+Molecular weight andintrinsic viscosity
+
+The properties of plastic materials are determined by the structure of the polymerchain and the mutual arrangement of the ordered regions.The molecular weight of PET is determined via measurements of the intrinsic vis-cosity in solution.For film application the molecular weight of PET raw materials is in the range of15,000–20,000 g/mol.Biaxial orientated PET-films are usually made from raw materials of relatively lowmolecular weight, characterized by intrinsic viscosity (IV) values in the range of0.57–0.65 dl/g with a small viscosity variation of max. IV +/- 0.01 dl/g.For film production linear structure polyester are used. The molecular weight influ-ences a number of end use properties, e.g. mechanical properties of final film to acertain extent and in a fundamental way the processing behaviour, which stronglydepends on such basic parameters as rheological and heat transfer properties,crystallization rate, degree of molecular orientation etc.
+
+DensityStateg/cm3Amorphous1.34Molten1.22 (1BO-Film1.391) Depends on melt temperatureThermal behaviourGlas transition temperature (Tg)[°C]RemarkAmorphous70–75Depends on supplierCrystalline80–84TheoreticalTemperatures[°C]RemarkCrystallisation (Tc)120 - 126
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 20 
+Temperatures[°C]RemarkMelting (Tm)250 - 268Depends on resin typesand suppliersSpecific heat (Cp)[kJ / kgK]at 25 °C1.09–1.17at 260 °C1.67–1.76Latent heat of fusion (Hm)[J/g]46–47Variously given in literat-ureSpecific enthalpie (H)[J/g]at 27 °C22– 25at 127 °C160–170at 265 °C340–3603.3.3 Crystallinity of PETCrystallinityIn a semicrystalline polymer like PET both the crystalline and amorphous contributeto the properties of the final film.These properties are strongly influenced by the degree of crystallization and thesize of the crystallites.Crystallinity diagram3.3.4 Factors of influence
+
+Diethylene glycol(DEG)
+
+The most noticeable outcome of a side reaction during PET-production is the forma-tion of diethylene glycol units in the polymer chain. The presence of these units hasa decisive influence on the melting point of PET.The optimum conditions throughout production of PET raw material from PTA andethylene glycol are necessary to carry out the reaction in such a way that the di-ethylene glycol content is less than 1.0%.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 21 
+Influence of DEG-content on melting pointThe thermal properties of PET are essentially affected by polycondensation cata-lysts and temperature. Carboxyl groups in PET are not only an evidence of athermal history, they also have an influence on the hydrolytical stability of polyester.The processing of PET in the extruder is carried out at temperatures of about 270–290 °C. The rate of degradation initiated under these conditions depends largely onthe temperatures as well as on the kind and amount of polycondensation catalysts.Normal values for the content of COOH-groups are between 20–30 mmol/kg with amax. deviation of ± 5 mmol/kg.
+
+Carboxyl groups(COOH)
+
+MoistureAt high temperatures PET reacts with moisture. Due to the influence of moisture thepolymer chains break and the average chain length becomes smaller. This phe-nomenon which is already noticeable at 160 °C and strongly manifests above themelting point is called hydrolytic degradation.Hydrolytic degradation has a big influence on the film properties and can lead toprocess problems.In order to keep hydrolytical degradation at an acceptable level, the moisture con-tent of the PET-chips before processing should be lower than 0.004% or 40 ppmand preferably between 20–30 ppm.INFOThe moisture absorption through immersion in water at 25 °C for 1 week is 0.8%.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 22 
+IntroductionIntroduction
+
+Influence of moisture content on intrinsic viscosity for different PET raw materials3.3.5 AdditivesFor the processing of BOPET-films the selection of the proper additives is very im-portant.
+
+PurposeTheir main tasks are:• Improving windability• Improving the pinning properties• Acting as antiblocking agents• Reducing coefficient of frictionThe range of application and the film thickness determine the kind of additives, theirdistribution and concentration in the BOPET film.During the polycondensation process, the additives are mixed into the polymerwhich is then delivered to the film producer with a certain content of additives.Here, this raw material can be used 100% pure or in a mixture with other types ofPET polymers.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 23 
+The necessary amount of polymer mixed with additives (masterbatch) depends onthe following parameters:• The content of additives in the masterbatch itself• The type and form of the additives contained• The desired application of the end filmPackaging film for example needs an additive with very good haze propertieswhereas a very smooth additive is necessary for video film with no special demandson the optical properties.Typical additives are silica and talcum.3.4 Film processing3.4.1 Resin supply to cast filmIntroductionThis chapter contains information about the material flow from the resin supply tothe film casting unit.3.4.1.1 Material flow of raw material and regranulated materialIntroductionThis chapter contains information about the transport of resin and regranulate.Kinds of materialThe following kinds of material are used:• Virgin raw material– Usually supplied in big bags of about 1 ton each.– Transported via a conveying system to the storage silos for virgin raw mater-ial.• Regranulated material– Produced based on film fluff (recycled film).– Stored in silos for regranulated material.
+
+Single screw ex-truders
+
+If single screw extruders are used, the raw material is to be dried before it is fed intothe main extruder respectively a coextruder:The silos for virgin PET as well as for regranulated material are connected to dosingand mixing units from where the granulate is transported to the crystallizing and dry-ing section, directly to the single screw extruder(s).The different raw materials for the coextruder(s) are also conveyed via a mixing anddosing unit and the coextrusion crystallizer and dryer to single screw coextruder.
+
+Twin screw extruderIn case of a twin screw extruder, the material is conveyed directly from the feedinghopper via the dosing unit into the extruder (no dryer necessary).Edge trim recyclingThe edge trim of the film is cut by blades.The edge trim of drive side and operator side is continuously sucked into a grinderand cut into film fluff. The film fluff is transported into intermediate silos or directlyinto the dosing unit of the main extruder (only if a twin screw extruder is used).
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 24 
+Film recycling and re-granulation
+
+At several locations of the line, trimmed film is further cut into smaller film fluffs, e.g.,in the following grinders:• Edge trim grinder• Cast film grinder• Waste film grinderThe film fluffs of all grinders are collected in fluff silos.From the fluff silos, the film fluff pass a regranulation system where the fluffs are re-cycled to PET-granules ("Regranulate"). This regranulate is stored in suitable bagsor transported to the raw material silos by a conveying system.
+
+3.4.1.2 Extrusion unit and melt dieIntroductionThe extrusion system melts the raw material and ejects it as a flat profile in continu-ous operation.ComponentsThe extrusion system consists of the following components:• Main extrusion system• At least one coextruder (optional)• Metering pumps• Melt filter• Adapter block (optional multi-layer)• Melt die unit (optionally multi-layer)Extruders, filters and the melt die unit are connected by adapter pieces and meltpipes.Material flowThe mixture of PET polymer and regranulated polymer is melted in the main extru-sion unit and conveyed to the main filter via the prefilter and metering pump.The main filter is used to remove contamination from the melt. This filter has a cer-tain amount of filter discs.A large filter surface in a relatively small construction is obtained by using filter discsor filter candles. Large filter areas provide a long filter life and minor pressurelosses.Then the melt flows from the filter via the melt pump and the multilayer adapterblock to the melt die.The coextruder(s) serve to melt and to convey the raw material of the skin layer.The coextruder(s) is/are connected with the melt die by similar components as themain extrusion system but smaller in size.The melt coming out of the (optionally multi-layer) adapter block is discharged bya(n) (optionally multi-layer) melt die. The single-layer melt die distributes the meltflow in even thickness across the entire width. If a 3-layer melt die is used, there isno longer a multi-layer adapter block; each layer is distributed by its own "coat-hanger".The distribution takes place in the so-called "coat-hanger" distributor.Film profileThe total profile of the film can be adjusted by means of a flexible die lip with push-pull bolts, so the die gap can be extended or closed depending of the actual filmprofile deviation from set point.The fine-tuning of the die gap profile has to be executed by adjusting the bolts of theflexible die lip either manually or fully automated by the auto-profile control system.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 25 
+Melt die gapRecommended melt die gap against final film thickness:Final film thickness [μm]Melt die gap [mm]4 - 80.7 - 1.48 - 361.4 - 2.236 - 1251.8 - 2.83.4.1.3 Film casting unitIntroductionThe film casting unit pulls the melt from the melt die. In the film casting unit the filmis strengthened by cooling down. This is achieved by means of a big cooling roll,called "chill roll".Components1 Melt die2 Chill roll3 Cast film4 Pinning electrode5 Air shower cooling system (optional)CrystallizationThe crystallization of the PET-film is influenced by the cooling conditions of the chillroll.A quick cooling process of the melt influences the crystal or spherolite structure ofthe cast film in a way to keep the crystal structure as even as possible and the rateof the crystallization rather small. The melt is cooled on one side by the chill roll andon the other side by ambient air.For thick film production over 125 μm the melt is cooled from both sides. The socalled air shower cooling system is cooling the outside to reach a better and morehomogenous cooling of the melt.To get a good applying of the melt onto the chill roll a perfectly working pinning sys-tem with a clean oligomer-free electrode is necessary.3.4.1.4 Thickness gauge for cast film (optional)IntroductionGenerally a thickness gauge is integrated into the pull roll unit to measure the finalfilm thickness.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 26 
+An additional thickness gauge (optional) can be installed behind the film casting unitto measure the thickness of the cast film.The film thickness is measured continuously and contact-free by a cross movingbeta ray, infrared scanner or an X-ray system while production is running.The measuring data will be analysed and processed by special software which es-sentially controls the following processes:• Displaying the actual thickness across the width• Calculating and displaying the average film profile and standard deviation
+
+Measurement (castfilm)
+
+3.4.2 Stretching3.4.2.1 Machine direction orienterIntroductionThe machine direction orienter (MDO) orients the unstretched cast film in longitud-inal direction at a specific stretching temperature.Preheating groupTo heat up the film to the required stretching temperature a certain number of pre-heating rolls are installed.Stretching groupThe longitudinal stretching process occurs between heated stretching rolls runningwith different speeds. Additional infrared heaters across the entire width, arrangedin the stretching gap, guarantee and provide the remaining heat for stretching thefilm evenly.The film thickness after the machine direction orienter depends on the speed at theinlet of the machine direction orienter and the stretching ratio.Stretching ratioThe quotient of the roll speeds is defined as longitudinal stretching ratio SRMD:SRMD= Longitudinal stretching ratio [–]v1= Speed of the MDO rolls in front of the stretching gap [m/min]v2= Speed of the MDO rolls after the stretching gap [m/min]d1= Thickness of the cast film in front of the stretching gap [µm]d2= Thickness of the longitudinally stretched film after the stretching gap[μm]The usual stretching ratios are between 2.8 and 4.6.If the MD stretching ratio is too low it will cause excessive thickness variations inlongitudinal direction which causes difficulties in the following transverse directionstretching process in the transverse direction orienter.A raise of the longitudinal stretching ratio increases the tensile strength of the filmand reduces the elongation at break.The interdependence between these two values is shown in the following diagrams.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 27 
+Cooling groupAfter stretching the longitudinally oriented film is cooled down rapidly by coolingrolls.Heating circuitsThe preheating rolls, stretching rolls, annealing rolls and cooling rolls are suppliedby their own water circuit including a heating and/or cooling unit. The rolls are tem-perature controlled individually, in pairs or up to three in series.
+
+Tension measuringrolls
+
+At the inlet and the outlet of the machine direction orienter tension measuring rollsmeasure the actual film tension.The tension values are displayed at the IPC monitor. Thus, the operator can adjustthe speed between the machine direction orienter and the film casting unit respect-ively the transverse direction orienter and the machine direction orienter to achievesuitable film tension.
+
+Feeding systemFor easy film threading a motor driven threading chain pulls the cast film through theMDO.3.4.2.2 Inline coating device (optional)PurposeDepending on the model of the inline coating device, the film is coated on one sideor both sides with a coating medium.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 28 
+Coating modesThe inline coating device can be operated in the following coating modes.• Coating– The film can be coated.• Bypass– The film can not be coated.RollsDriven rolls transport the film through the inline coating device.In coating mode, the gravure roll receives the coating medium from the coatingchamber and transfers it onto the surface of the film.Optionally, heating rolls and cooling rolls are contained for heating respectively cool-ing the film.Optionally, spreading rolls are contained. The film edges are always pulled outwardby the bowed shape of the spreading roll. An adjustment of the bending angle of thespreading roll is possible.Edge lifting rollsEdge lifting rolls (2 pairs of edge lifting rolls) are mounted on both sides of the coat-ing station as well as before and after the coating station.With 2 coating stations, the first pair of edge lifting rolls is before the first coatingstation and the second pair is after the second coating station.The edge lifting rolls prevent the coating of the film borders and the contamination ofparts in contact with the film. Otherwise, the film could slip out of the clips at the inletof the TDO or could could stick on the clips at the outlet of the TDO.
+
+Film spreadingdeviceCorona treatment sta-tion (optional)
+
+The film web is tightened in the transversal direction by the spreading device in or-der to smooth the wrinkles in the area of the coating machine, originated by thestretching of the film in longitudinal direction (machine direction orienter), and to en-sure a uniform film path.The film edges are guided between two rollers which are pressed against eachother.The film edges are always pulled outward by the slight angular position of the rollerpair. This keeps the film tight.Optionally, a corona treatment station is included.The corona treatment prepares the surface of the film for subsequent coating.The film surface is subjected to an electrical corona discharge. Due to the coronadischarge, the polarity of the surface and the surface tension is increased which en-ables better adhesion of the coating material.
+
+3.4.2.3 Transverse direction orienterIntroductionThe transverse direction orienter, abbreviated TDO, serves to orient the longitudin-ally stretched film in the second stage into transverse direction.Thus, the film is biaxially oriented, i.e. stretched in longitudinal and in transverse dir-ection.The film is transported through the TDO by a clip system mounted on a chain andguided by a chain rail.SectionsHeating and cooling of the film is effected by a heating and cooling air stream. Thisair stream is spread evenly across the film by so-called "nozzle boxes".
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 29 
+Therefore the TDO is subdivided into several sections as follows:• Preheating• Stretching• Annealing• CoolingPreheatingFor the air supply and exhaust, an "external airing system" is used.Since the transverse stretching temperature is considerably higher than the temper-ature of the film at the inlet of the TDO the film must be preheated to that temperat-ure.The preheating section comprises several zones. The chain track adjustment in thissection is mainly parallel, i.e. in the preheating section the film must not bestretched at all, but transported only.If there is an inline coating device (optional) installed, the preheating section is alsoused to dry the coating continuously over the film width.StretchingIn the stretching section the distance between the chain rails is continuously exten-ded. That means the film is stretched in transverse direction.If the stretching temperature is too high, the thickness tolerances can not be main-tained. The film becomes hazier and finally breaks.Normally the transverse stretching ratio is never fixed. It’s defined over the chain railadjustment, which depends on the used polymer.The chain rail position can be adjusted by hand wheels located between the differ-ent sections.Optional the chain rail position can be adjusted fully automatically by motors.As the film edges are held by clips, the edges remain unstretched during transverseorientation.For this reason, the unstretched edges stay thicker and have to be removed afterleaving the TDO.Stretching ratioThe transverse stretching ratio could be found out by marking two parallel lines of acertain distance prior to the TDO by means of fibre pens and by measuring theselines at the end of the TDO or the winder.SRTD=Transverse stretching ratiob1=Line distance prior to transverse stretchingb2=Line distance after transverse stretchingDuring transverse stretching the film also becomes thinner in relation to the stretch-ing ratio.dTD=Film thickness after transverse stretchingdMD=Film thickness prior to transverse stretchingSRTD=Transverse stretching ratioAnnealingThe fixing station consists of a certain number of zones.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 30 
+In this section, the transport system converges to thermo-stabilize the film by tem-perature and relaxation. The film width is decreased by approx. 0–5% of the size ofthe last stretching zone - depending on stretching ratio and shrinkage value.The fixing temperature is limited since too high temperatures have bad influence onthe film properties.CoolingThe TDO sections are concluded with the cooling section. In this section, the hotfilm is cooled down in a slow and defined manner by blowing temperature-controlledair onto the film.After that, the film is released from the clip system for further conveyance by the pullroll unit.TemperaturesFor further information on the temperatures, refer to the Line Operation Manual orthe Operation chapter.3.4.3 Finishing and winding3.4.3.1 Pull roll unitIntroductionThe purpose of the pull roll unit is to pull off the film from the track system and for-ward it to the winder unit.Thickness gaugeBetween the first and the second part of the pull roll unit a thickness gauge is in-stalled for measuring the thickness of the final film.
+
+Edge trim system(optional)Web cleaning device(optional)
+
+The edge is trimmed by blades on the drive and operator side. The width of theedge trim is approx. 120–150 mm.1 Edge trim2 Net width of final film3 CutterThe edge trim is fixed in its position by special nip rolls to establish a good conditionduring cutting of the edge trim before being pulled off by a suction nozzle.From the grinder, the fluff is blown through a piping system to the regranulation sys-tem or to the intermediate silos or the dosing unit of the main extruder.To reduce the amount of settled dust from the web surface.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 31 
+It is a combination of 3 main units:• a static eliminator• a pressurized air stream• a “vacuum cleaner”After the thickness gauge for the final film, the corona treatment station follows.To avoid wrinkles during the transport and surface treatment of the film, there is acertain number of spreader rolls.To avoid slipping and a backside treatment of the film on the corona treatment roll,there is a nip roll attached. Thus, the winder cannot pull the film through the pull rollunit.
+
+Corona treatment(optional)
+
+3.4.3.2 Thickness gauge for final filmIntroductionGenerally a thickness gauge is integrated into the pull roll unit to measure the finalfilm thickness.
+
+Measurement (finalfilm)
+
+The film thickness is measured continuously and contact-free by a cross movingbeta ray scanner, infrared scanner or an X-ray system while production is running.The measuring data will be analysed and processed by special software which es-sentially controls the following processes:• Displaying the actual thickness across the width• Calculating and displaying the average film profile and standard deviation• Calculating and displaying the actual mill roll profile• Triggering of the automatic lip adjustment bolt control to adjust the die gap toreach an even thickness profile with small deviations across the width and overtime.
+
+3.4.3.3 Winder unitIntroductionThe winder unit consists of a two-station turret winder with an automatic cutting unitand a preceding installed driven roll system, including a so called "tension measur-ing roll" and a "contact roll".With this winder it is possible to change the film rolls without interrupting the produc-tion process.Winding processWhen starting up the line, the film is wound on one winding station first. Then, themachine parameters are optimised and the film can finally be applied on the emptywinding core in the other station by the automatic cutting unit.While winding up the film on one station, the completed jumbo roll can be removedfrom the other station and an empty winding core can be put in.It is necessary to adjust the winding characteristic in order to obtain well wound filmrolls.With the visualisation software, the winding characteristic can be preset via tension/diameter and pressure/diameter diagrams, displayed on the screen.Net outputBased on the existing winding speed on the winder, the net output of the productionplant can be calculated from the film constants (width, average thickness and dens-ity).mnNet output [kg/h]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 32 
+vwFilm speed at winder [m/min]bFilm width after edge trim [m]dAverage film thickness [mm]rFilm density [g/cm³]cConversion factor [min/h]The specific values for PET are as follows:rFilm density = 1.39 g/cm³cConversion factor = 60 min/h3.4.3.4 Loading and unloading device (optional)IntroductionThe loading and unloading device moves into the winder area and lifts a mill roll outof the winder unit. An empty winding core is loaded into the winder unit by the liftingdevice. The mill roll can be removed out of the loading and unloading device by acrane.Components1 Empty winding core2 Mill roll3 Horizontal movement to winder
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 33 
+4 Raw material4.1 Handling Raw Materials4.1.1 Safety instructionsINFORaw materials and additives for films with food contact must have the relevant au-thorisations and comply with the national regulations.4.1.2 General Recommendations
+
+Purchase of raw ma-terialsIncoming goodscheck
+
+The purchase of raw materials must be planned sufficiently in advance. The invent-ory on hand must be large enough to bridge delivery bottlenecks and prevent pro-duction downtime. It is recommended to have several suppliers for all important rawmaterials. The majority of a raw material (for example, 60%) can be obtained fromone supplier and a smaller part (for example, 30%) can be acquired from a secondsupplier. Depending on requirements, a small part (for example, 10%) can be ob-tained from a third supplier (for example, to test new raw materials or develop newrecipes).Raw materials must be checked immediately after arrival in both the laboratory aswell as in production and the results archived. Thus, inadmissible deviations canalready be recognised in advance.Test values such as melt flow rate, xylene solubility, additive content, pellet size dis-tribution, colour of the pellets, for example, should be present for each delivery.
+
+4.1.3 Transport and storageIntroductionThe best method is to store resin in original packing filled directly by your suppliers.However special precautions must be taken with handling and storage.GuidelinesPlease ensure that companies and personnel that are to be employed to handle ortransport these raw materials are advised as follows:• Bags and big bags or octabins must be protected from rain, snow or high humid-ity.If necessary, clean bags, big bags or octabins before entering and opening themin the raw material feeding area.• Tarpaulin covered truck loads are not sufficient or suitable for transport of rawmaterials in Monsoon or heavy rainfall conditions.• Where possible, bags should be left on wrapped pallets and handled by fork lift.• Do not use dirty silo trucks. Raw material transportation packagings should onlybe opened in a clean environment.• Where pallets have to be unloaded, care must be taken to avoid breakage ofbags.A locked dust-free warehouse giving protection from rain, excessive moisture or hu-midity, sunlight and extremes of temperature is recommended.Normal warehouse practices of batch segregation, stock rotation, cleanliness andtidiness are essential.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 34 
+Additive master-batches
+
+The slip and antistatic additives used in the production of plastic films are surfact-ants or migratory, therefore as well as being able to migrate to the surface of thefilm after manufacture they can also migrate to the surface of the granules in themasterbatch itself.As in the film, this process depends on time, temperature and air humidity. Additivemasterbatches usually have at least 6 months of shelf life after production. Storagetemperatures above 25 °C are not recommended.Masterbatches are moisture sensitive. Broken or partly used bags will let in moistureand render the masterbatch unusable. Therefore, reseal bags very carefully ortransfer the contents into special airtight containers and label well.
+
+INFOGenerally the humidity content of all raw materials must not exceed 0.05%(500 ppm).
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 35 
+5 Manufacturers and properties of raw materials5.1 BasicsIntroductionThe tables in the following chapters provide an overview of the raw materials to beused and their most important properties. Details can be found in the datasheets ofthe respective raw material manufacturer. See „Raw material datasheets“.The sequence of the entries in the tables is alphabetic according to manufacturername and does not imply any valuation with respect to quality.Depending on the application of the film, further additives can be necessary.Status columnThe Status column gives information on the use of a raw material.• RecommendedRaw material for which the manufacturer has collected positive experience withregard to performance and quality in long-term runs on several lines.The use of this raw material is recommended by BRÜCKNER.• ApprovedThe manufacturer confirms good processability of this raw material on severallines.However, more experience is required in order to give the raw material the Re-commended status.• In useThis raw material is used successfully by one or more film manufacturer(s).The specified experiences and findings refer to lines of the manufacturer only.There is no correlation between the status and the maximum line speed that can beachieved with the respective raw material. Information on the possible line speedcan be found in the footnotes of the relevant table.Start-up periodThe raw materials and masterbatches required for the start up period should prefer-ably be selected by means of the following recommendations and provided in con-tainers such as Big Bags, road/trail containers, Octabins or sacks of 25 kg.Guarantee runFor the implementation of guarantee runs, only polymers and masterbatches withthe Recommended status must be used.For machines with 3-gap stretching, only materials with the attribute "Recommen-ded" in "3-gap" column may be used for guarantee runs. The intrinsic viscosity (IV)for 3-gap materials should be between 0.57 and 0.62.Viscosity valuesAll viscosity values base on specifications in data sheets or similar sources given byraw material suppliers. If no additional information is given, the value represents the„intrinsic viscosity“ determined according to ASTM D2857.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 36 
+5.2 PET polymersINFORaw materials and additives for films with food contact must have the relevant au-thorisations and comply with the national regulations.ManufacturerTrade nameCodeI.V.1-Gap [m/min]3-Gap [m/min]< 250> 250< 450> 450Beijing YanshanPETPETF-65-BR0.64In use   See Beijing Yanshan PET PETF-65-BR [} 93]CIFUPET--0.62In useAppr.EastmanPET187590.61In use   See Eastman PET 18759 [} 95]Ester IndiaEssklarIV 9.00.65In useIn use   See Ester India Essklar IV 9.0 [} 97]
+
+Foshan Chemical FiberPolyesterChips
+
+--0.67In use
+
+   See Foshan Chemical Fiber Polyester Chips [} 99]Fuhua PolyesterPET--
+
+Garden Silk MillGarden Poly-ester Chips
+
+--0.62 -0.641)
+
+Appr.Appr.
+
+GokulanandPET--0.631)In use
+
+IndoramaPETRama-PETB0003   See Indorama PET RamaPETB0003 [} 103]
+
+0.63Appr.Appr.
+
+IndoramaPETRFL0.61Appr.Appr.IndoramaPETAH620.63Rcmd.Rcmd.   See Indorama PET AH62 [} 101]KaneboPETTK 10.65Rcmd.Appr.   See Kanebo PET TK-1 [} 105]KanghuiPET clear0.631)Appr.Appr.Appr.KohapSuper Bright--0.64In useLibolonBR (Bright)L3240.621)In useIn use   See Libolon BR (Bright) L324 [} 109]LibolonBR (Bright)L3160.64In useIn use   See Libolon BR (Bright) L316 [} 107]Mitsubishi Rayon Co.PETMA 530 R0.68Rcmd.   See Mitsubishi Rayon Co PET MA 530 R [} 111]Mitsubishi Rayon Co.PETDN 0320.63Rcmd.Appr.Pearl PolymersPETF096H0.65In use   See Pearl Polymers PET F 096H [} 113]ShantouPET12650.63Rcmd.ShinkongShinpetT026400.64Rcmd.Shree DurgaPET0.641)In useIn useIn use   See Shree Durga PET [} 115]SKCSKC PETCTF41Appr.Appr.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 37 
+ManufacturerTrade nameCodeI.V.1-Gap [m/min]3-Gap [m/min]< 250> 250< 450> 450SKCSKC PETCTF420.62Rcmd.STPCBright0.631)In useIn useToray SaehanEslonA 90930.58Rcmd.Appr.Appr.Yizheng CheFibSB-PET0.64Rcmd.Rcmd.Yizheng CheFibHigh Speed0.62In useIn useYizheng CheFib2gap resinFG6200.60Rcmd.Yizheng CheFibFilm gradeFG6000.67Rcmd.YuHua ZunhaiFilm grade0.65In useThe intrinsic viscosity for 3-gap materials should be between 0.57 and 0.62.1)measured by BrücknerAppr.:ApprovedI.V.:Intrinsic ViscosityRcmd.:Recommended
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 38 
+5.3 Additive masterbatches5.3.1 Antiblock masterbatchesManufacturerTrade nameCodeI.V.1-Gap [m/min]3-Gap [m/min]< 250> 250< 450> 450Ester IndiaEssklarR20.65In useIn use   See Ester India Essklar R2 [} 117]Garden Silk MillSilicaR6 SilAppr.Appr.KaneboPETTA9 M2 / M30.63Rcmd.In use   See Kanebo PET TA-9M2 / M3 [} 119]Mitsubishi Rayon Co.PETFX001 R250.67Rcmd.In use   See Mitsubishi Rayon Co PET FX 001 R25 [} 121]Mitsubishi Rayon Co.PETDN 0360.63Rcmd.In use
+
+Polyplast Müller (Sach-tleben)
+
+MasterbatchWS 100.50In use
+
+Nanjing HaoynanAdditivatedExcellent Grade0.64Appr.In useSachtleben *MasterbatchTL 804In useSachtlebenMasterbatchTM 803In useShantou SoePET4065 S0.63Rcmd.In use   See Shantou Soe PET 4065S [} 123]ShinkongShinpetD0A6400.64Rcmd.In useSKCSKCDTM/MTM 300.62Rcmd.In useSKCSKC PETDTD150.61Appr.Appr.SukanoMasterbatchT dc S725In useIn useToray SaehanEslonA 66710.65Appr.Rcmd.Rcmd.Yizheng CheFibTianbaoFG 6100.62Rcmd.Appr.Rcmd.YuHua ZhuhaiPETType B0.65Rcmd.Rcmd.The intrinsic viscosity for 3-gap materials should be between 0.57 and 0.62.Appr.:ApprovedI.V.:Intrinsic ViscosityRcmd.:Recommended*Tested on lab line for low haze applications
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 39 
+5.3.2 Masterbatches for shrink films and sealable filmsManufacturer Trade nameCodeI.V.AntiblockApplicationStatusEastmanEmbrance0.71)NoneHeatseal/ShrinkRcmd.EastmanEmbranceLV0.71)NoneHeatseal/ShrinkIn use0.7782)EastmanCopolyGP94800.742)HeatsealIn use   See Eastman Copoly GP9480 [} 125]EastmanEastar Copoly50110.591)NoneHeatsealIn use   See Eastman Eastar Copolyester 5011 [} 128]InvistaPET50130.64-0.66 2)NoneHeatsealIn use   See Invista PET 5013 [} 131]SukanoAntiblock-MBG dc S5030.6YesShrinkageIn use   See Sukano Antiblock-Masterbatch G dc S503 [} 134]Appr.:ApprovedI.V.:Intrinsic ViscosityRcmd.:Recommended1)according suppliers data sheet2)measured by Brückner5.3.3 Masterbatches for black, white and motor insulation filmsManufacturerTrade nameCodeI.V.AntiblockApplicationStatusSukanoMasterbatchT cc S5280.6NoneWhite filmIn use
+
+YuHua ZunhaiFilm gradeSilicious Film0.65NoneMotor insula-tion film   See YuHua Zunhai Film Grade Silicious Film [} 137]
+
+In use
+
+INFOFor using the masterbatches in extrusion systems with vacuum domes, please con-tact the manufacturer to verify the suitability.Appr.:ApprovedI.V.:Intrinsic ViscosityRcmd.:Recommended
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 40 
+5.3.4 Masterbatches for matt filmsManufacturerTrade nameCodeI.V.AntiblockApplicationStatusSukanoMasterbatchT ma S490-HV0.6NoneMatt FilmIn useYizhengMasterbatchSD5000.669NoneMatt FilmRcmd.YizhengMasterbatchFD5010.687NoneMatt FilmIn useAppr.:ApprovedI.V.:Intrinsic ViscosityRcmd.:Recommended5.3.5 Masterbatches for UV stabilized filmsManufacturerTrade nameCodeI.V.AntiblockApplicationStatusSukanoMasterbatchT uv S4890.6NoneUV StabilizerIn use   See Sukano Masterbatch T uv S489 [} 146]Appr.:ApprovedI.V.:Intrinsic ViscosityRcmd.:Recommended
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 41 
+6 Film ProductsIntroductionDue to stretching of the film, i.e. due to the orientation of the macromolecules of theraw material, the film properties and consequently the fields of application change.DefinitionThe wound film after the winding process is called 'jumbo roll' in the previous andfollowing text.The processed jumbo roll is called the end product.6.1 Standard formulationsStandard formulationA formulation is an assembly of individual base materials which are combined tomanufacture a film with the required properties.Further informationFor further information and examples of standard formulations, see Examples ofstandard formulations [} 43].6.2 Handling jumbo rollsStorage conditions of jumbo rolls and the film formulation have a considerable effecton the properties of the final film.Finished jumbo rolls should be slitted as soon as possible, preferable directly afterproduction. A storage time of 1 day should in any case not be exceeded. Relativehumidity can be between 60–80%.A dust-free atmosphere is essential as dust can find its way to regranulation.6.3 Handling finished goods rolls (slit rolls)Conditions• Once the film has been cut, we recommend temperatures of storage between20–30 °C.• Storage temperatures above 35 °C are not recommended.• Rolls should be arranged either vertically or horizontally with special frames orend plates on pallets.• Film should be stored in special racks.• Do not store one pallet on another for long periods.• If special pallet lids are available to spread the load, transporting two pallets'height is admissible.A storage time of not more than 3 months without further QA inspection before de-livery to customer is recommended.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 42 
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 43 
+7 Examples of standard formulations7.1 IntroductionStandard formulationA formulation is an assembly of individual base materials which are combined tomanufacture a film with the required properties.Important notes• The dosing ratios in the table are given in weight percent.• All formulations are only suggestions. All raw materials may be exchanged withalternative raw materials or raw material combinations mentioned in the respect-ive lists.7.2 Notes and RecommendationsFormulation teamThe definition of the formulation is a major part of each project.It is recommended to form a team made up of the following concerned parties forthis purpose:• Sales manager• Plant manager• Chief production supervisor• Technical manager• Quality Assurance Supervisor (QA Supervisor)• Research and development supervisorThis provides a wide range of specialist knowledge of the entire range of applica-tions.Formulation details must be treated confidentially.INFODuring the start-up phase, Brückner can offer support to find the optimum film for-mulation.The film manufacturer must carry out its own evaluations to find the optimum formu-lation that is suitable for the respective application, including the storage conditions,raw materials and process variables.Number of film typesStandard formulations for proven films and applications have to be documented.New formulations must be extensively checked and tested before market introduc-tion.The number of film types required for the market should be kept as low as possible,because with every film type change, the line efficiency drops. The longer the pro-duction run for a film type, the higher the efficiency. A production run should ideallytake between five and seven days.The resulting additional costs for the storage of the film rolls will be covered in ashort period by the higher efficiency. This will also increase the flexibility, becausecustomers can quickly be provided with film from stock.
+
+Alternative formula-tions
+
+To maintain production in the case of delivery bottlenecks or quality problems, thedevelopment of alternative recipes is recommended.
+
+Additional additivesAlthough some additives may not always be necessary for the end use of the film, itis sometimes recommended that small amounts are used as processing aids.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 44 
+Example:• Antiblock agents reduce the blocking of the film and thereby the tendency of thefilm to wrinkle. This can occur in the vicinity of the winding core when cutting thefilm roll and lead to losses in quality. Antiblock agents facilitate the winding orcutting of the film.Storage periodThe storage period of a film, i.e. the time between manufacture and sale to the endconsumer, can be five to six months:• one month before the customer receives film from the film manufacturer• one month in his warehouse before printing• one month before delivery to the end customer• one month in the warehouse of the end customer before use• one month before the product is sold to the consumerDuring this time a considerable amount of film can be manufactured that - in thecase of negative feedback from the customer or consumer - is only second-ratequality or can no longer be sold at all.Therefore:►Maintain formulations carefully from one production run to another.►Do not make even small changes to the formulation without extensive trials.►Thoroughly test new formulations.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 45 
+7.3 Mixing recommendationsMixingThe control of mixing or extruder feeding should be the responsibility of the ChiefProduction Supervisor via individual BO-line Shift Supervisors.The correct and constant feed of additives is of utmost importance to the consist-ency of film quality. Both Shift Supervisors and QA Supervisors have a responsibilityto ensure that correct formulations are being used.DosingThe correct and constant supply of additives is essential for consistent film quality.The best and most convenient method of additive masterbatch dosing is via gravi-metric dosing equipment for each extruder.Volumetric dosing equipment or manual or semi-automatic mixer equipment shouldonly be considered in special cases for extruder feeding.7.4 Film for general packaging purposes
+
+Overview of additivemasterbatches
+
+Clear polymers without antiblocking additives are to be mixed with the additive mas-terbatches listed below.
+
+Film thickness range [μm]8–1515–3030–5050–7575–250 250–
+
+Manufacturer/Trade nameCode%%%%For antiblock masterbatches, see Antiblock masterbatches [} 38]Ester IndiaEssklarR240302010KaneboPETTA9 M240302010
+
+Mitsubishi Rayon Co.PETNominal diameter036/FX001
+
+1007040201010
+
+Polyplast Müller(Sachtleben)
+
+MasterbatchWS 10  1.510.750.50.250.25
+
+ShinkongShinpetD0A640302010744SKCSKC PETDTM 301008060401010
+
+Toray Saehan (CheilSynthet.)
+
+EslonA 667110
+
+YuhuaPETType B20157533For masterbatches for white films, see Masterbatches for black, white and motor insulation films [} 39]SukanoMasterbatchT cc S528*20–4020–4020–4020–4020–4020–40   * Has to be mixed with an antiblock masterbatchFor masterbatches for matt films, see Masterbatches for matt films [} 40]SukanoMasterbatchT ma S490 matt** 10–2010–2010–2010–2010–2010–20   ** The addition of a masterbatch with antiblock agent is optional.INFOFor 3-layer BOPET a higher amount of antiblocking additives in the skin layers maybe necessary.
+
+400
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 46 
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 47 
+8 Troubleshooting list8.1 Extruder to film casting unit8.1.1 ExtruderCurrent limitProblemPossible causesMeasure to be taken
+
+After starting themotor, it runs intothe current limit andthe screw does notturn.
+
+The temperature of the cyl-inder is too low.The preheating time for thecylinder was too short.The temperature in thefilling area is too low.
+
+►Check the cylinder temperat-ure (it should be > 265 °C; in-crease it again if necessary).►Check the temperature. Thecylinder has to be heated upstep by step according to theoperation manual.►Adjust correct temperature.
+
+Extrusion pressureProblemPossible causesMeasures to be taken
+
+During the start-upthe extrusion pres-sure exceeds250 bar.
+
+The raw material is notmelted in the adapter, filteror melt die.
+
+►Check the cylinder temperat-ures and choose a longer pre-heating time.
+
+The filter is very dirty.►Replace the filter insert.
+
+Filter differentialpressure
+
+ProblemPossible causesMeasures to be taken
+
+The pressure differ-ence in front of andafter the filter ismore than 130 bar.
+
+The melt is too cold.►Increase the extrusion tem-perature.The filter is heavily soiled.►Change the filter.
+
+Pressure fluctuationProblemPossible causesMeasures to be taken
+
+Pressure fluctuation The granulate supply is notconstant.The mixing of regranulateand granules is not con-stant.The temperature setting iswrong
+
+►Check the hoppers and thefilling area for possiblebridging.►Check scales and weighingcells for distortion.►Check dosing units for properworking.►Change the temperature set-ting for each zone by steps of5 °C.
+
+The drive oscillates.►Check the electronic equip-ment of the drive.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 48 
+Inhomogeneous meltProblemPossible causesMeasures to be taken
+
+Inhomogeneousmelt coming out ofthe melt die evenafter extended pur-ging time.
+
+The Filter screen is dam-aged.The extrusion temperatureis too low or too high.Raw material not driedenough.
+
+►Change the filter screen.►Check temperature settings.►Check drying system.►Check material moisture levelafter the dryer.
+
+No melt coming outof the melt dieTemperature in thecylinder areaLoud noise in thefilling areaTemperature in thefeeding zone
+
+ProblemPossible causesMeasures to be taken
+
+The extruder screwturns but there is nomelt coming out ofthe melt die.
+
+Adapter, filter or melt dieare plugged with cold melt.The temperature in thefilling area is too high,therefore the granulate isalready agglomerated andsticking in the screw chan-nel.
+
+►Check the pressure and tem-perature setting. For startingup again, the preheating timehas to be increased.►Reduce the temperature in thefilling area (60–80 °C) andmanually feed the granulateinto the screw until a trouble-free filling is possible.
+
+ProblemPossible causesMeasures to be taken
+
+The temperature inthe cylinder areaexceeds the settingof the controllers.
+
+The cooling system has adefect.The temperature setting iswrong.
+
+►Check and repair the coolingsystem (filter, valves, pumps,fans etc.).►Compare the chosen temper-ature setting with the temper-atures recommended by themanufacturer. Eventually in-crease the temperature (max-imum 290 °C).
+
+ProblemPossible causesMeasure to be taken
+
+A loud noise is aud-ible in the fillingarea and the screwis slow.
+
+The temperature in thefilling area is too low.If this is not the reason im-mediately contact the man-ufacturer of the extruder.
+
+►Increase the temperature.►Stop the line.►Check the feeding section, re-move any contamination.
+
+ProblemPossible causesMeasure to be taken
+
+The temperature inthe feeding zone(water cooling) is in-creasing consider-ably.
+
+The cooling system has adefect.The cooling holes areplugged by deposits.
+
+►Check and repair the coolingsystem (filter, valves, pumps,fans etc.).►Clean it acc. to the manufac-turer's recommendation.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 49 
+8.1.2 Film casting unitUnstable edgesProblemPossible causesMeasures to be taken
+
+The edges on thecast film are un-even.
+
+Wrong positioning of theedge insulation.Melt nozzle gap not setidentically on both sides.
+
+►Readjust the feeder systemand check the high voltageunit.►Readjustment of the meltnozzle gap.
+
+Bubbles betweenchill roll and cast filmTransverse lines onthe cast filmHazy lines on thecast film
+
+ProblemPossible causesMeasures to be taken
+
+Bubbles betweenchill roll and castfilm.
+
+Wrong adjustment of pin-ning electrode and/orvoltage setting.
+
+►Readjust the feeder system.
+
+ProblemPossible causesMeasures to be taken
+
+Transverse lines onthe cast film.
+
+Wrong positioning of pin-ning electrode.
+
+►Readjust the feeder system.
+
+ProblemPossible causesMeasure to be taken
+
+Hazy lines on thecast film.
+
+Non-uniform temperatureon the chill roll.
+
+►Check the heating/coolingsystem for air bubbles.
+
+Lines on the filmProblemPossible causesMeasures to be taken
+
+There are lines onthe film after leavingthe melt die.
+
+Insufficient homogeneity inthe extruder.
+
+►Increase extruder temperat-ures.
+
+The filter is defective.►Change the filter.The die lip is dirty.►Clean the die lip, if necessarypolish the melt die.
+
+Wrong adjustment ofstatic-mixer.
+
+►Rotate mixer in correct posi-tion.
+
+Bubbles in the castfilmDegraded particles inthe cast film
+
+ProblemPossible causesMeasures to be taken
+
+There are bubblesin the cast film.
+
+Moisture in the granulate.►Check drying system.
+
+The extruder does notfeed.Actual value of the vacuumis too high (too little va-cuum).
+
+►Check the granulate supply.►Check the tightness of the va-cuum piping, mini bag filterand the vacuum dome.
+
+ProblemPossible causesMeasures to be taken
+
+There are degradedparticles in the castfilm.
+
+Considerable degradationin the extruder and meltdie due to overheating.The filter sieve is dam-aged.
+
+►Purge out degraded materialby running the extruder athigh speed and decreasedtemperature.►Replace the filter.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 50 
+Cast film has browntone / Developmentof smoke
+
+ProblemPossible causesMeasures to be taken
+
+The cast film has abrown tone / Thereis a considerabledevelopment ofsmoke.
+
+Thermal degradation.►Reduce the extrusion temper-ature.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 51 
+8.2 Stretching8.2.1 Machine direction orienter
+
+When threading filmrope or film is break-ingImpossible to startthreading chain
+
+ProblemPossible causesMeasures to be taken
+
+The rope or the filmis breaking whenthreading the film.
+
+The rope is not strongenough.The tension of the thread-ing chain is too high.
+
+►Use a stronger and heat res-istant rope.►Reduce the tension setting.
+
+ProblemPossible causesMeasures to be taken
+
+It is impossible tostart the threadingchain.
+
+The stretching ratio ishigher than 1:1.The machine direction ori-enter is out of operation.At least one interlock of thethreading chain is activ-ated.
+
+►Adjust to 1:1.►Turn on the machine directionorienter.►Check the interlocks of thethreading chain in the visual-isation and remove activatedinterlocks.
+
+ProblemPossible causesMeasures to be taken
+
+It is impossible tostart the machinedirection orienter.
+
+The stretching ratio is notadjusted to 1:1.Film break detection isswitched on.
+
+►Set the stretching ratio to 1:1.►Switch off the film break de-tection of the machine direc-tion orienter.
+
+Emergency stop active.►Reset the emergency stop.
+
+At least one interlock of themachine direction orienteris activated.
+
+►Check the interlocks of themachine direction orienter onthe visualisation and removeactivated interlocks.
+
+Spots on the filmProblemPossible causesMeasure to be taken
+
+There are spots onthe film, stretched inmachine direction.
+
+The rolls are dirty.►Stop the machine and cleanthe rolls.
+
+The film is sticking on therolls.
+
+►Reduce the temperature.
+
+Scratches on the filmProblemPossible causesMeasure to be taken
+
+There are scratcheson the filmstretched in ma-chine direction.
+
+The film is slipping on therolls.
+
+►Put on nip rolls or adjust rolltemperatures.►Fine adjustment of the directdrive units.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 52 
+Film tears in thestretching gapNon-uniform filmwidth at outlet ofMDOWhite spots on thefilmFilm is non-uniformlystretchedHazy spots or lineson the film
+
+ProblemPossible causesMeasure to be taken
+
+The film tears in thestretching gap.
+
+The stretching ratio is toohigh.The stretching temperatureis too low.Irregularities in the castfilm.
+
+►Reduce the stretching ratio.►Increase the preheating andthe stretching temperatures ofthe rolls and/or infrared heat-ers.►See chapter "Chill Roll" and"Cast Film".
+
+ProblemPossible causesMeasure to be taken
+
+Non-uniform filmwidth at outlet ofMDO.
+
+The film is slipping on thestretching rolls.The stretching rolls aredirty.The film is jumping on thecooling rolls.
+
+►Placing on the nip rolls.►Increase the temperature ofthe preheating and stretchingrolls nearly up to sticking pointof the film and/or increase IR-heater power.►Clean the stretching rolls.►Readjust cooling temperat-ures (mostly by increasing it).►Increase the pressure of thenip rolls.
+
+ProblemPossible causesMeasures to be taken
+
+There are whitespots on the filmstretched in the ma-chine direction.
+
+The stretching ratio is toolow.The temperatures are toolow.
+
+►Increase the stretching ratio.►Check the temperature settingand increase the temperaturenearly up to sticking point ofthe film.
+
+The rolls are dirty.►Clean the rolls.ProblemPossible causesMeasures to be taken
+
+The film is non-uni-formly stretched.
+
+The stretching ratio is toolow.The stretching temperatureis too low.
+
+►Increase the stretching ratio(for example 1:3.4–1:3.6).►Increase the temperaturenearly up to sticking point ofthe film.
+
+ProblemPossible causesMeasure to be taken
+
+Hazy spots or lineson the filmstretched in ma-chine direction.
+
+The film is sticking on therolls.
+
+►Have a look and reduce thetemperature of the relevantrolls.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 53 
+8.2.2 Transverse direction orienter
+
+It is impossible tostart the chainThe film does not clipin properly.Film breaks makingloud noiseFilm breaks noise-less
+
+ProblemPossible causesMeasures to be taken
+
+It is impossible tostart the chain.
+
+Chain tension and/or thetension control switch isnot correctly adjusted.The emergency rope hasbeen pulled.The Film detector hasbeen operated.
+
+►Check and readjust it.►Release the emergency rope.►Remove any film residues re-maining in the clips.
+
+ProblemPossible causesMeasures to be taken
+
+The film does notclip in properly.
+
+The edge control device isnot correctly adjusted.The edge control devicedoes not work.The level of the film iseither too high or too low.
+
+►Check and readjust the edgecontrol device.►Check the edge controldevice, turn it on or repair it, ifnecessary.►Put the idler roll to the rightlevel.►Readjust the guide plates.
+
+ProblemPossible causesMeasures to be taken
+
+The film breaks inthe TDO (making aloud noise).
+
+The stretching temperatureis too low.One or more fans areswitched off.
+
+►Check the temperature settingand increase the preheatingand stretching temperatures.►Turn the fans on.
+
+Oil is dripping onto the film.►Stop the film production lineand check the TDO.►Eliminate the leak.
+
+Defects on the film such asbubbles or degradedparticles.Pieces of old film remain inthe TDO touching the film.There are film pieces inone or more clips.
+
+►Please see chapters "CastFilm" and "Chill Roll".►Stop the line and clean theTDO.►Check the edge and clean theclips.
+
+ProblemPossible causesMeasures to be taken
+
+Film breaks in thetransverse directionorienter (noiseless).
+
+The stretching temperatureis too high.Defects on the film such asbubbles or degradedparticles.
+
+►Decrease the stretching tem-perature.►Please see chapters "CastFilm" and "Chill Roll".
+
+Hazy and flabby filmProblemPossible causesMeasures to be taken
+
+Hazy and flabbyfilm.
+
+The MD stretching ratio istoo low.
+
+►Correct the MD stretching ra-tio to meet the requirements(1:3.4–1:3.6).
+
+The temperature is too►Check the temperature setting
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 54 
+Thick and un-stretched lines on thefilmThick, unstretchedoblique lines at thefilm edgesFilm is slipping out ofthe clipsFilm is shrinkingafter clipping off
+
+ProblemPossible causesMeasures to be taken
+
+Thick and un-stretched lines onthe film.
+
+The cast film tolerancesare very poor.The stretching temperatureis too low.
+
+►Readjust the tolerances.►Increase the temperatures ac-cordingly.
+
+ProblemPossible causesMeasures to be taken
+
+Thick, unstretchedoblique lines at thefilm edges.
+
+The preheating temperat-ure is too low.The polymer is not suitablefor stretching.
+
+►Increase the temperature ac-cordingly.►Use a different type of poly-mer.
+
+ProblemPossible causesMeasures to be taken
+
+In the stretchingsection the film isslipping out of theclips.
+
+The film is not deepenough in the clips.There are film piecesblocking the clips.There is oil on the cliptables.
+
+►Adjust the edge controldevice.►Clean the clips.►Clean it with a solvent.
+
+ProblemPossible causesMeasures to be taken
+
+The film is shrinkingafter clipping off.
+
+The temperature of the filmis too high.
+
+►Adjust the cooling fan.
+
+8.3 Finishing and winding8.3.1 Pull roll unitFilm has wrinklesProblemPossible causesMeasure to be taken
+
+The film on the rollshas wrinkles.
+
+Wrong film tension or badfilm flatness.Wrong positioning of thespreading rollers.
+
+►Adjust the tension.►Readjust them.
+
+Film is breakingwhen being cut
+
+ProblemPossible ReasonsMeasure to be taken
+
+The film is breakingwhen being cut.
+
+The razor blade is blunt ordamaged.Non-uniform tension of thefilm web and edge trim.The edge puller is not inthe right position.The rubber-coated rolls ofthe edge puller or of theedge trim pullers are wornout.
+
+►Change the razor blade.►Adjust the tension on edgepullers or pull roll unit toachieve equal tension all overthe film (there must not be anycreases on the film at the slit-ting station).►Adjust it so that there are nocreases on the film at the slit-ting station.►Replace them.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 55 
+8.3.2 Edge trim recycling
+
+Edge trim is not be-ing removedEdge trim grinder isblockingEdge trim is blockingthe air separator
+
+ProblemPossible causesMeasure to be taken
+
+Edge trim is not be-ing removed.
+
+The edge trim recyclingsystem is switched off.The air stream of the fan isinsufficient.The edge trim grinder isblocked.
+
+►Turn it on.►Open throttle valve.►Clean it.
+
+ProblemPossible causesMeasures to be taken
+
+Edge trim grinder isblocking.
+
+The cutting knife is blunt.►Remove the knife andsharpen it.
+
+The air stream is not ad-justed properly.The sieve plate is toosmall.
+
+►Adjust it.►Use a more coarse-meshedscreen.
+
+The edge trim is too wide.►Reduce the width.►Max. width of edge trim is150 mm, otherwise there is anexcessive quantity of thin film.ProblemPossible causesMeasure to be taken
+
+Edge trim is block-ing the air separ-ator.
+
+There is too much air be-ing conveyed to the edgetrim recycling system.
+
+►Decrease the power of the fanuntil it is just sufficient to re-move the edge trim.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 56 
+8.3.3 Corona treatment
+
+Non-uniform treat-ment over the filmwidthDecreasing surfacetension
+
+ProblemPossible causesMeasures to be taken
+
+Non-uniform treat-ment over the filmwidth.
+
+Distance of electrodes dif-fers over the film width.
+
+►Put them into parallel positionto the roll.
+
+ProblemPossible causesMeasures to be taken
+
+Decreasing surfacetension.
+
+Wrong adjustment of gen-erators.There is current leakageby tracking.A treatment roll is verydirty.The electrodes are verydirty.
+
+►Check and readjust the gener-ators.►Check and clean the systemand/or replace damagedparts.►Clean the appropriate treat-ment roll.►Clean the electrodes.
+
+Back side treatmentProblemPossible causesMeasures to be taken
+
+Increasing surfacetension on the rearside of the film(back side treat-ment).
+
+Enclosed air between thetreatment roll and the film.
+
+►Place the nip roll.►Adjust tension so that thereare no waves or wrinkles inthe film on the treatment roll.
+
+Ozone odour in theproduction area
+
+ProblemPossible causesMeasures to be taken
+
+There is ozoneodour in the produc-tion area.
+
+The exhaust system is notworking properly.
+
+►Check the exhaust systemand clean it.►Readjust the throttle valves.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 57 
+8.3.4 Winder unit
+
+Film shows telescopeeffectFinished roll is egg-shapedReal film length andcounted film lengthdiffer
+
+ProblemPossible causesMeasures to be taken
+
+The film shows theso-called "telescopeeffect".
+
+High edges.►Adjust the melt die.
+
+The winding tension is toolow.Jerky return of the contactroll.The winding gap is toowide.The contact pressure is toolow.
+
+►Change the winding paramet-ers accordingly.►Check the contact roll posi-tioning system settings andfunction.►Check the contact roll posi-tioning system settings andfunction.►Increase the contact pressure.
+
+ProblemPossible causesMeasure to be taken
+
+The finished roll iseggshaped.
+
+The winding tension is toolow.
+
+►Increase the winding tensionto achieve hard winding at thecore and soft winding outside.
+
+ProblemPossible causesMeasures to be taken
+
+The film lengthdoes not corres-pond to the lengthcounted by the filmcutting device.
+
+The counter of the film cut-ting device is not workingproperly.The film is shrinking on thejumbo roll (usually by 1–1.5%).
+
+►Adjust the counter of the filmcutting device accordingly.►Increase the film length of thejumbo roll accordingly.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 58 
+8.3.5 Final film
+
+Hazy spots on thefilm
+
+ProblemPossible causesMeasure to be taken
+
+Hazy spots on thefilm.
+
+Film is sticking in theMDO.Entrapped air between chillroll and castfilm.
+
+►Please see chapter "MDO".►Readjust pinning system. Seealso chapters „Chill Roll“ and"Cast Film".
+
+Dirty MDO rolls.►Clean them.Lines on the filmProblemPossible causesMeasures to be taken
+
+There are lines onthe film.
+
+The film is slipping on thestretching rolls.An object is touching thefilm.
+
+►Adjust the nip rolls of the ma-chine direction orienter prop-erly.►Increase the temperature ofthe machine direction orienternearly up to the sticking pointof the film.►Readjust any metal parts thatcould possibly touch the filmsurface, e.g. guide plates oredge covers of the transversedirection orienter.
+
+Film is starting toblock after a coupleof days
+
+ProblemPossible causesMeasures to be taken
+
+The film starts toblock after havingbeen stored for acouple of days.
+
+There are not enough ad-ditives in the film.
+
+►Adjust mixing and dosingunits.►Increase masterbatch content.
+
+Shrinkage on the mill roll.►Decrease shrinkage to a min-imum by more annealing.►Decrease the winding tensionand contact pressure.
+
+Hard spots in the filmProblemPossible causesMeasure to be taken
+
+Hard spots (fisheyes) in the film.
+
+Non-suitable granulate.►Use another type of granulate.Too high melt temperature.►Reduce extruder temperature.
+
+Non-uniform filmthickness in machinedirection
+
+ProblemPossible causesMeasure to be taken
+
+Non-uniform filmthickness in ma-chine direction.
+
+Pressure deviations in theextruder.
+
+►Please see chapter "Ex-truder".
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 59 
+9 Organisation of a film plantIntroductionA formalised structure of various departments, each with their own defined respons-ibilities is a vital requirement to ensure a smooth start-up and continued efficientrunning of a film plant.The diagram on the following page gives one form of operational organisation forthe total company which has been used successfully in a number of plants.
+
+Main operationalgroups
+
+The main operational groups are:• Film production• Sales• FinanceThe main operational groups report to the Board of Directors and the manager ofeach group is responsible for a range of functional activities as shown in the dia-gram.It is essential that each department works well as a motivated team and that ad-equate communication exists between departments at all levels.9.1 Departments
+
+IntroductionThe functions of each department are summarized in the following pages with mostemphasis being given to the Plant Management activity which is responsible for filmproduction up to the point of sale.
+
+Supporting depart-ments
+
+Film Production has four main supporting departments as follows:• Planning:InstructionsRaw materialRetrieval of Production StatisticsProduction Statistics CoordinationRemoval of Finished Goods – Waste – Regranulation etc.• Technical:Process Help and TroubleshootingFormulation DetailsQA Services• Engineering:Planned MaintenanceBreakdown MaintenanceModificationsImprovements Required by ProductionBetter Control of Process Variables• Personnel:Support to Managers and Supervisors ProblemsImprovements in Working Methods and TrainingHelping with Interdepartmental Communications
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 60 
+Operational organisa-tion
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 61 
+9.2 Suggested manning levelsIntroductionThe following tables should be regarded as a rough guide only. The actual organisa-tional level and therefore salary level to which a particular job is allocated dependsvery much on local conditions.
+
+Organisation systemand reporting rela-tionships
+
+The overall organisation system and reporting relationships are suitable for anyscale of operation but obviously the numbers employed in each department are de-pendent on the sales volume and local factors, such as the degree of dependenceon outside services, e.g. engineering, security, etc. Especially in the technical andthe production planning and control department it is usual that more positions fromthe following table are occupied by only one person.
+
+Suggested manninglevelsTitleManagerSupervisorForemanOperatorAssistantOperator
+
+Level12345678910Film PlantPlant manager1Chief production supervisor1Shift Supervisor4Foreman4Operator484Total: 261144484Slitting/PackingSlitting Foreman4Slitting Operators444Packing Foreman1Packing Operators44Total: 2541488RegranulationRegranulation Foreman1Regranulation Operators44Total: 9144Production Planning and Control Department1Production Planning and ControlManagerRaw Material Storeman1Finished Goods Storeman1Raw material operators4Finished Goods Operators4Total: 11128Engineering departmentEngineering manager1Electrical Supervisor1
+
+Grade
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 62 
+TitleManagerSupervisorForemanOperatorAssistantOperator
+
+Level12345678910Spare Parts Foreman1Spare Parts Operators14Mechanical Fitters44Electricians4Utility Supervisor1Total: 21135489.3 Plant management groupIntroductionWithin this group the Production Department (film production and finishing) has anumber of support services and each will be considered in turn.9.3.1 Production Planning and Control DepartmentIntroductionThe responsibilities of this department are mentioned above. Its relationship to theother functions of production, QA sales and finance are shown in the following flowchart.Organisation
+
+Grade
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 63 
+Organisation over-view9.3.2 Production departmentIntroductionThis department comprises the film processing and the finishing section.
+
+Film processing sec-tionFinishing sectionFinishing section
+
+The film processing section has the responsibility of processing the raw materials(granules and various additive master batches) into mill rolls (jumbo rolls) of film. Itis also responsible for recycling of waste film into useable granules.The finishing section is responsible for converting the jumbo rolls into smaller rollson cardboard cores for direct sale to customers or into process rolls which are slitfor customers in a secondary slitting operation.The finishing section also includes the preparation and packing of the rolls accord-ing to orders.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 64 
+OrganisationThe detailed organisation of this department is shown in the following flow chart.9.3.3 Engineering department
+
+Engineering depart-ment
+
+The most important task of the Engineering Manager is to ensure the continuousproduction of high quality film.All production machinery requires regular maintenance attention to work at max-imum efficiency. In order to achieve this, there must be close cooperation betweenthe production, planning and engineering departments so that maintenance periodscan be used effectively. Such periods should be planned on an annual basis. Forparticular calendar dates, maintenance periods of e.g. 8 hours, 24 hours, 2 daysshould be planned.Unplanned plant stoppages will inevitably occur and the Engineering Departmentshould be geared up to exploit these periods for maintenance purposes.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 65 
+Organisation
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 66 
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 67 
+10 Quality assurance - QAIntroductionThis chapter contains important information about:• Quality assurance policy• Technical / QA department organisation• Quality assurance function• Development and research section• QA – paperwork system• Mill roll numbering systems• Production control paper10.1 Quality assurance conceptsConceptsQuality assurance can be differentiated into two different concepts:• Concept of total quality assurance• Concept of reduced quality assurance
+
+Total quality assur-anceReduced quality as-surance
+
+It is recommended that you use the total quality assurance concept.This implies that film quality is the responsibility of every single employee in thecompany and not just that of the quality assurance department.High quality film can only be consistently produced and delivered to the customerwhere high standards of work and quality are required from every department andevery employee of the company.This makes it possible for the company to establish itself as a reliable supplier andto more quickly penetrate the market.Because the film properties – depending on the degree of control of the numerousprocess parameters – always fluctuate within certain limits, a specification must beestablished for each film type. This involves sales, the quality assurance depart-ment, production and in some cases the customer.The goal is to keep the production of inferior film at a minimum. Inferior film must notbe delivered to customers under any circumstances. In order to achieve this, all filmproduced must be tested carefully, results must be compared to standard specifica-tions, and the film must be graded accordingly.Reduced quality assurance is limited to certain trained operators in the process sec-tion performing standard tests on the samples taken from mill rolls. Likewise, slittingmachine operators perform standard tests at the slit reels.This reduces the number of people involved in the process. Their function lies inperforming nonstandard tests, testing aged film and randomly checking slit reelquality.
+
+INFOThe following chapters assume that total quality assurance is used.10.2 Technical / QA department organisationIntroductionQuality assurance is generally directly subordinate to the technical manager.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 68 
+As a result, it is convenient to separate the technical department into three func-tional areas as follows:• Research and development (R&D)• Quality assurance for the film production process• Quality assurance for the finishing operationOrganisation chartFor a possible organisational structure, see the organigram in Quality assurance de-partment organisation [} 76].Job descriptionsJob descriptions for the following positions are contained in the chapters below:• Technical manager• QA Supervisor• Research and development supervisor10.3 Quality assurance processesOverviewAs part of the quality assurance regimen, the film must be checked for certaindefined properties immediately after it is manufactured and again three days later.Special attention needs to be paid to the properties that change over the course oftime.For newly developed film recipes, the ageing characteristics of raw materials over atleast 30 days must be monitored so that improvements and refinements can bemade.Ageing samples must be taken from every lot number and kept for at least one yearso that checks can be made in case of customer problems. Around 40 carefully la-belled films (250 mm x 300 mm) are stored for this purpose.The following chapters describe the main testing criteria in the areas of manufactur-ing and finishing and provide information on evaluation and documentation.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 69 
+10.3.1 Job description of technical managerField of activityThe main tasks of the technical manager are:• Trouble shooting plant operational problems• Devising and modifying film formulations in cooperation with raw material suppli-ers, sales department and customer• Optimizing production line conditions for maximum efficiency• Conducting product and process development trials on the production linesQualificationPhysics/chemical engineer with 3–5 years of industrial experience, some knowledgeof statistics with some experience in quality assurance, preferably in the plasticsfield. Good general knowledge of plastics, able to lead and motivate up to 12people.Responsibilities• To take over all responsibility for QA aspects of the company• To implement the company's policy of total quality assurance• To train, motivate, check and lead all quality assurance and R&D staff• To produce and update full production specifications for each film type• To produce and update full customer specifications for each film type• To produce and update slitting specifications for each film type• To develop new films and formulations as required by the company• To liaise with customers and suppliers on all aspects of quality and developmentof new films and ideas• To liaise with all departments including production, slitting, personnel, engineer-ing• To liaise with planning and sales on matters affecting film quality• To keep pace with developments and advancements in other countries10.3.2 Job description of QA supervisorField of activityThe main tasks of the QA supervisor are:• To perform and document all tasks needed for quality assurance• To define the quality assurance measures in cooperation with research and de-velopment and the technical manager.QualificationPhysics/chemical engineer with 3–5 years of industrial experience, a good know-ledge of statistics with experience in quality assurance, preferably in the plasticsfield. Good general knowledge of plastics, able to lead and motivate up to 12people.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 70 
+Responsibilities• To arrange full cover for the respective shift groups for 24-hour, 7-day per weekoperation and arrange for efficient QA personnel organisation and work distribu-tion• To train, motivate and monitor the 3 shift groups of laboratory assistants• To ensure that testing by different assistants is consistent for all personnel• To check all necessary parameters of each mill roll and to document the results• To provide information to the shift supervisor and management• To test selected samples for ageing tests and compile necessary reports as re-quired• To maintain, clean and calibrate all equipment and to ensure that it is in a per-fect operational state at all times• To update the technical library• To update and improve the documentation system, for example:Jumbo roll label (production report and quality assurance report)Testing reportRaw material testingDaily summaryFormulation logAgeing testing report• To maintain QA laboratory in a clean, tidy, efficient operational state• To arrange for all tools, chemicals and all necessary materials for efficient func-tioning of the laboratory• To research and define the correct film recipes and properties• To liaise with all departments, including production, engineering, planning andthe sales department, on all matters affecting film quality and encourage a com-pany policy of "total quality assurance"• To carefully monitor film rolls through cutting/packaging and inspection pro-cesses• Instruction of cutting, packaging and inspection personnel as to the quality char-acteristics of the company• To carry out raw material testing, compile results and discuss with raw materialrepresentatives quality aspects• To carry out water testing for the engineering and production departments• To compile a comprehensive list of customer specifications and keep it up todate• To maintain a communication book for communications to all QA shift personnel• To ensure correct distribution of QA paperwork system• To review the performance of laboratory staff at least once per year• To fully investigate customer complaints and take the necessary measures10.3.3 Quality assurance in manufacturing
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 71 
+Checks for each filmroll
+
+The following checks must be performed for each film roll immediately after it ismanufactured, preferably in the specified sequence.• Wetting tension (full width)• Surface tension• Average thickness• TD thickness variation (double check on thickness gauge)• Haze• Gloss• Shrinkage
+
+Tests per shiftThe following tests must be performed at least once per shift.• Tensile strength MD – TD• Elongation MD – TD• E-modulus MD – TD• Dimensional stability• Electrical properties (optional)Other testsIn addition to the regular tests, random sample testing must be performed onsite inthe production line to test the film for its optical properties, such as the existence ofscratches and dust and to test whether there are any problems that negatively effectthe film quality.EvaluationThe results must be compared with the product specifications. Deviations from thespecifications or from the results of the previous roll may be an indication of faults inequipment parts and/or poor attentiveness on the part of the operators.Further information on documentation pertaining to quality assurance can be foundin the following chapters.10.3.4 Quality assurance in the finishing sectionFinishing sectionThe responsibility of quality assurance in the finishing section begins when the filmhas been completely wound on the jumbo rolls.The ageing process of the film begins at this time. It may vary between a minimumtime of 24 hours to three or four days.The film cannot be cut until the jumbo rolls coming from production have been re-leased by quality control. Quality control during the cutting and final testing of thecut films prior to packaging is performed by an inspector from the film cutting depart-ment. This person is trained in finishing by quality control and works together withquality assurance.Final testThe following properties are tested in the final test:• Uniformity of the rolls• Film flatness• Winding characteristics• Contamination or physical damage• Correct width, weight and film type for customers order• Label has been filled in correctlyQuality assurance in the finishing section must also spot check the cut films to en-sure that correct standards are maintained.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 72 
+10.4 Job description of the R&D supervisorField of activityThe main tasks of the R&D Supervisor are:• To examine the film types for continuous changes in the properties• To adjust the recipes• To monitor the ageing properties and archive ageing samplesQualificationPhysics/chemical engineer with 3–5 years of industrial experience. Good generalknowledge of plastics, able to lead and motivate up to 12 people.Responsibilities• To procure and test raw materials• To create specifications for film production• To create specifications for customer films• To try and test new raw materials• To develop new films for new applications• To optimise process conditions for optimum film properties• To create recipes• To liaise with customers on film development problems• To test competitive films10.5 QA – paperwork system10.5.1 Flow chart for paperworkThe overall system and flow diagram for paperwork is shown in “Flow Diagram forPaperwork”, see Flow chart for paperwork [} 77].10.5.2 Jumbo roll labelPurposeTo give as much information as possible about the mill roll to enable productionplanning to schedule rolls correctly and to give Slitting Department any helpful in-formation and improve slitting efficiency.See also chapter Jumbo roll label [} 77].10.5.3 Jumbo QA reportPurposeTo inform production personnel of film test results for corrective action if necessary.INFOThis is often combined with the “Quality assurance department organisation” tohave a combined form.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 73 
+Copies of test resultsCopies of test results of each jumbo should go immediately to:• Production Supervisor• Production Planning Supervisor• Jumbo roll• Retained by QA Supervisor10.5.4 Daily summary of results
+
+Daily summary ofresults
+
+This should be completed daily by the QA supervisor and given immediately to:• Plant manager• Engineering manager• Personnel manager• Planning managerIt is important to see and check how properties vary over 24 hours of production.Small variations in results show good control of process variables and wide fluctu-ations warn of malfunctions of equipment or personnel.The wide circulation of this summary is to encourage the policy of total quality as-surance and this form should be discussed in detail at interdepartmental meetingson a daily basis. See also Quality assurance - daily summary [} 79].
+
+10.5.5 Raw material quality reportPurposeAlthough it is difficult to perform a high number of meaningful tests on homopoly-mer, copolymer or additive masterbatches without extremely expensive equipment,a few checks should be made. This shows suppliers that each batch delivered isdocumented and that the tight quality requirements of raw materials needed for ahigh quality film production are understood. These reports can often be useful asthe basis of discussions with suppliers when they visit. See also Raw material qual-ity report [} 81].Copies must be sent to:• Plant manager• Chief production supervisor• Technical manager10.6 Labeling of mill rollsIntroductionThe finished mill rolls must be labelled with a unique ID, such as by means of anumbering system.This ID is used to identify it in all manufacturing processes. Even after delivery tothe customer, the individual mill roll can be traced back on the basis of its ID.The identification or numbering system must be defined in cooperation with otherdepartments (such as production accounting).
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 74 
+Four systems are introduced in the chapters below:• Timestamp system• Lot numbering system• Day numbering system• Date numbering system10.6.1 Timestamp systemDescriptionThe first part of the number indicates the film production line. The second part of thenumber specifies the timestamp.Example0A16040811310A1604081131Film production lineTimestamp (date and time)
+
+• 0A = film production line A• 0B = film production line B• 0C = film production line C• etc.
+
+Format [ YYMMDDhhmm ]• [ YY ] = year• [ MM ] = month• [ DD ] = day• [ hhmm ] = hour and minute in 24-hour time format
+
+Film production line A8th April 2016, 11:31 am10.6.2 Lot numbering systemDescriptionThe first part of the number indicates the production lot. Rolls from this lot arenumbered consecutively (second part of the number).Example021-032021032Lot no.Number of the roll in the lotAdvantagesSegregates film into formulation types.DisadvantagesNo automatic date reference.Difficult for accounting purposes if daily figures are needed.Customers compare quality from different lots and state preferences.10.6.3 Day numbering systemExample16309Day no.No. of roll that day• January 1st is day number: 001.• December 31st is day number: 365.AdvantagesAccounts per day are simplified.DisadvantagesStill have to cross check date of manufacture.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 75 
+Raw material could change on the same day (possibility of slitting an incorrectly se-lected roll).• Day and date numbering is generally not changed at midnight (00:00 o'clock)but at the end of the night shift, e. g. at 06:00 a.m.• The roll number is assigned at the end of the winding process and relates to theday and date at that point in time.• The film type should be changed when the day or date data change, if possible.
+
+Information on dayand date numbering
+
+10.6.4 Date numbering systemDescriptionThe first part of the number is the current date (YYMMDD). Rolls from the same dayare numbered consecutively (second part of the number).Example071102-005071102005YearMonthDayNumber of the roll from that dayAdvantagesCan instantly tell date of manufacture.Daily accounting simplified.Customers can identify and use in rotation.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 76 
+DisadvantagesNo reference to film type and recipe.
+
+Information on dayand date numbering
+
+• Day and date numbering is generally not changed at midnight (00:00 o'clock)but at the end of the night shift, e. g. at 06:00 a.m.• The roll number is assigned at the end of the winding process and relates to theday and date at that point in time.• The film type should be changed when the day or date data change, if possible.
+
+10.7 Production control paper10.7.1 Quality assurance department organisationTitleNumber of personsTechnical manager1QA, R&D Supervisors2Day workers1Shift workers12Total16
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 77 
+10.7.2 Flow chart for paperwork10.7.3 Jumbo roll labelJumbo Roll Label [} 78]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 78 
+10.7.3.1 Jumbo Roll LabelJumbo Roll LabelFilm TypeThickness (μm)DateRoll Number
+
+Q.C. ReportQ.C. ReportProduction ReportProduction ReportAve. ThicknessStart Time
+
+Total Length Stop TimeMin/RollWidth Weight (calculated)Weight (actual)Treatment InsideOutsideCore No.:RemarksShiftOperatorSupervisor
+
+Thickness VariationRoughnessSealing StrengthDimensional Stability
+
+μm
+
+min.mmkg
+
+MD
+
+kgTD
+
+Tensile StrengthMDN/mm2Wmin/m2
+
+TDWmin/m2N/mm2
+
+ElongationWidthWeightTreatment InsideOutsideRemarksShiftLaborantSupervisor
+
+MDTD
+
+mmkgmN/mmN/m
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 79 
+10.7.4 Quality assurance - daily summaryQuality control - daily summary [} 80]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 80 
+10.7.4.1 Quality control - daily summaryQuality Control - Daily Summary
+
+Film Type
+
+Date
+
+Shift
+
+Roll NumberAverage Thickness[µm]Thickness VariationTreatmentinside  [mN/m]
+
+outside
+
+[mN/m]
+
+Roughness[µm]
+
+Dimensional StabilityTensile StrengthElongationE.-ModulusWeightDays ProductionRemarks
+
+[%]MDTD
+
+MDTD
+
+[N/mm2]
+
+[%]MDTD
+
+MD
+
+[N/mm2][kg][kg]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 81 
+10.7.5 Raw material quality reportSee also2 Raw material quality report (PET) [} 82]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 82 
+10.7.5.1 Raw material quality report (PET)Raw Material Quality ReportSupplierMaterialBatch No.Date of DeliveryDate of Test
+
+Intrinsic Viscosityin dl/gBulk Densityin kg/l
+
+Appearance/ContaminationStability at 100 °CVolatile ContentAsh ContentProduction TestDate Batch FinishedRemarks
+
+AV
+
+AV
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 83 
+10.8 Laboratory forms10.8.1 Film test resultsSee also2 Film test results (BOPET) [} 84]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 84 
+10.8.1.1 Film test results (BOPET)Film Test Results(BOPET)Film Type:Date of Production:Order No.:Date of Test:Lot No.:Operator:Roll No.:Remarks:No. DescriptionUnitAverageSt.Dev.CommentMethod1Thickness- TDµmDIN 53370
+
+- MDN/mm²- TDN/mm²- MDN/mm²- TDN/mm²- MD% - TD%- MDN/mm²- TDN/mm²RaµmRzµm
+
+Tensile StrengthF-5 ValueElongation at BreakModulus of ElasticitySurface RoughnessCoefficient of Friction
+
+ASTM 882DIN EN ISO 4287/4288
+
+RtµmDIN EN ISO 4287F/F- µs-
+
+F/F- µkF/M- µsF/M- µk
+
+DIN EN ISO 8295
+
+Haze%ASTM 1003Gloss-ASTM 2457
+
+10 Thermal Shrinkage
+
+- MD%150/30- TD%150/30
+
+BMS TT 1.1
+
+11 Electric StrengthkV/mmDIN EN 60243-2
+
+12 Dielectric Loss Factor13 Dielectric Constant
+
+DIN 53483
+
+14 Volume Resistance ΩcmDIN IEC 6009315 Wetting Tension mN/m  ASTM 2578PET BOF
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 85 
+10.8.2 Thermal shrinkageSee also2 Thermal shrinkage (BOPET) [} 86]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 86 
+10.8.2.1 Thermal shrinkage (BOPET) Determination of the Thermal Shrinkageaccording BMS TT 1.1Film Type:Date of Production:Order No.:Date of Test:Lot No.:Operator:Roll No.:Remarks:Dimension of the Specimen: 100 x 100 mm
+
+MDTD150 °C/30 min                                       150 °C/30 min
+
+Specimen12345AverageSigma
+
+PET BOF
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 87 
+10.8.3 Coefficient of frictionSee also2 Coefficient of friction (BOPET) [} 88]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 88 
+10.8.3.1 Coefficient of friction (BOPET) Determination of the Coefficient of Frictionaccording DIN EN ISO 8295Film Type:Date of Production:Order No.:Date of Test:Lot No.:Operator:Roll No.:Remarks:T/Tmeans:treated to treated sideT/Omeans:treated to untreated sideO/Omeans:untreated to untreated sideT/Mmeans:treated side to metalO/Mmeans:untreated side to metalFilm / FilmFilm / MetalSpecimenT/TT/OO/OT/MO/Mµsµkµsµkµsµkµsµkµsµk12345AverageSigmaPET BOF
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 89 
+10.8.4 Optical propertiesSee also2 Optical properties (BOPET) [} 90]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 90 
+10.8.4.1 Optical properties (BOPET)Determination of the Optical Properties Film Type:Date of Production:Order No.:Date of Test:Lot No.:Operator:Roll No.:Remarks:Determination of the Hazeaccording ASTM D 1003fromlefttorightSpecimen12345678910MeasurementAverage:%Standard Deviation:%Determination of the Transmittanceaccording ASTM D 1003fromlefttorightSpecimen12345678910MeasurementAverage:%Standard Deviation:%Determination of the Glossaccording ASTM D 2457fromlefttorightSpecimen12345678910MeasurementAverage: Standard Deviation:PET BOF
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 91 
+10.8.5 Density and area weightSee also2 Density and area weight (BOPET) [} 92]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 92 
+10.8.5.1 Density and area weight (BOPET)Determination of the Density and Area Weight Film Type:Date of Production:Order No.:Date of Test:Lot No.:Operator:Roll No.:Remarks:Determination of the Densityaccording DIN EN ISO 845fromlefttorightSpecimen12345MeasurementAverage:g/cm³Standard Deviation:g/cm³Determination of the Area Weightaccording DIN EN 22286fromlefttorightSpecimen12345MeasurementAverage:g/m²Standard Deviation:g/m²PET BOF
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 93 
+11 Raw material datasheetsIntroductionThis chapter contains the datasheets of the previously mentioned raw materials.This chapter does not claim to be exhaustive. Missing datasheets can be requestedfrom the raw material manufacturer.11.1 PET polymers11.1.1 Polymers for clear film11.1.1.1 Beijing Yanshan PET PETF-65-BRSee also2 Beijing Yanshan PET PETF-65-BR [} 94]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 94 
+11.1.1.1.1 Beijing Yanshan PET PETF-65-BR
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 95 
+11.1.1.2 Eastman PET 18759See also2 Eastman PET 18759 [} 96]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 96 
+11.1.1.2.1 Eastman PET 18759
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 97 
+11.1.1.3 Ester India Essklar IV 9.0See also2 Ester India Essklar IV 9.0 [} 98]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 98 
+11.1.1.3.1 Ester India Essklar IV 9.0
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 99 
+11.1.1.4 Foshan Chemical Fiber Polyester ChipsSee also2 Foshan Chemical Fiber Polyester Chips [} 100]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 100 
+11.1.1.4.1 Foshan Chemical Fiber Polyester Chips
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 101 
+11.1.1.5 Indorama PET AH62Indorama PET AH62 [} 102]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 102 
+11.1.1.5.1 Indorama PET AH62       RAMAPET AH62  Sales Specification Polyethylene Terephthalate (PET)  Homo-polymer Chips  • Amorphous pellets for various applications  • Need crystallization before drying    Manufacturing site test method reference Orion Global PET Klaipeda   Property Unit Test method RAMAPET AH62 value 
+
+Intrinsic Viscosity dl/g SDP-15  Color, CIE L* - SDP-05  Color, CIE a* - SDP-05  Color, CIE b* - SDP-05 
+
+0.61 - 0.64 Min 56 -3 to -1 -3 to 1 Max 1.5 Max 48 30 - 40 Max 0.05 
+
+DEG content  CEG groups 
+
+wt% SDP-12  meq/kg SDP-22 
+
+Pellet weight Pcs/gram SDP-18  Fines wt% SDP-60 
+
+Moisture 
+
+wt% SDP-69 Max 0.40 
+
+Revision date: January 2019    Neither Indorama Ventures Europe BV, UAB Orion Global PET, Indorama Ventures Poland Sp. z o.o., Indorama Ventures Química S.L.U. nor their marketing affiliates shall be responsible for the use of this information, or of any product, method or apparatus mentioned, and you must make your own determination of its suitability and completeness of your own use, for the protection of the environment, and for the health and safety of your employees and purchasers of your products. No warranty is made of the merchantability or fitness of any product, and nothing herein waives any of the Seller's conditions of sale. 
+
+Indorama Ventures Europe BV - UAB Orion Global PET- Indorama Ventures Poland Sp. z o.o. - 
+
+Indorama Ventures Química S.L.U. 
+
+Qwww.indoramaventures.com 
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 103 
+11.1.1.6 Indorama PET RamaPETB0003See also2 Indorama RamaPETB0003 [} 104]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 104 
+11.1.1.6.1 Indorama RamaPETB0003
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 105 
+11.1.1.7 Kanebo PET TK-1See also2 Kanebo PET TK-1 [} 106]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 106 
+11.1.1.7.1 Kanebo PET TK-1
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 107 
+11.1.1.8 Libolon BR (Bright) L316See also2 Libolon BR L316 [} 108]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 108 
+11.1.1.8.1 Libolon BR L316
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 109 
+11.1.1.9 Libolon BR (Bright) L324See also2 Libolon BR L324 [} 110]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 110 
+11.1.1.9.1 Libolon BR L324
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 111 
+11.1.1.10 Mitsubishi Rayon Co PET MA 530 RSee also2 Mitsubishi Rayon Co PET MA 530 R [} 112]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 112 
+11.1.1.10.1 Mitsubishi Rayon Co PET MA 530 R
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 113 
+11.1.1.11 Pearl Polymers PET F 096HSee also2 Pearl Polymers PET F 096H [} 114]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 114 
+11.1.1.11.1 Pearl Polymers PET F 096H
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 115 
+11.1.1.12 Shree Durga PETShree Durga PET [} 116]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 116 
+11.1.1.12.1 Shree Durga PET
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 117 
+11.2 Additive masterbatches11.2.1 Antiblock masterbatches11.2.1.1 Ester India Essklar R2See also2 Ester India Essklar R2 [} 118]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 118 
+11.2.1.1.1 Ester India Essklar R2
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 119 
+11.2.1.2 Kanebo PET TA-9M2 / M3See also2 Kanebo PET TA-9M2-M3 [} 120]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 120 
+11.2.1.2.1 Kanebo PET TA-9M2-M3
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 121 
+11.2.1.3 Mitsubishi Rayon Co PET FX 001 R25See also2 Mitsubishi Rayon Co PET FX 001 R25 [} 122]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 122 
+11.2.1.3.1 Mitsubishi Rayon Co PET FX 001 R25
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 123 
+11.2.1.4 Shantou Soe PET 4065SSee also2 Shantou Soe PET 4065S [} 124]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 124 
+11.2.1.4.1 Shantou Soe PET 4065S
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 125 
+11.2.2 Masterbatches for shrink films and sealable films11.2.2.1 Eastman Copoly GP9480See also2 EASTMAN Copoly GP9480 [} 126]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 126 
+11.2.2.1.1 EASTMAN Copoly GP9480 Product Data Sheet  Eastman Copolyester GP9480  
+
+ Application/Uses  Packaging    Product Description Eastman Copolyester GP9480 is an Eastman Specialty Plastics/Specialty Film and Sheet product for specific customer accounts only. Primary use will be for general purpose market. Typical Properties       Propertya Testb Method Typical Value, Unitsc 
+
+Film Properties Thickness of Film Tested       0.27 mm (11 mils) 
+
+Specific Gravity     D 792  1.28  
+
+pyHaze     D 1003  0.5% 
+
+Gloss   @ 45°  D 2457  100  
+
+Transparency     D 1746  100% 
+
+pyRegular Transmittance     D 1003  89% 
+
+gTotal Transmittance     D 1003  92% 
+
+Elmendorf Tear Resistance   M.D.  D 1922  15.1 N (1540 gf) 
+
+PPT Tear Resistance     M.D. 
+
+D 2582  85 N (19 lbf)   92 N (21 lbf) D 882  47 MPa (6800 psi)   48 MPa (6900 psi) D 882  64 MPa (9300 psi)   59 MPa (8600 psi) 
+
+   T.D.  Tensile Strength @ Yield     M.D. 
+
+   T.D. 
+
+   T.D.  Tensile Strength @ Break     M.D. 
+
+    T.D. 
+
+   T.D. 
+
+  Elongation @ Yield     M.D. 
+
+   T.D. 
+
+D 882  4%   4% 
+
+ Elongation @ Break   
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 127 
+  M.D. 
+
+   T.D. 
+
+D 882  380%   440% 
+
+  Tensile Modulus, Tangent     M.D. 
+
+   T.D. 
+
+D 882  1800 MPa (2.7  x 105 psi )   1800 MPa (2.6  x 105 psi ) 
+
+ Tensile Modulus, 1% Secant     M.D. 
+
+D 882  1800 MPa (2.6  x 105 psi ) 
+
+   T.D. 
+
+(p)1700 MPa (2.5  x 105 psi ) 
+
+ Dart Impact  d   D 1709A  395 g 
+
+pImpact Resistance (Puncture), Energy @ Max. Load     @ 23°C (73°F) D 3
+
+D 3763  2.3 J (1.7 ft·lbf) 
+
+   @ -18°C (0°F)    @ -30°C (-22°F) 
+
+   @ -18°C (0°F) 
+
+2.6 J (1.9 ft·lbf) 0.3 J (0.2 ft·lbf) 
+
+2.6 J (1.9 ft·lbf) 
+
+ a  Unless noted otherwise, all tests are run at 23°C (73°F) and 50% relative humidity. b  Unless noted otherwise, the test method is ASTM. c  Units are in SI or US customary units. d  12.7 mm (0.5 in.) dia. head, 127 mm (5 in.) dia. clamp, 660 mm (26 in.) drop Comments Properties reported here are typical of average lots. Eastman makes no representation that the material in any particular shipment will conform exactly to the values given. Eastman and its marketing affiliates shall not be responsible for the use of this information, or of any product, method, or apparatus mentioned, and you must make your own determination of its suitability and completeness for your own use, for the protection of the environment, and for the health and safety of your employees and purchasers of your products. No warranty is made of the merchantability of fitness of any product, and nothing herein waives any of the Seller's conditions of sale. 11-Oct-2004 11:34:28 AM  
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 128 
+11.2.2.2 Eastman Eastar Copolyester 5011See also2 Eastman Eastar Copolyester 5011 [} 129]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 129 
+11.2.2.2.1 Eastman Eastar Copolyester 5011Product Data SheetEastar Copolyester 5011Product DescriptionEastar Copolyester 5011 is a glycol modified polyethylene terephthalate(PET). The modification is made by adding a second glycol, cyclohexanedimethanol (CHDM) during the polymerization stages. The second glycol is added in the proper proportion to produce an amorphous polymer. List of ApplicationszCosmetics/personal care packaging zPen/stationary supplies zPoint of purchase displays zToys/Sporting goods Typical Properties (Preliminary)
+
+PropertyaTestbMethodTypical Value, UnitscSpecific Gravity    D 792 1.28 Water Absorption, 24 h immersion    D 570 0.13%Mold Shrinkage   Parallel to Flow, 3.2-mm (0.125-in.) thickness D 955 0.002 mm/mm (0.002 in./in.) Parallel to Flow, 1.6-mm (0.0625-in.) thicknessD 955 0.005 mm/mm (0.005 in./in.)Drying Temperature     71°C (160°F)Drying Time     4-6 hrsProcessing Melt Temperature     249-271°C (480-520°F)Mold Temperature     16-38°C (60-100°F) Mechanical PropertiesTensile Stress @ Break    D 638 25 MPa (3600 psi)Elongation @ Break    D 638 30%Flexural Modulus    D 790 2200 MPa (3.2  x 105 psi )Flexural Strength    D 790 75 MPa (10900 psi)Rockwell Hardness, R Scale    D 785 106 Izod Impact Strength, Notched   @ 23°C (73°F)D 256 69 J/m (1.3 ft·lbf/in.) @ -40°C (-40°F)D 256 28 J/m (0.5 ft·lbf/in.)Impact Strength, Unnotched   @ 23°C (73°F)D 4812 NB J/m (NB ft·lbf/in.) @ -40°C (-40°F)D 4812 2600 J/m (50 ft·lbf/in.) Thermal PropertiesDeflection Temperature   @ 0.455 MPa (66 psi)D 648 67°C (152°F) @ 1.82 MPa (264 psi)D 648 62°C (143°F)a  Unless noted otherwise, all tests are run at 23°C (73°F) and 50% relative humidity.b  Unless noted otherwise, the test method is ASTM.c  Units are in SI or US customary units.
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 130 
+Comments Properties reported here are based on limited testing. Eastman makes no representation that the material in any particular shipment will conform exactly to the values given.  Eastman Chemical Company and its marketing affiliates shall not be responsible for the useof this information, or of any product, method, or apparatus mentioned, and you must makeyour own determination of its suitability and completeness for your own use, for theprotection of the environment, and for the health and safety of your employees andpurchasers of your products. No warranty is made of the merchantability of fitness of anyproduct, and nothing herein waives any of the Seller's conditions of sale.  31-Dec-2002 1:59:41 PM
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 131 
+11.2.2.3 Invista PET 5013See also2 Invista PET 5013 [} 132]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 132 
+11.2.2.3.1 Invista PET 5013Product Specification  Polyester Chips    PET  INVISTA Resins & Fibers  Technical Service  Ludwig-Herrmann-Str. 100   86368 Gersthofen  Tel.: +49 (0) 821 479 31 58  Fax: +49 (0) 821 479 27 21 5013  Issue date: 18.01.2008  replaces earlier versions   Character Value (Mixture) Method Intrinsic Viscosity (IV)* 0,640 - 0,660 1 % solution in Dichloroacetic acid 
+
+Carboxylic Endgroups < 50 mmol/kg 
+
+Potentiometric Titration in o/m-Cresol Alkaline Methanolysis and GC optical  DIN 53466 Karl-Fischer-Titration Minolta Chromameter CR 310 
+
+Diethylene Glycol  Chip Size (4 mm) Chips/10g Bulk Density 
+
+0,6 - 1,0 wt%   280 - 320 approx. 0,9 g/cm³ 
+
+Moisture Content** < 0,2 wt% 
+
+L* b* 
+
+60 - 70 5 -11 
+
+INVISTA Resins & Fibers GmbH guarantees the compliance with above mentioned characteristics under its General Conditions of Sales.  IV* calculated = SV x 0,0006907 + 0,063096 (1% dichloracetic acid; SV = specific viscosity)  **determined ex works before loading (available on request) 
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 133 
+INVISTA Product Data Sheet – Disclaimer This Product Data Sheet contains selected information about a specific INVISTA product, or group of products, and particular uses of the same.  It relates only to the identified product and any identified uses, and is based on information available as of the date hereof.  Additional information may be needed to evaluate other uses of the product, including use of the product in combination with any materials or in any processes other than those specifically referenced.  Information provided herein with respect to any hazards that may be associated with the product is not meant to suggest that use of the product in a given application will necessarily result in any exposure or risk to workers or the general public.  THIS PRODUCT DATA SHEET DOES NOT CONTAIN A COMPLETE STATEMENT OF, AND DOES NOT CONSTITUTE A REPRESENTATION, WARRANTY OR GUARANTY WITH REGARD TO, A PRODUCT'S CHARACTERISTICS, USES, QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,  OR THE  SUITABILITY, SAFETY, EFFICACY, HAZARDS OR HEALTH EFFECTS OF THE PRODUCT, WHETHER USED SINGULARLY OR IN COMBINATION WITH ANY OTHER PRODUCT, EXCEPT TO THE EXTENT REQUIRED BY THE RELEVANT LAW AND REGULATIONS.  Purchasers and users of the product are responsible for determining that the product is suitable for the intended use and that their workers and the general public are advised of any risks resulting from such use.  Nothing contained in this Product Data Sheet shall be construed to modify any of the commercial terms pursuant to which the product was sold by INVISTA including, but not limited to, terms and conditions addressing each party's respective rights and obligations with regard to warranties, remedies and indemnification.  If purchasers and users believe or have reason to believe that the Product Data Sheet or other information provided to them by INVISTA is inaccurate or in any way insufficient for any purpose, they should immediately notify INVISTA of the same, and of the basis for their belief (for example, studies, data, reports of incidents, etc.) so that INVISTA can determine whether modification or supplementation of the Product Data Sheet, or other measures, are appropriate.  Failure of purchasers and users to timely provide such notice shall be deemed a waiver by purchasers and users of any and all claims, demands or causes of action, including causes of action based on an alleged failure to warn, for personal injury or damage to the environment or property arising from or attributable to the use of product.  This disclaimer shall be effective to the extent allowed by law.  Should any provision be deemed to be ineffective or unenforceable, that provision shall be deemed severed from the disclaimer and the remaining provisions shall continue to have full force and effect.  
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 134 
+11.2.2.4 Sukano Antiblock-Masterbatch G dc S503See also2 Sukano Antiblock-Masterbatch G dc S503 [} 135]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 135 
+11.2.2.4.1 Sukano Antiblock-Masterbatch G dc S503SUKANO® G dc S503 Slip- / Antiblockmasterbatch for Copolyester (PETG)   1. Masterbatch Properties Properties Unit Indication / Value Polymer Carrier  PETG (amorphous Copolyester) Additives  wax and inorganic additives Softening point (DSC) °C approx. 82 Density at 20°C g/cm3 approx. 1.25 Bulk density (amorphous) kg/m3 approx. 770 Surface moisture % max. 0.5 Form of delivery  White-yellowish, 3.2mm long, cylindrical, amorphous pellets Method of packaging  25 kg PE-bags, octabins, big bags    2. Processing References Parameter Machine setting Processing temperatures Corresponding with raw material supplier’s processing conditions Melt viscosity No essential changes expected Drying 4 hour @ 60 °C with a dehumidifying air dryer Dew point dehumidifying air dryer -40 °C Material conveyor with dried air recommended 
+
+Dosage                                             coex-filmmono-film
+
+2.0 - 3.0 % 1.0 - 2.0 % The ideal dosage needs to be determined by trials 
+
+Extrusion Chill roll extrusion with air knife 3-roll stack extrusion process Storage In dry area and at room temperature re-close opened bags      Edition: 1.01 / Revision: 20.4.2004/DG&MSCH Sukano Products Ltd and its marketing affiliates shall not be responsible for the use of this information, or of any product, method, or apparatus mentioned, and you must make your own determination of its suitability and completeness for your own use, for the protection of the environment, and for the health and safety of your employees and purchasers of your products. No warranty is made of the merchantability of fitness of any product; and nothing herein waives any of the Seller’s conditions of sale. SUKANO is a registered trademark of Sukano Finance Ltd, Switzerland.  © Sukano Products Ltd • Chaltenbodenstrasse 23 • 8834 Schindellegi • Switzerland • Tel. (+41) 044 787 57 77 • Fax (+41) 044 787 57 78 • www.sukano.ch 
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 136 
+SUKANO® G dc S503 Slip- / Antiblockmasterbatch for Copolyester (PETG)   3. End use and Characteristics Application  Properties Thin film Extrusion of transparent, colored oriented and  non-oriented thin PETG, mono- and coex-film Printing application (flat film) printable with offset and gravure printing, screen- and tampon printing, thermo transfer printing Surface treatment Metalizing, lamination, coating Extrusion Results in minimal abrasion of screw and barrel due to low hardness of inorganic additive system Transparency excellent clarity Food Packaging Compliance Certificates are available upon request    Edition: 1.01 / Revision: 20.4.2004/DG&MSCH Sukano Products Ltd and its marketing affiliates shall not be responsible for the use of this information, or of any product, method, or apparatus mentioned, and you must make your own determination of its suitability and completeness for your own use, for the protection of the environment, and for the health and safety of your employees and purchasers of your products. No warranty is made of the merchantability of fitness of any product; and nothing herein waives any of the Seller’s conditions of sale. SUKANO is a registered trademark of Sukano Finance Ltd, Switzerland.  © Sukano Products Ltd • Chaltenbodenstrasse 23 • 8834 Schindellegi • Switzerland • Tel. (+41) 044 787 57 77 • Fax (+41) 044 787 57 78 • www.sukano.ch 
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 137 
+11.2.3 Masterbatches for black, white and motor insulation films11.2.3.1 YuHua Zunhai Film Grade Silicious FilmSee also2 Yuhua_Antiblock_MB-F_102 [} 138]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 138 
+11.2.3.1.1 Yuhua_Antiblock_MB-F_102
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 139 
+11.2.4 Masterbatches for matt films11.2.4.1 Sukano Masterbatch T ma S490See also2 Sukano Masterbatch T ma S490 [} 140]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 140 
+11.2.4.1.1 Sukano Masterbatch T ma S490SUKANO® T ma S490 Matting Agent Masterbatch for oriented Polyester (OPET)   1. Masterbatch Properties Properties Unit Indication / Value Polymer Carrier  PET (crystallizable) Additives  inorganic matting additive and dispersion aid Softening point, amorphous, DSC °C approx. 82 Density at 20°C g/cm3 approx. 1.70 Bulk density (amorphous) kg/m3 approx. 950 Surface moisture % max. 0.5 
+
+Filter Pressure Value (PM015) (10% MB/55min/15micron) 
+
+bar < 150  
+
+Delivery form  3.2 mm long, amorphous, white-yellowish, cylindrical pellets Method of packaging  25 kg PE-bags, octabins, big bags    2. Processing References Parameter Machine setting Processing temperatures corresponding with raw material supplier’s processing conditions Melt viscosity no essential changes expected Drying 4 hour @ 60 °C with a dehumidifying air dryer Dew point dehumidifying air dryer -40 °C material conveyor with dried air recommended 
+
+Dosage  coextruded film or sheet 
+
+10 to 20 % in external layer the ideal dosage needs to be determined by trials 
+
+Extrusion Chill roll extrusion 3-roll stack extrusion process; use minimum pressure on polishing roll Storage in dry area and at room temperature reclose opened bags    Edition: 1.01 / Revision: 6.7.2004/DG Sukano Products Ltd and its marketing affiliates shall not be responsible for the use of this information, or of any product, method, or apparatus mentioned, and you must make your own determination of its suitability and completeness for your own use, for the protection of the environment, and for the health and safety of your employees and purchasers of your products. No warranty is made of the merchantability of fitness of any product; and nothing herein waives any of the Seller’s conditions of sale. SUKANO is a registered trademark of Sukano Finance Ltd, Switzerland.  © Sukano Products Ltd • Chaltenbodenstrasse 23 • 8834 Schindellegi • Switzerland • Tel. (+41) 044 787 57 77 • Fax (+41) 044 787 57 78 • www.sukano.ch 
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 141 
+SUKANO® T ma S490 Matting Agent Masterbatch for oriented Polyester (OPET)   3. End use and Characteristic Application Properties Mono or biaxially oriented PET Film Increases the surface roughness of the OPET film and improves antiglare and optical aspect. May be used in food packaging applications. 
+
+Haze (ASTM1003) in 25 my OPET film (Results are based on single lab test) Gloss 45 deg (ASTM 2457) (Results are based on single lab test) 
+
+3   0% Masterbatch 50  10% Masterbatch 75 20% Masterbatch 130  0% Masterbatch 60 10% Masterbatch 35 20% Masterbatch 
+
+Surface Roughness Ra, Rz, Rt - values At a dosage of 20% values Ra, Rz and Rt will increase up to 40% of initial value 
+
+Printing application 
+
+printable with offset and gravure printing, screen- and tampon printing, thermo transfer printing 
+
+Food Packaging Compliance Certificates are available upon request      Edition: 1.01 / Revision: 6.7.2004/DG Sukano Products Ltd and its marketing affiliates shall not be responsible for the use of this information, or of any product, method, or apparatus mentioned, and you must make your own determination of its suitability and completeness for your own use, for the protection of the environment, and for the health and safety of your employees and purchasers of your products. No warranty is made of the merchantability of fitness of any product; and nothing herein waives any of the Seller’s conditions of sale. SUKANO is a registered trademark of Sukano Finance Ltd, Switzerland.  © Sukano Products Ltd • Chaltenbodenstrasse 23 • 8834 Schindellegi • Switzerland • Tel. (+41) 044 787 57 77 • Fax (+41) 044 787 57 78 • www.sukano.ch 
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 142 
+11.2.4.2 Yizheng FD501See also2 Yizheng_FD501 [} 143]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 143 
+11.2.4.2.1 Yizheng_FD501
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 144 
+11.2.4.3 Yizheng SD500See also2 Sinopec Yizheng Chemical Fiber SD 500 [} 145]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 145 
+11.2.4.3.1 Sinopec Yizheng Chemical Fiber SD 500
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 146 
+11.2.5 Masterbatches for UV stabilized films11.2.5.1 Sukano Masterbatch T uv S489See also2 Sukano Masterbatch T uv S489 [} 147]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 147 
+11.2.5.1.1 Sukano Masterbatch T uv S489SUKANO® T uv S489 UV-Masterbatch for Polyester (PET) for protection of polymer and content   1. Polymer Properties Properties Unit Indication / Value Polymer Carrier  PET (crystallizable) Additives  UV-Absorber package and colorants Softening point, amorphous (DSC) °C approx. 80 Density @ 23 °C g/cm3 approx. 1.25 Bulk density (amorphous) kg/m3 approx. 720 Surface moisture % max. 0.5 Delivery form  3.2 mm long, amorphous, bluish, translucent, cylindrical pellets Method of packaging  25 kg PE bags, octabins or big bags    2. Processing References Parameter Machine setting Processing temperatures corresponding with raw material supplier’s processing conditions Melt viscosity no essential changes expected Drying 4 hour @ 60 °C  after crystallization 6 hours @ 150°C  Dew point dehumidifying air dryer -40 °C material conveyor with dried air recommended Dosage 5% - 15% in 50 micron mono- or coex-layer Dosage needs to be adjusted depending on layer thickness and required UV protection. The ideal dosage needs to be determined by trials Storage In dry area at room temperature re-close opened bags    Edition_english: 1.01 / Revision: 8.7.2004/ DG Sukano Products Ltd and its marketing affiliates shall not be responsible for the use of this information, or of any product, method, or apparatus mentioned, and you must make your own determination of its suitability and completeness for your own use, for the protection of the environment, and for the health and safety of your employees and purchasers of your products. No warranty is made of the merchantability of fitness of any product; and nothing herein waives any of the Seller’s conditions of sale.  SUKANO is a registered trademark of Sukano Finance Ltd, Switzerland.  © Sukano Products Ltd • Chaltenbodenstrasse 23 • 8834 Schindellegi • Switzerland • Tel. (+41) 044 787 57 77 • Fax (+41) 044 787 57 78 • www.sukano.ch 
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 148 
+SUKANO® T uv S489 UV-Masterbatch for Polyester (PET) for protection of polymer and content   3. End use and Characteristic Application Properties Mono or biaxially oriented PET film Manufacturing of transparent OPET packaging application for protection of UV sensitive content Protection of content 5% SUKANO T uv S489 in 50 micron provides good retention of color and flavor and extends shelf live Protection of PET Polymer 15% SUKANO T uv S489 in 50 micron provides good protection for technical application in outdoor use in Middle European climate Food Packaging Certificate of compliance are available upon request    4. Features 
+
+Transmission of 50 micron PET-Film containing SUKANO T uv S489 00000000000250300350400450500Wellenlänge in nm
+
+100908070605040302010
+
+ Edition_english: 1.01 / Revision: 8.7.2004/ DG Sukano Products Ltd and its marketing affiliates shall not be responsible for the use of this information, or of any product, method, or apparatus mentioned, and you must make your own determination of its suitability and completeness for your own use, for the protection of the environment, and for the health and safety of your employees and purchasers of your products. No warranty is made of the merchantability of fitness of any product; and nothing herein waives any of the Seller’s conditions of sale.  SUKANO is a registered trademark of Sukano Finance Ltd, Switzerland.  © Sukano Products Ltd • Chaltenbodenstrasse 23 • 8834 Schindellegi • Switzerland • Tel. (+41) 044 787 57 77 • Fax (+41) 044 787 57 78 • www.sukano.ch 
+
+UV-Transmission 
+
+PET w/o UV-protectionPET + 10% SUKANO T uv S489
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 149 
+12 Procedural standardsIntroductionThis chapter contains information about the specified standards.The following sources are used:• Brückner standards, the so-called BMS standards• ASTM, DIN and ISO standards12.1 BMS standardsIntroductionThe following table provides an overview of the specified standards.All specified standards are made available in their original form.Specified standardsNumberTitleTT 1.1Testing of BOPET-Film: Thermal ShrinkageTT 11.3Testing of BOPET-Film: Dust Content Delivered (granulate)12.1.1 BMS TT 1.1 - Thermal shrinkageSee also2 BMS TT 1.1 Thermal shrinkage of BOPET film [} 150]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 150 
+12.1.1.1 BMS TT 1.1 Thermal shrinkage of BOPET film
+
+BrücknerInternalStandard1.Purpose and Application
+
+Testing of BOPET FilmThermal Shrinkage
+
+BMS TT 1.107 / 2015
+
+Testing of BOPET Film
+
+The test is to determine the dimension stability of BOPET films (in the following referred to as"films").The thermal shrinkage according to this standard is a characteristic property for quality control. Acomprehensive judgement of the thermal shrinkage can only be made by simulating theconverting conditions.2.Definition2.1Thermal shrinkage according to this standard is the change of length l of a specimen by influenceof heat and indicated in %.
+
+The thermal shrinkage for the conditions temperature =150 °C and time = 30 minutes is abbreviated 150/30.2.3Other conditions shall be abbreviated in the same way.3.Specimen3.1Preparation of SpecimenSpecimens are to be taken from the film track if possible uniformly spread over the full roll width.The machine direction shall be marked by a fibre pen. Specimens with visible defects on thesurface are not to be tested.3.2Dimension of SpecimenSquare film sheets with dimensions of 100 x 100 mm are cut out of the film track by means of acutting template. The main direction of the cutting template has to correspond with the maindirection of the film track.3.3Number of SpecimenAt least five specimens are to be tested. If the film width exceeds 5 m, one specimen per onemeter film width shall be taken.Page 1
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 151 
+BrücknerInternalStandard4.Testing Devices4.1Cutting Template
+
+Testing of BOPET FilmThermal Shrinkage
+
+BMS TT 1.107 / 2015
+
+Testing of BOPET Film
+
+For cutting a high-grade steel template with dimensions of 100 x 100 mm 0,1 mm is used. Theedges may not be rounded off. There should be a handle for easier handling of the device.4.2RulerFor measuring the specimens a ruler with a linear graduation of 0,5 mm shall be used.4.3Heating CabinetAll types of heating cabinets can be used. The temporary temperature deviation of the heatingoven must not exceed more than 1 °C. At half height of the cabinet a sheet made of stainlesssteel should be mounted. The steel sheet should be covered with a paper sheet to avoid stickingof the film onto the steel sheet.4.4Stop-WatchFor timing the testing period any type of stop-watch with an accuracy of 1 s/h can be used.5.StorageThe film or the specimens to be tested are taken right after production and tests shall be madewithin 3 hours after finishing production.Between termination of production and the tests the film must not be exposed to extremeambient conditions.There shall be standard conditions of 23/50 as per DIN EN ISO 291.There should be considered that the characteristics of the film may change during storage due topost-crystallization. Therefore a control measurement after a storage period of 14 day isrequired.Prior to this control measurement the film or the specimens should be stored in standardconditions for 24 hours..Page 2
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 152 
+BrücknerInternalStandard6.Procedure
+
+Testing of BOPET FilmThermal Shrinkage
+
+BMS TT 1.107 / 2015
+
+Testing of BOPET Film
+
+The specimens are taken from the film track as per 3.1 and cut on an even base plate by meansof a cutting template.After having marked the direction of the film track the width of the specimen is measured in bothmain directions.It shall be taken care that the ruler is always positioned exactly vertically to both main directions.The specimen is measured in its centre.Specimens which dimensions deviate more than 0,3 mm (estimated) from the templatedimensions are not to be tested.Before testing the heating cabinet shall be preheated to testing temperature for at least 30minutes in order to obtain a constant temperature. The test shall be performed in calm air.The film shelf shall be slightly powered with talc in order to avoid that the film will stick on themetal sheet.The heating cabinet may only be opened for a moment in order to put in the specimen. Openingthe cabinet door may not exceed 15 s.The specimens are put side by side onto the shelf.Right after closing the cabinet door the stop-watch must be started.After a required testing period the specimens are taken out of the heating cabinet.Before measuring the specimens shall have cooled off the room temperature. The width of thespecimens must be measured in both main directions exactly to 0,5 mm and recorded in themeasuring report.Page 3
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 153 
+BrücknerInternalStandard7.Evaluation of Tests
+
+Testing of BOPET FilmThermal Shrinkage
+
+BMS TT 1.107 / 2015
+
+Testing of BOPET Film
+
+For the single results of each main direction the arithmetical average value shall be determined.The thermal shrinkage can be calculated according to following formula:l150/30 = (l0 - l1) / l0 x 100 %Since the original measuring length l0 has been 100 mm (= 100 %), the thermal shrinkage canalso be calculated by following formula:l150/30 = (100mm - l1) x 1 %/mmMeanings of abbreviations:lthermal shrinkage in %l1measuring length in mm after testingl0original measuring length in mm8.Test ReportWith respect to this standard the test report has to contain following data:- kind and nomenclature of the tested film- number of tested specimens
+
+- thermal shrinkage in both main directions in % rounded off to the first two value indicatingfigures- deviations from this standard- production date of film- test dateExplanations:Due to certain production conditions it may happen that the film shows anincrease of length in one of the two main directions. The "shrinkage" then is referred to asnegative thermal shrinkage, calculated according to aforementioned formulas, and is indicated asa negative numerical value.Page 4
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 154 
+12.1.2 BMS TT 11.3 - Testing of raw materialSee also2 BMS TT 11.3 Amount of dust [} 155]
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 155 
+12.1.2.1 BMS TT 11.3 Amount of dust
+
+TESTING OF PET , PA6 , PP and PE
+
+BrücknerInternalStandard1.Principle
+
+BMS TT 11.307 / 2015
+
+OF PET , PA6 , PRAW MATERIAL
+
+Determination of the amount of
+
+dust adhering to PET , PA6 , PP
+
+g,and PE – pellets
+
+The dust particles adhering to the pellets are washed off with ethanol, collected on a frit,dried and weighed.2.Appliances-6 Glass beakers, low design, 2000 ml-1 Measuring cylinder, 500 ml-1 Test screen of stainless steel, 100 mm diam. mesh size 0.5 mm-1 Filter funnel including frit, size G3, 50 ml, complete with rubber ring, funnel adapterand rubber cone-1 Filtering flask, 2000 ml-1 Woulff's bottle-1 Filter pump-1 Stirring rod, glass-1 Drying oven-1 Desiccator-Basic laboratory equipment suitable for analytical workPage 1
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 156 
+TESTING OF PET , PA6 , PP and PE
+
+BrücknerInternalStandard3.Chemical
+
+BMS TT 11.307 / 2015
+
+,,RAW MATERIAL
+
+Determination of the amount of
+
+dust adhering to PET , PA6 , PP
+
+g,and PE – pellets
+
+-Ethanol (per analysis)4.Method-With an accuracy of 0.1 g weigh approximately 500 g of the pellets to be tested into a2000 ml beaker.-Add sufficient ethanol to cover the pellets with an ethanol layer of about 5 cm-Use the stirring rod to mix the pellets thoroughly with the ethanol. Then filter themixture through the screen into a second beaker.-Pour three times 100 ml of ethanol slowly over the pellets on the screen stirring up thepellets with the rod. Collect the ethanol, which has run through the pellets, in the samebeaker.-Dry a filter funnel in the drying oven at 110 °C until its weight remains constant.Determine this weight with an accuracy of 0.1 mg, (G1).-Run the collected ethanol through the filter funnel into the filter flask drawing a slightvacuum.-Re-dry the filter funnel in the oven at 110 °C until its weight remains constant.Determine this weight with an accuracy of 0.1 mg (G2).Page 2
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 157 
+TESTING OF PET , PA6 , PP and PE
+
+BrücknerInternalStandard5.Calculation
+
+BMS TT 11.307 / 2015
+
+,,RAW MATERIAL
+
+Determination of the amount of
+
+dust adhering to PET , PA6 , PP
+
+g,and PE – pellets
+
+Calculate the amount of dust adhering to the pellets from the following equation:
+
+G2 - G1----------------x 100 = % dust
+
+whereG1 = weight of the empty filter funnel in gramsG2 = weight of the filter funnel after the filter operation in gramsE= initial weight of sample material in grams6.DurationAbout 40 min, not counting the drying periods.7.Safety AdviceEthanol is a dangerous good, it is toxic and easily inflammable. It is necessary to reviewthe material safety data sheet of the manufacturer.8.NoteThe ethanol utilized during the test can be re-used after simple distillation.Page 3
+
+--------------------------------------------------------------------------------
+VOLUME 03 - OperatingManual - Pag 158 
+12.2 International standardsIntroductionThe following table provides an overview of the specified standards.Only one copy of the original edition is provided.The original edition must not be reproduced, made available to third parties or du-plicated without the permission of the licenser.InstituteNumberTitleASTMD 882Tensile strength of Thin Plastic SheetingASTMD 1003Standard Test Method for Haze and Luminous Transmit-tance of Transparent PlasticsASTMD 1204Standard Test Method for Linear Dimensional Changesof Nonrigid Thermoplastic Sheeting or Film at ElevatedTemperatureASTMD 1894Standard Test Method for Static and Kinetic Coefficientsof Friction of Plastic Film and SheetingASTMD 2457Standard Test Method for Specular Gloss of PlasticFilms and Solid PlasticsASTMD 2578Standard Test Method for Wetting Tension of Polyethyl-ene and Polypropylene FilmsASTMD 4603*Standard Test Method for Determining Inherent viscositynumber of polyethylene terephthalate (PET) by GlassCapillary Viscometer* Method modified by INVISTAASTME 313Standard Practice for Calculating Yellowness and White-ness Indices from Instrumentally Measured Color Co-ordinatesDIN EN ISO60Plastics - Determination of apparent density of materialthat can be poured from a specified funnel (bulk density)DIN EN ISO4287Geometrical Product Specifications (GPS) - Surface tex-ture: Profile method - Terms, definitions and surface tex-ture parameters (incl. Technical Corrigendum 1 + 2)DIN EN ISO4288Geometrical Product Specifications (GPS) - Surface tex-ture: Profile method - Rules and procedures for the as-sessment of surface textureDIN53370Testing of plastics films - Determination of the thicknessby mechanical scanningDIN EN ISO8295Plastics - Film and sheeting - Determination of the coef-ficients of friction
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,287 @@
+
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 1 
+Operating manualAuxiliary winderw600 SP.1932 SHB
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 2 
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 3 
+ImprintThis operating manual is part of the equipment supplied by Brückner MaschinenbauGmbH & Co. KG - hereinafter called Brückner - and describes the necessary pro-cedures for the proper use of the film production line and the associated machines.CopyrightNo part of this operating manual may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical or by recording orotherwise without the prior permission by Brückner. The copying, distribution andutilisation of this operating manual in printed or electronic form as well as the com-munication of its contents to others without expressed authorisation is prohibited.Offenders will be held liable for the payment of damages possibly arising from unau-thorised use.All product names used in this operating manual are trademarks of the respectivecompanies.DisclaimerBrückner declines any liability or responsibility for consequential, collateral or indi-rect damage that results from non-compliance with this operating manual.Patent protectionAll rights reserved in the event of the grant of a patent, utility model, or ornamentaldesign registration. Brand and product names are trademarks or registered trade-marks of their respective companies or organisations.LanguageThe original operating manual was produced in German. All translations are basedon the language of the original operating manual.ChangeThe contents of this operating manual are subject to change by Brückner withoutnotice.We reserve the right to make technical changes.We welcome your suggestions concerning the improvement of our products and ofthis operating manual.
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 4 
+PublisherStreet addressBrückner Maschinenbau GmbH & Co. KGKönigsberger Str. 5-783313 Siegsdorf/GermanyPostal addressBrückner Maschinenbau GmbH & Co. KGPO Box 11 6183309 Siegsdorf/GermanyContactInternethttp://www.brueckner.comServicePhone: +49 8662 63-9379Fax: +49 8662 63-9370E-Mail: servtec@brueckner.comSales departmentPhone: +49 8662 63-9510Fax: +49 8662 63-9101E-Mail: sales@brueckner.comDocumentationPhone: +49 8662 63-0Fax: +49 8662 4965-71-9220E-Mail: doku@brueckner.com
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 5 
+Table of contents1 Function ...................................................................................................................................................... 71.1Intended use....................................................................................................................................... 71.2Auxiliary winder .................................................................................................................................. 81.3Safeguard........................................................................................................................................... 81.4Process control system .................................................................................................................... 101.5External documents.......................................................................................................................... 102 Operation .................................................................................................................................................. 112.1Safety ............................................................................................................................................... 112.2Switching the auxiliary winder off and on ......................................................................................... 122.2.1Switching on the auxiliary winder ......................................................................................  122.2.2Switching Off the Auxiliary Winder ....................................................................................  132.3Winding up the film with the auxiliary winder.................................................................................... 132.4Unwinding the film from the auxiliary winder.................................................................................... 132.5Connecting the auxiliary winder to the drive unit..............................................................................  142.6Releasing the auxiliary winder from the drive unit............................................................................  152.7Bridging the light barrier at the auxiliary winder briefly.....................................................................  162.7.1Bridging the light barrier with safety enabling button briefly..............................................  172.8Preparing the winding shaft of the auxiliary winder..........................................................................  183 Maintenance.............................................................................................................................................. 213.1General instructions ......................................................................................................................... 213.2Safety ............................................................................................................................................... 233.3Preparing the auxiliary winder for maintenance work.......................................................................  243.4Inspection and service intervals ....................................................................................................... 244 Technical data .......................................................................................................................................... 25
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 6 
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 7 
+1 FunctionIntroductionThis chapter contains information on the intended use and the description of the ba-sic functions of the components. Here, above all, those functions that are necessaryfor operation and maintenance have been taken into account.In addition, this chapter contains a description of the active and passive safeguards.1.1 Intended useThe auxiliary winder is exclusively used for the following activities:• Winding up the film on the winding shaft• Transporting the wound up film• Unwinding the film from the winding shaftThe machine is contractually specified by parameters and must only be operatedwithin them.DisclaimerAny use that goes beyond the designated use is forbidden. Brückner accepts no li-ability for any consequential damage. Improper use can present danger to life andlimb, the machine and connected equipment, and to the efficient operation of themachine.
+
+Risk assessment andwork instructions
+
+The operating company has to carry out a risk assessment and create operating in-structions for the handling of the machine.Inputs listed in this operating manual for personal protective equipment are basedon the risk assessment taking into consideration the experience with film productionand film stretching lines. The actually occurring hazards can deviate in individualcases. In this case, the measures of the hazard assessment of the operating com-pany must be taken into consideration and applied.
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 8 
+1.2 Auxiliary winder1 Drive unit2 Coupling3 Carriage4 Winding shaft
+
+Overview
+
+Functional principleThe auxiliary winder consists of the carriage with the winding shaft and the station-ary drive unit.Winding up the filmFor winding up the film the carriage is connected to the coupling of the drive unit.During operation, the torque of the drive is transferred onto the winding shaft. Thefilm is wound up on the rotating winding shaft.Transporting the filmThe carriage is loosened from the drive unit. The wound up film can be transportedwith the carriage.Unwinding the filmFor unwinding the film the wheels of the carriage are fixed in place. The film is un-wound from the winding shaft manually or by other line components.ApplicationThe auxiliary winder is usually a machine of a film production line.The auxiliary winder can be used in the following processes:• Start-up of the film production line• Shutdown of the film production line• Production faults1.3 SafeguardSafeguardsAn overview of the safeguards can be found in the "Line overview" operating
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 9 
+Information on the safeguards can be found in the "Safety manual".The auxiliary winder is equipped with the following safeguards:• Light barriers• Rope switch• Safety enabling button• Safety poster1 Light barrier2 Rope switchThe auxiliary winder is surrounded by light barriers. When switching on the drive onthe auxiliary winder, the light barriers are activated. The light barriers are used tosecure the danger zone on the auxiliary winder.• At a maximum speed of 15 m/min, when triggering the light barrier, the torque ofthe drive is restricted.• At a speed above 15 m/min, triggering the light barrier causes an emergencystop of the auxiliary winder. For works at the auxiliary winder the light barrier canbe bridged briefly with the safety enabling button. For the access with the safetyenabling button the torque of the drive is limited.
+
+Overview
+
+Rope switchThe rope switch is located at the auxiliary winder. The rope switch is used in case ofemergency situations at the auxiliary winder. If the rope switch is triggered, anemergency stop of the auxiliary winder is executed.
+
+Safety enabling but-ton
+
+The safety enabling button is a manually operated enabling device with 3-stagedead man's handle. It is fixed on the operator panel.The safety enabling button enables controlled access to the danger zone of the aux-iliary winder when the drives are running.
+
+Safety posterThe safety poster describes dangers and safety measures of the machines in oper-ation.
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 10 
+1.4 Process control system
+
+Process control sys-tem
+
+The auxiliary winder is controlled and visualised by the Process Control System.The Process Control System of Brückner is called IPC (Integrated Process Control).WinCC OA is the visualisation of the process control system. The visualisation en-ables easy and user-friendly communication with the auxiliary winder via the controlknobs.The following control knobs are available:• Operator panels• Computer in the control room or the control roomsInformation on the control knobs can be found in the "Line overview" operatingmanual.For information on WinCC OA, see the online help.
+
+1.5 External documentsExternal equipmentApart from the self-manufactured components, the machine also contains externallysourced or already existing components, hereinafter referred to as external equip-ment.External documentsThis external equipment is supplied with instruction leaflets, manufacturer’s informa-tion, operating, installation, adjustment and service instructions and/or other user in-formation, hereinafter referred to as external documents.
+
+Replacement, main-tenance, operation
+
+External documents must also be read and observed, particularly in case of replace-ment or maintenance.When replacing external equipment, the enclosed instruction leaflets must be ob-served.The operation of the external equipment is not described in these instructions. Therespective external document is only referred to.
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 11 
+2 OperationThis chapter describes the operation of the machine.The machine is usually used in a film production line. For this case, the operation ofthe line is described in the "Line operation" operating manual.
+
+The following figures show examples. The figures show a line with the operator sideon the right. It is not necessarily identical with your line.2.1 SafetyFurther informationAdditional safety information can be found directly where the activities are describedand in the safety manual.
+
+Personal protectiveequipment
+
+Always wear protective clothing and safety shoes when remaining at the line. Addi-tional protective equipment is required for certain activities.
+
+Handling the film WARNINGUncontrolled electrostatic discharge due to charged mill roll.This can lead to serious injury from electric shock.►Persons with active medical accessories (e.g. pacemakers, insulin pumps, hear-ing aids) are forbidden from remaining at and dealing with film or rolls.►Discharge the mill roll in a controlled way before beginning work.The film has sharp edges.
+
+The sharp film edge will cause serious cutting injuries.►Wear protective gloves.The film is pulled through the line.
+
+Fast running film edge causes cuts.►It is forbidden to remain in or at the film path.►Keep your distance.►Wear close-fitting, protective clothing.
+
+People can be entangled and pulled along by the moving film web.This will lead to serious injury.►Keep your distance from the moving film web.►Do not go through under a running film track.►Wear close-fitting, protective clothing.When threading the film into the line, film residues can accrue.The film can sag down to the floor between 2 machines.
+
+INFO
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 12 
+Film on the ground can cause persons to slip, fall and be pulled along.This will lead to serious injury.►Do not step on the film.►Keep your distance from the moving film.►Keep the workplace and corridors clean.
+
+Film contamination damages the roll surface.►Only thread clean film.The film is cut with a safety knife or a film cutter.
+
+The extremely sharp blade causes serious cutting injuries or cuts off bodyparts.►Do not reach into the blade.►Retract the blade after use.►Wear cut-resistant protective gloves.The film can be hot.
+
+Hot film can cause burns.►Wear protective gloves.►Wear protective clothing.Machine parts can also become hot through contact with the hot film.
+
+Hot surfaces can cause burns.►Do not touch surfaces.►Wear protective gloves.►Wear protective clothing.2.2 Switching the auxiliary winder off and on2.2.1 Switching on the auxiliary winderRequirement• The requirements are valid for the auxiliary winder, which shall be started:• No interlocks are active on the drive.The push button on the operator panel for switching on the drive is flashing.
+
+Switching on the aux-iliary winder
+
+►Ensure that no-one is located in the danger zone of the auxiliary winder.►Switch on the auxiliary winder. On the operator panel, press[ aux. winder x run ].ð The auxiliary winder turns with the speed of the previous line component.ð The auxiliary winder turns with the speed set at the operator panel.ð At a speed above 15 m/min, the triggered safeguard causes an emergency
+
+ WARNING
+
+ATTENTION
+
+ WARNING
+
+ CAUTION
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 13 
+2.2.2 Switching Off the Auxiliary Winder
+
+Switching Off theAuxiliary Winder
+
+►Switch off the auxiliary winder. On the operator panel, press[ aux. winder x stop ].ð The drive is stopped.ð The signal light goes out.2.3 Winding up the film with the auxiliary winder
+
+DescriptionThe film from the preceding line component is wound up onto the rotating auxiliarywinder.The wind-up of the film is described in the "Line operation manual" manual. De-pending on the assembly of the line, the wind-up of the film can be used in the fol-lowing activities and be described:• Starting up the line• Shutting down the line2.4 Unwinding the film from the auxiliary winderRequirement• Film is wound up onto the winding shaft.• The carriage is loosened from the drive unit.
+
+Personal protectiveequipment
+
+• Cut-resistant and heat-resistant protective gloves
+
+Safety WARNINGFilm on the floor presents a danger of sliding and tripping.This will lead to serious head and body injuries.►Do not step on film residues.►Immediately remove film residues.►Keep the workplace and corridors clean.
+
+The sharp film edge will cause serious cutting injuries.►Wear protective gloves.
+
+Hot film can cause burns.►Wear protective gloves.►Wear protective clothing.
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 14 
+OverviewUnwinding the filmfrom the auxiliarywinder
+
+1 Manual brake with handwheel2 Parking brake►Position the auxiliary winder.►Secure the auxiliary winder against rolling away with the parking brake.►Unwind the film. If necessary, the winding shaft can braked with the handwheel.
+
+2.5 Connecting the auxiliary winder to the drive unitRequired personnel• One operator is required.OverviewINFOThe following figure shows an example. The figure is not necessarily identical toyour line.
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 15 
+1 Threading aid2 Locking unit3 Coupling►Move the auxiliary winder up to the stop in the threading aid.►Connect the auxiliary winder with the coupling.►Lock the locking unit.The drive can only be started if the auxiliary winder is correctly connected to thecoupling.
+
+Connecting the auxil-iary winder to thedrive unit
+
+2.6 Releasing the auxiliary winder from the drive unitRequirement• The drive of the auxiliary winder is switched off.Required personnel• One operator is required.OverviewINFOThe following figure shows an example. The figure is not necessarily identical toyour line.
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 16 
+1 Threading aid2 Locking unit3 Coupling►Unlock the locking unit.►Release the auxiliary winder from the coupling.►Move the auxiliary winder out of the threading aids.►Move the auxiliary winder out of the danger zone.
+
+Releasing the auxili-ary winder from thedrive stands
+
+2.7 Bridging the light barrier at the auxiliary winderbrieflyThe auxiliary winder is surrounded by light barriers. When switching on the drive onthe auxiliary winder, the light barriers are activated. The light barriers are used tosecure the danger zone on the auxiliary winder.• At a maximum speed of 15 m/min, when triggering the light barrier, the torque ofthe drive is restricted.• At a speed above 15 m/min, triggering the light barrier causes an emergencystop of the auxiliary winder. For works at the auxiliary winder the light barrier canbe bridged briefly with the safety enabling button. For the access with the safetyenabling button the torque of the drive is limited.Signal light on theauxiliary winderSignal lightStatus of the auxiliary winderMeaning
+
+The green signal lightlights.
+
+• The speed of the auxiliary winder is max-imum 15 m/min.• The speed of the auxiliary winder is higherthan 15 m/min.• The safety enabling button is pressed down to
+
+The light barrier can be cutwithout triggering an emer-gency stop of the auxiliarywinder.
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 17 
+Signal lightStatus of the auxiliary winderMeaning
+
+The yellow signal lightlights.
+
+• The speed of the auxiliary winder is max-imum 15 m/min.• The light barrier was triggered.• The speed of the auxiliary winder is higherthan 15 m/min.• The safety enabling button is pressed down tothe centre position.• The light barrier was triggered.
+
+The torque at the auxiliarywinder is reduced and lim-ited.The crossing of the light bar-rier leads to an emergencystop of the auxiliary winder.
+
+The red signal light lights.• The speed of the auxiliary winder is higherthan 15 m/min.
+
+2.7.1 Bridging the light barrier with safety enabling button brieflyRequirement• The drive of the auxiliary winder is switched on.Required personnel2 operators are required.• 1 operator ensures the safety in the danger zone at the operator panel and withthe safety enabling button.• 1 operator, who wants to enter the danger zone.
+
+Briefly bridging thelight barrier
+
+►Press the safety enabling button to the centre position and hold it there.ð At a speed of the auxiliary winder above 15 m/min, triggering the light barriercauses not an emergency stop of the auxiliary winder.ð The green signal light lights.
+
+Rotating parts on the auxiliary winder draw in clothing and body parts.This can lead to injury.►Maintain the distance to the auxiliary winder.►Wear close-fitting clothing.►Pass through the light barrier.ð The torque of the auxiliary winder is reduced and limited.ð The yellow signal light lights.ð With speeds of the auxiliary winder above 15 m/min: If the push button of thesafety enabling button is released or if it is pressed down all the way to thestop, an emergency stop of the auxiliary winder is executed.ð With speeds of the auxiliary winder below 15 m/min: If the push button of thesafety enabling button is released or if it is pressed down all the way to thestop, an emergency stop of the auxiliary winder is executed.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 18 
+Due to the security settings on the auxiliary winder, the film in front of theauxiliary winder can sag.The film can be pulled into the machine in front of it.The film cannot be properly pulled into the following machine.►Keep the presence of persons in the danger zone of the auxiliary winder asshort as possible.►After leaving the danger zone, reset the security settings.►Tension the sagging film.ü No one is located in the danger zone of the auxiliary winder.►Reset the light barrier protective function. Press [ light barrier reset ]outside the danger zone of the auxiliary winder.ð The auxiliary winder turns with the set torque.►Release the safety enabling button.ð At a speed of the auxiliary winder above 15 m/min, triggering the light barriercauses an emergency stop of the auxiliary winder.
+
+Resetting the lightbarrier
+
+2.8 Preparing the winding shaft of the auxiliary winderDescriptionThe winding shaft of the auxiliary winder is manually prepared with adhesive tape.When winding the film onto the auxiliary winder, this makes the placing of the filmeasier.Requirement• The carriage of the auxiliary winder is outside the danger zone.Required personnel• One operator is required.
+
+Personal protectiveequipment
+
+• Cut-resistant protective gloves
+
+Auxiliary materials• Adhesive tapeTo avoid contaminating the film with a different type of plastic, the adhesive tapeshould be made of the same plastic as the film being produced.SafetyThe adhesive tape can have sharp film edges.
+
+The sharp film edge can cause serious cutting injuries.►Wear protective gloves.►Stick the adhesive tape onto the winding shaft and turn the adhesive side out-ward.►Wrap the adhesive tape onto the winding shaft in a spiral fashion. Turn the wind-ing shaft manually.
+
+Preparing the wind-ing shaft
+
+ATTENTION
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 19 
+►To complete the spiral, turn the adhesive tape again with the adhesive side tothe winding shaft.►Stick the adhesive tape onto the winding shaft and sever.
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 20 
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 21 
+3 Maintenance3.1 General instructionsMaintenanceMaintenance ensures a long service life and high performance of the machine orline.Maintenance includes:• inspection• repair• serviceAll maintenance work carried out and all faults found must be recorded in a main-tenance record.InspectionInspection includes:• Periodic, continuous checking and recording of the current status.• Determining the causes of wear.• Derivation of the necessary consequences for future use.RepairDuring repair work, damaged parts must be replaced to avoid injury to persons andmaterial damage and to restore the required condition of the machine or line.Repair includes the following activities:• repair of damaged components• replacement of components
+
+Damaged parts can cause material damage and injury to persons.ü Only mount undamaged parts. This is also valid for parts with which the spareparts are attached.►Before installation, check the spare parts for function, quality, fit, stability andsurface quality.►It is recommended to only use original spare parts which can be clearly as-signed based on their identification number. This is especially valid with highlystressed machine parts such as parts that are under pressure and subject tohigh temperature and other safety relevant parts.
+
+Only allow repair work to be performed by authorised, qualified specialists.corrosion protectionATTENTIONFor prolonged periods of machine standstill, it is possible for components tocorrode.The strength of the components is no longer guaranteed.►For machine standstills or storage, put sufficient corrosion protection on all com-ponents.
+
+ATTENTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 22 
+Service WARNINGCleaning with unsuitable media can lead to explosions.Explosion hazard due to hot surfaces.►Only use prescribed cleaning agents.►Wear safety goggles.Service includes periodic activities to ensure an appropriate operating status of themachine or line.Servicing includes the following activities:• cleaning• conservation• lubrication• settingRecommendations►Disassemble the individual parts of a module only as far as necessary.►Mark down how the disassembled parts fit together for reassembly.►During repairs, damaged components must be replaced to avoid danger to per-sons and/or material damage and to put the unit back into its optimum opera-tional state.►For replacing the parts of the line, use the corresponding drawings and partslists.ð See the spare parts catalogue.►Only use high-quality tools and auxiliary materials. Use the special tools andauxiliary materials supplied.►Only use original parts or approved parts.ð Non approved parts will lead to loss of the warranty.►Keep a service record.ð This protocol helps in noting necessary repairs that cannot be carried outduring production. These repairs can be carried out later during routine ser-vice.►Carry out all checks to ensure operational readiness. Ensure that nothing hasbeen forgotten in the machine/line.►Following maintenance work, check the impermeability and tightness of thescrew connections.►Perform a test run.
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 23 
+Ordering spare partsFor spare parts of delivered units, the data noted on the nameplate/manufacturer’splate of the respective unit has to be specified.• order• material number• year of delivery• machine type
+
+For localisation and identification of the part numbers, see the spare parts cata-logue.
+
+The guarantee and warranty for the respective plant components are only valid foruse with authorised spare parts, equipment and consumables.
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+StandstillFor prolonged periods of machine standstill, special measures and media are re-quired for conservation.►Contact Brückner for further information.3.2 Safety
+
+Faulty or ineffective safeguards.The protective function is lost.Life-threatening situations or very serious injuries may occur.►Put the safeguards back in place after the maintenance work is complete.►Check that the safeguards are operating correctly and effectively.►Do not bypass safeguards.►Do not render safeguards ineffective.►Do not change the arrangement of the safeguards.
+
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+INFO
+
+INFO
+
+INFO
+
+ DANGER
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 24 
+Uncontrolled electrostatic discharge due to charged mill roll.This can lead to serious injury from electric shock.►Persons with active medical accessories (e.g. pacemakers, insulin pumps, hear-ing aids) are forbidden from remaining at and dealing with film or rolls.►Discharge the mill roll in a controlled way before beginning work.Further informationAdditional safety information can be found directly where the activities are describedand in the safety manual.
+
+Personal protectiveequipment
+
+Always wear protective clothing and safety shoes when remaining at the line. Addi-tional protective equipment is required for certain activities.
+
+3.3 Preparing the auxiliary winder for maintenance work
+
+Preparing the auxili-ary winder for main-tenance work
+
+The following requirements have to be fulfilled prior to the start of settings and main-tenance work:• Operation of the drive is not possible.• The components must be de-energised.• The working area is marked off and secured against unauthorised entry.If other requirements apply, these must be specified in the activity description.Further information in the manufacturer documentation must be heeded.
+
+3.4 Inspection and service intervalsConditionsAll the described measures and intervals are based on normal continuous operationof the line. Under aggravated conditions (e.g. maximum operating speed, unfavour-able environmental conditions, special film types), shorter maintenance intervals orhigher quantities of lubricants may become necessary.Service intervalsFor information on the service intervals, see separate "Intervals" manual and the re-spective manufacturer documentation.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 09 - OperatingManual-AuxiliaryWinder - Pag 25 
+4 Technical dataTypew600maximum working width3200 mmLength of winding shaft3400 mmmaximum mill roll diameter600 mmmaximum speed80 m/minTurn around unitNoNameplateThe nameplate is used for the unique identification of the machine. It is mounted onthe machine in such a way that it is clearly visible.The nameplate always contains the following fields:The fields have the following meanings:FieldDescriptionKom.Nr.:Commission numberMaschine:Brief description of the machineStruktur:Structure number of the machineBaujahr:Year of construction of the machine
+
+--------------------------------------------------------------------------------

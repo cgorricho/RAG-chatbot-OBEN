@@ -1,0 +1,963 @@
+
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 1 
+Operating manualVacuum systemP.1932 SHB
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 2 
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 3 
+ImprintThis operating manual is part of the equipment supplied by Brückner MaschinenbauGmbH & Co. KG - hereinafter called Brückner - and describes the necessary pro-cedures for the proper use of the film production line and the associated machines.CopyrightNo part of this operating manual may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical or by recording orotherwise without the prior permission by Brückner. The copying, distribution andutilisation of this operating manual in printed or electronic form as well as the com-munication of its contents to others without expressed authorisation is prohibited.Offenders will be held liable for the payment of damages possibly arising from unau-thorised use.All product names used in this operating manual are trademarks of the respectivecompanies.DisclaimerBrückner declines any liability or responsibility for consequential, collateral or indi-rect damage that results from non-compliance with this operating manual.Patent protectionAll rights reserved in the event of the grant of a patent, utility model, or ornamentaldesign registration. Brand and product names are trademarks or registered trade-marks of their respective companies or organisations.LanguageThe original operating manual was produced in German. All translations are basedon the language of the original operating manual.ChangeThe contents of this operating manual are subject to change by Brückner withoutnotice.We reserve the right to make technical changes.We welcome your suggestions concerning the improvement of our products and ofthis operating manual.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 4 
+PublisherStreet addressBrückner Maschinenbau GmbH & Co. KGKönigsberger Str. 5-783313 Siegsdorf/GermanyPostal addressBrückner Maschinenbau GmbH & Co. KGPO Box 11 6183309 Siegsdorf/GermanyContactInternethttp://www.brueckner.comServicePhone: +49 8662 63-9379Fax: +49 8662 63-9370E-Mail: servtec@brueckner.comSales departmentPhone: +49 8662 63-9510Fax: +49 8662 63-9101E-Mail: sales@brueckner.comDocumentationPhone: +49 8662 63-0Fax: +49 8662 4965-71-9220E-Mail: doku@brueckner.com
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 5 
+Table of contents1 Safety........................................................................................................................................................... 71.1General hazard warnings ................................................................................................................... 71.2Temperature in the vacuum pump unit exceeded..............................................................................  91.3Safeguards for the electrically heated vacuum piping......................................................................  122 Function .................................................................................................................................................... 132.1Intended use..................................................................................................................................... 132.2Vacuum system................................................................................................................................ 142.2.1Overview of the vacuum system .......................................................................................  142.2.2Vacuum system.................................................................................................................  142.2.3Melt separator ...................................................................................................................  152.2.4Electrically heated vacuum piping.....................................................................................  152.2.5Separator with combi cooler..............................................................................................  152.2.6Separator with cooling trap and separate dust filter..........................................................  172.2.7Supply valve......................................................................................................................  192.2.8Unheated vacuum piping...................................................................................................  192.2.9Insulation of the vacuum piping.........................................................................................  192.2.10Vacuum pump unit ............................................................................................................  192.2.11Exhaust air duct.................................................................................................................  202.2.12Switch cabinet ...................................................................................................................  202.2.13Measuring of pressure.......................................................................................................  202.2.14Temperature measurement...............................................................................................  202.3Process control system .................................................................................................................... 202.4Safeguards....................................................................................................................................... 212.5External documents.......................................................................................................................... 213 General hazard warnings......................................................................................................................... 234 Installation and commissioning.............................................................................................................. 275 Operation .................................................................................................................................................. 295.1Safety ............................................................................................................................................... 295.2Requirements for operation.............................................................................................................. 305.3Operation.......................................................................................................................................... 305.4Settings ............................................................................................................................................ 336 Fault elimination....................................................................................................................................... 356.1Separator.......................................................................................................................................... 356.2Vacuum pump unit ........................................................................................................................... 366.3Vacuum system................................................................................................................................ 376.4Temperature in the vacuum pump unit exceeded............................................................................  397 Maintenance.............................................................................................................................................. 417.1General instructions ......................................................................................................................... 417.2Safety ............................................................................................................................................... 437.3Inspection and service intervals ....................................................................................................... 457.4Preparing the vacuum system for maintenance work ......................................................................  47
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 6 
+7.5Separator.......................................................................................................................................... 477.5.1Detaching and ventilating the separator with cooling trap and separate dust filter from thevacuum system, and draining separated fluids .................................................................  477.5.2Connecting the separator with cooling trap and separate dust filter to the vacuum system..........................................................................................................................................  507.5.3Cleaning the separator and cooling trap ...........................................................................  527.5.4Detaching and ventilating the separator with combi cooler from the vacuum system, anddraining separated fluids ...................................................................................................  547.5.5Connecting and ventilating the separator with combi cooler on the vacuum system........  577.5.6Cleaning the combi cooler and cooling trap ......................................................................  597.5.7Cleaning the dust filter.......................................................................................................  617.5.8Cleaning the strainer in the water circuit (separator with cooling trap and separate dust fil-ter).....................................................................................................................................  647.5.9Cleaning the strainer in the water circuit (separator with combi cooler)............................  667.6Vacuum unit ..................................................................................................................................... 667.6.1Cleaning the strainer of the cooling water connection at the vacuum pump unit ..............  677.6.2Draining the purging liquid out of the exhaust air collecting line .......................................  687.6.3Cleaning the exhaust air collecting line.............................................................................  697.7Melt separator .................................................................................................................................. 717.7.1Cleaning the melt separator ..............................................................................................  717.8Vacuum system................................................................................................................................ 737.8.1Cleaning the vacuum piping..............................................................................................  738 Taking the vacuum system finally out of operation.............................................................................. 778.1Carrying out technical disconnection................................................................................................ 778.2Emptying and disposing of the equipment ....................................................................................... 778.3Disassembling and disposing of machine parts ...............................................................................  779 Technical data .......................................................................................................................................... 79
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 7 
+1 Safety1.1 General hazard warnings
+
+Faulty or ineffective safeguards.The protective function is lost.Life-threatening situations or very serious injuries may occur.►Put the safeguards back in place after the maintenance work is complete.►Check that the safeguards are operating correctly and effectively.►Do not bypass safeguards.►Do not render safeguards ineffective.►Do not change the arrangement of the safeguards.Danger from loads DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Slender loads with high centre of gravity can tip.This can cause life-threatening injury.►Secure the load against tipping over.►Only transport the load suspended.Melt or hot gases can escape when replacing measuring instruments or looseningflange connections.
+
+Dangers when clean-ing the vacuum sys-tem
+
+Melt can escape when cleaning the vacuum piping and the vacuum systemand develop harmful vapours.This can lead to irritation of the skin, eyes and airways.►Shut down the line.►Do not breathe in the vapours.►Only carry out this work if the area is well ventilated.►Pay attention to the safety data sheets of the manufacturer.
+
+ DANGER
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 8 
+Hot liquids escaping under pressure can cause serious burns.►Do not reach into the outlet area.►Wear a hard hat with face protection.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+Leaked melt can cause damage to the thermal insulation.►If melt has gotten into the thermal insulation, the insulating material must be re-placed.Danger from heatThe surfaces of lines and flanged connections on the filter can reach temperaturesof up to 300 °C.►After maintenance activities, make sure that the heating bands, the temperaturesensors, and the insulation and the cover panel are properly mounted.
+
+Hot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.Escaped melt and met spatter can reach temperatures of up to 320 °C.
+
+Hot melt escaping under pressure causes serious burns.►Do not reach into the outlet area.►Wear heat-resistant protective gloves.►Wear a hard hat with face protection.►Wear protective clothing.Dangers from current DANGERLive electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Hazards from ma-chine standstill
+
+Damage to the electrical cables and wires.Danger of malfunction and charging of parts.►Cables inside piping, channels and under covers must be safeguarded againstdamage.When the machine has been standing still for several hours and heated continu-ously, there is a danger of self-ignition of emitted gases on contact with oxygen. The
+
+ WARNING
+
+ATTENTION
+
+ WARNING
+
+ WARNING
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 9 
+After a machine standstill of several hours, escaping gases can self-ignite.This can lead to severe burns and fires.►Lower the temperature of the heating by at least 40 °C.►Bleed off electrostatic charge.►Avoid sources of ignition.►Follow the safety data sheets of the raw material manufacturer.
+
+Danger from emis-sionsDanger of slippingand danger of trip-ping
+
+Melts and solvents emit vapours and gases harmful to health.These can lead to irritation of the skin, eyes and airways as well as to changes inmental status from solvent vapours.►Only carry out this work if the area is well ventilated.►Do not breathe in the vapours and gases.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.
+
+Danger of slipping on soiled floors.This can lead to head injuries and serious bodily injury.►Wear non-slip shoes.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+1.2 Temperature in the vacuum pump unit exceededDescriptionIn the exhaust air collecting line of the vacuum pump unit, the temperature of thegases is continually measured with a temperature controller and monitored by theprocess control system. If the maximum permissible temperature is exceeded formore than 5 seconds, the alarm for the temperature controller is displayed on thevisualisation and protective functions are carried out. The reason for the temperat-ure exceedance could be a fire in the exhaust air collecting line.
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 10 
+Protective functionsThe following protective functions are carried out:• The drives in the vacuum pump unit are switched off.• The slow-action air blower in the vacuum pump unit is switched off.• The "Overpressure/Overtemperature" acoustic signal sounds on the horn at thevacuum system or at the front area of the melt die unit.• The flash lamp on the vacuum system or the front area of the melt die unitflashes.• The "Overpressure/Overtemperature" acoustic signal and the flash lamp are de-activated when the measured temperature in the connection sleeve of the ex-haust collecting line no longer exceeds the maximum permissible temperature.This can take several hours.
+
+Pressure exceeded inthe extrusion system
+
+If the pressure in the melt carrying parts of the extrusion is exceeded, the "Over-pressure/Overtemperature" acoustic signal sounds and the flash lamp flashes at thewarning facilities at the melt die unit.
+
+Protection measure►If the "Overpressure/Overtemperature" acoustic signal sounds and theflash lamp flashes, immediately leave the extrusion system danger zone.Eliminating the causeThe search for the cause may only be carried out by an instructed specialist. Thesearch for the cause is carried out outside the extrusion system danger zone. Onlywhen safe access is ensured, the extrusion system danger zone may be entered.Searching for the causeCauseMeasure
+
+• By switching off the drives inthe vacuum pump unit, the tem-perature in the exhaust air col-lecting line decreases.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are deactivated.
+
+The vacuum pump unit is contam-inated.
+
+►In case of signs of a fire, thefault eliminations in case of firehave to be carried out in the ex-haust air collecting line.ü The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are not active.►Clean the components of thevacuum pump unit.• Exhaust air collecting line• Vacuum pumps• Separator• Lines• Exhaust air duct
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 11 
+Searching for the causeCauseMeasure
+
+• The temperature in the exhaustair collecting line does not de-crease.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp remain active.• The temperature sensors at thevacuum pumps show that thepermissible temperature is ex-ceeded.• At the exhaust air collectingline, signs for a severe over-heating can be present, e.g.smoke or glowing surface.• The temperature in the exhaustair collecting line does not de-crease.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp remain active.• The other causes have beenexcluded.
+
+There is a fire in the exhaust aircollecting line.The cable on the temperature con-troller is not correctly connected.The temperature controller is de-fective.
+
+►Take appropriate measures forextinguishing the fire with re-gard to your own safety.Do not open the burning ex-haust air collecting line.ü The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are not active.►Clean the components of thevacuum pump unit.• Exhaust air collecting line• Vacuum pumps• Separator• Lines• Exhaust air duct►Replace the sealings.►Check the slow-action airblower and refurbish if neces-sary.►Make sure that the exhaust aircollecting line complies with thetechnical specifications ofBrückner.►Check the cabling of the tem-perature sensor.►Connect temperature sensorscorrectly.►Replace the temperature con-troller. See the manufactureroperating manual.
+
+Resetting the faultFaults output by the process control system must be reset after the fault is elimin-ated.ü The fault is remedied.►Reset the fault. On the operator panel, press [ fault reset ].ð All remedied faults on the line are reset.ð Triggered safeguards visible on the operator panel are reset. This does notapply on the operator panel in the control room.After all faults and triggered safeguards have been reset, the line components canbe started again.
+
+Commissioning aftermalfunction
+
+The initial commissioning after a malfunction must be carried out under the constantobservation of an instructed specialist.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 12 
+1.3 Safeguards for the electrically heated vacuum pipingIntroductionThis section describes the safeguards on the machine. Operation of the machinewithout correctly functioning safeguards is not admissible and there is an increasedrisk of accident.Do not remove, deactivate or modify safeguards. See also "Safety manual".Vacuum pipingThe vacuum piping is enclosed by insulation that must be installed after the trialruns and checks. It protects against burns on hot surfaces during operation.
+
+Pressure and temper-ature control
+
+The vacuum piping has a pressure control and a temperature check of the medium(temperature sensor) as well as the lines.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 13 
+2 Function
+
+The following figures show examples. The figures are not necessarily identical toyour line.IntroductionThis chapter contains information on the intended use and the description of the ba-sic functions of the machine and its components. Here, above all, those functionsthat are necessary for the operation and the maintenance have been taken into ac-count.2.1 Intended useIntended useThe vacuum system provides negative pressure on the vacuum dome of the ex-truder. This suctions out the gases.The machine is contractually specified by parameters and must only be operatedwithin them.DisclaimerAny use that goes beyond the designated use is forbidden. Brückner accepts no li-ability for any consequential damage. Improper use can present danger to life andlimb, the machine and connected equipment, and to the efficient operation of themachine.
+
+Risk assessment andwork instructions
+
+The operating company has to carry out a risk assessment and create operating in-structions for the handling of the machine.Inputs listed in this operating manual for personal protective equipment are basedon the risk assessment taking into consideration the experience with film productionand film stretching lines. The actually occurring hazards can deviate in individualcases. In this case, the measures of the hazard assessment of the operating com-pany must be taken into consideration and applied.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 14 
+2.2 Vacuum system
+
+Manufacturer docu-mentation and manu-facturer list
+
+Further information on the vacuum pump unit can be found in the manufacturer doc-umentation (see "Manufacturer list").
+
+2.2.1 Overview of the vacuum system1 Vacuum dome2 Heated vacuum piping
+
+3 Vacuum piping (not heated, notincluded in the scope of supply)
+
+4 Vacuum pump unit
+
+5 Separator6 Melt separator7 Extruder2.2.2 Vacuum systemDue to the high temperatures in the extruder (7), gases escape from the polymerwith volatile additives, monomer residues and moisture. The vacuum system, com-prising melt separator (6), separator (5) and vacuum pump unit (4), provides negat-ive pressure on the vacuum dome (1) of the extruder (7). Through this, the gasesare extracted via heated vacuum piping (2) and non-heated vacuum piping (3). Themelt separator (6) prevents melt from rising into the vacuum system.Due to the extraction of the gases in the extruder, a high melt quality is achievedeven with more moist granulate.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 15 
+2.2.3 Melt separator1 Temperature sensors2 Heating bands3 Deposited melt and fluid4 SkateThe melt separator connects the vacuum dome of the extruder with the remainingcomponents of the vacuum system.The horizontal vacuum piping is electrically heated with heating bands (2) to avoidcondensation and depositing of the contamination. The temperature at the melt sep-arator is monitored by temperature sensors (1).There is a skate (4) located in the vertical vacuum piping. The suctioned gases areled around the skate in a U-shape. If melt gets into the melt separator, this collectsat the bottom in the vertical vacuum piping.2.2.4 Electrically heated vacuum piping
+
+Electrically heatedvacuum piping
+
+The electrically heated vacuum piping connects the melt separator with the separat-ors. They are electrically heated in order to avoid condensation and depositing ofthe contamination.
+
+2.2.5 Separator with combi coolerThe function of a separator with combi cooler of type PET 600 to 2200 kg/h is de-scribed.A combi cooler consists of a cooling trap (5) and a dust filter (6) and is of compactdesign.A separator with combi cooler comprises two functional units constructed in thesame way in order to ensure redundancy for cleaning work and service work.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 16 
+1 Electrically heated vacuum pip-ing from the extruder
+
+2 Cooling water connection
+
+3 Collecting reservoir4 Ball valve condensate drain5 Cooling trap6 Separator housing with dust filter7 Connection of the vacuum pip-ing to the vacuum pump unit(not included in the scope ofsupply)The dirty gases are led from the extruder through the electrically heated vacuumline (1) to the separator. In the separator, the dirty gases are led meanderingthrough the cooling traps (5) and cooled down. Thus contamination is separated.The cooling traps (5) are supplied with cooling water via the cooling water connec-tions (2).The accumulation of separated fluid is monitored by filling level sensors and can bedrained via the ball valve (4) into the collecting reservoir (3) and disposed of in anenvironmentally sound way.The cooled gases are cleaned in the dust filters (6).
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 17 
+The clean gas is suctioned out of the vacuum pumps of the vacuum pump unit viathe vacuum piping (7) and discharged into the air.2.2.6 Separator with cooling trap and separate dust filterThe function of a separator with cooling trap and separate dust filter of type PET2300 to 4800 kg/h is described.A separator with cooling trap and separate dust filter comprises two functional unitsconstructed in the same way in order to ensure redundancy for cleaning work andservice work.A functional unit consists of a cooling trap (6) and a separate dust filter (2).
+
+1 Connection of the vacuum pip-ing to the vacuum pump unit(not included in the scope ofsupply)
+
+2 Dust filter
+
+3 Ball valve condensate drain4 Collecting reservoir
+
+5 Electrically heated vacuum pip-ing from the extruder
+
+6 Cooling trap
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 18 
+7 Cooling water connectionThe waste gases are led from the extruder through the electrically heated vacuumline (5) to the separator. In the separator, the dirty gases are led meanderingthrough the cooling traps (6) with cooling water connection and cooled down. Thisseparates the contamination. The cooling traps are supplied with cooling water viathe cooling water connections (7).The accumulation of separated fluid is monitored by filling level sensors and can bedrained via the ball valve (3) into the collecting reservoir (4) and disposed of in anenvironmentally sound way.The cooled gases are cleaned in the dust filters (2).The clean gas is suctioned out of the vacuum pumps of the vacuum pump unit viathe vacuum piping (1) and discharged into the air.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 19 
+2.2.7 Supply valveDuring operation, the supply valve is open so that there is negative pressure in theentire vacuum system and in the vacuum dome of the extruder.The vacuum pump unit is usually operated continuously. In standby, the supplyvalve blocks. After the supply valve closes, the vacuum system from the supplyvalve up to and including the vacuum dome is automatically ventilated with the con-trolled ventilation valve.2.2.8 Unheated vacuum piping
+
+Unheated vacuumpiping
+
+The unheated vacuum piping connects the separator with the vacuum pump unit.
+
+2.2.9 Insulation of the vacuum pipingThe vacuum piping is enclosed by insulation that must be installed after the trialruns and checks. It protects against burns on hot surfaces during operation.2.2.10 Vacuum pump unit
+
+1 Vacuum piping (gas path suc-tion head)
+
+2 Pressure transducer
+
+3 Switch cabinet4 Cooling unit (heat exchanger), notvisible
+
+5 Intermediate cooler cooling wa-ter connection
+
+6 Heat exchanger cooling water con-nection
+
+7 Purging liquid container8 Purging liquid pipe
+
+9 Exhaust air collecting line (gaspath pressure side)
+
+10 Screw vacuum pump
+
+11 Intermediate cooler12 Roughing piston vacuum pump
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 20 
+Due to the vacuum pumps (10, 12) a negative pressure is created, which suctionsthe gases out of the vacuum dome of the extruder through the vacuum system viathe vacuum piping (1). Due to the gas compression in the vacuum pumps, the gas isheated by the process.The heated gas is cooled down in the intermediate cooler (11). The intermediatecooler (11) is connected to the cooling water supply (6) via pipes.The exhaust air is led away through the exhaust air collecting line (8).To remove deposits in the vacuum pump unit, the screw vacuum pumps (10) mustbe flushed regularly. The screw vacuum pumps (10) are flushed and dried automat-ically. From the container (7), purging liquid is fed into the screw vacuumpumps (10) via the purging liquid pipe (8), thereby cleaning the screw vacuumpumps (10). By automatically opening a solenoid valve, air flows in and the screwvacuum pumps (10) are dried. The container with the purging liquid (7) and the ex-haust air collection pipe (9) are equipped with filling level sensors that are connec-ted to the process control system.The temperature in the switch cabinet (3) is regulated by a heat exchanger (4). Theheat exchanger is connected to the cooling water supply (5) via pipes.2.2.11 Exhaust air ductThe exhaust air is conducted into the atmosphere.2.2.12 Switch cabinetThe switch cabinet is located at the vacuum pump unit.The switch cabinets are cooled by a heat exchanger that is operated with coolingwater.2.2.13 Measuring of pressureIn the vacuum system, the pressure is continuously monitored by pressure trans-ducers connected to the Process Control System.2.2.14 Temperature measurementIn the vacuum system, the temperature is continuously monitored by temperaturesensors connected to the Process Control System.2.3 Process control system
+
+Process control sys-tem
+
+The control and the visualisation of the vacuum system take place with the processcontrol system. The process control system from Brückner is called IPC (IntegratedProcess Control).WinCC OA is the visualisation of the process control system. The visualisation en-ables simple and user-friendly communication with the vacuum system via the con-trols.The operation takes place at the control room.For information on WinCC OA, see the online help.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 21 
+2.4 SafeguardsSafeguardsAn overview of the safeguards can be found in the "Line overview" operatingmanual.Information on the safeguards can be found in the "Safety manual".2.5 External documentsExternal equipmentApart from the self-manufactured components, the machine also contains externallysourced or already existing components, hereinafter referred to as external equip-ment.External documentsThis external equipment is supplied with instruction leaflets, manufacturer’s informa-tion, operating, installation, adjustment and service instructions and/or other user in-formation, hereinafter referred to as external documents.
+
+Replacement, main-tenance, operation
+
+External documents must also be read and observed, particularly in case of replace-ment or maintenance.When replacing external equipment, the enclosed instruction leaflets must be ob-served.The operation of the external equipment is not described in these instructions. Therespective external document is only referred to.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 22 
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 23 
+3 General hazard warnings
+
+Faulty or ineffective safeguards.The protective function is lost.Life-threatening situations or very serious injuries may occur.►Put the safeguards back in place after the maintenance work is complete.►Check that the safeguards are operating correctly and effectively.►Do not bypass safeguards.►Do not render safeguards ineffective.►Do not change the arrangement of the safeguards.Danger from loads DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Slender loads with high centre of gravity can tip.This can cause life-threatening injury.►Secure the load against tipping over.►Only transport the load suspended.Melt or hot gases can escape when replacing measuring instruments or looseningflange connections.
+
+Dangers when clean-ing the vacuum sys-tem
+
+Melt can escape when cleaning the vacuum piping and the vacuum systemand develop harmful vapours.This can lead to irritation of the skin, eyes and airways.►Shut down the line.►Do not breathe in the vapours.►Only carry out this work if the area is well ventilated.►Pay attention to the safety data sheets of the manufacturer.
+
+Hot liquids escaping under pressure can cause serious burns.►Do not reach into the outlet area.►Wear a hard hat with face protection.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+ DANGER
+
+ DANGER
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 24 
+Leaked melt can cause damage to the thermal insulation.►If melt has gotten into the thermal insulation, the insulating material must be re-placed.Danger from heatThe surfaces of lines and flanged connections on the filter can reach temperaturesof up to 300 °C.►After maintenance activities, make sure that the heating bands, the temperaturesensors, and the insulation and the cover panel are properly mounted.
+
+Hot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.Escaped melt and met spatter can reach temperatures of up to 320 °C.
+
+Hot melt escaping under pressure causes serious burns.►Do not reach into the outlet area.►Wear heat-resistant protective gloves.►Wear a hard hat with face protection.►Wear protective clothing.Dangers from current DANGERLive electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Damage to the electrical cables and wires.Danger of malfunction and charging of parts.►Cables inside piping, channels and under covers must be safeguarded againstdamage.When the machine has been standing still for several hours and heated continu-ously, there is a danger of self-ignition of emitted gases on contact with oxygen. Thegases occur due to the chemical decay process of the resting melt.
+
+Hazards from ma-chine standstill
+
+ATTENTION
+
+ WARNING
+
+ WARNING
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 25 
+After a machine standstill of several hours, escaping gases can self-ignite.This can lead to severe burns and fires.►Lower the temperature of the heating by at least 40 °C.►Bleed off electrostatic charge.►Avoid sources of ignition.►Follow the safety data sheets of the raw material manufacturer.
+
+Danger from emis-sionsDanger of slippingand danger of trip-ping
+
+Melts and solvents emit vapours and gases harmful to health.These can lead to irritation of the skin, eyes and airways as well as to changes inmental status from solvent vapours.►Only carry out this work if the area is well ventilated.►Do not breathe in the vapours and gases.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.
+
+Danger of slipping on soiled floors.This can lead to head injuries and serious bodily injury.►Wear non-slip shoes.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 26 
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 27 
+4 Installation and commissioningInstallation and commissioning will be carried out by Brückner.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 28 
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 29 
+5 Operation5.1 SafetyNormal operationThe following components become hot during operation:• Melt separator• Vacuum piping from the melt separator up to the separator
+
+Hot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.Defect WARNINGDefective heating bands can cause the neighbouring heating bands to over-heat.Fire hazard.►Check the heating bands regularly.►Keep the extrusion section clean. Remove granulate, polymer dust, film andflammable materials.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 30 
+5.2 Requirements for operationVacuum system• All openings are closed.• All connections are tight.Separator• The requirements of Brückner ("Requirements for Plant Water", "Requirementsfor Plant Air") and the requirements of the manufacturers of the componentsmust be fulfilled.For the temperature of the chilled water see technical data.• The chilled water must circulate.• The chilled water circuit must be ventilated.Vacuum unit• The requirements of Brückner ("Requirements for Plant Water", "Requirementsfor Plant Air") and the requirements of the manufacturers of the componentsmust be fulfilled.For the temperature of the chilled water see technical data.• The manual valves at the cold water supply of the intermediate coolers areopen.• The chilled water circuit must be ventilated.• There is sufficient purging liquid in the container for purging liquid.• The outlet opening of the exhaust air duct is free.5.3 Operation
+
+The following figure shows a schematic diagram. The figure is not necessarilyidentical to your line.Overview1 Controlled ventilation valve2 Supply valve and bypass valve atthe output of the separator3 Vacuum pumps4 Slow-action air blower
+
+5 Controlled valve cooling waterconnection
+
+6 Pressure transducer
+
+7 Controlled valve glycol connec-8 Bypass valve at the input of the sep-
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 31 
+9 Supply valve at the input of theseparator (concealed)
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 32 
+Switching onIf the temperature locking releases the drives of the extrusion system, the followingactions are carried out automatically:• The vacuum pumps (3) on the vacuum pump unit start.• The slow-action air blower (4) on the exhaust gas collecting pipe on the vacuumpump unit starts.• On the vacuum pump unit, the controlled valve of the cooling water connection(5) is opened.When switching on the extruder, the following actions are carried out automaticallydepending on the settings in the process control:• If the key switch [ service filter ] on a functional unit of a separator isset to [ production ], the controlled ventilation valve (1) closes.• The controlled valves are opened at the glycol ports (7) of the functional units ofthe separators. The glycol circuits for the cooling traps flow.• The controlled ventilation valves (1) on the separators close and open the sup-ply valves (2, 9).The vacuum system provides negative pressure on the separators.• The bypass valves (2, 8) are opened at the inlet and outlet of the functional unitsof the separators. Thus, the functional units of the separators are gently ventil-ated.• The process is monitored by the pressure transducer (6).• When the set vacuum is reached on the functional units of the separators, thesupply valves (2, 9) at the inlet and outlet of the functional units are opened.• The vacuum system provides negative pressure on the vacuum dome of the ex-truder. This suctions out gases. This separates contamination in the separators.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 33 
+Switching offWhen the extruder is switched off, the following actions are carried automatically onthe vacuum system:• On the functional units of the separators, the supply valves (2, 9) and the by-pass valves (2, 8) are closed.The vacuum system from the vacuum dome to the supply valves on the separat-ors is ventilated through the vacuum dome.• The controlled ventilation valves (1) are opened on the functional units of theseparators.The functional units of the separators are ventilated.• If there is no vacuum at the functional units of the separators, the controlledvalves at the glycol connections (7) are closed. The glycol circuits for the coolingtraps are interrupted.• The supply valves (2, 9) on the vacuum pump unit close and open the controlledventilation valves (1).The vacuum system is ventilated from the supply valves in the vacuum pumpunit to the supply valves on the separators.• On the vacuum pump unit, the controlled valve of the cooling water connection(5) is closed. The water circuit for the intermediate coolers and the heat ex-changer at the switch cabinet is interrupted.• On the vacuum pump unit, the slow-action air blower (4) switches off with adelay of 5 minutes.• On the vacuum pump unit, the vacuum pumps (3) are switched off or continue torun in standby, depending on the settings on the visualisation.5.4 SettingsSettings can be made on the visualisation.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 34 
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 35 
+6 Fault eliminationIntroductionThis table provides information about miscellaneous operating faults.The table contains the following information:ProblemDescription or type of faultCauseList of possible causesMeasuresInformation for eliminating the malfunction
+
+If faults that are not described in this document occur, please contact Brückner cus-tomer service.6.1 SeparatorSeparatorProblemCauseMeasures
+
+The alarm for the temperature ofthe water in the cooling trap is dis-played.The supply valve closes automatic-ally.
+
+The temperature is too high.The water circuit is closed off.The temperature is too high.The strainer in the water circuit isclogged.The temperature is too high.The chilled water supply is not suf-ficient. (Usually buyer's scope ofsupply)There is a problem on the temper-ature sensor.
+
+►Open the water circuit.• Cleaning the separator andcooling trap [} 52]• Cleaning the combi cooler andcooling trap [} 59]ü The malfunction is remedied.►Reset the fault. On the operatorpanel, press [ fault re-set ].►Clean the strainer.• Cleaning the strainer in the wa-ter circuit (separator with cool-ing trap and separate dust filter)[} 64]• Cleaning the strainer in the wa-ter circuit (separator with combicooler) [} 66]ü The malfunction is remedied.►Reset the fault. On the operatorpanel, press [ fault re-set ].►Adjust the temperature of thechilled water supply.ü The malfunction is remedied.►Reset the fault. On the operatorpanel, press [ fault re-set ].►See fault elimination of the tem-perature sensor.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 36 
+ProblemCauseMeasures
+
+The alarm for the temperature ofthe gas is displayed.The supply valve closes automatic-ally.
+
+A separator is disconnected fromthe vacuum system.The cooling trap is dirty.There is a problem on the temper-ature sensor.
+
+►Connect the separator to thevacuum system. Connectingthe seperator with cooling trapand seperate dust filter to thevacuum system [} 50] Con-necting and ventilating the sep-arator with combi cooler on thevacuum system [} 57]►Clean the cooling trap.►Clean the separator.ü The malfunction is remedied.►Reset the fault. On the operatorpanel, press [ fault re-set ].►See fault elimination of the tem-perature sensor.
+
+6.2 Vacuum pump unitVacuum unitProblemCauseMeasures
+
+The warning for the maximum fillinglevel in the exhaust air collectingline is displayed.A countdown begins. When thecountdown expires, the pumps areswitched off.
+
+The exhaust air collecting line isfull.The exhaust air collecting line isnot full.The level indicator is defect.The exhaust air collecting line isnot full.The cable on the level indicator isnot correctly connected or defect-ive.
+
+►Drain the purging liquid out ofthe exhaust air collecting line.Draining the purging liquid outof the exhaust air collecting line[} 68]►Replace the level indicator. Seethe manufacturer operatingmanual.►Check the cabling of the fillinglevel sensor.►Connect the level indicator cor-rectly.►Replace the defective level in-dicator. See the manufactureroperating manual.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 37 
+ProblemCauseMeasures
+
+The warning for minimum fillinglevel of the purging liquid in thecontainer is displayed.The warning for exceeding thewarning temperature in the exhaustair collecting line is displayed. Thewarning temperature lies approx.10 °C below the maximum admiss-ible temperature.
+
+The container is empty.►Refill the purging liquid. See"Intervals" operating manual.
+
+The container is not empty.The level indicator is defect.The container is not empty.The cable on the level indicator isnot correctly connected or defect-ive.
+
+►Replace the level indicator. Seethe manufacturer operatingmanual.►Check the cabling of the levelindicator.►Connect the level indicator cor-rectly.►Replace the defective level in-dicator. See the manufactureroperating manual.►Cleaning the exhaust air col-lecting lineCleaning the exhaustair collecting line [} 69]
+
+Manufacturer docu-mentation and manu-facturer list
+
+Further information on the vacuum pump unit can be found in the manufacturer doc-umentation (see "Manufacturer list").
+
+6.3 Vacuum systemVacuum systemProblemCauseMeasures
+
+The alarm of the temperature rangeis displayed.The associated heating band isswitched off.
+
+The cable on the temperaturesensor is not correctly connected ordefective.The heating, cooling or control isdefective.
+
+►Check the cabling of the tem-perature sensor.►The temperature sensor is cor-rectly connected.►Replace the defective temperat-ure sensor. See the manufac-turer operating manual.ü The malfunction is remedied.►Reset fault message. On theoperator panel, press[ fault reset ].►Repair the defective or replacethe component.ü The malfunction is remedied.►Reset fault message. On theoperator panel, press[ fault reset ].
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 38 
+ProblemCauseMeasures
+
+The temperature of the heatingbands is too high or too low.The alarm for the pressure differ-ence is displayed.The supply valve closes automatic-ally.
+
+If the temperature is too low, theheating band is defective.If the temperature is too high, aneighbouring heating band is de-fective.There is a problem on the temper-ature sensor.An alarm is output.There is clogging between thepressure transducers in the va-cuum system.A pressure transducer is located atthe vacuum dome of the extruder.The other 2 pressure transducersare located in the vacuum piping inthe vacuum pump unit.The pressure transducer is defect-ive.The cable on the pressure trans-ducer is not correctly connected ordefective.
+
+►Replace the heating band.►Replace the heating band.►See fault elimination of the tem-perature sensor.►Localise the congestion. Fre-quently, the separator isclogged.►Remedy the clogging.Cleaning the melt separator[} 71], Cleaning the combicooler and cooling trap [} 59],Cleaning the separator andcooling trap [} 52]►Cleaning the combi cooler andcooling trap [} 59], Cleaningthe separator and cooling trap[} 52], Cleaning the bag filter[} 61], Cleaning the vacuumpiping [} 73]►Clean the strainer in front of thevacuum pumps.ü The malfunction is remedied.►Reset fault message. On theoperator panel, press[ fault reset ].►Replace the pressure trans-ducer. See the manufactureroperating manual.ü The malfunction is remedied.►Reset the fault. On the operatorpanel, press [ fault re-set ].►Check the cabling of the pres-sure transducer.►Connect the pressure trans-ducer correctly.►Replace the defective pressuretransducer. See the manufac-turer operating manual.ü The malfunction is remedied.►Reset fault message. On theoperator panel, press[ fault reset ].
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 39 
+6.4 Temperature in the vacuum pump unit exceededDescriptionIn the exhaust air collecting line of the vacuum pump unit, the temperature of thegases is continually measured with a temperature controller and monitored by theprocess control system. If the maximum permissible temperature is exceeded formore than 5 seconds, the alarm for the temperature controller is displayed on thevisualisation and protective functions are carried out. The reason for the temperat-ure exceedance could be a fire in the exhaust air collecting line.Protective functionsThe following protective functions are carried out:• The drives in the vacuum pump unit are switched off and locked.• The slow-action air blower in the vacuum pump unit switches off with a delay of5 minutes.• The "Overpressure/Overtemperature" acoustic signal sounds on the horn at thevacuum system or at the front area of the melt die unit.• The flash lamp on the vacuum system or the front area of the melt die unitflashes.• The "Overpressure/Overtemperature" acoustic signal and the flash lamp are de-activated when the measured temperature in the connection sleeve of the ex-haust collecting line no longer exceeds the maximum permissible temperature.This can take several hours.
+
+Pressure exceeded inthe extrusion system
+
+If the pressure in the melt carrying parts of the extrusion is exceeded, the "Over-pressure/Overtemperature" acoustic signal sounds and the flash lamp flashes at thewarning facilities at the melt die unit.
+
+Protection measure►If the "Overpressure/Overtemperature" acoustic signal sounds and theflash lamp flashes, immediately leave the extrusion system danger zone.Eliminating the causeThe search for the cause may only be carried out by an instructed specialist. Thesearch for the cause is carried out outside the extrusion system danger zone. Onlywhen safe access is ensured, the extrusion system danger zone may be entered.Searching for the causeCauseMeasure
+
+• By switching off the drives inthe vacuum pump unit, the tem-perature in the exhaust air col-lecting line decreases.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are deactivated.
+
+The vacuum pump unit is contam-inated.
+
+►If there are signs of a fire, thefault eliminations in case of firehave to be carried out in the ex-haust air collecting line.ü The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are not active.►Clean the components of thevacuum pump unit.• Exhaust air collecting line• Vacuum pumps• Separator• Lines• Exhaust air duct
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 40 
+Searching for the causeCauseMeasure
+
+• The temperature in the exhaustair collecting line does not de-crease.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp remain active.• The temperature sensors onthe vacuum pumps show thatthe admissible temperature isexceeded.• At the exhaust air collectingline, signs of severe overheat-ing can be present, e.g. smokeor glowing surface.• The temperature in the exhaustair collecting line does not de-crease.The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp remain active.• The other causes have beenexcluded.
+
+There is a fire in the exhaust aircollecting line.The cable on the temperature con-troller is not correctly connected.The temperature controller is de-fective.
+
+►Take appropriate measures forextinguishing the fire with re-gard to your own safety.Do not open the burning ex-haust air collecting line.ü The "Overpressure/Overtem-perature" acoustic signal andthe flash lamp are not active.►Clean the components of thevacuum pump unit.• Exhaust air collecting line• Vacuum pumps• Separator• Lines• Exhaust air duct►Replace the seals.►Check the slow-action airblower and refurbish if neces-sary.►Make sure that the exhaust aircollecting line complies withBrückner's technical specifica-tions.►Check the cabling of the tem-perature sensor.►Connect the temperaturesensors correctly.►Replace the temperature con-troller. See the manufactureroperating manual.
+
+Resetting the faultFaults output by the process control system must be reset after the fault is elimin-ated.ü The fault is remedied.►Reset the fault. On the operator panel, press [ fault reset ].ð All remedied faults on the line are reset.ð Triggered safeguards visible on the operator panel are reset. This does notapply on the operator panel in the control room.After all faults and triggered safeguards have been reset, the line components canbe started again.
+
+Commissioning aftermalfunction
+
+The initial commissioning after a malfunction must be carried out under the constantobservation of an instructed specialist.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 41 
+7 Maintenance
+
+The following figures show examples. The figures are not necessarily identical toyour line.This chapter describes the maintenance work for the vacuum system.
+
+Introduction to main-tenance
+
+Introduction7.1 General instructionsMaintenanceMaintenance ensures a long service life and high performance of the machine orline.Maintenance includes:• inspection• repair• serviceAll maintenance work carried out and all faults found must be recorded in a main-tenance record.InspectionInspection includes:• Periodic, continuous checking and recording of the current status.• Determining the causes of wear.• Derivation of the necessary consequences for future use.RepairDuring repair work, damaged parts must be replaced to avoid injury to persons andmaterial damage and to restore the required condition of the machine or line.Repair includes the following activities:• repair of damaged components• replacement of components
+
+Damaged parts can cause material damage and injury to persons.ü Only mount undamaged parts. This is also valid for parts with which the spareparts are attached.►Before installation, check the spare parts for function, quality, fit, stability andsurface quality.►It is recommended to only use original spare parts which can be clearly as-signed based on their identification number. This is especially valid with highlystressed machine parts such as parts that are under pressure and subject tohigh temperature and other safety relevant parts.
+
+Only allow repair work to be performed by authorised, qualified specialists.
+
+INFO
+
+ATTENTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 42 
+corrosion protectionATTENTIONFor prolonged periods of machine standstill, it is possible for components tocorrode.The strength of the components is no longer guaranteed.►For machine standstills or storage, put sufficient corrosion protection on all com-ponents.Service WARNINGCleaning with unsuitable media can lead to explosions.Explosion hazard due to hot surfaces.►Only use prescribed cleaning agents.►Wear safety goggles.Service includes periodic activities to ensure an appropriate operating status of themachine or line.Servicing includes the following activities:• cleaning• conservation• lubrication• settingRecommendations►Disassemble the individual parts of a module only as far as necessary.►Mark down how the disassembled parts fit together for reassembly.►During repairs, damaged components must be replaced to avoid danger to per-sons and/or material damage and to put the unit back into its optimum opera-tional state.►For replacing the parts of the line, use the corresponding drawings and partslists.ð See the spare parts catalogue.►Only use high-quality tools and auxiliary materials. Use the special tools andauxiliary materials supplied.►Only use original parts or approved parts.ð Non approved parts will lead to loss of the warranty.►Keep a service record.ð This protocol helps in noting necessary repairs that cannot be carried outduring production. These repairs can be carried out later during routine ser-vice.►Carry out all checks to ensure operational readiness. Ensure that nothing hasbeen forgotten in the machine/line.►Following maintenance work, check the impermeability and tightness of thescrew connections.►Perform a test run.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 43 
+Ordering spare partsFor spare parts of delivered units, the data noted on the nameplate/manufacturer’splate of the respective unit has to be specified.• order• material number• year of delivery• machine type
+
+For localisation and identification of the part numbers, see the spare parts cata-logue.
+
+The guarantee and warranty for the respective plant components are only valid foruse with authorised spare parts, equipment and consumables.
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+StandstillFor prolonged periods of machine standstill, special measures and media are re-quired for conservation.►Contact Brückner for further information.7.2 Safety
+
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.During operation, negative pressure prevails in the vacuum system.The following components become hot during operation:• Melt separator• Vacuum piping from the melt separator up to the separator• Vacuum pumpThe substances in these components also become hot during operation.
+
+Hot liquids or vapours escaping under pressure can cause serious burns.►Do not reach into the outlet area.►Wear protective gloves.►Wear a hard hat with face protection.►Wear protective clothing.
+
+INFO
+
+INFO
+
+INFO
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 44 
+Hot substances and hot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.Depending on the raw material, toxic gases can occur in the extruder during melt-ing. These diffuse because of the negative pressure in the vacuum system.
+
+Raw materials, such as plastics, cause gases that are harmful to health whenheated. Substances that are harmful to health are deposited.Irritation of skin, eyes and airways.►Only carry out this work if the area is well ventilated.►Do not breathe in the gases.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.When opening the vacuum system gases may ignite explosively.
+
+When heating the raw material, flammable and explosive gases can occur inthe extruder and ignite in the extruder and vacuum system.This can lead to serious injury.►Keep the extrusion section clean. Remove granulate, polymer dust, film andflammable materials.►Wear protective clothing, protective gloves and a hard hat with face protection.►Before opening the vacuum system, the extruder must be disconnected or theheating of the extruder must be switched off.►Carefully open the vacuum system.►After maintenance work, ensure that all earthings are undamaged.Defective heating bands can cause the neighbouring heating bands to overheat.
+
+Defective heating bands can cause the neighbouring heating bands to over-heat.Fire hazard.►Check the heating bands regularly.►Keep the extrusion section clean. Remove granulate, polymer dust, film andflammable materials.When ventilating the vacuum system, body parts and property can be drawn incaused by negative pressure.
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 45 
+When ventilating the vacuum system, body parts and property can be drawnin.This can lead to injury.►Do not reach into the ventilation opening.►Wear close-fitting, protective clothing.During operation, the vacuum pumps are loud.
+
+Constant noise > 85 dB causes permanent damage to the hearing.►Wear ear protection.Danger of slipping on soiled floors.
+
+Danger of slipping on soiled floors.This can lead to head injuries and serious bodily injury.►Wear non-slip shoes.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.7.3 Inspection and service intervalsService intervalsFor information on the service intervals, see "Intervals" section and the respectivemanufacturer documentation.SeparatorDesignationIntervalWork and notesWater circuitevery day►Check the pipes and connec-tions for leaks.►Repair leaks.every 6 days►Clean the strainer in the watercircuit.• Cleaning the strainer in thewater circuit (separator withcooling trap and separate dustfilter) [} 64]• Cleaning the strainer in thewater circuit (separator withcombi cooler) [} 66]
+
+ CAUTION
+
+ CAUTION
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 46 
+DesignationIntervalWork and notesSeparatorevery 6 days►Clean the separator.• Cleaning the separator andcooling trap [} 52]• Cleaning the combi cooler andcooling trap [} 59]every 6 days►Remove the separated fluids.• Detaching and ventilating theseparator with cooling trap andseparate dust filter from thevacuum system, and drainingseparated fluids [} 47]• Detaching and ventilating theseparator with combi coolerfrom the vacuum system, anddraining separated fluids[} 54]
+
+Other components inthe vacuum system
+
+The neighbouring heaters can overheat due to defective heaters.Fire hazard.►Check the heaters regularly.►Keep the extrusion section clean. Remove granulate, polymer dust, film andflammable materials.DesignationIntervalWork and notesHeatersEvery 6 days►Check the function.►Replace if faulty.Extrusion sectionEvery day►Cleaning the extrusion section.
+
+Melt separatorDuring each linestoppageIf necessaryEvery 3 months atthe latest
+
+►Drain fluids out of the meltseparator. Cleaning the meltseparator [} 71]►Remove melt from the meltseparator.Cleaning the vacuum piping
+
+Vacuum pipingFlange connectionThermal insulationSeparator
+
+Every 6 days►Check for leaks and damage.►Repair leaks and damage.Every year►Clean the vacuum piping andthe separator.Cleaning the vacuum piping[} 73]
+
+Exhaust air ductEvery 6 days►Check for leaks and damage.►Repair leaks and damage.Every year►Clean the exhaust air duct.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 47 
+DesignationIntervalWork and notes
+
+Earthing the components After maintenancework
+
+►Check the earthing joints andreplace if necessary.
+
+Vacuum unitDesignationIntervalWork and notesCooling waterEvery 6 days►Clean the strainer in the va-cuum pump unit. Cleaning thestrainer of the cooling waterconnection at the vacuumpump unit [} 67]
+
+Pump cleaningSee "Intervals" oper-ating manual- or -Message of thefilling level sensorExhaust air collecting line Every 6 days- or -Message of thefilling level sensor
+
+►Refill the purging liquid.►Drain the purging liquid out ofthe exhaust air collecting line.Draining the purging liquid outof the exhaust air collectingline [} 68]
+
+Every 3 months►Clean the exhaust air collect-ing line. [} 69]Vacuum pump►See the manufacturer operating manual.
+
+Start-up filter in the va-cuum piping
+
+Every 6 months►Remove the start-up filter andclean
+
+7.4 Preparing the vacuum system for maintenance workThe following requirements must usually be fulfilled for maintenance:• The extruder and the vacuum system are switched off and secured against be-ing switched on again.• The vacuum system is ventilated.• The vacuum system is cooled off.• The vacuum system is free from toxic substances and gases.If further or other requirements apply, they are mentioned directly next to the activit-ies.7.5 Separator7.5.1 Detaching and ventilating the separator with cooling trap andseparate dust filter from the vacuum system, and drainingseparated fluidsThe detaching and ventilating of a separator with cooling trap and separate dust fil-ter of type PET 2300 to 4800 kg/h is described.If the vacuum system is in operation, only one functional unit of the separator maybe disconnected from the vacuum system.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 48 
+For maintenance activities, the functional unit of the separator must be disconnec-ted from the vacuum system and ventilated via the service switch on the dust filter.The detaching of the separator is described using functional unit 2 of the separatoras an example. The procedure for detaching and ventilating functional unit 1 of theseparator is identical.Required personnelThis activity may only be performed by trained skilled persons.
+
+Personal protectiveequipment
+
+• Breathing mask• Heat-resistant protective gloves• Heat resistant protective clothing• Hard hat with face protection
+
+Auxiliary materials• Waste containerSafety WARNINGWhen heating the raw material, flammable and explosive gases can occur inthe extruder and ignite in the extruder and vacuum system.This can lead to serious injury.►Keep the extrusion section clean. Remove granulate, polymer dust, film andflammable materials.►Wear protective clothing, protective gloves and a hard hat with face protection.►Before opening the vacuum system, the extruder must be disconnected or theheating of the extruder must be switched off.►Carefully open the vacuum system.►After maintenance work, ensure that all earthings are undamaged.
+
+When ventilating the vacuum system, body parts and property can be drawnin.This can lead to injury.►Do not reach into the ventilation opening.►Wear close-fitting, protective clothing.
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 49 
+Overview
+
+1 Supply valve at the output2 Functional unit 2
+
+3 Ball valve at the substance out-let5 Supply valve at the input
+
+4 Bypass valve
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 50 
+2 Functional unit 26 Terminal box (with key switch)►Place a pan under the ball valve at the substance outlet (3).►Set the [ service filter ] key switch on the terminal box of functionalunit 2 of the separator to [ service ].ð At the input and output of functional unit 2 of the separator, the supplyvalves (1, 5) and the bypass valves are closed.ð The controlled ventilation valve is opened. Functional unit 2 of the separatoris ventilated.ð The ball valve at the substance outlet is opened. Separated fluid flows out ofthe substance outlet into the waste container.►To prevent unintentional reconnection of the functional unit of the separator tothe vacuum system, pull out the key switch at the terminal box (6).7.5.2 Connecting the separator with cooling trap and separate dustfilter to the vacuum systemInformationNOTICECooler with dust filterThe function of the cooler with dust filter is shown below as an example. The figurecan deviate slightly from your film production line.DescriptionThe connection of a separator with cooling trap and separate dust filter of type PET2300 to 4800 kg/h is described.After completion of the maintenance work on the separator, it is connected to thevacuum system again. Carry out a restart to avoid product influences, especiallyafter cleaning work on the nozzle.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 51 
+Required personnelThis activity may only be performed by trained skilled persons.Overview1 Supply valve at the output2 Ball valve at the substance outlet3 Bypass valves4 Supply valve at the input
+
+Connecting and de-aerating the separ-ator on the vacuumsystem
+
+►Set the [ service filter ] key switch on the terminal box of the separatorto [ production ].ð The ball valve at the substance outlet (2) is closed.ð The controlled ventilation valve is closed.ð The bypass valves at the inlet and outlet of the separator are opened. Thus,the separator is gently de-aerated.ð When the set vacuum is reached at the separator, the inlet and outlet of theseparator open the supply valves (1, 4).ð The process is monitored by the pressure transducer.►Empty and clean the collecting reservoir.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 52 
+7.5.3 Cleaning the separator and cooling trapDescriptionThe cooling trap is removed and cleaned in the vacuum system at atmosphericpressure.Requirements• The separator is disconnected from the vacuum system.• The separator has been ventilated.• The separated substances are drained out of the separator.Required personnelThis activity may only be performed by trained skilled persons.
+
+Personal protectiveequipment
+
+• Breathing mask• Safety goggles• Protective gloves• Hard hat• Protective clothing• Safety shoes
+
+Auxiliary materials• Lifting device for cooling trap (not contained in the scope of supply)• High-pressure hot water cleaner• Explosion-proof vacuum cleaner• Waste container• Cloth• WaterSafety DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Accumulation of substances can cause fires.►Do not connect a drain pipe to the substance outlet.►Remove deposited substances regularly.
+
+Hot substances and hot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 53 
+Raw materials, such as plastics, cause gases that are harmful to health whenheated. Substances that are harmful to health are deposited.Irritation of skin, eyes and airways.►Only carry out this work if the area is well ventilated.►Do not breathe in the gases.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.1 Accumulation, separations2 Toggle-type fastener with screw3 Cleaning lid4 Collecting reservoir5 Substance outlet6 Handle
+
+OverviewRemoving the cool-ing trap
+
+7 Hexagon head screw withhexagon nut9 Cooling trap
+
+8 Quick-action coupling at cooling wa-ter circuit
+
+►Release the quick-action couplings on the cooling water circuit (8).►Loosen the hexagon head screws with the hexagon nuts (7).►Use the lifting device to carefully pull the cooling trap out of the functional unit ofthe separator. The cooling trap is heavy.►Release the screws of the toggle-type fasteners (2) on the cooling trap.►Fold up the cleaning lid (3) with the handle (6).
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 54 
+Cleaning and check-ing the cooling trapCleaning and check-ing the functionalunit of the separatorInstalling the coolingtrapCleaning the collect-ing reservoir
+
+►Clean the cooling trap with a hot water high-pressure cleaner.►Blow the cooling trap free of dust with compressed air.►Check the components for damage.►Remove the accumulation of separations (1), and clean the area with a high-pressure hot water cleaner.►Clean the functional unit of the separator using water and cloths.►Check the components for damage.►Use the lifting device to insert the cooling trap (9) into the functional unit of theseparator.►Fix the cooling trap (9) in place with the hexagon head screws with hexagonnuts (7).►Connect the quick-action couplings on the cooling water circuit (8) to the coolingtrap. The quick-action couplings are arranged in such a way that the inlet andoutlet of the water lines cannot be transposed.►Put on the cleaning cover (3) and fix it in place with the toggle-type fastenerswith screws (2).►Ensure that the toggle-type fasteners with screws (2) are correctly and firmlyseated.ü There is a collecting reservoir (4) under the substance outlet (5).►Pull out the collecting reservoir under the substance outlet.►Empty the collecting reservoir and clean with a hot water high-pressure cleaner.►Place the collecting reservoir under the substance outlet.
+
+7.5.4 Detaching and ventilating the separator with combi coolerfrom the vacuum system, and draining separated fluidsDescriptionFor maintenance activities, the separator must be disconnected from the vacuumsystem and ventilated via the service switch on the dust filter.If the vacuum system is in operation, only one functional unit of the separator maybe disconnected from the vacuum system.The detaching of the separator is described using functional unit 2 of the separatoras an example. The procedure for detaching and ventilating functional unit 1 of theseparator is identical.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 55 
+Required personnelThis activity may only be performed by trained skilled persons.
+
+Personal protectiveequipment
+
+• Breathing mask• Heat-resistant protective gloves• Heat resistant protective clothing• Hard hat with face protection
+
+Auxiliary materials• Waste containerSafety WARNINGWhen heating the raw material, flammable and explosive gases can occur inthe extruder and ignite in the extruder and vacuum system.This can lead to serious injury.►Keep the extrusion section clean. Remove granulate, polymer dust, film andflammable materials.►Wear protective clothing, protective gloves and a hard hat with face protection.►Before opening the vacuum system, the extruder must be disconnected or theheating of the extruder must be switched off.►Carefully open the vacuum system.►After maintenance work, ensure that all earthings are undamaged.
+
+When ventilating the vacuum system, body parts and property can be drawnin.This can lead to injury.►Do not reach into the ventilation opening.►Wear close-fitting, protective clothing.
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 56 
+OverviewDetaching the separ-ator from the vacuumsystem and ventilat-ing
+
+1 Supply valve and bypass valveat the output of the functionalunit of the separator
+
+2 Supply valve and bypass valve atthe input of the functional unit of theseparator
+
+3 Ventilation valve4 Terminal box with key switch5 Ball valve at the substance out-let►Place the waste container under the substance outlet.►Set the [ service filter ] key switch on the terminal box of functionalunit 2 of the separator to [ service ].ð At the input and output of functional unit 2 of the separator, the supplyvalves (1, 2) and the bypass valves (1, 2) are closed.ð The controlled ventilation valve is opened. Functional unit 2 of the separatoris ventilated.ð The ball valve at the substance outlet is opened. Separated fluid flows out ofthe substance outlet into the collecting reservoir.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 57 
+►To prevent unintentional connection of the separator to the vacuum system, re-move the key switch from the terminal box (4).7.5.5 Connecting and ventilating the separator with combi cooleron the vacuum systemDescriptionAfter completion of the maintenance work on the separator, it is connected to thevacuum system again.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 58 
+Required personnelThis activity may only be performed by trained skilled persons.
+
+Personal protectiveequipment
+
+• Breathing mask• Heat-resistant protective gloves• Heat resistant protective clothing• Hard hat with face protection
+
+Auxiliary materials• Waste containerOverview
+
+1 Supply valve and bypass valveat the output of the functionalunit of the separator
+
+2 Supply valve and bypass valve atthe input of the functional unit of theseparator
+
+3 Ventilation valve4 Terminal box with key switch5 Ball valve at the substance out-let
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 59 
+Connecting and vent-ilating the separatoron the vacuum sys-tem
+
+►Set the [ service filter ] key switch on the terminal box (4) of the separ-ator to [ production ].ð The ball valve at the substance outlet (5) is closed.ð The controlled ventilation valve (3) closes.ð The bypass valves (1, 2) at the inlet and outlet of the separator are opened.Thus, the separator is gently ventilated.ð When the set vacuum is reached at the separator, the inlet and outlet of theseparator open the supply valves (1, 2).ð The process is monitored by the pressure transducer.►Empty and clean the collecting reservoir.
+
+7.5.6 Cleaning the combi cooler and cooling trapDescriptionThe heat exchanger will be removed and cleaned under atmospheric pressure inthe vacuum system.Requirement• The combi cooler is disconnected from the vacuum system.• The combi cooler is ventilated.Required personnelThis activity may only be performed by trained skilled persons.
+
+Personal protectiveequipment
+
+• Safety goggles• Protective gloves• Protective clothing• Breathing mask
+
+Auxiliary materials• Allen wrench• High-pressure cleaner• Compressed air line with compressed air pistol• Waste container• Cloth• Water• Silicone greaseSafety WARNINGHot substances and hot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+Raw materials, such as plastics, cause gases that are harmful to health whenheated. Substances that are harmful to health are deposited.Irritation of skin, eyes and airways.►Only carry out this work if the area is well ventilated.►Do not breathe in the gases.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 60 
+Closing the coolingwater circuitOverviewRemoving the cool-ing trapCleaning and check-ing the combi cooler
+
+1 Ball valve at the inlet2 Ball valve at the inlet3 Ball valve at the outlet►Close all ball valves on the cooling water circuit (1, 2, 3).1 Hexagon head screw2 Cleaning lid3 Dowel pin4 Hexagon head screw
+
+5 Quick-action coupling at coolingwater circuit7 Collecting reservoir
+
+6 Cooling trap
+
+ü There is a collecting reservoir (7) under the substance outlet.►Pull out the collecting reservoir under the substance outlet.►Empty the collecting reservoir and clean with a hot water high-pressure cleaner.►Place the collecting reservoir under the substance outlet.►Place the waste container (7) under the cooling trap (6).►Release the two quick-action couplings on the cooling water circuit (5).►Loosen the hexagon head screws (4) and set them aside.►Carefully pull the cooling trap (6) and the O-ring out of the combi cooler using 2persons. The cooling trap is heavy.►Carefully loosen the hexagon head screws (1) and set aside together with thecleaning lid and the O-ring.►Clean the inside of the combi cooler with water and a cloth from both sides.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 61 
+►Check the components for damage.►Grease the O-ring with silicone grease.►Fix the cleaning lid and the O-ring in place on the combi cooler with the hexagonhead screws (1). Uniformly tighten the hexagon head screws (1) in a crisscrosspattern.►Clean the cooling trap with a hot water high-pressure cleaner.►Blow the cooling trap free of dust with compressed air.►Check the components for damage.►Grease the O-ring with silicone grease.►Carefully insert the cooling trap (6) and the O-ring in the combi cooler using 2persons. The dowel pin (3) must be seated correctly in the open elongatedholes.►Fix the cooling trap (6) and the O-ring in place on the combi cooler with thehexagon head screws (1). Uniformly tighten the hexagon head screws (1) in acrisscross pattern.►Connect the two quick-action couplings on the cooling water circuit (5) to thecooling trap. In order to ventilate the cooling trap, the outlet of the cooling watermust be connected at the top and the inlet of the cooling water at the bottom.►Open the ball valves on the cooling water circuit.
+
+Cleaning and check-ing the cooling trapInstalling the coolingtrapOpening the coolingwater circuit
+
+7.5.7 Cleaning the dust filterDescriptionThe cleaning of the dust filter of a separator of type PET 600 to 2200 kg/h and PET2300 to 4800 kg/h is described.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 62 
+The dust filter is removed from the vacuum system at atmospheric pressure andcleaned.Requirements• The separator is disconnected from the vacuum system.• The separator has been ventilated.• The separated substances are drained out of the separator.Required personnelThis activity may only be performed by trained skilled persons.
+
+Personal protectiveequipment
+
+• Breathing mask• Safety goggles• Protective gloves• Hard hat• Protective clothing• Safety shoes
+
+Auxiliary materials• Lifting device for the cover of the dust filter (not contained in the scope of sup-ply)• Lever tool for dust filter inserts• High-pressure cleaner• Compressed air line with compressed air pistol• Waste container• Cloth• WaterSafety DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Hot substances and hot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 63 
+OverviewInspecting the dustfilter
+
+Raw materials, such as plastics, cause gases that are harmful to health whenheated. Substances that are harmful to health are deposited.Irritation of skin, eyes and airways.►Only carry out this work if the area is well ventilated.►Do not breathe in the gases.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.1 Cover2 Dust filter housing3 Cover4 Screw5 Cleaning opening6 Dust filter (not shown)7 Eyelet8 Screw9 Filter holder10 Dust filter insert (not shown)►Release the screws (4) of the cover (3).►Remove the cover of the cleaning opening (5).
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 64 
+►Inspect the dust filter (6).►If necessary, Cleaning the dust filter [} 64].►Clean the inside of the cleaning opening (5) of accumulated dust using waterand cloths.►If no cleaning is required, close the cleaning opening with the cover.►Release the screws (8) of the cover (1).►Fasten suitable lifting gear to the eyelet (7).►Lift the cover off the dust filter housing (2).►Release the dust filter inserts (10) from the filter holder (9) using a lever tool andremove.►Remove the dust filter from the dust filter insert.
+
+Removing the dustfiltersCleaning and check-ing the dust filtersInstalling the dust fil-ter
+
+Carrying out full cleaningAlways remove and clean all dust filters.►Blow the dust filters dust-free with compressed air or vacuum with a vacuumcleaner.►Wash the dust filter if needed.ð The dust filter can be washed in a washing machine; Use detergent but nosoftener.►Let the dust filters dry completely.►Clean the filter holder (9) of accumulated dust using water and cloths.►To remove deposits, clean the filter housing (2) at the bottom through the clean-ing opening (5) using a vacuum cleaner or using water and cloths.►Check all parts for damage.
+
+The dust filter and dust filter inserts can easily be damaged.Do not use tools during reassembly.►Insert the dust filter into the dust filter insert (10) and push in hand-tight.►Insert the dust filter insert (10) into the filter holder (9).►Close the dust filter housing (2) with the cover (1).►Check the correct seating of the dust filters through the cleaning opening (5).►Close the cleaning opening with the cover (3).
+
+7.5.8 Cleaning the strainer in the water circuit (separator withcooling trap and separate dust filter)
+
+Carry out the following cleaning work quickly.DescriptionThe strainer can be cleaned during operation.The strainer is located on the rear side of the separator.
+
+NOTICE
+
+NOTICE
+
+NOTICE
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 65 
+Required personnelThis activity may only be performed by specialists.Auxiliary materials• Allen key
+
+Personal protectiveequipmentOverview
+
+• Protective gloves1 Ball valve at the outlet2 Strainer3 Return track4 Ball valve at the inlet before thestrainer5 Forward flow6 Ball valve at the inlet after thestrainer
+
+Closing the feed line►Close the ball valves (4, 6) for the intake.
+
+Cleaning and check-ing the strainer
+
+►Untwist and take out the strainer (2).►Clean the strainer with water or compressed air.►Check the strainer for damage.►Insert and tighten the strainer by turning.
+
+Opening the feed line►Check the ball valve (1) for the outlet, it must be open.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 66 
+7.5.9 Cleaning the strainer in the water circuit (separator withcombi cooler)
+
+Carrying out the following cleaning work quickly.DescriptionThe strainer can be cleaned during operation.The strainer is located on the rear side of the separator.Required personnelThis activity may only be performed by specialists.Auxiliary materials• Allen key
+
+Personal protectiveequipmentOverview
+
+• Protective gloves
+
+1 Ball valve at the inlet after thestrainer3 Ball valve at the inlet before thestrainer
+
+2 Strainer4 Ball valve at the outlet
+
+Closing the feed line►Close the ball valves (1, 3) at the inlet.
+
+Cleaning and check-ing the strainer
+
+►Untwist and take out the strainer (2).►Clean the strainer with water or compressed air.►Check the strainer for damage.►Insert and tighten the strainer by turning.
+
+Opening the feed line►Check the ball valve (4) for the outlet, it must be open.►Open the ball valves (1, 3) for the inlet.7.6 Vacuum unit
+
+Manufacturer docu-mentation and manu-facturer list
+
+Further information on the vacuum pump unit can be found in the manufacturer doc-umentation (see "Manufacturer list").
+
+NOTICE
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 67 
+7.6.1 Cleaning the strainer of the cooling water connection at thevacuum pump unitDescriptionCleaning the dirt trap when the water supply and the vacuum pump is switched off.Requirement• The vacuum pump is switched off and secured against being switched on again.• The vacuum pump is under atmospheric pressure.Further information can be obtained during the training.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Protective gloves
+
+Auxiliary materials• Allen keyOverview1 Ball valve 2 on forward track2 Strainer3 Ball valve 1 on forward track4 Ball valve on return flow5 Cooling water flow6 Cooling water return flow
+
+Cleaning and check-ing the strainer
+
+ü The vacuum pump unit is switched off.►Close ball valve 1 on the forward track (3) and ball valve 2 on the forwardtrack (1).►Untwist and take out the strainer (2).
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 68 
+►Clean the strainer (2) with water.►Check the strainer (2) for damage.►Insert and tighten the strainer (2) by turning.►Open ball valve 1 of the forward track (3) and ball valve 2 of the forwardtrack (1).7.6.2 Draining the purging liquid out of the exhaust air collectinglineDescriptionThe purging liquid can be drained when the vacuum pump unit is running.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Breathing mask• Protective gloves• Protective clothing• Hard hat with face protection
+
+Auxiliary materials• Open waste container
+
+Manufacturer docu-mentation and manu-facturer list
+
+Further information on the vacuum pump unit can be found in the manufacturer doc-umentation (see "Manufacturer list").
+
+Safety WARNINGAccumulation of substances can cause fires.►Do not connect a drain pipe to the stop valve of the exhaust air collecting pipe.►Remove deposited substances regularly.
+
+Raw materials, such as plastics, cause gases that are harmful to health whenheated. Substances that are harmful to health are deposited.Irritation of skin, eyes and airways.►Only carry out this work if the area is well ventilated.►Do not breathe in the gases.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.
+
+Fluids escaping under pressure or vapours cause injuries.►Do not reach into the outlet area.►Wear protective gloves.►Wear a hard hat with face protection.►Wear protective clothing.
+
+The following figures show examples. The figures are not necessarily identical toyour line.
+
+ WARNING
+
+ CAUTION
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 69 
+OverviewDraining the purgingliquid out of the ex-haust air collectingline
+
+1 Exhaust air collecting line2 Stop valve►Place a waste container under the stop valve (2) of the exhaust air collectingline (1).►Open the stop valve (2) carefully and drain the contaminated purging liquid.►Close the stop valve (2).►Dispose of contaminated purging liquid properly.
+
+7.6.3 Cleaning the exhaust air collecting lineDescriptionThe exhaust air collecting line has a cover on both sides, which are removed forcleaning.Requirement• The vacuum pump is switched off and secured against being switched on again.• The vacuum pump is under atmospheric pressure.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Safety goggles• Protective gloves• Protective clothing
+
+Auxiliary materials• Open waste container• Cloth• Scraper
+
+Manufacturer docu-mentation and manu-facturer list
+
+Further information on the vacuum pump unit can be found in the manufacturer doc-umentation (see "Manufacturer list").
+
+Safety WARNINGAccumulation of substances can cause fires.►Do not connect a drain pipe to the stop valve of the exhaust air collecting pipe.►Remove deposited substances regularly.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 70 
+Hot substances and hot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.Raw materials cause gases that are harmful to health when heated. Substancesthat are harmful to health are deposited.
+
+The substances that are harmful to health.Irritation of the skin and the eyes.►Avoid contact with the skin.►Wear suitable protective clothing, protective gloves and safety goggles.►Pay attention to the safety data sheets of the manufacturer.
+
+The following figures show examples. The figures are not necessarily identical toyour line.1 Exhaust air collecting line2 Cleaning lid►Place a waste container under the cleaning lid (2) of the exhaust air collectingline (1).►Loosen and set aside the screws of the cleaning lid (2) and set them aside.►Remove the cleaning lid.►Lay aside the cleaning lid and the O-rings.►Clean the exhaust air collecting line (1) and the cleaning lid (2) with cloths andscrapers.►Check the components for damage. Replace damaged components.►Position the cleaning lid and the O-ring.►Fix the cleaning lid (2) in place in the exhaust air collecting line (1) with thescrews. Tighten the screws uniformly in a crisscross pattern.
+
+OverviewCleaning and check-ing the exhaust aircollecting line
+
+ WARNING
+
+ CAUTION
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 71 
+7.7 Melt separator7.7.1 Cleaning the melt separatorDescriptionFluids and melt can deposit in the melt separator.Requirement• The extruder is switched off and secured against being switched on again.• The supply valve in the vacuum system is closed.• The vacuum system is ventilated.Required personnelThis activity may only be performed by trained skilled persons.
+
+Personal protectiveequipment
+
+• Heat-resistant protective gloves• Protective clothing
+
+Auxiliary materials• Waste containerSafety WARNINGHot melt and hot surfaces can cause serious burns.►Do not touch hot melt and hot surfaces.►Wear protective gloves.►Wear protective clothing.
+
+Raw materials, such as plastics, cause gases that are harmful to health whenheated. Substances that are harmful to health are deposited.Irritation of skin, eyes and airways.►Only carry out this work if the area is well ventilated.►Do not breathe in the gases.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.OverviewINFOThe following figure shows an example. The figure is not necessarily identical toyour line.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 72 
+1 Melt or fluid2 Stop valve►Place a waste container under the stop valve (2).►Open the stop valve carefully and drain the fluid (1).►Close the stop valve.The removal of the melt out of the melt separator is carried out analog to the clean-ing of the vacuum piping.Cleaning the vacuum piping [} 73]
+
+Draining the fluid outof the melt separatorRemoving the meltout of the melt separ-ator
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 73 
+7.8 Vacuum system7.8.1 Cleaning the vacuum pipingDescriptionMost of the vacuum piping has a blind flange on several sides. The blind flanges areremoved for cleaning the vacuum piping. The cleaning is carried out through theopen vacuum piping.Requirement• The extruder and vacuum system with heating zones are switched off and se-cured against being switched on again.• The vacuum system is ventilated.• Sufficient replacement graphite gaskets are provided.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Safety goggles• Protective gloves• Protective clothing• Breathing mask
+
+Auxiliary materials• Waste container• Cloth• ScraperSafety WARNINGHot substances and hot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.Depending on the raw material, toxic gases can occur in the extruder during melt-ing. These diffuse because of the negative pressure in the vacuum system.
+
+Raw materials, such as plastics, cause gases that are harmful to health whenheated. Substances that are harmful to health are deposited.Irritation of skin, eyes and airways.►Only carry out this work if the area is well ventilated.►Do not breathe in the gases.►Avoid contact with the skin.►Wear suitable protective clothing (breathing mask, safety goggles, protectivegloves).►Pay attention to the safety data sheets of the manufacturer.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 74 
+Flammable substances can lead to fires.Fire hazard.ü Flammable substances can easily accumulate in the vacuum system, which canlead to self-igniting fires during ventilation.►Allow the vacuum system to cool before starting maintenance work.►Only open cooled vacuum piping.►Avoid sources of ignition.►Shut down the line.1 Thermal insulation2 Nut3 Washer4 Sealing5 Blind flange6 ScrewFor cleaning the vacuum piping, it is necessary to remove one or several blindflange(s).►Remove the insulation (1) on the blind flange (5).►Place a waste container under the blind flange.►Loosen the screws (6) on the blind flange. Lay aside the screws, the nuts (2),the washers (3), the gasket (4) and the blind flange.►Clean the vacuum piping and the blind flange with a cloth and scraper.►Check the components for damage. Replace damaged components.All removed blind flanges must be installed again.►Lubricate the gasket and screws with high temperature grease.►Attach the sealing and the blind flange with the screws, the washers and thenuts to the vacuum piping. At the same time, tighten the screws uniformly in a
+
+OverviewRemoving the blindflangeCleaning and check-ing the vacuum pip-ingInstalling the blindflange
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 75 
+►Mount the thermal insulation on the blind flange.
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 76 
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 77 
+8 Taking the vacuum system finally out ofoperationDescriptionThe decommissioning includes the following areas:• Carrying out technical disconnection• Emptying and disposing of the equipment• Disassembling and disposing of machine parts8.1 Carrying out technical disconnectionDescriptionTechnical disconnection includes the deactivation of the power supply, the IPC con-trol and other control devices.Required personnelThis activity may only be performed by specialists.
+
+Energy that ispresent
+
+Electrical and electrostatic energy are present on an active or operational vacuumsystem.
+
+Electrical energy may lead to ventricular fibrillation, cardiac arrest, respiratoryarrest and severe burns.►Only skilled personnel is allowed to un-install electrical equipment.►All applicable instructions for preventing accidents must be observed.8.2 Emptying and disposing of the equipmentRequired personnelThis activity may only be performed by specialists.LubricantsGearboxes and other movable components can contain lubricants. The lubricantsused and recommended by Brückner and its lubricant manufacturers fulfil all thelegal conditions.►Pay attention to the disposal regulations of the original lubricant container.►Use suitable containers for collecting, storing and transporting used lubricants.8.3 Disassembling and disposing of machine partsLocal regulationsDepending on the disposal regulations, it may be necessary to disassemble the va-cuum system and separately dispose of the individual materials.All disposal work has to be carried out in accordance with the local regulations anddirectives.
+
+Brückner recommends leaving the disposal to a local disposal company authorisedto provide the necessary certificates verifying proper disposal.
+
+ DANGER
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 78 
+--------------------------------------------------------------------------------
+VOLUME 06 - OperatingManual-VacuumSystem - Pag 79 
+9 Technical dataVacuum unitVacuum pumpSee the manufacturer operating manualPurging liquidSee "Intervals" operating manualNoise emissions> 85 dB(A)
+
+Separator with cool-ing trap and separatedust filterSeparator with combicooler
+
+Temperature of the chilled waterApprox. 0 °C(separate cooling unit)Weights
+
+The specified weights provide information on the necessary lifting gear and liftingaccessories. The specified weights can increase due to additional parts on the com-ponent and due to equipment (e.g. lubricant, cooling agent, heat transfer oil).Cooling trap with cooling water140 kgTemperature of the chilled waterApprox. 0 °C(separate cooling unit)
+
+The specified weights provide information on the necessary lifting gear and liftingaccessories. The specified weights can increase due to additional parts on the com-ponent and due to equipment (e.g. lubricant, cooling agent, heat transfer oil).Cooling trap with cooling water80 kg
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------

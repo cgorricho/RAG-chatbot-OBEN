@@ -1,0 +1,1559 @@
+
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 1 
+Operating manualPull roll unitBOPETP.1932 SHB
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 2 
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 3 
+ImprintThis operating manual is part of the equipment supplied by Brückner MaschinenbauGmbH & Co. KG - hereinafter called Brückner - and describes the necessary pro-cedures for the proper use of the film production line and the associated machines.CopyrightNo part of this operating manual may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical or by recording orotherwise without the prior permission by Brückner. The copying, distribution andutilisation of this operating manual in printed or electronic form as well as the com-munication of its contents to others without expressed authorisation is prohibited.Offenders will be held liable for the payment of damages possibly arising from unau-thorised use.All product names used in this operating manual are trademarks of the respectivecompanies.DisclaimerBrückner declines any liability or responsibility for consequential, collateral or indi-rect damage that results from non-compliance with this operating manual.Patent protectionAll rights reserved in the event of the grant of a patent, utility model, or ornamentaldesign registration. Brand and product names are trademarks or registered trade-marks of their respective companies or organisations.LanguageThe original operating manual was produced in German. All translations are basedon the language of the original operating manual.ChangeThe contents of this operating manual are subject to change by Brückner withoutnotice.We reserve the right to make technical changes.We welcome your suggestions concerning the improvement of our products and ofthis operating manual.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 4 
+PublisherStreet addressBrückner Maschinenbau GmbH & Co. KGKönigsberger Str. 5-783313 Siegsdorf/GermanyPostal addressBrückner Maschinenbau GmbH & Co. KGPO Box 11 6183309 Siegsdorf/GermanyContactInternethttp://www.brueckner.comServicePhone: +49 8662 63-9379Fax: +49 8662 63-9370E-Mail: servtec@brueckner.comSales departmentPhone: +49 8662 63-9510Fax: +49 8662 63-9101E-Mail: sales@brueckner.comDocumentationPhone: +49 8662 63-0Fax: +49 8662 4965-71-9220E-Mail: doku@brueckner.com
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 5 
+Table of contents1 Function ...................................................................................................................................................... 91.1Intended use....................................................................................................................................... 91.2Pull roll unit......................................................................................................................................... 91.3Safeguards....................................................................................................................................... 101.4Process control system .................................................................................................................... 101.5External documents.......................................................................................................................... 112 Operation .................................................................................................................................................. 132.1Duties of the operating personnel .................................................................................................... 132.2Operating modes of the pull roll unit and the winder unit .................................................................  132.3Carrying out "Jogging Mode" in the pull roll unit...............................................................................  152.3.1"Jogging Mode" in "Production Mode"...............................................................................  152.3.2"Jogging Mode" in "Service Mode"....................................................................................  162.4Unlocking and locking the safety gate behind the two-station turret winder.....................................  182.5Pressure sensitive mat under the two-station turret winder .............................................................  192.6Discharging the mill roll with a discharging rod ................................................................................  192.7Commissioning................................................................................................................................. 202.7.1Preparing the commissioning............................................................................................  212.7.2Starting up the pull roll unit................................................................................................  222.8Shutting down the pull roll unit ......................................................................................................... 223 Fault elimination....................................................................................................................................... 233.1Recommendations ........................................................................................................................... 233.2Malfunction overview of pull roll unit................................................................................................. 234 Maintenance.............................................................................................................................................. 254.1General instructions ......................................................................................................................... 254.2Duties of the maintenance personnel............................................................................................... 274.3Safety ............................................................................................................................................... 274.4Inspection and service intervals ....................................................................................................... 304.5Preparing for maintenance............................................................................................................... 314.6Pneumatic system............................................................................................................................ 314.6.1Checking and setting the pneumatic system.....................................................................  314.7Inspection......................................................................................................................................... 324.7.1Carrying out visual inspections for wear............................................................................  324.7.2Checking the ozone exhaust system.................................................................................  344.8Rolls ................................................................................................................................................. 344.8.1Lubricating roll bearings, gear, linear guides and spindles ...............................................  344.8.2Setting the contact pressure of a pneumatically swivelling nip roll....................................  354.8.3Dismantling and lifting out the nip roll including the pneumatic.........................................  384.8.4Mounting the nip roll including the pneumatic ...................................................................  404.9Filter ................................................................................................................................................. 444.9.1Heating and cooling units..................................................................................................  444.9.2Magnetic filter in switch cabinet.........................................................................................  444.9.3Motor cooling and corona generator cooling.....................................................................  44
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 6 
+4.10 Spreading device.............................................................................................................................. 444.10.1Adjusting the working width of the spreading device with handwheel...............................  444.10.2Adjusting the working width of the spreading device by means of the control ..................  454.10.3Adjusting the angle of inclination of the spreading rollers by motor ..................................  454.10.4Setting the non driven spreading rollers for minimum wear ..............................................  464.10.5Replacing the spreading rollers.........................................................................................  474.10.6Replacing the rotary cylinder of the spreading rollers .......................................................  494.10.7Replacing the damper of the spreading rollers..................................................................  504.10.8Replacing the spreading device ........................................................................................  524.10.9Replacing the drive of the oscillation.................................................................................  534.10.10 Replacing the rotary actuator of the spreading device......................................................  554.11 Edge trim device............................................................................................................................... 564.11.1Adjusting the edge trim device ..........................................................................................  564.11.2Turning the blade holder of the edge trim device..............................................................  584.11.3Turning or replacing the blades of the edge trim device ...................................................  594.12 Edge trim chopping device............................................................................................................... 604.12.1Adjusting the edge chopping device..................................................................................  604.12.2Replacing the blades of the edge chopping device...........................................................  614.13 Part nip roller device......................................................................................................................... 624.13.1Adjusting the part nip roller device ....................................................................................  624.13.2Replacing the part nip roller ..............................................................................................  634.14 Treatment station ............................................................................................................................. 644.14.1Setting the corona treatment station .................................................................................  644.15 Discharge device.............................................................................................................................. 644.15.1Cleaning or replacing the ionising rod...............................................................................  644.16 Discharge devices of the corona treatment roll................................................................................  654.16.1Checking and replacing the discharge devices of the corona treatment roll.....................  654.17 Replacing the treatment roll ............................................................................................................. 714.17.1Components overview.......................................................................................................  724.17.2Table of activities...............................................................................................................  724.17.3Preface..............................................................................................................................  734.17.4Requirements....................................................................................................................  744.17.5Working safely...................................................................................................................  744.17.6Disconnecting the electrical and pneumatic systems of the corona treatment device ......  764.17.7Bringing the corona treatment device into the park position .............................................  774.17.8Disconnecting the pneumatic system of the nip roll ..........................................................  804.17.9Removing the cross bar on the drive side.........................................................................  814.17.10 Removing the cooling pipes ..............................................................................................  844.17.11 Dismantling the drive of the treatment roll.........................................................................  854.17.12 Dismantling the roll guard..................................................................................................  874.17.13 Dismantling the treatment roll............................................................................................  884.17.14 Mounting the treatment roll................................................................................................  944.17.15 Mounting the roll guard....................................................................................................  1034.17.16 Mounting the drive of the treatment roll...........................................................................  1034.17.17 Mounting the cooling piping.............................................................................................  1054.17.18 Mounting the cross bar on the drive side ........................................................................  1064.17.19 Connecting the pneumatic system of the nip roll.............................................................  1094.17.20 Bringing the corona treatment device into the working position......................................  1094.17.21 Connecting the electrical and pneumatic systems of the corona treatment device.........  1124.17.22 Final safety measures .....................................................................................................  112
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 7 
+5 Taking a pull roll unit finally out of operation...................................................................................... 1155.1Carrying out technical disconnection.............................................................................................. 1155.2Emptying and disposing of the equipment ..................................................................................... 1155.3Disassembling and disposing of machine parts .............................................................................  1166 Technical data ........................................................................................................................................ 1177 Related applicable documents.............................................................................................................. 1197.1Air pressure diagram for nip roll ..................................................................................................... 1197.1.1Schema - Luftdruck APW - Zyl._375669_001_03.pdf.....................................................  120
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 8 
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 9 
+1 FunctionIntroductionThis chapter contains information on the intended use and the description of the ba-sic functions of the components. Here, above all, those functions that are necessaryfor operation and maintenance have been taken into account.In addition, this chapter contains a description of the active and passive safeguards.1.1 Intended useIntended useThe pull roll unit is part of the film production line. It takes over the film from the pre-ceding machine and transfers the film to the following machine. The pull roll unitalso carries out thickness measurement, surface treatment and cuts off the edgetrim.The machine is contractually specified by parameters and must only be operatedwithin them.DisclaimerAny use that goes beyond the designated use is forbidden. Brückner accepts no li-ability for any consequential damage. Improper use can present danger to life andlimb, the machine and connected equipment, and to the efficient operation of themachine.
+
+Risk assessment andwork instructions
+
+The operating company has to carry out a risk assessment and create operating in-structions for the handling of the machine.Inputs listed in this operating manual for personal protective equipment are basedon the risk assessment taking into consideration the experience with film productionand film stretching lines. The actually occurring hazards can deviate in individualcases. In this case, the measures of the hazard assessment of the operating com-pany must be taken into consideration and applied.
+
+1.2 Pull roll unit1 Thickness gauge2 Upper treatment station3 Pneumatic cabinet
+
+Overview
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 10 
+In the pull roll unit, the film runs through the following production steps:• Cutting to net width• Thickness measurement• Surface treatment• Tension isolation and transport to the winder unitPneumatic systemAll movements for closing and opening devices are started up pneumatically. To doso, the pull roll unit is connected to the pneumatic system of the line.Spreading deviceThe spreading device tightens the film path in the transverse direction to reduce thewrinkle formation and to ensure a more even film path.The film edges are guided between two spreading rollers which are pressed againsteach other.Thickness gaugeThe thickness gauge measures the thickness profile of the film non-contacting andcontinuously with a radiator source.
+
+Part nip roller devicefor the edge area
+
+The part nip rollers are positioned in the edge area of the drive side and the operat-ing side in each case. They tension the film in the edge area. The part nip rollerspress the edge areas of the film against the heating and cooling roll or the guide rollin order to prevent sudden movements of the edge trim.
+
+Edge trim deviceThe edge trim device cuts the edge strip on both sides, thereby producing the netfilm width.The edge trim can be recycled into the process.Cutting dust exhaustThe cutting dust exhaust removes dust particles that occur at the cut edges.
+
+Edge trim choppingdevice
+
+The edge trim chopping device removes the edge trim which was cut off by theedge trim device.
+
+Treatment stationIn the treatment station, the film surface is prepared for the following processing(e.g. printing or metallising).Discharge deviceThe film is discharged over the entire film width to prevent electrostatic charging ofthe components to be further processed.Nip rollThe nip roll presses the film against a driven roll. It thereby helps to prevent the oc-currence of air bubbles between the film and the roll.RollsThe type and the surface of the rolls are described in chapter Technical data[} 117].1.3 SafeguardsSafeguardsAn overview of the safeguards can be found in the "Line overview" operatingmanual.Information on the safeguards can be found in the "Safety manual".1.4 Process control system
+
+Process control sys-tem
+
+The pull roll unit is controlled and visualised by the Process Control System. Theprocess control system from Brückner is called IPC (Integrated Process Control).WinCC OA is the visualisation of the process control system. The visualisation en-ables easy and user-friendly communication with the pull roll unit via the controlknobs.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 11 
+The following control knobs are available:• Operator panels• Individual control knobs• Computer in the control room or the control roomsInformation on the control knobs can be found in the "Line overview" operatingmanual.For information on WinCC OA, see the online help.1.5 External documentsExternal equipmentApart from the self-manufactured components, the machine also contains externallysourced or already existing components, hereinafter referred to as external equip-ment.External documentsThis external equipment is supplied with instruction leaflets, manufacturer’s informa-tion, operating, installation, adjustment and service instructions and/or other user in-formation, hereinafter referred to as external documents.
+
+Replacement, main-tenance, operation
+
+External documents must also be read and observed, particularly in case of replace-ment or maintenance.When replacing external equipment, the enclosed instruction leaflets must be ob-served.The operation of the external equipment is not described in these instructions. Therespective external document is only referred to.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 12 
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 13 
+2 OperationThis chapter describes the operation of the machine.The machine is usually used in a film production line. For this case, the operation ofthe line is described in the "Line operation" operating manual.SafeguardsOnly start up and operate the component if all safeguards, such as removableguards, the emergency stop switch, light barriers, spacers and ventilation systems,are in place and operational.2.1 Duties of the operating personnel
+
+Duties of the operat-ing personnel
+
+• The operating personnel must be trained in the operation of the machine andmust have read and understood the operating manual.• Personal protective equipment must be worn according to the activities to becarried out. The personal protective equipment used must be able to fulfil itsfunction.• Do not bypass safeguards.• The control room and the machine must be manned with qualified operating per-sonnel during operation.• Make sure that no persons are exposed to danger.• In the event of irregularities, the responsible person must be informed.• The machine must be clean.• Only approved auxiliary materials must be used.
+
+2.2 Operating modes of the pull roll unit and the winderunitThe following machines have a common danger zone with common operatingmodes:• Pull roll unit• Winder unitExplanationThere are 3 operating modes. The operating modes ensure that it is safe to work onthe machines. The selected operating mode is enabled in all machines in thedanger zone. Each operating mode makes different functions available.• Production ModeThe line components can be put into operation in Production Mode.• Service ModeService Mode is used for cleaning and inspection.• Maintenance modeMaintenance Mode is used for mechanical maintenance work. For all othermaintenance work or modifications, further protective measures must be taken.Voltage may be present on the drives.
+
+Operating modesFunctionsProductionMode
+
+The components can be moved.YesNoNoOperation is possible.YesNoNo
+
+ServiceMode
+
+Mainten-ance mode
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 14 
+FunctionsProductionMode
+
+In the pull roll unit "Jogging Mode" isavailable.Operation of the heating and/or coolingunits is possible.The safety gates and the service hatcheson the safety fence before the two-sta-tion turret winder can be opened.
+
+YesYesNoYesYesNoNoYesYes
+
+The accesses in the safety fence behind the two-station turret winder have separ-ate locks. They are independent of the operating modes of the line components.
+
+When entered, the pressure sensitivemat under the two-station turret windertriggers Emergency Stop Machine.If there are mechanical brakes, theirpneumatic system is supplied with com-pressed air.The pneumatic system of the other pneu-matically operating components is sup-plied with compressed air.
+
+YesNoNoYesYesNoYesNoNo
+
+When the Production Mode is left, the following actions are triggered:• If there is an edge trim device, the blades or the circular knife are moved intothe park position.• The pneumatically movable components are moved into the park position orposition of centre of gravity (half open).• If there are mechanical brakes, their pneumatic system is not vented.• The pneumatic system of the other pneumatically operating components is ven-ted.• The contact roll is moved into the park position.• If the thickness gauge has a radioactive source, this is moved into the radiationprotection housing.• If there is a LINIP nip roll, the movement with the nip roll is moved into the parkposition.• All other components remain in the current position.• The components are switched off.• The components are locked.• The safety gates and service hatches on the safety fence before the two-stationturret winder are unlocked.• The pressure sensitive mat under the two-station turret winder is deactivated.• Further actions can be triggered on the film production line.When changing to Maintenance Mode, there is an emergency stop machine. TheProcess Control System triggers actions.When changing to Production Mode, open safety gates lead to emergency stopmachine. The Process Control System triggers actions.If there is a film inspection system, this is independent of the operating modes.
+
+ServiceMode
+
+Mainten-ance mode
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 15 
+Safety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.►Change the operating mode. Turn the key switch on the operator panel to therequired operating mode.►When entering the danger zone, take along the key.►Ensure that no one is located in the danger zone.►The safety gates close.►Change to Production Mode. On the operator panel, turn the key switch to[ production ].ü The [ pneumatic reset ] push button flashes on the operator panel.►Reset the pneumatic system to the defined default status. Press [ pneu-matic reset ] on the operator panel.If emergency stop machine was triggered by the change of operating modes, pro-ceed as follows:ü The [ fault reset ] push button flashes on the operator panel.►Set the start release. On the operator panel, press [ fault reset ].ð The locking devices that became active by leaving Production Mode are elimin-ated.
+
+Switching to "ServiceMode" or "Mainten-ance Mode"Changing to "Produc-tion Mode"
+
+2.3 Carrying out "Jogging Mode" in the pull roll unit2.3.1 "Jogging Mode" in "Production Mode"Description"Jogging Mode" is used in Production Mode for removing film in the pull roll unit. Todo so, the driven rolls can be turned continuously forwards or backwards with thefoot switch. If driven nip rolls are present, these are not turned.Required personnelThis activity may only be performed by trained skilled persons.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 16 
+Carrying out "Jog-ging Mode"LocationRequirementWorking method
+
+Outside the safeguards• The foot switch is connected to aplug-in connector in the pull roll unitand is outside the safeguards.• Production Mode is active.• The drives of the rolls are switchedoff and not locked.
+
+►Turn the rolls continuously forward orbackward with the foot switch.
+
+2.3.2 "Jogging Mode" in "Service Mode"DescriptionJogging Mode is used in Service Mode for the following activities in the pull roll unit:• Remove wound-up film residues.• Cleaning the rolls.• Inspect the rolls.To do so, the driven rolls can be turned continuously forwards or backwards withslow speed with the foot switch. If driven nip rolls are present, these are not turned.Required personnelThis activity may only be performed by trained skilled persons.Safety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.
+
+Machine parts rotating in "Jogging Mode" draw in clothing and body parts.This can lead to injury.►The foot switch must only be operated by instructed technical personnel.►Connect the foot switch for "Jogging Mode" only and disconnect again after-wards.►When actuating the foot switch, no 2nd person must be present in the dangerzone.►Exercise caution when working on rotating parts.►Wear close-fitting clothing.
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 17 
+Uncontrolled electrostatic discharge due to charged film or rolls.This can lead to serious injury from electric shock.►Persons with active medical accessories (e.g. pacemakers, insulin pumps, hear-ing aids) are forbidden from remaining at and dealing with film or rolls.►Before working in the vicinity of electrostatically charged film or rolls, dischargethese parts.
+
+Hot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+There is a danger of being pushed and of tripping when in the machine.This can lead to head injuries.►Wear a hard hat.►Observe the markings.Danger due to magnetic fieldsPowerful magnetic fields occur at the following points:• Optional: Drive for the contact roll positioning system (LIWIND®) of the winderunit• Optional: Linear motor of the nip roll (LINIP) in the pull roll unit
+
+Even when the machine is switched off, strong magnetic fields of permanentmagnets have a direct impact on people and can interfere with the operationof active medical accessories. The following people must maintain a safetydistance of at least 0.8 m:►People who have a heart pacemaker and/or metal implants.►People who use insulin pumps and/or hearing aids.►People who wear magnetic or electrically conductive objects.
+
+Powerful magnetic fields exert extremely high powers of attraction on mag-netisable (ferromagnetic) materials.Even if the machine is switched off, powerful magnetic fields from permanent mag-nets are present.There is a danger of cuts and danger of crushing.►Work in the vicinity of magnetic parts must be carried out by at least 2 persons.►Wear protective gloves and other personal protective equipment if necessary.►Keep magnetisable objects (e.g. watches, keys, fixing parts made of steel, steelor iron tools) and permanent magnets away from magnetic parts.►Use suitable tools made of non magnetisable material.►Use non magnetisable materials (e.g. a wooden bar) to free pinched body partsin case of an accident.
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+ DANGER
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 18 
+Powerful magnetic fields can damage electronic devices, measuring instru-ments, watches and data storage media. Even if the machine is switched off,powerful magnetic fields from permanent magnets are present.This can cause irreparable damage.Electronic devices and measuring instruments can change their calibration.Data loss can occur on magnetic and electronic data storage media.►Do not bring parts near the magnets.►Maintain a safety distance of 0.8 m.Carrying out "Jog-ging Mode"Area and locationRequirementWorking method
+
+in the pull roll unit• Service Mode is active.• The drives of the rolls are not locked.• The safety gate on the pull roll unit isopened.
+
+►Enter the area through the safetygate on the pull roll unit.►Plug the foot switch into the plug-inconnector.►Turn the rolls with the foot switch.
+
+2.4 Unlocking and locking the safety gate behind the two-station turret winderThe safety gate (option: several safety gates) at the safety fence after the winderunit has an interlock with knob switch. The safety gate can be opened and closedunder certain conditions.
+
+Safety gate safe-guard
+
+RequirementsIf the following requirements for opening the safety gate are fulfilled, the lamp at thesafety gate lights:• The cutting arm of the winder unit is in the park position.• The cross cutting device of the winder unit is in the park position.• The loading and unloading device is in the park position (optional).• If the front winding shaft is not in the winding position, the drives of the two wind-ing shafts may turn at a maximum speed of 200 m/min.Required personnelThis activity may only be performed by trained skilled persons.Safety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 19 
+Unlocking the safetygateLocking the safetygate
+
+►Unlock the safety gate behind the two-station turret winder. On the operatorpanel BW1, turn the switch [ safety gate ] to [ release ].ð The two-station turret winder cannot be turned. If the maximum mill roll dia-meter is reached, the two-station turret winder stops.ð The winding core chuck of the rear winding shaft of the two-station turretwinder cannot be opened and closed.ð The cutting arm of the winder unit is moved into park position. When the cut-ting arm is in the park position, it cannot be moved.ð The cross cutting device of the winder unit cannot be moved.ð The loading and unloading device and their components cannot be moved(optional).ð The Safety Tension and Slow Speed settings are active. All winding coresthat are not in the winding position can only turn with reduced torque and re-duced speed.If the function locks are active, the safety gate can be opened.►Open the safety gate and leave it open.►Ensure that no one is located in the danger zone behind the two-station turretwinder.►Close the safety gate.►Lock the safety gate. On the operator panel BW1, turn the switch[ safety gate ] to [ lock ].ð The function locks are reset.
+
+2.5 Pressure sensitive mat under the two-station turretwinderThe pressure sensitive mat under the two-station turret winder is used to secure thehazardous points on the two-station turret winder.
+
+Pressure sensitivemat under the two-station turret winder
+
+The pressure sensitive mat is active in "Production Mode". The entry of the activepressure sensitive mat leads to an emergency stop of the line components in thedanger zone. It is possible that the drives of the winding shaft and the reversingdrive continue to turn for up to 20 seconds until they come to a stop.
+
+2.6 Discharging the mill roll with a discharging rodDescriptionThe discharging rod is located in the in the tray at the safety gate behind the two-station turret winder. The long cable of the discharging rod is earthed.Before presence in the vicinity of an electrically charged mill roll, the mill roll has tobe fully discharged by means of a discharging rod.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 20 
+The mill roll has to be fully discharged before any of these activities is carried out:• If work is being carried out in the winder unit.• Someone wants to enter the pull roll unit through the winder unit.• The mill roll is to be lifted out of the two-station turret winder by a crane.• The mill roll is to be lifted out of the loading and unloading device (optional) orthe storage stand (optional) by a crane.Requirement• If the mill roll in the two-station turret winder is to be discharged, the drive of thiswinding shaft has to be switched off. The winding shaft with the mill roll must notrotate.• If the mill roll in the two-station turret winder is to be discharged and there is asecond pressure sensitive mat (variant-dependent) downstream from the two-station turret winder, the requirements for entering the pressure sensitive mathave to be fulfilled.• The safety gate downstream from the two-station turret winder is opened.Required personnelThis activity may only be performed by specialists and operating personnel.Safety WARNINGUncontrolled electrostatic discharge due to charged mill roll.This can lead to serious injury from electric shock.►Persons with active medical accessories (e.g. pacemakers, insulin pumps, hear-ing aids) are forbidden from remaining at and dealing with film or rolls.►Discharge the mill roll in a controlled way before beginning work.
+
+The presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.►Hold the discharging rod in the rear area (1).►Put the discharging rod to the mill roll and pull along the mill roll.
+
+Discharging the millroll with a dischar-ging rod
+
+2.7 CommissioningPreset parametersFor commissioning, settings are made according to the polymer used. Changes tothe settings are only possible within the limits specified by the control system.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 21 
+2.7.1 Preparing the commissioningRequired personnelThis activity may only be performed by the process engineer and specialists author-ised by him.Safety DANGEROzone emission at the corona treatment station causes extreme irritation ofthe eyes and airways.►Check that the exhaust system is functioning properly before starting production.►Ensure a permanent ozone exhaust system when the corona treatment stationis in operation.►If there is a smell of ozone in the hall, check the ozone exhaust system forleaks.Resetting safeguardsBefore commissioning, all safeguards must be mounted correctly. This applies es-pecially after maintenance work.►Check for full functionality of all safeguards.►Lock all protective doors and reset all safety and protective devices.
+
+Carrying out checkson the pull roll unitPreparing the coronatreatment unit andozone exhaust sys-tem
+
+►The measuring head of the thickness gauge has to be in the park position.►Check the water and air supply.►Check the compressed air service unit.►Check the piping for impermeability.►Check the drive system.►Check the rotary joint for impermeability and concentric running.►If present, check the filter of the motor cooling for cleanliness.►If present, check the filter of the generator cooling for cleanliness.►Check the cable drag chain if present.►Check all lubrication spots for sufficient lubrication.►Check the status of all rolls and rollers.►Check the status of all blades.►Check the function and setting of the film break detection.►If present, check the antistatic cord on the passive discharge device for parallel-ism to the roll.►If present, check the pins of the ionising rod on the active discharge device forcompleteness and integrity.
+
+Condensation on the roll surface in combination with the resulting corona gas(e.g. ozone and gaseous nitrogen compounds) damage the roll surface due tocorrosion.►Set the temperature of the cooling water so that no condensation of water oc-curs outside or inside the roll.►Comply with the quality requirements for the cooling water according to the spe-cifications.►Check the distance between the electrode and film (normal range 2 mm to2.5 mm).►Remove any condensate.
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 22 
+►Check the ozone exhaust system.ð The exhaust system must always be switched on when in the operationalstate.►Check that the exhaust pipes and flexible pipes on the turn arounds are leak-tight.►Check the function of the fan.►Check the function of the shutting flaps (ozone exhaust system).ð In case of a film break, the exhaust duct must be automatically blocked bythe shutting flap.►Check the valves and clean the filter on the cooling unit.►Check the set electrical values and the values for the surface treatment.►Collect data for influencing the treatment intensity in relation to time, temperat-ure, generator output, etc.►Check the surface of the treatment roll(s) for film residues or dirt.
+
+Manufacturer docu-mentationCarrying out the set-tings
+
+Further information on the component can be found in the manufacturer documenta-tion.►Check the working width, stops, range of movement and air pressure for all ma-chine components and adjust if necessary.►If necessary set the blades of the cutting knife.►If necessary set the blades of the chopping device.►Open the cooling valves of the piping.
+
+2.7.2 Starting up the pull roll unitThe pull roll unit is started up with the system control.Requirements• The pull roll unit is ready for operation and can be started up with the line. Seethe line operation manual.• All safeguards are mounted and functioning.Required personnelThis activity may only be performed by the process engineer and specialists author-ised by him.2.8 Shutting down the pull roll unitThe pull roll unit is shut down with the line.See the line operation manual.Required personnelThis activity may only be performed by the process engineer and specialists author-ised by him.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 23 
+3 Fault eliminationIntroductionATTENTIONImproper decommissioning and start-up causes damage to the downstreammachines.►Only authorised personnel may switch off and start the components.If faults that are not described in this document occur, please contact the manufac-turer.Faults may only be eliminated by qualified personnel.3.1 RecommendationsMeasures►Immediately alert the service personnel if malfunctions occur.►Have the components checked by specialists.►Only operate the components after eliminating the malfunction.TrainingIf the operator wishes to have company personnel remedy malfunctions, the manu-facturer's customer service offers special training courses.3.2 Malfunction overview of pull roll unitIntroductionThis table provides information about miscellaneous operating faults.The table contains the following information:ProblemDescription or type of faultCauseList of possible causesMeasuresInformation for eliminating the malfunction
+
+If faults that are not described in this document occur, please contact Brückner cus-tomer service.Troubleshooting WARNINGImproperly executed troubleshooting measures can lead to serious injuries ormachine damages.►Read the general safety handbook and the chapter on safety before attemptingcleaning or troubleshooting procedures.►Work on electrical systems and equipment may only be performed by qualifiedpersonnel.►Keep hands clear of the area around moving machine parts.►Wait until the machine comes to a standstill.►Prior to starting, make sure that there are no persons in the danger area.
+
+Further informationon safety
+
+Additional safety information can be found directly where the activities are describedand in the safety manual.
+
+Malfunction overviewof pull roll unitProblemCauseMeasuresLoud noise in the roll bearingLack of bearing grease►Lubricate the bearings.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 24 
+ProblemCauseMeasuresLoud noise at the brakeThe brake is defective►Check the brake and replace ifnecessary.►See manufacturer documentationRoll not runningRoll drive defective►Replace the drive.Motor area overheatsCooling water filter clogged►Clean the filter or replace it.
+
+Film warpingPreliminary machines incorrectlyset
+
+►Set the line components correctly.
+
+Spreading device incorrectly set►Check the inclination of thespreading roller and adjust.Spreading roller defective►Replace the spreading rollers.
+
+Bearings of the spreading rollersdefective
+
+►Lubricate or replace the bearing ifnecessary.
+
+Spreading rollers do not close►Check the pneumatics of therotary cylinder.►Lubricate or replace the bearing ifnecessary.
+
+Undesired rear side treatment ofthe film surface
+
+Swivelling in of the nip roll doesnot functionCorona treatment device or flametreatment device defective
+
+Soiling in the edge area of the film Part nip rollers in the edge areawornFilm cutting edge raggedBlade of the edge trim deviceblunt or incorrectly set
+
+►Check the pneumatics and thestop setting of the swivel arm ofthe nip roll on the operating sideand the drive side and readjust ifnecessary.►Check the device and replace ifnecessary.►See the manufacturer documenta-tion.►Replace the part nip rollers.►Check the blade and set, replaceif necessary.
+
+Marks on the filmSurface of a nip roll worn►Replace the roll.
+
+Surface of a corona treatment rollworn
+
+►Replace the roll.
+
+Surface of the roll irregularly worn►Check the roll and replace if ne-cessary.
+
+If present, cutting dust exhaustsystem congested
+
+►Check the fan and air supply.►See the manufacturer documenta-tion.
+
+Smell of ozoneOzone exhaust system congested►Check air supply and clean if ne-cessary.
+
+Fan of the ozone exhaust systemdefectiveCharcoal filter of the thicknessgauge spent
+
+►Replace the fan.►See the manufacturer documenta-tion.►Replace the activated charcoal fil-ter in the pneumatic cabinet.►See the manufacturer documenta-tion.
+
+Measuring error on the thicknessgauge
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 25 
+4 MaintenanceIntroductionThis chapter describes the maintenance works of the pull roll unit (PUR).4.1 General instructionsMaintenanceMaintenance ensures a long service life and high performance of the machine orline.Maintenance includes:• inspection• repair• serviceAll maintenance work carried out and all faults found must be recorded in a main-tenance record.InspectionInspection includes:• Periodic, continuous checking and recording of the current status.• Determining the causes of wear.• Derivation of the necessary consequences for future use.RepairDuring repair work, damaged parts must be replaced to avoid injury to persons andmaterial damage and to restore the required condition of the machine or line.Repair includes the following activities:• repair of damaged components• replacement of components
+
+Damaged parts can cause material damage and injury to persons.ü Only mount undamaged parts. This is also valid for parts with which the spareparts are attached.►Before installation, check the spare parts for function, quality, fit, stability andsurface quality.►It is recommended to only use original spare parts which can be clearly as-signed based on their identification number. This is especially valid with highlystressed machine parts such as parts that are under pressure and subject tohigh temperature and other safety relevant parts.
+
+Only allow repair work to be performed by authorised, qualified specialists.corrosion protectionATTENTIONFor prolonged periods of machine standstill, it is possible for components tocorrode.The strength of the components is no longer guaranteed.►For machine standstills or storage, put sufficient corrosion protection on all com-ponents.
+
+ATTENTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 26 
+Service WARNINGCleaning with unsuitable media can lead to explosions.Explosion hazard due to hot surfaces.►Only use prescribed cleaning agents.►Wear safety goggles.Service includes periodic activities to ensure an appropriate operating status of themachine or line.Servicing includes the following activities:• cleaning• conservation• lubrication• settingRecommendations►Disassemble the individual parts of a module only as far as necessary.►Mark down how the disassembled parts fit together for reassembly.►During repairs, damaged components must be replaced to avoid danger to per-sons and/or material damage and to put the unit back into its optimum opera-tional state.►For replacing the parts of the line, use the corresponding drawings and partslists.ð See the spare parts catalogue.►Only use high-quality tools and auxiliary materials. Use the special tools andauxiliary materials supplied.►Only use original parts or approved parts.ð Non approved parts will lead to loss of the warranty.►Keep a service record.ð This protocol helps in noting necessary repairs that cannot be carried outduring production. These repairs can be carried out later during routine ser-vice.►Carry out all checks to ensure operational readiness. Ensure that nothing hasbeen forgotten in the machine/line.►Following maintenance work, check the impermeability and tightness of thescrew connections.►Perform a test run.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 27 
+Ordering spare partsFor spare parts of delivered units, the data noted on the nameplate/manufacturer’splate of the respective unit has to be specified.• order• material number• year of delivery• machine type
+
+For localisation and identification of the part numbers, see the spare parts cata-logue.
+
+The guarantee and warranty for the respective plant components are only valid foruse with authorised spare parts, equipment and consumables.
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+StandstillFor prolonged periods of machine standstill, special measures and media are re-quired for conservation.►Contact Brückner for further information.4.2 Duties of the maintenance personnel
+
+Duties of the main-tenance personnel
+
+• The maintenance personnel must be trained for their activity or have appropriateprofessional experience.• The maintenance personnel must have read and understood the operatingmanual and further information.• Personal protective equipment must be worn according to the activities to becarried out. The personal protective equipment used must be able to fulfil itsfunction.• Make sure that no persons are exposed to danger.• Only approved auxiliary materials must be used.
+
+4.3 SafetySafety instructionsAlways pay attention to the following safety instructions:►Pay attention to the safety regulations referred to here as well as the safety reg-ulations referred to in the safety manual at all times.►Inform the operating personnel in advance of any maintenance work to be car-ried out on the plant/machine.►Appoint a supervisor.►Before carrying out heavy lifting work, make sure that you have suitable liftingequipment and transport equipment which is in proper working order.►Properly dispose of oil, cleaning agents and other substances that are harmfulto health in accordance with regulations.Additional information on safety can be found in the manufacturer‘s instructions.
+
+INFO
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 28 
+Further informationon safety
+
+Additional safety information can be found directly where the activities are describedand in the safety manual.
+
+Troubleshooting WARNINGImproperly executed troubleshooting measures can lead to serious injuries ormachine damages.►Read the general safety handbook and the chapter on safety before attemptingcleaning or troubleshooting procedures.►Work on electrical systems and equipment may only be performed by qualifiedpersonnel.►Keep hands clear of the area around moving machine parts.►Wait until the machine comes to a standstill.►Prior to starting, make sure that there are no persons in the danger area.Safeguards DANGERFaulty or ineffective safeguards.The protective function is lost.Life-threatening situations or very serious injuries may occur.►Put the safeguards back in place after the maintenance work is complete.►Check that the safeguards are operating correctly and effectively.►Do not bypass safeguards.►Do not render safeguards ineffective.►Do not change the arrangement of the safeguards.
+
+Electrostatic dis-charge
+
+Electrostatic discharge due to charged film/film residues at and on rolls/rollers causes life-threatening injuries from electric shock.►Access is forbidden for people with a heart pacemaker.►Discharge film with a discharging rod in a controlled way during a standstill.►Use the discharging rod as shown in the manufacturer documentation.►Ensure that it is fully discharged.
+
+Electric system DANGERLive electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Working on laddersor working platforms
+
+For working above head height, use the provided or other ladders or working plat-forms. Do not climb onto machine parts. Always use appropriate safety equipmentdue to the danger of falling when working at great height. Keep handles, steps, rail-ings, working platforms and ladders clean. The maximum load capacity must beheeded.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 29 
+There is a danger of falling when working on elevated parts of the line.This can cause life-threatening injury.►Wear a safety harness.►Use suitable ascent supports.Hot surfaces WARNINGHot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.Contaminated floor WARNINGFilm on the floor presents a danger of sliding and tripping.This will lead to serious head and body injuries.►Do not step on film residues.►Immediately remove film residues.►Keep the workplace and corridors clean.
+
+Danger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+Danger of slipping on wet floors.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove leaked fluid immediately.►Keep the workplace and corridors clean.Pneumatic system WARNINGUnexpected movements caused by defects in the pneumatic system cancause serious injury.►Prior to service work, switch the pneumatic system so it is depressurised.►Wait until the standstill position is reached.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.
+
+ DANGER
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 30 
+Roll surfaceATTENTIONSharp-edged, hard objects or heavy objects and persons can damage the rollsor cause permanent dents in the roll surface.►Do not touch the roll surface with sharp-edged or hard objects.►Do not place loads onto or step on the roll surface.►Do not place tools and auxiliary material onto the rolls.►Do not lean ascent supports against the rolls.Auxiliary materialsATTENTIONNon-approved spare parts, equipment, and consumables may cause machinedamage and system downtimes.►Only use spare parts, equipment, and consumables that have been approved bymanufacturer.►Spare parts must only be installed at the designated location.
+
+Tools and equipment left lying on or in the machine can cause machine dam-age and line downtimes.►After terminating the respective work, remove tools and equipment from the ma-chine.
+
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.4.4 Inspection and service intervalsConditionsAll the described measures and intervals are based on normal continuous operationof the line. Under aggravated conditions (e.g. maximum operating speed, unfavour-able environmental conditions, special film types), shorter maintenance intervals orhigher quantities of lubricants may become necessary.Service intervalsFor information on the service intervals, see separate "Intervals" manual and the re-spective manufacturer documentation.
+
+ATTENTION
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 31 
+4.5 Preparing for maintenance
+
+Preparing for main-tenance
+
+The following requirements have to be fulfilled prior to the start of settings and main-tenance work:• The maintenance area is marked off and secured against unauthorised entry.• The drives cannot be operated.• The components must not move.• The components must be de-energised.• The pneumatic system must be depressurised.►If access is gained through the safety gate of the winder unit, observe the in-formation about unlocking and locking the safety gate behind the two-station tur-ret winder.
+
+4.6 Pneumatic system4.6.1 Checking and setting the pneumatic systemDescriptionThe pneumatic system is checked and adjusted in the operating mode ServiceMode while being supplied with compressed air.Requirements• The line component is in the operating mode Production Mode.• The drives are switched off.• The temperature of the component and of its environment must be below 35 °C.Required personnel• 2 instructed specialists are required.Auxiliary materials• The pneumatic plan is located in the pneumatic cabinet.• The key for the key switch [ maintenance air ] is required. This key mustalways be with the person responsible for maintenance.Safety WARNINGThe presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.
+
+Moving machine parts can crush body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 32 
+Unexpected movements caused by defects in the pneumatic system cancause serious injury.►Do not remain in the swivelling range of the pneumatically moved component.►Wait until the standstill position is reached.If the pneumatic cabinet is lockable, it has to be opened before the activity andlocked again after the activity has been completed.►Turn the key switch on the pneumatic cabinet to [ maintenance air ][ on ].ð The emergency stop machine fault is triggered.►Turn the key switch on the operator panel to operating mode Service Mode.ð When exiting the Production Mode, the pneumatic system remains suppliedwith compressed air.►Specialist 1 actuates the valves in the pneumatic cabinet.- simultaneously -►Specialist 2 checks the pneumatically operated components on the machine.- After completing the work -►Make sure that the components are in the home position.The pneumatic pressure is set via the pressure reducing valve in the pneumaticcabinet or in WinCC OA (option).The pneumatic pressure should be as low as possible.►Begin with low pneumatic pressure. Slowly increase the pneumatic pressure un-til the correct pneumatic pressure is reached.
+
+Lockable pneumaticcabinetPreparing the pneu-matic systemChecking the pneu-matic systemSetting the pneu-matic pressureManufacturer docu-mentationVentilating the pneu-matic system
+
+Further information on the component can be found in the manufacturer documenta-tion.►Turn the key switch on the pneumatic cabinet [ maintenance air ] to[ off ] and pull out.ð The pneumatic system is ventilated.►When the line component is in Production Mode, reset the Emergency stop ma-chine fault.
+
+4.7 Inspection4.7.1 Carrying out visual inspections for wearRequired personnelThis activity may only be performed by specialists.Safety WARNINGHot surfaces can cause serious burns.►Do not touch hot surfaces.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+ WARNING
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 33 
+Stationary knives cause cuts.►Do not touch the knives.►Wear cut-resistant protective gloves.
+
+Carrying out visualinspections
+
+Excessive nip pressure and extreme angular positioning of rubber coatedrolls or spreading rollers will damage the rubber surface.►Regularly check the nip pressure and the positioning.►Replace rolls or rollers as soon as the rubber surface has become worn.
+
+If the rubber surface of the rubber coated roll or roller becomes worn, the rollsor rollers are no longer parallel with respect to each other.►Regularly check the surface of rolls and rollers.
+
+Hard, sharp-edged objects or heavy objects and persons can damage the rollsor cause permanent dents in the roll surface.►Do not scour, scratch or scrape the roll surface.►Do not step on the roll surface or subject it to load.►Do not deposit tools and devices on the rolls.►No watches, belts, necklaces, bracelets and rings wear.►Do not lean ladders against the rolls.
+
+Dried condensate on the roll surface of the corona treatment roll permanentlydeforms the rubber coated roll surface and leads to back side treatment of thefilm.►Regularly remove soiling and deposits.►During each stop, check all rolls and roll surfaces for integrity.►Regularly check the strainer, filter and sieve of the heating and cooling units andclean or replace if necessary.►Carry out monthly checks on the wear of the stops, rest buffers (bearings, guiderail ends) and couplings.►Check all sensors for cleanliness.►Check the sharpness and setting of the blades of the edge trim device.►Check the sharpness and setting of the knife of the edge trim chopping device.►Check the movement units of the adjusting devices for ease of movement andproper function.►If present: On the passive discharge device, check the antistatic cord for paral-lelism to the roll.►If present: On the active discharge device, check the pins of the ionising rod forcompleteness and integrity.►If present: Check the grinding brush device at the treatment roll on the drive sidefor worn graphite brushes or brushes clogged with lubricant.
+
+ CAUTION
+
+ATTENTION
+
+ATTENTION
+
+ATTENTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 34 
+4.7.2 Checking the ozone exhaust systemSeverely irritating ozone is created in the corona treatment unit during the operation.This must be completely suctioned off by the ozone exhaust system.Required personnelThis activity may only be performed by the process engineer and specialists author-ised by him.Auxiliary materials• Ozone measuring instrumentSafety WARNINGOzone emission at the corona treatment station causes severe irritation ofeyes and respiratory system.►Prior to starting, check the exhaust system.►If a smell of ozone, check the lines for leaks.
+
+Checking the ozoneexhaust system
+
+►Measure and log the ozone concentration of the exhaust system with the ozonemeasuring instrument.ð The ozone concentration of the air must not exceed the locally prescribedlimit.
+
+4.8 Rolls4.8.1 Lubricating roll bearings, gear, linear guides and spindles
+
+Pay attention to the specifications in the service and lubrication table in the "Inter-vals" operating manual.Requirement• The component is in the Maintenance Mode.• All rolls, linear guides and spindles have come to a stop.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Heat-resistant protective gloves• Protective clothing
+
+Auxiliary materials• Bearing grease and spindle oilFor the necessary bearing grease and spindle oil, see the lubricant tableSafety WARNINGHot surfaces can cause serious burns.►Wear heat-resistant protective gloves.►Wear protective clothing.
+
+Danger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+INFO
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 35 
+Lubricating the bear-ing housingLubricating the rollbearingsCleaning and oilingspindles
+
+►Fill to at least 20 % when the lubrication nipple is positioned centrally over the oilgroove.►Fill with lubricant to at least 40 % when the lubrication nipple is positioned ex-ternally on the bearing housing.The bearings must be relubricated at the lubrication nipples.►Fill the new bearings completely with grease to avoid damage.►Remove excess grease.►Clean the spindles regularly and oil with spindle oil.►Remove excess oil.
+
+4.8.2 Setting the contact pressure of a pneumatically swivellingnip rollThe contact pressure of the nip roll has to be set as soon as a new roll pair is putinto operation, e.g. for the following reasons:• Replacement of the nip roll.• Replacement of the counter roll, e.g. treatment roll.Two variants for setting a pneumatically swivelling nip roll system are described be-low:• Setting via handwheel and wedge system (preferred variant).• Setting via pneumatic pressure (variant also applies if the handwheel/key sys-tem is not available).Requirement• The machine is in the Service Mode.• The key switch [ maintenance air ] on the pneumatic cabinet is set to[ on ].Required personnelThis activity may only be performed by specialists.Auxiliary materials• Open-end wrenches AF19 and AF24• Film strip
+
+Setting the contactpressure via pneu-matic pressure
+
+The contact pressure must be equal on the operating side and on the driveside.
+
+NOTICE
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 36 
+1 Counter roll2 Nip roll3 Machine centre4 Film stripü Use film strips with a thickness ≤ 20 µm.►Move the nip roll into the park position.►Insert the film strips according to the figure.►Take the contact pressure from the table in Air pressure diagram for nip roll[} 119] (see related applicable documents) and set this value in the pneumaticsystem.►Move the nip roll into the working position.1 Locknut2 Handwheel3 Wedge4 StopIf the wedges (3) of the stop system on the swivel arms touch the stops (4):
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 37 
+►Adjust the stops (4) with the handwheels (2) until a gap is created so that the niproll is only pressed on by the pneumatic cylinders.If the outer film strips can be pulled out manually without rotating the rolls:►Increase the previously set contact pressure step by step by 0.2 bar per step byrotating the pressure control valve in the pneumatic cabinet until the film stripsare firmly seated.
+
+Too high a contact pressure causes damage to the film and to the rolls.The set contact pressure must not exceed the value shown in the table in Air pres-sure diagram for nip roll [} 119] (see related applicable documents) by more than 15%.The procedure corresponds to the setting of the nip roll via the pneumatic pressure.In addition, the following steps must be carried out.
+
+Setting the contactpressure using thehandwheel andwedge system
+
+The contact pressure must be equal on the operating side and on the driveside.►Bring the wedges (3) back into the stop position by means of handwheels, sothat they make full-surface contact with the stop (4). The roll position may not bechanged.►Increase the pressure in the pneumatic system to 6 bar.
+
+Too high a contact pressure causes damage to the film and to the rolls.The set contact pressure must not exceed the value shown in the table in Air pres-sure diagram for nip roll [} 119] (see related applicable documents) by more than 15%.1 Locknut2 Handwheel
+
+ATTENTION
+
+NOTICE
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 38 
+►Loosen the locknut (1).►Set the contact pressure by rotating the handwheel (2) of the nip roll.►Tighten the locknut (1).4.8.3 Dismantling and lifting out the nip roll including thepneumaticThis section contains information on dismantling and lifting out the nip roll.
+
+The following figures show examples. It is not necessarily identical with your line.To dismantle nip roll, perform the following steps:Requirements• The line component is in Maintenance Mode.• The machine is ready for maintenance.• The components that hinder the removal of the machine component have beenremoved.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.►Ensure that the pneumatic system is depressurised.►Ensure that the pneumatic cylinder is disconnected.Removing the brake►Prepare a holding area for the nip roll, ensuring that the load capacity of thebase is sufficient.1 Screws of the brake calliper2 Brake
+
+INFO
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 39 
+On the drive side►Release the screws (1) of the brake calliper and remove the brake calliper.1 Set screw for belt tension2 Belt3 Tightener pulley4 Screws of the motor mount►Release the screws (4) of the motor mount.►Release the set screw (1) for the belt tension on the motor until the belt (2) isslackened.►Remove the belt.
+
+Removing the beltLoosening the bear-ing housings
+
+1 Screws, bearing housing on theoperating side
+
+2 Screws, bearing housing on thedrive side
+
+On the operating side and drive side►Mark the installation position of the bearing housing.►Secure the nip roll with suitable lifting accessories.►Release the bearing housings.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 40 
+Lifting out the nip roll DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Limited space within the pull roll unit.The roll being lifted out and/or the corona treatment station will be damaged.►Lift out the roll slowly, carefully and with manual assistance.►Lift out the nip roll and set it down in the prepared holding area.►Observe the safety measures.1 Spacer plate at the drive sideOn the drive side►Release the screws and pins of the fixation to separate the spacer plate includ-ing pneumatic cylinder, motor and swivel arm from the frame on the drive side.
+
+Removing the spacerplate
+
+4.8.4 Mounting the nip roll including the pneumaticThis section contains information on mounting the nip roll.
+
+The following figures show examples. It is not necessarily identical with your line.To mount the nip roll, perform the following steps:
+
+ATTENTION
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 41 
+Mounting the spacerplate
+
+1 Spacer plate at the drive sideAt the drive side►Fix spacer plate (1) including pneumatic cylinder, motor and swivel arm with thescrews and pins on the frame.Lifting in the nip roll DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Limited space within the pull roll unit.The roll to be lifted out and/or the corona treatment station can be damaged.►Lift in the roll slowly, carefully and with manual assistance.►Secure the nip roll in the holding area with suitable lifting accessories.►Lift in the nip roll with the crane.►Observe the safety measures.
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 42 
+Fixing the bearinghousingsMounting the belt
+
+1 Screws bearing housing OS2 Screws bearing housing DSOn the operating side and drive side►Bring the bearing housings into the installation position according to the marks.►Fix the bearing housings.►Tighten the screws (1, 2) of the bearing housings.1 Set screw for belt tension2 Distance tight side - tightener pulley3 Belt4 Tightener pulley5 Screws of the motor mount►Attach the belt (3).►Tighten the set screw (1) for the belt tension on the motor until the belt is ten-sioned. Distance from the tight side to the tightener pulley: d = 122 mm.►Tighten the screws (5) of the motor mount.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 43 
+Fixing the brake
+
+1 Screws of the brake calliper2 BrakeAt the drive side►Fix the brake calliper with screws (1).Lifting in the nip roll DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Limited space within the pull roll unit.The roll to be lifted out and/or the corona treatment station can be damaged.►Lift in the roll slowly, carefully and with manual assistance.►Secure the nip roll in the holding area with suitable lifting accessories.►Lift in the nip roll with the crane.►Observe the safety measures.
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 44 
+4.9 Filter4.9.1 Heating and cooling unitsThe strainer, filter and sieve of the heating and cooling units have to be checkedregularly and cleaned or replaced if necessary.
+
+Further information can be found in the manufacturer documentation (see "Manufac-turer list").4.9.2 Magnetic filter in switch cabinetThe magnetic filter (2) under the switch cabinet (1) on the drive side has to bechecked regularly and the filter candle has to be cleaned or replaced if necessary.1 Switch cabinet2 Magnetic filter
+
+Further information can be found in the manufacturer documentation (see "Manufac-turer list").4.9.3 Motor cooling and corona generator coolingThe magnetic filter inserts of the motor cooling and the corona generator coolinghave to be checked regularly and cleaned or replaced if necessary.• First check: after being put into operation.• At least one check per year.
+
+For more detailed information on the magnetic filters, refer to the manufacturer’s in-structions.4.10 Spreading device4.10.1 Adjusting the working width of the spreading device withhandwheel
+
+INFO
+
+INFO
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 45 
+DescriptionThe working width of the spreading device is adjusted during the threading of thefilm into the line component.The working width is set by means of handwheel if the spreading device is posi-tioned before the edge trim device.Requirement• The line component is in the operating mode Production Mode.Required personnelThis activity may only be performed by specialists and operating personnel.
+
+Adjusting the work-ing width of thespreading device
+
+The following activities must be carried out the operating and the drive side.►Open the swivelling spreading roller with the control or, if present, the push but-ton on the operator panel.►Adjust the working width at the spreading device with the handwheel.►Thread the film into the line component.►If necessary, correct the working width. The non-swivelling spreadig rollershould be located approx. 10 mm within the film edge.►Close the swivelling spreading roller with the control or, if present, the push but-ton on the operator panel.
+
+4.10.2 Adjusting the working width of the spreading device bymeans of the control
+
+Any new adjustment is required only when changing the production program.DescriptionThe working width of the spreading device is adjusted during the threading of thefilm into the line component.The working width is set by motor if the spreading device is positioned after theedge trim device.Requirement• The line component is in the operating mode Production Mode.Required personnelThis activity may only be performed by specialists and operating personnel.
+
+Adjusting the work-ing width of thespreading device
+
+The following activities must be carried out the operating and the drive side.►Open the swivelling spreading roller with the control.►Adjust the working width by means of the control.►Thread the film into the line component.►If necessary, correct the working width. The non-swivelling spreadig rollershould be located approx. 10 mm within the film edge.►Close the swivelling spreading roller with the control.
+
+4.10.3 Adjusting the angle of inclination of the spreading rollers bymotor
+
+Any new adjustment is required only when changing the production program.DescriptionThe angle of inclination is set on both sides by means of push buttons from outsidethe safety fence.Requirement• The line component is in the operating mode Production Mode.Required personnelThis activity may only be performed by specialists.
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 46 
+Setting the angle ofinclination
+
+The angle of inclination of the spreading roller to the film path is set by motor onboth sides. The setting is carried out by means of a push button on the operatingside and on the working side.The angle of incidence is independent of the type or thickness of the film and theline speed.
+
+Incorrectly adjusted rolls increase the tread wear of the rubber coating.►Set the rollers within the recommended range of angles.►Set an identical angle on both sides.1 Spreading roller2 Film borderZ Angle of incidenceThe following activities must be carried out the operating and the drive side:►Set the desired angle of incidence (Z) between 0° and 4° with the push buttons.4.10.4 Setting the non driven spreading rollers for minimum wearRequirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Wrench set
+
+Close the swivellingspreading roller
+
+►If necessary, close the swivelling spreading roller manually.
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 47 
+Adjust the spreadingrollers
+
+1 Upper cheese head screw2 Lower cheese head screw►Loosen the cheese head screws (1) and (2).►Screw in or unscrew the cheese head screws until the running surface of the up-per spreading roller is set parallel to the running surface of the lower spreadingroller.►Tighten the cheese head screws (1) and (2).4.10.5 Replacing the spreading rollersIf the rubber coated surface is worn or damaged, the roller with bearings must be re-placed.
+
+Extreme nip pressure and angular positioning will reduce the service life of the rub-ber layer.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 48 
+If the aluminium surface is worn or damaged, the roller with bearings must be re-placed.Requirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Lubricants• Wrench set• Climbing aidRemoving thespreading rollers1 Hexagon head screw2 Bearing3 Retaining ring4 Hexagon head screw5 Distance ring6 Shaft7 Rubber coated spreading roller8 Aluminium spreading roller►Loosen the screws (1) and (4) and remove with washers.►Remove the spreading rollers and the shaft (6).►Pull the shaft out of the spreading roller of the swivel arm.►Remove the retaining rings (3).►Pull out the bearing (2) and distance rings (5).
+
+Installing the spread-ing roller
+
+If the spreading device is mounted downstream of the treatment station, the alu-minium roll must be mounted on the treated film side.►Insert the cleaned and lubricated bearing or new bearing with distance rings inthe spreading rollers.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 49 
+►Insert the retaining rings.►Push the shaft into the spreading roller of the swivel arm.►Mount the spreading roller and shaft on the swivel arm and secure with a screwand washer.►Push the spreading roller onto the rocker and secure with a screw and washer.►Tighten the screws.►If there are lubrication nipples: Lubricate the bearing of the rolls until lubricantescapes. For choosing the lubricants, see the "Lubricant table".►Remove excess lubricant.►Adjust the spreading device if necessary.4.10.6 Replacing the rotary cylinder of the spreading rollersRequirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Allen wrench set• LubricantsRemoving the rotary cylinder1 Cheese head screws2 rotary cylinder3 Swivel arm
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 50 
+►Release the compressed air supply of the rotary cylinder.►Loosen the screws (1) and remove.►Remove the rotary cylinder (2) with swivel arm (3) and spreading roller.►Loosen the screw of the swivel arm and remove with the washer.►Pull the swivel arm with spreading roller off the rotary cylinder.Installing the rotary cylinder►Lightly lubricate the axle of the rotary cylinder.►Slide the swivel arm with spreading roller onto the new rotary cylinder.ð Ensure that the groove in the opening of the swivel arm slides over thespring of the rotary cylinder axis.►Fix the swivel arm with washer and screw onto the axis.►Screw the rotary cylinder with swivel arm on the support of the spreadingdevice.►Connect the compressed air supply of the rotary cylinder.4.10.7 Replacing the damper of the spreading rollersThe damper serves as a stop for the swivel arm of the lower spreading roller.Requirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Wrench setRemoving the damper1 Stop2 Damper►Swivel out the swivel arm.►Unscrew the damper (2) on the wrench flat.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 51 
+Installing the damper►Screw the damper into the support.►Set the stop (1) by turning the damper tip to the swivel arm side.Removing the damper1 Stop2 Damper►Unscrew the damper (2) on the wrench flat.Installing the damper►Screw the damper into the support.►Set the stop (1) by turning the damper tip to the swivel arm side.
+
+Replacing thedamper
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 52 
+4.10.8 Replacing the spreading deviceThe spreading device has a motorised swivel device for adjusting the setting angleof the spreading rollers.Requirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Wrench set
+
+Replacing thespreading device
+
+Removing the spreading device1 Hexagon head screws►Release the compressed air supply of the rotary cylinder.►Loosen the spreading device at the screws (1).►Remove the spreading device.Installing the spreading device►Set the spreading device into the support and secure with screws and washers.►Tighten the screws (1) by hand.►Connect the compressed air supply of the rotary cylinder.►Adjust the spreading device.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 53 
+4.10.9 Replacing the drive of the oscillationIf the motorised drive of the adjusting device is defective, it must be replaced.Requirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Allen wrench set• Wrench setRemoving the drive
+
+The following figure shows an example. The component can be designed differently.See the manufacturer documentation.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 54 
+1 Hexagon head screws2 Adapter3 Motor4 Clamping bushings5 Hexagon head screws►If present, remove the hoop guard on the motor.►Pull the power supply of the drive out of the motor (3).►Release the screws of the adapter.►Release the screws of the clamping bushings (4) and remove the motor with theadapter.►Remove the clamping bushing halves from the adapter.►Unscrew the motor from the adapter and remove.Installing the drive►Screw the new motor tight onto the adapter.►Insert the clamping bushing in the adapter.►Put the motor with adapter onto the spindle of the adjusting device.►Screw on the adapter.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 55 
+►If necessary, affix the hoop guard on the motor.►Connect the power supply of the motor.4.10.10 Replacing the rotary actuator of the spreading deviceIf the motorised drive of the swivel device of the spreading device is defective, itmust be replaced.Requirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Allen wrench setReplacing the driveRemoving the drive1 Motor2 Adapter3 Hexagon socket head screw4 Proximity switch►Pull the power supply of the drive out of the motor (1).►Release the screws (3).►Remove the motor (1).Installing the drive►Screw the new motor tight onto the adapter (2).►Align the proximity switch (4) to the maximum displacement (0°-4°) of the swivelarm.ð The right position is reaced as soon as the circuit is triggered.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 56 
+►Connect the power supply of the motor.4.11 Edge trim device4.11.1 Adjusting the edge trim deviceThe immersion depth and the netto film width can be adjusted at the edge trim unit.4.11.1.1 Setting the immersion depth of the bladeRequired personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Cut-resistant protective gloves
+
+Auxiliary materials• The key for the key switch [ maintenance air ] is required. This key mustalways be with the person responsible for maintenance.• The key for the key switch for the operating modes is required.• Allen wrench set• Wrench setSafety WARNINGThe presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.
+
+Moving machine parts can crush body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+Unexpected movements caused by defects in the pneumatic system cancause serious injury.►Do not remain in the swivelling range of the pneumatically moved component.►Wait until the standstill position is reached.
+
+Stationary knives cause cuts.►Do not touch the knives.►Wear cut-resistant protective gloves.ü The line component is in the operating mode Production Mode.
+
+Preparation the edgetrim device
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 57 
+►Turn the key switch [ maintenance air ] on the pneumatic cabinet to[ on ].ð The Emergency stop machine fault is triggered.►Switch into the Maintenance Mode. Turn the key switch on the operator panel to[ Maintenance ].ð When exiting the Production Mode, the pneumatic system remains suppliedwith compressed air.The following activities must be carried out the operating and the drive side.►Insert and fix a piece of film between the inlet rolls.►Move the cutter head into the working position. For this manually operates thevalves on the pneumatic cabinet.1 Hexagon socket head screw2 Hexagon nut3 Knife cover4 Hexagon nut5 Housing6 Turnbuckle►Release hexagon nut (2).►Screw in the screw (1) to an immersion depth of 5 mm.►Retighten the hexagon nut (2).►Open the enclosure (5).►Loosen the hexagon nuts (4) and turn the turnbuckles (6) until the knifecover (3) is aligned parallel to the film.►Retighten the hexagon nuts (4).►Close the enclosure (5).
+
+Setting the immer-sion depth
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 58 
+►Move the cutter head back into the park position. For this manually operates thevalves on the pneumatic cabinet.►Turn the key switch on the pneumatic cabinet [ maintenance air ] to[ off ] and pull out.ð The pneumatic system is ventilated.►When the line component is in Production Mode, reset the Emergency stop ma-chine fault.
+
+Ventilating the pneu-matic system
+
+4.11.1.2 Setting the net film width
+
+Setting the net filmwidth
+
+Surface treatment may change the net film width.►Regularly check finished width of mill roll.
+
+Width corrections may also be undertaken during production.►Set the net film width in WinCC OA.4.11.2 Turning the blade holder of the edge trim deviceIf a blade of the edge trim device is blunt, the blade holder must be turned. A bluntblade is recognisable from a rough cutting edge on the mill roll.The cutting process is not interrupted by this activity.RequirementThe machine is in the Production Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• None
+
+Auxiliary materials• Special key (supplied)
+
+Turning the bladeholder
+
+If the special key for turning the blade holder is inserted, there is a danger ofbeing pushed and clamped when moving the edge trim device into the parkposition if there is a film break.This can lead to injury on all body parts.►In case of a film break, immediately leave the danger zone.►Wait for the machine to come to a standstill.
+
+A special key left inserted in the machine can cause a film break.►After completing work, remove all tools and auxiliary materials from the ma-chine.►Using the special key, turn the blade holder slowly by 60° against the film direc-tion until it clicks into place.►Pull out the special key.
+
+ATTENTION
+
+INFO
+
+ WARNING
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 59 
+4.11.3 Turning or replacing the blades of the edge trim deviceIf all blades of the edge trim device are blunt, they must be turned or replaced.
+
+One of the six blades is marked. This blade should always be the first to be used.After the sixth rotation of the blade holder, all blades are worn and have to be turnedor replaced.Requirement• The cutter head is located inside the safety cover.• The pull roll unit is in the Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Cut-resistant protective gloves• Protective clothing
+
+Safety WARNINGStationary knives cause serious cutting injuries or cut off body parts.►Do not touch the knives.►Wear cut-resistant protective gloves.►Wear protective clothing.Removing the blades1 Blades2 Blade holder3 Knurled nut4 Safety cover►Open the front flap of the safety cover (4).►Remove the knurled nut (3) and the blade holder (2) with the magnets.►Turn or remove the blades (1).Installing the blades►Insert the new blades.►Fix the blade holder (2) and knurled nut (3) in place.►Bring the blade with the marking into the cutting position.►Close the front flap of the safety cover (4).
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 60 
+4.12 Edge trim chopping device4.12.1 Adjusting the edge chopping deviceRequirement• The machine is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Cut-resistant protective gloves
+
+Auxiliary materials• Allen wrench setSafety CAUTIONStationary knives cause cuts.►Do not touch the knives.►Wear cut-resistant protective gloves.
+
+Setting the positionof the rotating knife
+
+The distance between the blade insertion point and the cutting line is approx.10 mm.►Turn the handwheel clockwise in order to move the knife to the film centre.►Turn the handwheel anticlockwise in order to move the knife to the film centre.►Observe the set values on the scale of the handwheel.►Set the rotating knife so that the blade cuts the edge trim outside of the cuttingline.
+
+Setting the knife gapThe knife gap is set on the stationary knife.
+
+Rotating knives cause serious cutting injuries or cut off body parts.►Carry out work on the impact knife only when the tension springs are slackened.1 Blade2 Cheese head screws3 Cheese head screw (on the rearside)►Slacken the extension springs of the rotating knife.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 61 
+►Set the knife gap with the screws (2) and (3).ð The knife gap must be virtually 0.►Check the cut with a sheet of paper.►Fix the extension springs in place.4.12.2 Replacing the blades of the edge chopping deviceIf the blades of the edge chopping device are blunt, they must be replaced.Requirement• The machine is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Cut-resistant protective gloves
+
+Auxiliary materials• Allen wrench setSafety CAUTIONStationary knives cause cuts.►Do not touch the knives.►Wear cut-resistant protective gloves.
+
+Replacing the bladeof the rotating knife
+
+Rotating knives cause serious cutting injuries or cut off body parts.►Carry out work on the impact knife only when the tension springs are slackened.1 Blade2 Cheese head screws3 Cover4 Extension springs►Loosen the extension springs (4) and hang out on the cover (3).►Swivel the swivel arm upward.►Release the screws (2).►Replace the blade (1).►Tighten screws (2).►Swivel the swivel arm downward and attach the extension springs.►Tension the extension springs.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 62 
+Replacing the bladeof the stationary knife
+
+5 Blade6 Cheese head screws7 Cheese head screw (rear side)►Release the screws (6).►Loosen the screw (7).►Replace the blade (5).►Tighten the screws (6, 7).►Set the knife gap.ð See Adjusting the edge chopping device [} 60]4.13 Part nip roller device4.13.1 Adjusting the part nip roller deviceContact pressure and working width can be adjusted during operation.Requirement• The machine is in the Production Mode.Required personnelThis activity may only be performed by specialists.
+
+Setting the contactpressureSetting the workingwidth
+
+The part nip roller is pneumatically pressed onto the roll.►Set the pressure on the pressure control valve in the pneumatic cabinetð for the upper part nip roller from 0.5 bar to 1.0 barð for the lower part nip roller from 3 bar to 4 barThe part nip roller must cover the border of the cut film path to a width of 50 mm to100 mm.►Turn the handwheel clockwise in order to move the part nip roller to the filmcentre.►Turn the handwheel anticlockwise in order to move the part nip roller to the filmborder.►Observe the set values on the scale of the handwheel.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 63 
+4.13.2 Replacing the part nip rollerIf the surface of a part nip roller is worn or damaged, the part nip roller must be re-placed. Worn part nip rollers must be rubber coated again.Requirement• The machine is ready for maintenance.• The line component is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Lubricants
+
+Removing the partnip rollerInstalling the part niproller
+
+The following figure shows an example. The figure is not necessarily identical toyour line.1 Flange bearing2 Flange bearing3 Hexagon head screws4 Part nip roller5 Hexagon head screws6 Centering ring►Loosen the hexagon head screws (3, 5) of the flange bearing (1, 2).►Remove the part nip roller (4).►Remove the centering ring (6).►Pull the flange bearing (1, 2) out of the axle.►Push the flange bearing (1, 2) onto the axle of the new part nip roller (4).►Insert a centering ring (6).►Insert the part nip roller (4).►Insert the hexagonal screws and bolts (3, 5) with washers.►Uniformly tighten the hexagonal screws and bolts (3, 5).►Lubricate the bearing of the rolls until grease escapes.►Remove excess grease.►Adjust the part nip roller device if necessary.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 64 
+4.14 Treatment station4.14.1 Setting the corona treatment stationRequirement• The machine is in the Service Mode.Required personnelThis activity may only be performed by specialists.
+
+Setting the film dis-tanceSetting the generatoroutputManufacturer docu-mentation
+
+►Measure the film distance between the electrode and the film and set it to ap-prox. 2.0 mm to 2.5 mm in the control.►Set the treatment intensity (output of the generators) on the operator panel.
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+4.15 Discharge device4.15.1 Cleaning or replacing the ionising rodRequirement• The machine is ready for maintenance.• The machine is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Cleaning brush• Voltage-insulated toolSafety WARNINGElectrostatic discharge can cause serious injury from electric shock.►Access is forbidden for people with a heart pacemaker.►Discharge with a discharging rod before beginning work.►Ensure that it is fully discharged.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 65 
+OverviewCleaning the ionisingrodRemoving the ion-ising rodInstalling the ionisingrod
+
+1 Ionising rod2 Washer3 Nut►Carefully clean the surface of the ionising rod (1) with a soft brush.►Loosen and remove the nuts (3) and washers (2) along the beam.►Carefully take off the ionising rod (1) upward.►Set the new or cleaned ionising rod on the beam.►Lightly lubricate the thread and screw the ionising rod together with washers andnuts from below.
+
+4.16 Discharge devices of the corona treatment roll4.16.1 Checking and replacing the discharge devices of the coronatreatment rollThe discharge devices on the corona treatment roll must be checked regularly andrepaired or replaced if necessary.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 66 
+For more details, see the "Intervals" operating manual and the manufacturer docu-mentation.Requirement• The machine is ready for maintenance.• The machine is in Maintenance Mode.Required personnelThis activity may only be performed by specialists.
+
+Personal protectiveequipment
+
+• Hard hat
+
+Auxiliary materials• Allen wrench set• Wrench set• Voltage-insulated tool
+
+Removing the rotarytransducer
+
+On the operating sideThe rotary transducer is mounted on the operating side of a corona treatment rolland must be removed in the following cases:• If the rotary transducer is damaged.• Before removing a corona treatment roll.
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 67 
+1 Hexagon head screw2 Cover3 Hexagon nut4 Earthing strip5 Sleeve6 Cheese head screw7 Shaft8 Rotary transducer9 Tension isolator10 Roll journal11 Cheese head screwRemove the complete discharge device:►Release the hexagon head screws (1).►Remove the cover (2).►Release the hexagon nut (3).►Release the earthing strip (4).►Loosen the cheese head screws (6).►Remove the sleeve (5) for the rotary transducer (8).►Loosen the cheese head screws (11).►Remove the shaft (7) including the rotary transducer (8).►Keep the hexagon connected to rotary transducer (8).On the operating sideIf a corona treatment roll has been installed, the rotary transducer must be mountedagain.
+
+Installing the rotarytransducerMounting and check-ing the dischargedevice
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 68 
+1 Hexagon head screw2 Cover3 Hexagon nut4 Earthing strip5 Sleeve6 Cheese head screw7 Shaft8 Rotary transducer9 Tension isolator10 Roll journal11 Cheese head screwMount the complete discharge device:►Screw the shaft (7) with the rotary transducer (8) into the roll journal (10) withthe cheese head screws (11). Make sure that the arrow on the rotary transducerpoints outwards.►Fix the sleeve (5) in place with the cheese head screws (6).►Fix the earthing strip (4) in place to the rotary transducer at a distance of 8 mm.►Tighten the hexagon nut (3) with a tightening torque of 13 Nm.►Fix the tension isolation (9) in place on the lateral plate and clamp the earthingstrip between the plaques.►The earthing strip may not be stretched tight at the section between rotary trans-ducer and tension isolation.►Fix the cover (2) in place.►Tighten the hexagon head screws (1).
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 69 
+After mounting, the following checks are necessary:• The earthing strip and the electrical insulation must be undamaged.• The rotary transducer has to run neatly centred.• In the axial direction, the rotary transducer has to be connected to the earthingstrip force shunt-free.• All earthing cables must be connected.On the drive sideWear of the discharge brushes is reported to the process control system by the mi-croswitch. When the discharge brushes are worn, they must be replaced.
+
+Checking and remov-ing the grindingbrush device
+
+The following figure shows an example. The figure is not necessarily identical toyour line.1 Grinding brush device2 Hoop guard3 Oval head screws4 Cover panels5 Microswitch cable6 Copper rail
+
+7 Brush holder unit with mi-croswitch9 Grinding brush
+
+8 Earthing cable
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 70 
+Preparing the grinding brush device for replacement of the grinding brushes:►Remove the hoop guard (2).►Loosen the oval head screws (3) and remove the cover panels (4).►Release the earthing cable (8) at the copper rail (6).
+
+Installing the grind-ing brush deviceafter checking
+
+Note the information and follow the instructions from the manufacturer for removingand installing the brush holding unit. See "Manufacturer list".On the drive sideIf the grinding brushes have been replaced, the grinding brush device must be rein-stalled.
+
+Note the information and follow the instructions from the manufacturer for removingand installing the brush holding unit. See "Manufacturer list".
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 71 
+1 Grinding brush device2 Hoop guard3 Oval head screws4 Cover panels5 Microswitch cable6 Copper rail
+
+7 Brush holder unit with mi-croswitch
+
+8 Earthing cable
+
+9 Grinding brush10 Cover panel screwMounting the grinding brush device►Attach the earthing cables (8) to the copper rail (6).►Mount the cover panels (4) with the oval head screws (3).►Mount the hoop guard (2). For flashover protection, ensure a minimum distanceof 5 mm between the hoop guard (2) and the screw (10) of the cover panel (4)all round. Use an insulating plastic tube if necessary.4.17 Replacing the treatment roll
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 72 
+4.17.1 Components overviewThis section shows some rolls and components which may be involved in removingand installing the treatment roll.Side viewINFOThe figure shows an example of a roll arrangement and is not necessarily identicalto that in your machine.1 Pneumatic system of nip roll2 Nip roll3 Corona treatment station4 Corona treatment roll4.17.2 Table of activities►Perform the activities listed in the table below. Execute the steps consecutively.Legend for the table below:XActivity has to be carried outIf requiredActivity to be carried out optionallyPreparationActivitiesFor instructions, see chapterNeces-saryPrefacePreface [} 73]XRequirementsRequirements [} 74]XSafetyWorking safely [} 74]X
+
+Removing the treat-ment roll
+
+ActivitiesFor instructions, see chapterNeces-sary
+
+Disconnect the electrical and pneu-matic system of the corona treat-ment station.
+
+Disconnecting the electrical andpneumatic systems of the coronatreatment device [} 76]
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 73 
+ActivitiesFor instructions, see chapterNeces-sary
+
+Moving the corona treatment deviceto the park position.Disconnect the pneumatic system ofthe nip roll.Remove the cross bar on the driveside.
+
+Bringing the corona treatmentdevice into the park position[} 77]Disconnecting the pneumatic sys-tem of the nip roll [} 80]Removing the cross bar on thedrive side [} 81]
+
+If requiredXXIf required
+
+Remove the cooling pipes.Removing the cooling pipes[} 84]
+
+Remove the drive of the treatmentroll.
+
+Dismantling the drive of the treat-ment roll [} 85]
+
+Remove the roll guard.Dismantling the roll guard [} 87]XXRemove the treatment roll.Dismantling the treatment roll[} 88]ActivitiesFor instructions, see chapterNeces-sarySafety instructionsWorking safely [} 74]XXMount the treatment roll.Mounting the treatment roll[} 94]Mount the roll guard.Mounting the roll guard [} 103]X
+
+Installing the treat-ment roll
+
+Mount the drive of the treatment roll. Mounting the drive of the treat-ment roll [} 103]Mount the cooling piping.Mounting the cooling piping[} 105]
+
+If requiredXXIf required
+
+Mount the cross bar on the driveside.Connect the pneumatic system ofthe nip roll.Bring the corona treatment deviceinto the working position.Connect the electrical and pneu-matic systems of the corona treat-ment station.
+
+Mounting the cross bar on thedrive side [} 106]Connecting the pneumatic systemof the nip roll [} 109]Bringing the corona treatmentdevice into the working position[} 109]Connecting the electrical andpneumatic systems of the coronatreatment device. [} 112]
+
+Perform the final safety measures.Final safety measures [} 112]X4.17.3 PrefaceThe treatment roll must be removed for the following measures:• For all repairs (re-rubberising or grinding) by the roll manufacturer.• To change the roll bearings.If necessary, use a repair kit from Brückner-Service-Tec GmbH to repair minor dam-age.Further information on the treatment roll can be found in the manufacturer docu-mentation.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 74 
+Selection of compon-ents that need to beremoved
+
+To be able to lift out the treatment roll, it may be necessary to remove several com-ponents.How to remove and install the components is described in the respective chapters.
+
+DurationRemoval and installation of the treatment roll takes approx. 1 day.4.17.4 RequirementsTo ensure that the removal and installation work can be performed safely, it is im-perative that you abide by the requirements for personnel and for the line.PersonnelThe treatment roll may only be removed and installed by persons who:• are familiar with the danger zones and are able to secure them properly• are equipped with the required personal protective equipmentFilm production lineThe following requirements must be met before beginning with removal/installation:• The key switch on the operator panel must be set to the Maintenance Mode andthe key must be removed.• The pull roll unit and winder unit have been stopped with a [ Machinestop ] and are locked out.• If necessary: The fuses of the drives in the working area have been switched off.• The danger zones are secured against unauthorised access.• For safety reasons, the temperature of the rolls and their vicinity must be below35 °C.Film windingsAny film windings must be carefully removed. Only use film cutters with a hiddenblade.
+
+Sharp objects and unsuitable aids destroy the rolls and cause the line to stop.►Only use film cutters with a hidden blade.
+
+Sharp-edged cleaning tools such as knives and scrapers damage the rolls.Production downtime due to destroyed rolls.►Do not remove film remnants using sharp objects.ToolsThe following tools and auxiliary materials are needed for removing/installing thetreatment roll:• Existing standard tools from Brückner.• Torque wrench for mounting the roll drive.• Torque wrench for installing the bearing housing.• Collection container for cooling water.• Fabric belt as an accessory for lifting the roll.• Mounting tools for bearings.• Lubricants as specified in the lubricant list (see appendix) for filling the roll bear-ing and bearing housing.4.17.5 Working safelyThis chapter contains information on the preparatory measures necessary for ex-
+
+ATTENTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 75 
+4.17.5.1 Danger spotsWhen changing the treatment roll, dangerous situations can arise from:• Work on rolls and rollers.• Work with and on electrical systems and equipment.• Work with and on pneumatic systems.• Work with lifting gear.Additional safety information can be found directly where the activities are describedand in the safety manual.4.17.5.2 Safety instructionsAttention must be paid to the following safety instructions:
+
+Defective or non-functional safeguards loose their protective functions andcan lead to life-threatening or serious injuries.►Remount all safeguards after completion of the maintenance tasks.►Check that safeguards are functioning properly.►Do not override safeguards.►Do not deactivate safeguards.►Do not change the configuration of safeguards.
+
+There is a danger of falling when working on elevated parts of the line.This can cause life-threatening injury.►Wear a safety harness.►Use suitable ascent supports.
+
+Ozone emission at the corona treatment station causes severe irritation ofeyes and respiratory system.►If a smell of ozone, check the lines for leaks.
+
+Stationary rolls may turn when you step on or lean against the roll.Risk of falling and crushing.►Do not step on rolls.
+
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.
+
+ DANGER
+
+ DANGER
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 76 
+Discharged oils in case of improper handling results in damage to the envir-onment.►Use oils safely.►Remove leaked oils immediately.►Keep work areas clean.►Always read the designation and product information prior to use.
+
+Hard and sharp-edged objects damage the rolls.►When cleaning, do not scour, scratch or scrape the surface.►Use approved auxiliary materials only.
+
+Hard, sharp-edged objects or heavy objects and persons can damage the rollsor cause permanent dents in the roll surface.►Do not scour, scratch or scrape the roll surface.►Do not step on the roll surface or subject it to load.►Do not deposit tools and devices on the rolls.►No watches, belts, necklaces, bracelets and rings wear.►Do not lean ladders against the rolls.
+
+Tools and equipment left lying on the machine can cause machine damageand line downtimes.►After terminating the respective work, remove tools and equipment from the ma-chine.
+
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.4.17.6 Disconnecting the electrical and pneumatic systems of thecorona treatment deviceOnly disconnect the electrical system if the swivel arm needs to be removed.
+
+ CAUTION
+
+ATTENTION
+
+ATTENTION
+
+ATTENTION
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 77 
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Moving machine parts can crush body parts.This can lead to injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.Procedure►Release and disconnect the electrical and pneumatic connections of the coronatreatment device.►Use a suitable tool.4.17.7 Bringing the corona treatment device into the park positionThis chapter provides information on how the upper corona treatment device isbrought into the park position.OverviewINFOThe following figure shows an example. The figure is not necessarily identical toyour line.1 Console of the park position2 Corona treatment device in theworking position3 Ozone exhaust system
+
+ DANGER
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 78 
+PreparationIn order that the corona treatment station can be lifted with the crane and placed onthe console of the park position, the following steps must be performed:1 Flexible pipe►Disconnect the cables and flexible pipes of the electrical and pneumatic sys-tems.►Disconnect flexible pipe (1) between the corona treatment device and the ozoneexhaust system.Procedure WARNINGSurfaces (e.g. of motors, rolls, film spreading devices, heated components)can be hot.This can lead to severe burns.►Do not touch hot surfaces.►Do not touch the hot film.►Wear protective gloves.►Wear protective clothing.►Only perform maintenance work on cool machine parts.
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 79 
+1 Screws for locking unit2 Retaining screws3 Corona treatment station in theworking position►Fix suitable lifting accessories to the corona treatment device.
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.►Tighten screws (1) to lock the housing holder.►Release the retaining screws (2).
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+ DANGER
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 80 
+1 Screws for locking unit2 Retaining screws on operating side3 Retaining screws on drive side►Lift the corona treatment station with a crane and set down on the console of thepark position.►Tighten the retaining screws on operating side (2) and on drive side (3) in thecorresponding screw holes on the park position.4.17.8 Disconnecting the pneumatic system of the nip roll
+
+Moving machine parts can crush body parts.This can lead to injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.ProcedureDisconnecting the pneumatic system of the nip roll:►Shut off the compressed air supply at the pneumatic cabinet.ð The system is ventilated and the pressure display shows 0 bar.
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 81 
+1 Fork yoke2 Pneumatic cylinder3 Swivel armü On both the operating side and drive side:►If necessary, release the pneumatic connection from the pneumatic cylinder.►Release the fork yoke (1) on the swivel arm (3).►Disconnect the pneumatic cylinder (2) at the flange.4.17.9 Removing the cross bar on the drive sideDepending on whether the lower or upper treatment roller is removed, the corres-ponding cross bar must be removed on the drive side.
+
+The following figures show examples. It is not necessarily identical with your line.Preparation►Prepare a holding area for the cross bar.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 82 
+Removing the flangecoverRemoving the coverof the driving unit
+
+1 Screws2 Flange cover►Release the screws (1).►Remove flange cover (2).1 Screws2 Cover3 Drive unit4 Safety grid►Release the screws (1).►Remove the cover (2) between the driving unit (3) and safety grid (4).
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 83 
+Removing the safetygridRemoving the crossbar
+
+1Safety grid2Screws►Release screws (2) of the upper angle support on the corners of the safety grid(1).►Remove the safety grid (1).
+
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 84 
+Cross bar, relevant for changingthe lower treatment roll
+
+Cross bar, relevant for changing theupper treatment roll
+
+►Mark the cross beam position.►Release the couplings.►Lift out the cross bar and set it down in the prepared holding area.4.17.10 Removing the cooling pipesThis section contains information on dismantling the cooling piping.
+
+Danger of slipping on wet floors.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove leaked fluid immediately.►Keep the workplace and corridors clean.Preparation►If there is no drain in the floor: Provide a container for catching the cooling wa-ter.►Switch off the heating/cooling device and secure against being switched onagain.►Drain the cooling water out of the cooling piping.ProcedureINFOThe following figure shows an example. The figure is not necessarily identical toyour line.
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 85 
+1 Flexible pipe2 Disconnecting point, flexible pipe/rotary joint3 Rotary joint►Place a container underneath to catch the cooling water.►Close the shut-off valves on the piping of the pull roll unit.►Detach the flexible pipe from the rotary joint.►Remove the flexible pipe from the piping.►Dismantle the rotary joint.4.17.11 Dismantling the drive of the treatment roll
+
+Only dismantle the drive of the treatment roll if it is necessary.This section contains information on dismantling the drive.Preparation►Prepare a holding area for the motor.►Disconnect the electrical system.
+
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Motor cooling (op-tional)
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+ DANGER
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 86 
+1 Backflow2 Inflow3 Motor4 Lever of shut-off valve►Place a container underneath to catch the cooling water.►Close off the cooling.►Release the inflow and backflow connections.►Detach the flexible pipe of the pipework from the motor.MotorINFOThe following figure shows an example. The figure is not necessarily identical toyour line.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 87 
+1 Screws of the motor mount2 Torque support3 Tension unit4 Motor5 Screws of the torque support►Release the screws (1).►Release the tension unit (3).►Depending on the installation situation, loosen screws (5) if necessary and re-move torque support (2).►Pull off the motor (4) and set it down in the prepared holding area with a crane.4.17.12 Dismantling the roll guardTo dismantle the roll guard, perform the following steps:ProcedureINFOThe following figure shows an example. The figure is not necessarily identical toyour line.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 88 
+1 Oval-head screws, roll2 Oval-head screws, roll guard3 Roll guard►Mark the position of the roll guard (3).►Release the oval-head screws (2).►Release the oval-head screws (1).►Remove both half shells of the roll guard (3).4.17.13 Dismantling the treatment roll
+
+Danger of slipping on wet floors.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove leaked fluid immediately.►Keep the workplace and corridors clean.To remove the treatment roll, perform the following steps:Preparation►Prepare a holding area for the treatment roll, ensuring that the load capacity ofthe base is sufficient.
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 89 
+Removing the rotarytransducer
+
+On the operating sideThe rotary transducer is mounted on the operating side of a corona treatment rolland must be removed in the following cases:• If the rotary transducer is damaged.• Before removing a corona treatment roll.
+
+The following figure shows an example. The figure is not necessarily identical toyour line.1 Hexagon head screw2 Cover3 Hexagon nut4 Earthing strip5 Sleeve6 Cheese head screw7 Shaft8 Rotary transducer9 Tension isolator10 Roll journal11 Cheese head screwRemove the complete discharge device:►Release the hexagon head screws (1).►Remove the cover (2).►Release the hexagon nut (3).►Release the earthing strip (4).►Loosen the cheese head screws (6).►Remove the sleeve (5) for the rotary transducer (8).►Loosen the cheese head screws (11).►Remove the shaft (7) including the rotary transducer (8).
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 90 
+►Keep the hexagon connected to rotary transducer (8).On the drive sideIf a grinding brush device is fitted for discharging, it must be protected or removed ifnecessary before the roll is removed.
+
+Removing the grind-ing brush device
+
+Note the information and follow the instructions from the manufacturer for removingand installing the brush holding unit. See "Manufacturer list".
+
+The following figure shows an example. The figure is not necessarily identical toyour line.1 Cover panel2 Clamping ring (centrifugal disc)3 Hoop guard4 Oval head screws5 Bolt6 Hexagon nut7 Microswitch cable8 Copper rail
+
+9 Brush holder unit with mi-croswitch
+
+10 Pillow block bearing
+
+11 Cheese head screw12 Insulation of the bolts13 Bolt14 Hexagon nuts and washers of thebolts15 Plate16 Earthing cable
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 91 
+Removing the grinding brush device before removing the roll►Loosen the oval head screws (4) and remove the cover panels (1).►Release the earthing cable (16) at the copper rail (8).►Disconnect the microswitch cable (7).The remaining discharge device including hoop guard (3) can remain on the pedes-tal bearing housing (10) for roll removal, provided there are no collisions with othercomponents.The clamping ring (2) can remain on the roll for lifting out the roll and must be moun-ted on a new roll if necessary.Only for complete replacement of the roll by a new rollIf a new roll is to be installed after the removal of the roll, the discharge device mustbe removed from the pedestal bearing housing and then reinstalled on the new roll.►Remove the hoop guard (3).►Release the oval head screws (4) and remove all the cover panels (1).►Release the earthing cable (16) at the copper rail (8).►Disconnect the microswitch cable (7).►Remove the insulation (12) of the bolts (13).►Disconnect the hexagon nuts (14) of the bolts (13) from the plate (15).►Pull out the plate (15) with the washers of the hexagon nuts (14) with the entiredischarge device from the bolts (13).►Loosen the hexagon nuts (6) and the bolts (5) from the pedestal bearing hous-ing (10).►Loosen the cheese head screw (11) on the clamping ring (2) and remove theclamping ring.Before lifting out the roll, the position of the bearing housing must be marked on theoperating side.
+
+Marking the positionof the bearing hous-ing
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 92 
+1 Roll adjusting screws for hori-zontal position
+
+2 Storing the adjusting device
+
+►Screw the adjusting device onto the frame to the side of the flange bearing atthe designated point. There can be one or two points.►Mark the position of the bearing housing.Lifting out the roll DANGERFalling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Limited space within the pull roll unit.The roll being lifted out and/or the corona treatment station will be damaged.►Lift out the roll slowly, carefully and with manual assistance.
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 93 
+1 Lubricating hose (optional)►Mark the position of the bearing housing at the frame.►Secure the treatment roll with suitable lifting accessories.►Release the screws on the frame.►If present, remove lubrication hose (1).►Carefully lift out the treatment roll and set it down in the prepared holding area.To dismantle the roll bearings, perform the following steps:
+
+Dismantling the rollbearing
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 94 
+1 Drive side bearing housing2 Screws, drive side bearing hous-ing3 Operating side bearing housing4 Screws, operating side bearinghousing5 Adapter sleeve6 Adjusting screws for positioning7 Lubrication flexible pipe►Release screws (2) on the drive side.►Open and remove bearing housing (1).►Release screws (4) on the operating side.►Open and remove bearing housing (3).►Open and remove adapter sleeve (5) on the operating side.►Dismantle the bearings.4.17.14 Mounting the treatment rollTo mount the treatment roll, perform the following steps:
+
+Mounting the rollbearings
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 95 
+1 Roll bearing on the drive side2 Roll bearing on the operatingside►Mount the roll bearings (1) and (2).►Fill the roll bearing with lubricant, see Lubricating roll bearings, gear, linearguides and spindles [} 34].
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 96 
+1 Bearing housing on the drive side2 Screws, bearing housing on thedrive side
+
+3 Bearing housing on the operatingside
+
+4 Screws, bearing housing on theoperating side
+
+5 Adapter sleeve6 Adjusting screws for positioning7 Lubrication flexible pipe►Attach and tighten adapter sleeve (5) on the operating side.►Position bearing housings (1) and ( 3).►Watch the marking of the position of the bearing housing.►If necessary, rotate the bearing housing.►Position the housing covers and tighten screws (2) and (4).►Adjust the position of the bearing housing with screws (6).Lifting in the roll►Secure the treatment roll in the holding area with suitable lifting accessories.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 97 
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+Limited space within the pull roll unit.The roll being lifted out and/or the corona treatment station will be damaged.►Lift out the roll slowly, carefully and with manual assistance.1 Lubricating hose (optional)►Carefully lift in the treatment roll with a crane and align it with the marked posi-tion.►If present, attach lubrication hose (1).►Tighten the screws on the frame with the required torque.►Remove the lifting accessories from the roll.LubricationATTENTIONThe mixing of different lubricants leads to chemical reactions and to the lossof lubricating capacity.The machine will be destroyed by lubrication failure.►Do not mix lubricants of different types.►Do not re-use any lubricants.►Lubricants must be kept pure and unmixed.►Store the lubricant in a suitable manner.►If the lubricant type has to be changed, clean the machine parts completely inaccordance with the instructions.
+
+ DANGER
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 98 
+Discharged oils in case of improper handling results in damage to the envir-onment.►Use oils safely.►Remove leaked oils immediately.►Keep work areas clean.►Always read the designation and product information prior to use.
+
+1 Lubrication nipple bearing hous-ing DS
+
+2 Lubrication nipple bearing hous-ing OS
+
+►Fill the bearing housing with lubricant, see Lubricating roll bearings, gear, linearguides and spindles [} 34].Adjusting the rollOn the operating side, the roll can be adjusted by means of the adjusting device.
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+ CAUTION
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 99 
+1 Roll adjusting screw for hori-zontal position
+
+2 Storage position for the adjustingdevice
+
+►Check the alignment of the treatment roll according to the measuring certificate.►If necessary, adjust the roll by means of adjusting device (1).►Unscrew the adjusting device and place at designated storage position (2) onthe frame. This means that any electrical contact between the adjusting screwand bearing housing is avoided.On the drive sideIf a grinding brush ring was installed for the discharge, this must be installed againafter installation of the roll.
+
+Installing the grind-ing brush device
+
+Note the information and follow the instructions from the manufacturer for removingand installing the brush holding unit. See "Manufacturer list".
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 100 
+1 Cover panel2 Clamping ring (centrifugal disc)3 Hoop guard4 Oval head screws5 Bolt6 Hexagon nut7 Microswitch cable8 Copper rail
+
+9 Brush holder unit with mi-croswitch
+
+10 Pillow block bearing
+
+11 Cheese head screw12 Insulation of the bolts13 Bolt14 Hexagon nuts and washers of thebolts15 Plate16 Earthing cable17 Cover panel screw
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 101 
+Mounting the grinding brush device►Attach the microswitch cable (7).►Attach the earthing cables (16) to the copper rail (8).►Mount the cover panels (1) with the oval head screws (4).Only for complete replacement of the roll by a new rollIf a new roll is to be installed, the discharge device must be remounted on the ped-estal bearing housing.►Fix the clamping ring (2) in place between the pillow block bearing and thegrinding brush device around the roll journal with the cheese head screw (11).Tightening torque 19.3 Nm.►Fix the bolts (5) in place with the hexagon nuts (6) on the pedestal bearinghousing (10).►Place the plate (15) with the complete discharge device on the bolts (13) and fixin place with the washers and the hexagon nuts (14).►Attach the insulation (12) of the bolts (13).►Attach the microswitch cable (7).►Attach the earthing cables (16) to the copper rail (8).►Mount the cover panels (1) with the oval head screws (4).►Mount the hoop guard (3). For flashover protection, ensure a minimum distanceof 5 mm between the hoop guard (3) and the screw (17) of the cover panel (1)all round. Use an insulating plastic tube if necessary.On the operating sideIf a corona treatment roll has been installed, the rotary transducer must be mountedagain.
+
+Installing the rotarytransducerMounting and check-ing the dischargedevice
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 102 
+1 Hexagon head screw2 Cover3 Hexagon nut4 Earthing strip5 Sleeve6 Cheese head screw7 Shaft8 Rotary transducer9 Tension isolator10 Roll journal11 Cheese head screwMount the complete discharge device:►Screw the shaft (7) with the rotary transducer (8) into the roll journal (10) withthe cheese head screws (11). Make sure that the arrow on the rotary transducerpoints outwards.►Fix the sleeve (5) in place with the cheese head screws (6).►Fix the earthing strip (4) in place to the rotary transducer at a distance of 8 mm.►Tighten the hexagon nut (3) with a tightening torque of 13 Nm.►Fix the tension isolation (9) in place on the lateral plate and clamp the earthingstrip between the plaques.►The earthing strip may not be stretched tight at the section between rotary trans-ducer and tension isolation.►Fix the cover (2) in place.►Tighten the hexagon head screws (1).
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 103 
+After mounting, the following checks are necessary:• The earthing strip and the electrical insulation must be undamaged.• The rotary transducer has to run neatly centred.• In the axial direction, the rotary transducer has to be connected to the earthingstrip force shunt-free.• All earthing cables must be connected.4.17.15 Mounting the roll guardTo mount the roll guard, perform the following steps:ProcedureINFOThe following figure shows an example. The figure is not necessarily identical toyour line.1 Oval-head screws, roll2 Oval-head screws, roll guard3 Roll guard►Fix the first half shell of the roll guard (3) with the oval-head screws (1).►Fix the second half shell of the roll guard (3) with the oval-head screws (1).►Connect both half shells of the roll guard (3) with the oval-head screws (2).4.17.16 Mounting the drive of the treatment rollThis section contains information on mounting the drive.MotorINFOThe following figure shows an example. The figure is not necessarily identical toyour line.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 104 
+1 Screws of the motor mount2 Torque support3 Tension unit4 Motor5 Screws of the torque support►Lift the motor (4) to the installation position using the crane.►Mount the tension unit (3). See the operating manual of the supplier.►If the torque support was removed: Mount torque support (2) and fix with screws(5).►Tighten the screws (1).
+
+Motor cooling (op-tional)
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 105 
+1 Backflow2 Inflow3 Motor4 Lever of shut-off valve►Connect the pipework of the motor cooling.►Attach the inflow and backflow connections.►Open the shut-off valves.
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+4.17.17 Mounting the cooling pipingThis section contains information on mounting the cooling piping.
+
+Danger of slipping on wet floors.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove leaked fluid immediately.►Keep the workplace and corridors clean.PipeworkINFOThe following figure shows an example. The figure is not necessarily identical toyour line.
+
+INFO
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 106 
+1 Flexible pipe2 Connecting point, flexible pipe/rotary joint3 Rotary joint►Mount the rotary joint (3).►Mount the flexible pipe (1) on the piping.►Connect (2) the flexible pipe (1) at the rotary joint (3).►Open the shut-off valves on the piping of the pull roll unit.►Fill the heating/cooling device with cooling water.►Switch on the heating/cooling device.►Bleed the circuit.
+
+Heating and coolingdeviceManufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+4.17.18 Mounting the cross bar on the drive sideDepending on whether the lower or upper treatment roller has been installed, thecorresponding cross bar must then be mounted on the drive side.
+
+The following figures show examples. It is not necessarily identical with your line.
+
+Installing the crossbar
+
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.
+
+INFO
+
+INFO
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 107 
+Cross bar, relevant for changingthe lower treatment roll
+
+Cross bar, relevant for changing theupper treatment roll
+
+►Lift in the cross bar.►Tighten the couplings.►Align on the markings of the cross beam position.1Safety grid2Screws►Mount the safety grid (1).►Tighten screws (2) of the upper angle support on the corners of the safety grid
+
+Mounting the safetygrid
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 108 
+Attaching the coverof the driving unitMounting the flangecover
+
+1 Screws2 Cover3 Drive unit4 Safety grid►Attach the cover (2) between the driving unit (3) and safety grid (4).►Tighten the screws (1).1 Screws2 Flange cover►Mount the flange cover (2).►Tighten the screws (1).
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 109 
+4.17.19 Connecting the pneumatic system of the nip rollTo connect the pneumatic system, perform the following steps:1 Fork yoke2 Pneumatic cylinder3 Swivel armü On both the operating side and on the drive side, carry out the following steps:►Connect the pneumatic cylinder (2) at the flange.►Fix the fork yoke (1) at the swivel arm (3).►If necessary, fix the pneumatic connection on the pneumatic cylinder.►If necessary, close the compressed air circuit of the nip roll. Set the pressureregulator to the required pressure.►Switch on the compressed air supply at the pneumatic cabinet.4.17.20 Bringing the corona treatment device into the workingposition
+
+Procedure
+
+PreparationTo be able to lift the upper corona treatment device with the crane and move it fromthe park position to the working position, perform the following steps:►Fix suitable lifting accessories to the corona treatment device.
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 110 
+1 Screws for locking unit2 Retaining screws on operating side3 Retaining screws on drive sideProcedure►Release retaining screws (2) and (3) on the operating side and on the drive side.
+
+Falling or swinging loads can cause life-threatening injury.►Wear protective footwear.►Wear a hard hat.►Only use approved and undamaged lifting accessories and lifting gear.►Properly secure the load.►Do not remain under swinging loads.►Keep the transport area clear.►Lift out the corona treatment device and set down at the working position.►Observe the safety measures.►Tighten retaining screws (2) and (3) on the operating side and on the drive side.
+
+Tightly screwed supports prevent thermal expansion.►Loosely screw in the hexagon head screws.►Fix the screws with a locking pin.►Release the screws (1) on the operating side and on the drive side and lock withthe locking pin.
+
+ DANGER
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 111 
+►Heat is created during operation of the corona treatment device. This heatcauses the corona treatment device to expand. The support on the operatingside compensates the thermal expansion. Therefore, the supports should not bescrewed on too tightly.►Before commissioning the corona treatment device, check if the screws (1) ofthe supports on the operating side and on the drive side are loose.
+
+Ozone exhaust sys-tem
+
+The following figure shows an example. The figure is not necessarily identical toyour line.1 Flexible pipeConnect the ozone exhaust system with the corona treatment device:►Connect flexible pipe (1).►Connect the cables and flexible pipes to the electrical and pneumatic systems.
+
+Adjusting the gapCheck the gap between the treatment roll and the electrodes of the corona treat-ment device and readjust if necessary. Take care that the surface of the treatmentroll is not damaged.
+
+Hard, sharp-edged objects or heavy objects and persons can damage the rollsor cause permanent dents in the roll surface.►Do not scour, scratch or scrape the roll surface.►Do not step on the roll surface or subject it to load.►Do not deposit tools and devices on the rolls.►No watches, belts, necklaces, bracelets and rings wear.►Do not lean ladders against the rolls.For optimum gap range between the treatment roll and the electrodes, proceed asfollows:►Adjust the gap between the electrode and film to approx. 2.00 mm to 2.5 mm.
+
+INFO
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 112 
+4.17.21 Connecting the electrical and pneumatic systems of thecorona treatment device.
+
+Live electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.
+
+Moving machine parts can crush body parts.This can lead to injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.Procedure►Re-establish the electrical and pneumatic connections of the corona treatmentdevice.►Use a suitable tool.4.17.22 Final safety measuresAfter completing the removal and installation work, ensure that all machine compon-ents and safeguards are ready and safe to operate.Safeguards DANGERDefective or non-functional safeguards loose their protective functions andcan lead to life-threatening or serious injuries.►Remount all safeguards after completion of the maintenance tasks.►Check that safeguards are functioning properly.►Do not override safeguards.►Do not deactivate safeguards.►Do not change the configuration of safeguards.
+
+Occupying thedanger zone
+
+Machine will resume operation when safety gates are closed.Risk of life-threatening or serious injuries.►Keep safety gates open as long as personnel are in the danger area.►Do not cross the safety cordon.
+
+ DANGER
+
+ WARNING
+
+ CAUTION
+
+ DANGER
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 113 
+Cleanliness WARNINGDanger of slipping on floors covered in oil or granulate.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove soiling immediately.►Keep the workplace and corridors clean.
+
+Film on the floor presents a danger of sliding and tripping.This will lead to serious head and body injuries.►Do not step on film residues.►Immediately remove film residues.►Keep the workplace and corridors clean.
+
+Danger of slipping on wet floors.This will lead to serious head and body injuries.►Do not step on soiled areas.►Close off access to soiled areas.►Remove leaked fluid immediately.►Keep the workplace and corridors clean.
+
+Tools and equipment left lying on the machine can cause machine damageand line downtimes.►After terminating the respective work, remove tools and equipment from the ma-chine.
+
+ WARNING
+
+ CAUTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 114 
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 115 
+5 Taking a pull roll unit finally out of operationDescriptionThe decommissioning includes the following areas:• Carrying out technical disconnection• Emptying and disposing of the equipment• Disassembling and disposing of machine parts5.1 Carrying out technical disconnectionDescriptionTechnical disconnection includes the deactivation of the power supply, the IPC con-trol and other control devices.Required personnelThis activity may only be performed by specialists.
+
+Energy that ispresent
+
+These kinds of energy are present in an active or ready-to-use pull roll unit:• Heat energy• Electrical and electrostatic energy• Pneumatic energy• Potential energy (rolls, frame parts, etc.)• Kinetic energy (rolls, swivel devices, etc.)
+
+Electrical energy may lead to ventricular fibrillation, cardiac arrest, respiratoryarrest and severe burns.►Only skilled personnel is allowed to un-install electrical equipment.►All applicable instructions for preventing accidents must be observed.
+
+Residual energy such as compressed air in pneumatic cylinders can lead tosevere injury or death.►Thoroughly dissipate residual energy.►Switch off the power sources permanently and disconnect them from the ma-chine.►Lock out all disconnected interfaces permanently.►Use the safety locks as described in the safety manual.5.2 Emptying and disposing of the equipmentRequired personnelThis activity may only be performed by specialists.Waste products• Substances in the heat exchangers of the cooling units. Depending on the cool-ing units in use, different types and quantities of heating media and heat carriersneed to be disposed of.
+
+Manufacturer docu-mentation
+
+Follow the instructions from the manufacturer of the heat carrier substances for theappropriate disposal procedure.
+
+ DANGER
+
+ WARNING
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 116 
+Environmentally harmful substances.If corrosion preventives and biocides were added to the heating medium, additionalmeasures need to be taken when disposing of these materials in order to preventenvironmental damage.►When using and disposing of these additives, be sure to follow the manufacturerinstructions.►Follow the safety data sheets of the substances in use.►Only use the recommended corrosion preventive (follow the supplier operationmanual).Heat transfer mediaThe heating and cooling rolls of an active or operational pull roll unit contain heattransfer media. For information on the heat transfer medium, see "Technical data".• Water may be disposed like any unpolluted used water.
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+LubricantsGearboxes and other movable components can contain lubricants. The lubricantsused and recommended by Brückner and its lubricant manufacturers fulfil all thelegal conditions.►Pay attention to the disposal regulations of the original lubricant container.►Use suitable containers for collecting, storing and transporting used lubricants.5.3 Disassembling and disposing of machine partsLocal regulationsDepending on the disposal regulations, it may be necessary to disassemble the pullroll unit and separately dispose of the individual materials.All disposal work has to be carried out in accordance with the local regulations anddirectives.
+
+Brückner recommends leaving the disposal to a local disposal company authorisedto provide the necessary supporting documents verifying proper disposal.
+
+ CAUTION
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 117 
+6 Technical dataLine componentPull roll unitTypeBOPETResinPET
+
+Identification of theline component
+
+General dataComponentsDataMaximum working width10400 mmOperating sideRightHeat transfer medium for roll coolingWaterType of thickness measurement of the filmInfrared source; see manufacturerdocumentationMaximum noise emission80 dB(A)Drivessee manufacturer documentationRolls
+
+Type of rollSurfaceHeating and cooling rollChromeHeating and cooling rollChromeGuide rollVarnishGuide rollBMS 3000Guide rollVarnishGuide rollVarnish
+
+7 aNip rollRubber7Corona treatment rollRubber8 aNip rollRubber8Guide rollVarnishNameplateThe nameplate is used for the unique identification of the machine. It is mounted onthe machine in such a way that it is clearly visible.The nameplate always contains the following fields:
+
+Rollno.
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 118 
+The fields have the following meanings:FieldDescriptionKom.Nr.:Commission numberMaschine:Brief description of the machineStruktur:Structure number of the machineBaujahr:Year of construction of the machine
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 119 
+7 Related applicable documents7.1 Air pressure diagram for nip rollSee also2 Schema - Luftdruck APW - Zyl._375669_001_03.pdf [} 120]
+
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 120 
+--------------------------------------------------------------------------------
+VOLUME 11 - OperatingManual-PullRollUnit - Pag 121 
+--------------------------------------------------------------------------------

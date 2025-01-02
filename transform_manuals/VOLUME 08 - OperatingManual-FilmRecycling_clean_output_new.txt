@@ -1,0 +1,311 @@
+
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 1 
+Operating manualFilm recyclingP.1932 SHB
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 2 
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 3 
+ImprintThis operating manual is part of the equipment supplied by Brückner MaschinenbauGmbH & Co. KG - hereinafter called Brückner - and describes the necessary pro-cedures for the proper use of the film production line and the associated machines.CopyrightNo part of this operating manual may be reproduced, stored in a retrieval system ortransmitted, in any form or by any means, electronic, mechanical or by recording orotherwise without the prior permission by Brückner. The copying, distribution andutilisation of this operating manual in printed or electronic form as well as the com-munication of its contents to others without expressed authorisation is prohibited.Offenders will be held liable for the payment of damages possibly arising from unau-thorised use.All product names used in this operating manual are trademarks of the respectivecompanies.DisclaimerBrückner declines any liability or responsibility for consequential, collateral or indi-rect damage that results from non-compliance with this operating manual.Patent protectionAll rights reserved in the event of the grant of a patent, utility model, or ornamentaldesign registration. Brand and product names are trademarks or registered trade-marks of their respective companies or organisations.LanguageThe original operating manual was produced in German. All translations are basedon the language of the original operating manual.ChangeThe contents of this operating manual are subject to change by Brückner withoutnotice.We reserve the right to make technical changes.We welcome your suggestions concerning the improvement of our products and ofthis operating manual.
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 4 
+PublisherStreet addressBrückner Maschinenbau GmbH & Co. KGKönigsberger Str. 5-783313 Siegsdorf/GermanyPostal addressBrückner Maschinenbau GmbH & Co. KGPO Box 11 6183309 Siegsdorf/GermanyContactInternethttp://www.brueckner.comServicePhone: +49 8662 63-9379Fax: +49 8662 63-9370E-Mail: servtec@brueckner.comSales departmentPhone: +49 8662 63-9510Fax: +49 8662 63-9101E-Mail: sales@brueckner.comDocumentationPhone: +49 8662 63-0Fax: +49 8662 4965-71-9220E-Mail: doku@brueckner.com
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 5 
+Table of contents1 Function ...................................................................................................................................................... 71.1Intended use....................................................................................................................................... 71.2Film recycling ..................................................................................................................................... 71.3Safeguards......................................................................................................................................... 71.4Process control system ...................................................................................................................... 71.5External documents............................................................................................................................ 82 Operation .................................................................................................................................................... 92.1Duties of the operating personnel ...................................................................................................... 92.2Safety ................................................................................................................................................. 92.2.1Dangers in the film recycling ...............................................................................................  93 Production fault........................................................................................................................................ 113.1Resetting the fault ............................................................................................................................ 114 Maintenance.............................................................................................................................................. 134.1General instructions ......................................................................................................................... 134.2Duties of the maintenance personnel............................................................................................... 154.3Safety ............................................................................................................................................... 154.3.1Dangers in the film recycling .............................................................................................  164.4Service intervals............................................................................................................................... 174.5Exhaust air filter................................................................................................................................ 184.5.1Preparing the exhaust air filter for maintenance work.......................................................  184.5.2Operating the service hatch on the exhaust air filter.........................................................  184.6Conveying piping with conveying fan ............................................................................................... 194.6.1Preparing the conveying piping with conveying fan for maintenance work.......................  194.7Silo ................................................................................................................................................... 194.7.1Preparing the silo for maintenance work...........................................................................  194.7.2Maintenance switch on the fluff silo...................................................................................  194.7.3Pneumatic system.............................................................................................................  204.7.4Opening and closing the manhole on the fluff silo.............................................................  224.7.5Operating the service hatch on the fluff silo ......................................................................  244.7.6Destroying material bridges in the silo ..............................................................................  254.7.7Cleaning the silo................................................................................................................  25
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 6 
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 7 
+1 FunctionIntroductionThis chapter contains information on the intended use and the description of the ba-sic functions of the machine and its components. Here, above all, those functionsthat are necessary for the operation and the maintenance have been taken into ac-count.1.1 Intended useIntended useThe film recycling is used for the transport and storage of the film fluff.The machine is contractually specified by parameters and must only be operatedwithin them.DisclaimerAny use that goes beyond the designated use is forbidden. Brückner accepts no li-ability for any consequential damage. Improper use can present danger to life andlimb, the machine and connected equipment, and to the efficient operation of themachine.
+
+Risk assessment andwork instructions
+
+The operating company has to carry out a risk assessment and create operating in-structions for the handling of the machine.Inputs listed in this operating manual for personal protective equipment are basedon the risk assessment taking into consideration the experience with film productionand film stretching lines. The actually occurring hazards can deviate in individualcases. In this case, the measures of the hazard assessment of the operating com-pany must be taken into consideration and applied.
+
+1.2 Film recyclingFilm recyclingThe film fluff is transported pneumatically in the conveying piping to the fluff silo.The film fluff is separated from the conveying air by the cyclones on the fluff silo andfall into the fluff silo. In the exhaust air filter, the carrier air is separated from dustand carried along film fluff and blown outside.The maximum filling is monitored by means of light barriers in the fluff silo. The agit-ator in the fluff silo prevents bridges of film fluff being formed in the fluff silo andfeeds the film fluff into the lower part of the fluff silo of the screw conveyor.The film fluff reaches the area of the discharge section via dosing screws and ispneumatically transported from there to the regranulation through the conveying pip-ing.1.3 SafeguardsSafeguardsAn overview of the safeguards can be found in the "Line overview" operatingmanual.Information on the safeguards can be found in the "Safety manual".1.4 Process control system
+
+Process control sys-tem
+
+The control and the visualisation of the film recycling and the regranulation is carriedout with the process control system. The process control system from Brückner iscalled IPC (Integrated Process Control).WinCC OA is the visualisation of the process control system. The visualisation en-ables easy and user-friendly communication with the film recycling and the regranu-
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 8 
+The following control knobs are available:• Operator panels• Individual control knobs• Computer in the control room or the control roomsInformation on the control knobs can be found in the "Line overview" operatingmanual.For information on WinCC OA, see the online help.1.5 External documentsExternal equipmentApart from the self-manufactured components, the machine also contains externallysourced or already existing components, hereinafter referred to as external equip-ment.External documentsThis external equipment is supplied with instruction leaflets, manufacturer’s informa-tion, operating, installation, adjustment and service instructions and/or other user in-formation, hereinafter referred to as external documents.
+
+Replacement, main-tenance, operation
+
+External documents must also be read and observed, particularly in case of replace-ment or maintenance.When replacing external equipment, the enclosed instruction leaflets must be ob-served.The operation of the external equipment is not described in these instructions. Therespective external document is only referred to.
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 9 
+2 Operation2.1 Duties of the operating personnel
+
+Duties of the operat-ing personnel
+
+• The operating personnel must be trained in the operation of the machine andmust have read and understood the operating manual.• Personal protective equipment must be worn according to the activities to becarried out. The personal protective equipment used must be able to fulfil itsfunction.• Do not bypass safeguards.• The control room and the machine must be manned with qualified operating per-sonnel during operation.• Make sure that no persons are exposed to danger.• In the event of irregularities, the responsible person must be informed.• The machine must be clean.• Only approved auxiliary materials must be used.
+
+2.2 Safety
+
+Keep out of elevatedparts of the film pro-duction line
+
+Ascents and descents present a danger of slipping and tripping.This will lead to serious injury.►Ascend and descend with care.►Wear a hard hat.
+
+There is a danger of falling when working on elevated parts of the line.This can lead to serious injury.►Wear a safety harness.►Use suitable ascent supports.2.2.1 Dangers in the film recycling
+
+Fire and explosionhazard from polymerdust
+
+In the film recycling, especially at the exhaust air filter, polymer dust can get outsidethe machines due to leaks, production faults and maintenance work. If a source ofignition is present, the polymer dust can burn or explode.
+
+Polymer dust can ignite at sources of ignition.This can lead to serious injury.►Regularly check for polymer dust.►Immediately remove polymer dust.►Fire, naked flames and smoking are forbidden.In rare cases, there can be an explosion in the exhaust air filter. The construction ofthe exhaust air filter takes this into consideration. For further information, see themanufacturer documentation.
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 10 
+An explosion in the exhaust air filter can cause the rupture disc and dust tofly out of the pressure relief opening.This can lead to serious injury.►Do not enter the marked danger zone during operation.►Do not close the pressure relief opening or place anything in front of it.The pneumatic systems can be used to operate the flaps in the silo.
+
+Pneumatic systemand hydraulic system
+
+Moving machine parts can crush body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.Hot surfacesThe surfaces of the conveying piping and the clean air fan of the exhaust air filtercan be hot.
+
+Hot surfaces can cause burns.►Do not touch surfaces.►Wear protective gloves.►Wear protective clothing.
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 11 
+3 Production fault3.1 Resetting the faultResetting the faultFaults output by the process control system must be reset after the fault is elimin-ated.ü The fault is remedied.►Reset the fault. On the operator panel, press [ fault reset ].ð All remedied faults on the line are reset.ð Triggered safeguards visible on the operator panel are reset. This does notapply on the operator panel in the control room.After all faults and triggered safeguards have been reset, the line components canbe started again.
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 12 
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 13 
+4 Maintenance4.1 General instructionsMaintenanceMaintenance ensures a long service life and high performance of the machine orline.Maintenance includes:• inspection• repair• serviceAll maintenance work carried out and all faults found must be recorded in a main-tenance record.InspectionInspection includes:• Periodic, continuous checking and recording of the current status.• Determining the causes of wear.• Derivation of the necessary consequences for future use.RepairDuring repair work, damaged parts must be replaced to avoid injury to persons andmaterial damage and to restore the required condition of the machine or line.Repair includes the following activities:• repair of damaged components• replacement of components
+
+Damaged parts can cause material damage and injury to persons.ü Only mount undamaged parts. This is also valid for parts with which the spareparts are attached.►Before installation, check the spare parts for function, quality, fit, stability andsurface quality.►It is recommended to only use original spare parts which can be clearly as-signed based on their identification number. This is especially valid with highlystressed machine parts such as parts that are under pressure and subject tohigh temperature and other safety relevant parts.
+
+Only allow repair work to be performed by authorised, qualified specialists.corrosion protectionATTENTIONFor prolonged periods of machine standstill, it is possible for components tocorrode.The strength of the components is no longer guaranteed.►For machine standstills or storage, put sufficient corrosion protection on all com-ponents.
+
+ATTENTION
+
+ATTENTION
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 14 
+Service WARNINGCleaning with unsuitable media can lead to explosions.Explosion hazard due to hot surfaces.►Only use prescribed cleaning agents.►Wear safety goggles.Service includes periodic activities to ensure an appropriate operating status of themachine or line.Servicing includes the following activities:• cleaning• conservation• lubrication• settingRecommendations►Disassemble the individual parts of a module only as far as necessary.►Mark down how the disassembled parts fit together for reassembly.►During repairs, damaged components must be replaced to avoid danger to per-sons and/or material damage and to put the unit back into its optimum opera-tional state.►For replacing the parts of the line, use the corresponding drawings and partslists.ð See the spare parts catalogue.►Only use high-quality tools and auxiliary materials. Use the special tools andauxiliary materials supplied.►Only use original parts or approved parts.ð Non approved parts will lead to loss of the warranty.►Keep a service record.ð This protocol helps in noting necessary repairs that cannot be carried outduring production. These repairs can be carried out later during routine ser-vice.►Carry out all checks to ensure operational readiness. Ensure that nothing hasbeen forgotten in the machine/line.►Following maintenance work, check the impermeability and tightness of thescrew connections.►Perform a test run.
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 15 
+Ordering spare partsFor spare parts of delivered units, the data noted on the nameplate/manufacturer’splate of the respective unit has to be specified.• order• material number• year of delivery• machine type
+
+For localisation and identification of the part numbers, see the spare parts cata-logue.
+
+The guarantee and warranty for the respective plant components are only valid foruse with authorised spare parts, equipment and consumables.
+
+Manufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+StandstillFor prolonged periods of machine standstill, special measures and media are re-quired for conservation.►Contact Brückner for further information.4.2 Duties of the maintenance personnel
+
+Duties of the main-tenance personnel
+
+• The maintenance personnel must be trained for their activity or have appropriateprofessional experience.• The maintenance personnel must have read and understood the operatingmanual and further information.• Personal protective equipment must be worn according to the activities to becarried out. The personal protective equipment used must be able to fulfil itsfunction.• Make sure that no persons are exposed to danger.• Only approved auxiliary materials must be used.
+
+4.3 SafetySafeguards DANGERFaulty or ineffective safeguards.The protective function is lost.Life-threatening situations or very serious injuries may occur.►Put the safeguards back in place after the maintenance work is complete.►Check that the safeguards are operating correctly and effectively.►Do not bypass safeguards.►Do not render safeguards ineffective.►Do not change the arrangement of the safeguards.
+
+INFO
+
+INFO
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 16 
+Keep out of elevatedparts of the film pro-duction line
+
+Ascents and descents present a danger of slipping and tripping.This will lead to serious injury.►Ascend and descend with care.►Wear a hard hat.
+
+There is a danger of falling when working on elevated parts of the line.This can lead to serious injury.►Wear a safety harness.►Use suitable ascent supports.Electric system DANGERLive electrical systems and equipment can cause life-threatening injury fromelectric shock.►Isolate before maintenance work.►Secure against being switched on again.►Check that it is de-energised.►Earth and short-circuit.►Cover adjacent live parts.4.3.1 Dangers in the film recycling
+
+Fire and explosionhazard from polymerdustPneumatic systemand hydraulic system
+
+In the film recycling, especially at the exhaust air filter, polymer dust can get outsidethe machines due to leaks, production faults and maintenance work. If a source ofignition is present, the polymer dust can burn or explode.
+
+Polymer dust can ignite at sources of ignition.This can lead to serious injury.►Regularly check for polymer dust.►Immediately remove polymer dust.►Fire, naked flames and smoking are forbidden.In rare cases, there can be an explosion in the exhaust air filter. The construction ofthe exhaust air filter takes this into consideration. For further information, see themanufacturer documentation.
+
+An explosion in the exhaust air filter can cause the rupture disc and dust tofly out of the pressure relief opening.This can lead to serious injury.►Do not enter the marked danger zone during operation.►Do not close the pressure relief opening or place anything in front of it.The pneumatic systems can be used to operate the flaps in the silo.
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 17 
+Moving machine parts can crush body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+Unexpected movements can be caused by faults or service work in the pneu-matic system or hydraulic system.This can lead to serious injury.►Prior to service work, switch the pneumatic system so it is depressurised.►Disconnect the hydraulic system prior to service work.►Wait until the standstill position is reached.►Only switch pneumatic valves manually when no one is located in the dangerzone.During maintenance work, dust and film fluff can fly around in the silo.
+
+Whirling polymerdust and film fluff
+
+Dust and film fluff can fly around in the silo.This can cause injury to the eyes.Dust and film fluff can be swallowed.►Wear suitable protective clothing (breathing mask, safety goggles).Hot surfacesThe surfaces of the conveying piping and the clean air fan of the exhaust air filtercan be hot.
+
+Hot surfaces can cause burns.►Do not touch surfaces.►Wear protective gloves.►Wear protective clothing.4.4 Service intervalsService intervalsFor information on the service intervals, see separate "Intervals" manual and the re-spective manufacturer documentation.
+
+ WARNING
+
+ WARNING
+
+ WARNING
+
+ CAUTION
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 18 
+4.5 Exhaust air filter4.5.1 Preparing the exhaust air filter for maintenance work
+
+Preparing the ex-haust air filter formaintenance work
+
+The following requirements have to be fulfilled prior to the start of settings and main-tenance work:• The drives cannot be operated.• The components must not be able to move.• The components must be de-energised.• The working area is marked off and secured against unauthorised entry.If other requirements apply, these must be specified in the activity description.Further information in the manufacturer documentation must be heeded.
+
+4.5.2 Operating the service hatch on the exhaust air filterDescriptionThe service hatch on the exhaust air filter can be opened and closed for mainten-ance work.Required personnelThis activity may only be performed by trained skilled persons.Auxiliary materials• auxiliary materials as specified in the mechanical fitter tool listSafety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for changing operating modes may only be used by trained technicalpersonnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the operator must take along the key.►When changing the operating mode, ensure that no one is located in the dangerzone.►Set the maintenance switch to OFF. Turn the [ service switch filter ]key to [ 0 ].ð The components of the exhaust air filter are de-energised and locked by themaintenance switch.ð All pneumatic conveyances are stopped.►Take along the key of the maintenance switch.►Wait until the fans are stationary.►Unscrew the screw connections on the service hatch.►Open the service hatch.►Close the service hatch.
+
+Opening the servicehatch on the exhaustair filterClosing the servicehatch at the exhaustair filter
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 19 
+►Set the maintenance switch to ON. Insert the key into the [ ser-vice switch filter ] maintenance switch and turn to [ 1 ].ü The [ fault reset ] push button in the control room flashes.►Set the start release. On the operator panel, press [ fault reset ].ð The interlocks that were activated by the maintenance switch are de-activated.4.6 Conveying piping with conveying fan4.6.1 Preparing the conveying piping with conveying fan formaintenance work
+
+Preparing the con-veying piping formaintenance work
+
+The following requirements have to be fulfilled prior to the start of settings and main-tenance work:• The drives cannot be operated.• The components must not be able to move.• The components must be de-energised.• The pneumatic system must be depressurised.• The components must not be electrically charged.• The working area is marked off and secured against unauthorised entry.If other requirements apply, these must be specified in the activity description.Further information in the manufacturer documentation must be heeded.
+
+4.7 Silo4.7.1 Preparing the silo for maintenance work
+
+Preparing the silo formaintenance work
+
+The following requirements have to be fulfilled prior to the start of settings and main-tenance work:• The drives cannot be operated.• The components must not be able to move.• The components must be de-energised.• The pneumatic system must be depressurised.• The working area is marked off and secured against unauthorised entry.• For work that causes sparks or for welding on the silo, the silo must be emptyand clean.If other requirements apply, these must be specified in the activity description.Further information in the manufacturer documentation must be heeded.
+
+4.7.2 Maintenance switch on the fluff siloDescriptionThe fluff silo can be de-energised for maintenance work with the maintenanceswitch.
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 20 
+Maintenance switchon the fluff silo
+
+The maintenance switch is located on the fluff silo.
+
+DesignationSwitch settingFunction
+
+OFF• All components of the fluff silo are de-energised.The motors are de-energised.• The drives of the grinder and the conveying pipingfrom the grinder to the fluff silo are locked.• The drives of the agitator arms are locked.• The drives of the dosing screws are locked.• The fluff silo cannot be selected for filling on thevisualisation.ON• No components of the fluff silo are locked by themaintenance switch.
+
+[ service switchflake silo x ]
+
+[ 0 ]The key can be pulled out.[ 1 ]The key cannot be pulledout.
+
+Required personnelThis activity may only be performed by trained skilled persons.Safety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for unlocking and locking the safety gate may only be used by trainedtechnical personnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the key must be taken along.►Before closing the safety gate, ensure that no one is located in the danger zone.►Set the maintenance switch to OFF. Turn the [ ser-vice switch flake silo x ] key to [ 0 ].ð The components of the fluff silo are de-energised and locked by the main-tenance switch.►When entering the danger zone, take along the key of the maintenance switch.►Set the maintenance switch to ON. Insert the key into the [ ser-vice switch flake silo x ] maintenance switch and turn to [ 1 ].ü The [ fault reset ] push button in the control room flashes.►Set the start release. Press [ fault reset ] in the control room.ð The interlocks that were activated by the maintenance switch are de-activated.
+
+Setting the mainten-ance switch to OFFSetting the mainten-ance switch to ON
+
+4.7.3 Pneumatic system4.7.3.1 Checking and setting the pneumatic system
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 21 
+Required personnelThis activity may only be performed by specialists.Safety WARNINGMoving machine parts can crush body parts.This can lead to serious injury.►Do not reach into the vicinity of moving machine parts.►Wait for the machine to come to a standstill.
+
+Unexpected movements caused by defects in the pneumatic system cancause serious injury.►Do not remain in the swivelling range of the pneumatically moved component.►Wait until the standstill position is reached.►Actuate the valves on the line component.- simultaneously -►Check the pneumatically operated components on the line component.- After completing the work -►Make sure that the components are in the home position.►Set the pneumatic pressure on the line component.
+
+Checking the pneu-matic systemSetting the pneu-matic pressureManufacturer docu-mentation
+
+Further information on the component can be found in the manufacturer documenta-tion.
+
+4.7.3.2 Preparing pneumatic system for maintenance workDescriptionBefore beginning maintenance work, the pneumatic system has to be ventilated.After the maintenance work, the pneumatic system is supplied with compressed airagain.Safety WARNINGUnexpected movements caused by defects in the pneumatic system cancause serious injury.►Prior to service work, switch the pneumatic system so it is depressurised.►Wait until the standstill position is reached.
+
+Flexible pipes may whip about when lines are under pressure and can causeinjury.►Depressurise the system prior to service work.►Only release the connections when depressurised.
+
+Switching off thecompressed air
+
+The following figure shows an example. The figure is not necessarily identical toyour line.
+
+ WARNING
+
+INFO
+
+ CAUTION
+
+INFO
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 22 
+1 main valve2 rotary switch►Ventilate the pneumatic system. To do so, close the main valve (1) on the ser-vice unit by pushing down and turning the rotary switch (2).ð The compressed air escapes with whistles (approx. 20 seconds).ð The pressure gauges indicate no pressure.ð Some of the cylinders remain under pressure.►Secure the service unit during maintenance work against being switched onagain.ü The maintenance work is completed.►Open the main valve (1) on the service unit by pushing down and turning therotary switch (2).ð The pneumatic system is supplied with compressed air.
+
+Switching on thecompressed air
+
+4.7.4 Opening and closing the manhole on the fluff siloDescriptionThe manhole on the fluff silo can for maintenance work opened and closed be.
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 23 
+Safety switch on themanhole
+
+There is a safety switch on the manhole. The safety switch has the same functionsas the maintenance switch [ service switch flake silo x ].ManholeFunctionopenOFF• All components of the fluff silo are de-energised.The motors are de-energised.• The drives of the grinder and the conveying pip-ing from the grinder to the fluff silo are locked.• The drives of the agitator arms are locked.• The drives of the dosing screws are locked.• The fluff silo cannot be selected for filling on thevisualisation.closedON• No components of the fluff silo are locked by thesafety switch.
+
+Required personnelThis activity may only be performed by trained skilled persons.Safety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for unlocking and locking the safety gate may only be used by trainedtechnical personnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the key must be taken along.►Before closing the safety gate, ensure that no one is located in the danger zone.►Set the maintenance switch to OFF. Turn the [ ser-vice switch flake silo x ] key to [ 0 ].ð The components of the fluff silo are de-energised and locked by the main-tenance switch.►Take along the key of the maintenance switch.►Open the manhole and leave it standing open.ð The components of the fluff silo are de-energised and locked by the safetyswitch on the manhole.►Ensure that no-one is located in the fluff silo.►Close the manhole.►Set the maintenance switch to ON. Insert the key into the [ ser-vice switch flake silo x ] maintenance switch and turn to [ 1 ].ü The [ fault reset ] push button in the control room flashes.►Set the start release. Press [ fault reset ] in the control room.
+
+Opening the manholeon the fluff siloClosing the manholeon the fluff silo
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 24 
+ð The interlocks that are activated by the maintenance switch and by the safetyswitch on the manhole are de-activated.4.7.5 Operating the service hatch on the fluff siloThe service hatch on the metering screw of the fluff silo can be opened and closedfor maintenance work.Required personnelThis activity may only be performed by trained skilled persons.Auxiliary materials• auxiliary materials as specified in the mechanical fitter tool listSafety DANGERThe presence of persons in the danger zone of the line can lead to life-threat-ening injury.►No entry for unauthorised personnel.
+
+The presence of persons in the danger zone of rotating and moving parts canlead to life-threatening situations or cause injury.►The key for unlocking and locking the safety gate may only be used by trainedtechnical personnel.►The key must be kept in a place that is inaccessible to unauthorised persons.►When entering the danger zone, the key must be taken along.►Before closing the safety gate, ensure that no one is located in the danger zone.►Set the maintenance switch to OFF. Turn the [ ser-vice switch flake silo x ] key to [ 0 ].ð The components of the fluff silo are de-energised and locked by the main-tenance switch.►Take along the key of the maintenance switch.►De-aerate the pneumatic system of the fluff silo.►Unscrew the screw connections on the service hatch.►Open the service hatch.►Close the service hatch.►Screw on the service hatch with the screw connections.►Set the maintenance switch to ON. Insert the key into the [ ser-vice switch flake silo x ] maintenance switch and turn to [ 1 ].ü The [ fault reset ] push button in the control room flashes.►Set the start release. Press [ fault reset ] in the control room.ð The interlocks that were activated by the maintenance switch are de-activated.
+
+ WARNING
+
+--------------------------------------------------------------------------------
+VOLUME 08 - OperatingManual-FilmRecycling - Pag 25 
+4.7.6 Destroying material bridges in the siloDescriptionThe material bridges in the silo must be destroyed from outside at the open man-hole.Requirement• The manhole on the silo is open.Required personnelThis activity may only be performed by trained skilled persons.Auxiliary materials• long bar or lanceSafety DANGERDuring their stay in the silo, material bridges break down.Danger of suffocationDanger of falling►Do not enter the silo.
+
+Destroying materialbridges in the silo
+
+►Destroy the material bridges at the open manhole from outside the silo with abar or a long object.
+
+4.7.7 Cleaning the siloDescriptionThe silo is cleaned from inside.Required personnelThis activity may only be performed by trained skilled persons.
+
+Personal protectiveequipment
+
+• safety goggles• breathing mask
+
+Safety WARNINGPolymer dust can ignite at sources of ignition.This can lead to serious injury.►Regularly check for polymer dust.►Immediately remove polymer dust.►Fire, naked flames and smoking are forbidden.
+
+Dust and film fluff can fly around in the silo.This can cause injury to the eyes.Dust and film fluff can be swallowed.►Wear suitable protective clothing (breathing mask, safety goggles).Cleaning the siloü The silo is empty.ü The manhole on the silo is open.►Clean the silo.
+
+ WARNING
+
+--------------------------------------------------------------------------------
